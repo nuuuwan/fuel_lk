@@ -34,12 +34,7 @@ def get_payload(event, context):
     return payload
 
 
-def multiget_sheds(province, district, fuel_type):
-    url = 'https://fuel.gov.lk/api/v1/sheddetails/search'
-    request_data = dict(
-        province=province, district=district, fuelType=fuel_type,
-    )
-
+def generic_post_request(url, request_data):
     req = urllib.request.Request(url)
     req.add_header(
         'Content-Type',
@@ -53,6 +48,14 @@ def multiget_sheds(province, district, fuel_type):
     response_data_json = response.read()
     response_data = json.loads(response_data_json)
     return response_data
+
+
+def multiget_sheds(province, district, fuel_type):
+    url = 'https://fuel.gov.lk/api/v1/sheddetails/search'
+    request_data = dict(
+        province=province, district=district, fuelType=fuel_type,
+    )
+    return generic_post_request(url, request_data)
 
 
 def run_payload(payload):
