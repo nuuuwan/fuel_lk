@@ -34,7 +34,7 @@ def get_payload(event, context):
     return payload
 
 
-def search(province, district, fuel_type):
+def multiget_sheds(province, district, fuel_type):
     url = 'https://fuel.gov.lk/api/v1/sheddetails/search'
     request_data = dict(
         province=province, district=district, fuelType=fuel_type,
@@ -61,7 +61,7 @@ def run_payload(payload):
         raise Exception('Missing cmd')
 
     body = None
-    if cmd == 'search':
+    if cmd == 'multiget_sheds':
         if 'province' not in payload:
             raise Exception('Missing param: province')
         if 'district' not in payload:
@@ -69,7 +69,7 @@ def run_payload(payload):
         if 'fuel_type' not in payload:
             raise Exception('Missing param: fuel_type')
 
-        body = search(
+        body = multiget_sheds(
             payload['province'],
             payload['district'],
             payload['fuel_type'],
