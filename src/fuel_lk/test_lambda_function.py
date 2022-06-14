@@ -4,13 +4,6 @@ import unittest
 
 from lambda_function import encode, lambda_handler
 
-TEST_PAYLOAD_MULTIGET_SHEDS = dict(
-    cmd='multiget_sheds',
-    province=1,
-    district=1,
-    fuel_type='p92',
-)
-
 
 def lambda_handler_wrapper(event, context):
     response = lambda_handler(event, context)
@@ -56,12 +49,18 @@ class TestCase(unittest.TestCase):
         )
 
     def testCmdMultigetSheds(self):
-        actual_fuel_info_list = lambda_handler_wrapper_with_payload(
-            TEST_PAYLOAD_MULTIGET_SHEDS)
-        self.assertTrue(
-            len(actual_fuel_info_list) > 0,
+        actual_shed_list = lambda_handler_wrapper_with_payload(
+            dict(
+                cmd='multiget_sheds',
+                province=1,
+                district=1,
+                fuel_type='p92',
+            )
         )
-        first_fuel_info = actual_fuel_info_list[0]
+        self.assertTrue(
+            len(actual_shed_list) > 0,
+        )
+        first_fuel_info = actual_shed_list[0]
         for k in [
             'shedId',
             'shedName',
@@ -75,4 +74,23 @@ class TestCase(unittest.TestCase):
             self.assertIn(
                 k,
                 first_fuel_info,
+            )
+
+    def testCmdGetShed(self):
+        actual_shed = lambda_handler_wrapper_with_payload(
+            dict(
+                cmd='get_shed',
+                shed_id=10,
+            )
+        )
+        for k in [
+            'shedName',
+            'shedCode',
+            'address',
+            'latitude',
+            'longitude',
+        ]:
+            self.assertIn(
+                k,
+                actual_shed,
             )

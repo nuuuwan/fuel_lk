@@ -40,10 +40,13 @@ def generic_post_request(url, request_data):
         'Content-Type',
         'application/json; charset=utf-8',
     )
-    request_data_json = json.dumps(request_data)
-    request_data_json_bytes = request_data_json.encode('utf-8')
-    req.add_header('Content-Length', len(request_data_json_bytes))
-    response = urllib.request.urlopen(req, request_data_json_bytes)
+    if request_data:
+        request_data_json = json.dumps(request_data)
+        request_data_json_bytes = request_data_json.encode('utf-8')
+        req.add_header('Content-Length', len(request_data_json_bytes))
+        response = urllib.request.urlopen(req, request_data_json_bytes)
+    else:
+        response = urllib.request.urlopen(req)
 
     response_data_json = response.read()
     response_data = json.loads(response_data_json)
@@ -55,6 +58,13 @@ def multiget_sheds(province, district, fuel_type):
     request_data = dict(
         province=province, district=district, fuelType=fuel_type,
     )
+    return generic_post_request(url, request_data)
+
+
+def get_shed(shed_id):
+    url = f'https://fuel.gov.lk/api/v1/sheddetails/{shed_id}/d'
+    print(url)
+    request_data = {}
     return generic_post_request(url, request_data)
 
 
@@ -76,6 +86,13 @@ def run_payload(payload):
             payload['province'],
             payload['district'],
             payload['fuel_type'],
+        )
+    elif cmd == 'get_shed':
+        if 'shed_id' not in payload:
+            raise Exception('Missing param: shed_id')
+
+        body = get_shed(
+            payload['shed_id'],
         )
     else:
         raise Exception(f'Invalid cmd: {cmd}')
