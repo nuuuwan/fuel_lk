@@ -4,6 +4,15 @@ import unittest
 
 from lambda_function import encode, lambda_handler
 
+TEST_SEARCH_PAYLOAD = dict(
+    cmd='search',
+    province=1,
+    district=1,
+    fuel_type='p92',
+)
+TEST_B = b'eyJjbWQiOiAic2VhcmNoIiwgInByb3ZpbmNlIjogMSwg'\
+    + b'ImRpc3RyaWN0IjogMSwgImZ1ZWxfdHlwZSI6ICJwOTIifQ=='
+
 
 def lambda_handler_wrapper(event, context):
     response = lambda_handler(event, context)
@@ -26,6 +35,12 @@ def lambda_handler_wrapper_with_payload(payload):
 
 
 class TestCase(unittest.TestCase):
+    def testEncode(self):
+        self.assertEqual(
+            TEST_B,
+            encode(TEST_SEARCH_PAYLOAD),
+        )
+
     def testMissingEvent(self):
         self.assertEqual(
             {'exception': 'Missing event'},
@@ -47,3 +62,25 @@ class TestCase(unittest.TestCase):
                 cmd='dummy_cmd',
             )),
         )
+
+    def testCmdSearch(self):
+        actual_fuel_info_list = lambda_handler_wrapper_with_payload(
+            TEST_SEARCH_PAYLOAD)
+        self.assertTrue(
+            len(actual_fuel_info_list) > 0,
+        )
+        first_fuel_info = actual_fuel_info_list[0]
+        for k in [
+            'shedId',
+            'shedName',
+            'lastupdatebyshed',
+            'fuelType',
+            'fuelCapacity',
+            'bowserDispatch',
+            'eta',
+            'shedownerupdatetoday',
+        ]:
+            self.assertIn(
+                k,
+                first_fuel_info,
+            )
