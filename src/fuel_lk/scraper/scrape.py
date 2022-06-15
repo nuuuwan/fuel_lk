@@ -4,7 +4,7 @@ import os
 import requests
 from utils import TSVFile
 
-from fuel_lk.common import log
+from fuel_lk.common import DIR_DATA, log
 from fuel_lk.core import districts
 
 DEFAULT_FUEL_TYPE = 'p92'
@@ -28,7 +28,7 @@ def scrape_shed_data_for_single_district(
     shed_data_list = json.loads(data_json)
     n_shed_data_list = len(shed_data_list)
 
-    tsv_file = f'/tmp/fuel_lk.shed_data.{district_id}.tsv'
+    tsv_file = os.path.join(DIR_DATA, f'shed_data.{district_id}.tsv')
     TSVFile(tsv_file).write(shed_data_list)
 
     log.debug(
@@ -44,7 +44,3 @@ def scrape_shed_data():
             expanded_district['province_fuel_id'],
             expanded_district['district_fuel_id'],
         )
-
-
-if __name__ == '__main__':
-    scrape_shed_data()
