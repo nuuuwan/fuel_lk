@@ -5,7 +5,7 @@ from utils import File, timex
 from fuel_lk.common import DIR_DATA, DIR_DATA_HISTORY, DIR_DATA_LATEST, log
 from fuel_lk.scraper import shed_scraper, shed_status_scraper
 
-MAX_UPDATE_DELAY_H = 3
+MAX_UPDATE_DELAY_H = 6
 
 
 def before():
