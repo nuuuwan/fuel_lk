@@ -1,4 +1,0 @@
-# Auto Generated
-pytest
-utils-nuuuwan
-gig
