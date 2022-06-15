@@ -2,9 +2,8 @@ import json
 import os
 
 import requests
-from utils import JSONFile
 
-from fuel_lk.common import DEFAULT_FUEL_TYPE, DIR_DATA, URL_API_BASE, log
+from fuel_lk.common import DEFAULT_FUEL_TYPE, URL_API_BASE, log
 from fuel_lk.core import time_utils
 
 
@@ -78,19 +77,13 @@ def clean_shed_status(d):
 
 def scrape_shed_status(shed_data, i1, n):
     shed_id = shed_data['shed_id']
-
-    log.debug(f'Scraping shed status for {shed_id=}')
-
     url = os.path.join(
         URL_API_BASE, f'{shed_id}/{DEFAULT_FUEL_TYPE}'
     )
     data_json = requests.get(url).text
     data = json.loads(data_json)
     data = shed_data | clean_shed_status(data)
-
-    json_file = os.path.join(DIR_DATA, f'latest/shed_status.{shed_id}.json')
-    JSONFile(json_file).write(data)
-    log.debug(f'{i1}/{n}) Saved {shed_id=}shed status to {json_file}')
+    log.debug(f'{i1}/{n}) Scraped shed status for {shed_id=}')
     return data
 
 
@@ -100,13 +93,6 @@ def scrape_shed_statuses(shed_data_list):
     for i, shed_data in enumerate(shed_data_list):
         shed_status = scrape_shed_status(shed_data, i + 1, n)
         shed_status_list.append(shed_data | shed_status)
-
-    n_shed_status_list = len(shed_status_list)
-    json_file = os.path.join(DIR_DATA, 'latest/shed_status_list.all.json')
-    JSONFile(json_file).write(shed_status_list)
-    log.info(
-        f'Saved {n_shed_status_list} sheds to {json_file}')
-
     return shed_status_list
 
 
