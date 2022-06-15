@@ -1,0 +1,82 @@
+{
+  "shed_id": 105,
+  "shed_name": "MS.  NIM LANKA (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 07:49",
+  "time_last_updated_by_shed_ut": 1655259540,
+  "fuel_type": "p92",
+  "fuel_capacity": 2411.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 14:30, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100127",
+  "address": "Colombo- Stace Road",
+  "lat_lng": [
+    6.945052,
+    79.874306
+  ],
+  "time_last_updated_ut": 1655259540,
+  "time_last_updated": "2022-06-15 07:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655282820,
+      "time_dispatch": "2022-06-15 14:17",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655283300,
+      "time_last_updated": "2022-06-15 14:25",
+      "time_eta_ut": 1655283600,
+      "time_eta": "2022-06-15 14:30"
+    },
+    {
+      "time_dispatch_ut": 1654942920,
+      "time_dispatch": "2022-06-11 15:52",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654943400,
+      "time_last_updated": "2022-06-11 16:00",
+      "time_eta_ut": 1654943700,
+      "time_eta": "2022-06-11 16:05"
+    },
+    {
+      "time_dispatch_ut": 1654942920,
+      "time_dispatch": "2022-06-11 15:52",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654943400,
+      "time_last_updated": "2022-06-11 16:00",
+      "time_eta_ut": 1654943700,
+      "time_eta": "2022-06-11 16:05"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 2411.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 452.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 543.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

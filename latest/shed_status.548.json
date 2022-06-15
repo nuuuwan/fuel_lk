@@ -1,0 +1,60 @@
+{
+  "shed_id": 548,
+  "shed_name": "UDUMAN  FAROOK",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:40",
+  "time_last_updated_by_shed_ut": 1655266200,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100668",
+  "address": "Thalaimannar",
+  "lat_lng": [
+    9.105773,
+    79.729553
+  ],
+  "time_last_updated_ut": 1655266200,
+  "time_last_updated": "2022-06-15 09:40",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655132220,
+      "time_dispatch": "2022-06-13 20:27",
+      "fuel_type": "k",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655132700,
+      "time_last_updated": "2022-06-13 20:35",
+      "time_eta_ut": 1655148960,
+      "time_eta": "2022-06-14 01:06"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 59.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

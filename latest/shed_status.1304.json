@@ -1,0 +1,71 @@
+{
+  "shed_id": 1304,
+  "shed_name": "J A C D JAYAKODY",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 10:24",
+  "time_last_updated_by_shed_ut": 1655268840,
+  "fuel_type": "p92",
+  "fuel_capacity": 1096.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106464",
+  "address": "Katunayake-veyangoda Rd",
+  "lat_lng": [
+    7.163389,
+    79.998039
+  ],
+  "time_last_updated_ut": 1655268840,
+  "time_last_updated": "2022-06-15 10:24",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654937280,
+      "time_dispatch": "2022-06-11 14:18",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654937700,
+      "time_last_updated": "2022-06-11 14:25",
+      "time_eta_ut": 1654941420,
+      "time_eta": "2022-06-11 15:27"
+    },
+    {
+      "time_dispatch_ut": 1654872120,
+      "time_dispatch": "2022-06-10 20:12",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654872600,
+      "time_last_updated": "2022-06-10 20:20",
+      "time_eta_ut": 1654877520,
+      "time_eta": "2022-06-10 21:42"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1096.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 501.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1751.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 347.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

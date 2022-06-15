@@ -1,0 +1,71 @@
+{
+  "shed_id": 45,
+  "shed_name": "MAHO MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:07",
+  "time_last_updated_by_shed_ut": 1655264220,
+  "fuel_type": "p92",
+  "fuel_capacity": 1020.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 20:30, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100056",
+  "address": "A28, Daladagama",
+  "lat_lng": [
+    7.822608,
+    80.249779
+  ],
+  "time_last_updated_ut": 1655264220,
+  "time_last_updated": "2022-06-15 09:07",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655299140,
+      "time_dispatch": "2022-06-15 18:49",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655299500,
+      "time_last_updated": "2022-06-15 18:55",
+      "time_eta_ut": 1655314320,
+      "time_eta": "2022-06-15 23:02"
+    },
+    {
+      "time_dispatch_ut": 1655290560,
+      "time_dispatch": "2022-06-15 16:26",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655291100,
+      "time_last_updated": "2022-06-15 16:35",
+      "time_eta_ut": 1655305200,
+      "time_eta": "2022-06-15 20:30"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1020.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1450.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 400.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

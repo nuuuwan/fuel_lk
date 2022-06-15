@@ -1,0 +1,60 @@
+{
+  "shed_id": 328,
+  "shed_name": "PRODUCERS & MANUFACTURERS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 14:20",
+  "time_last_updated_by_shed_ut": 1655283000,
+  "fuel_type": "p92",
+  "fuel_capacity": 959.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 09:51, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100402",
+  "address": "Negombo - Mirigama Rd, Marandagahamula",
+  "lat_lng": [
+    7.229271,
+    79.989861
+  ],
+  "time_last_updated_ut": 1655283000,
+  "time_last_updated": "2022-06-15 14:20",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655262480,
+      "time_dispatch": "2022-06-15 08:38",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655263200,
+      "time_last_updated": "2022-06-15 08:50",
+      "time_eta_ut": 1655266860,
+      "time_eta": "2022-06-15 09:51"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 959.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 742.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "shed_id": 352,
+  "shed_name": "J.A.D.JULIET PERERA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 07:01",
+  "time_last_updated_by_shed_ut": 1655256660,
+  "fuel_type": "p92",
+  "fuel_capacity": 440.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100432",
+  "address": "Spc Petrol Shed, Wattala",
+  "lat_lng": [
+    6.981982,
+    79.888184
+  ],
+  "time_last_updated_ut": 1655256660,
+  "time_last_updated": "2022-06-15 07:01",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655095560,
+      "time_dispatch": "2022-06-13 10:16",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655096100,
+      "time_last_updated": "2022-06-13 10:25",
+      "time_eta_ut": 1655097360,
+      "time_eta": "2022-06-13 10:46"
+    },
+    {
+      "time_dispatch_ut": 1654933320,
+      "time_dispatch": "2022-06-11 13:12",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654933800,
+      "time_last_updated": "2022-06-11 13:20",
+      "time_eta_ut": 1654935360,
+      "time_eta": "2022-06-11 13:46"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 440.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 470.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

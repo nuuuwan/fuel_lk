@@ -1,0 +1,71 @@
+{
+  "shed_id": 39,
+  "shed_name": "W.A.DE SILVA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 06:40",
+  "time_last_updated_by_shed_ut": 1655255400,
+  "fuel_type": "p92",
+  "fuel_capacity": 409.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 11:06, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100050",
+  "address": "A2, Matara",
+  "lat_lng": [
+    5.946383,
+    80.53083
+  ],
+  "time_last_updated_ut": 1655255400,
+  "time_last_updated": "2022-06-15 06:40",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655270580,
+      "time_dispatch": "2022-06-15 10:53",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655271000,
+      "time_last_updated": "2022-06-15 11:00",
+      "time_eta_ut": 1655271360,
+      "time_eta": "2022-06-15 11:06"
+    },
+    {
+      "time_dispatch_ut": 1655096640,
+      "time_dispatch": "2022-06-13 10:34",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097000,
+      "time_last_updated": "2022-06-13 10:40",
+      "time_eta_ut": 1655097420,
+      "time_eta": "2022-06-13 10:47"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 409.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 934.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 209.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

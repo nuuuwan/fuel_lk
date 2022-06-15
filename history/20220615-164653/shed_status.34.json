@@ -1,0 +1,60 @@
+{
+  "shed_id": 34,
+  "shed_name": "M.K.M.AHAMED MOHIDEEN (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:17",
+  "time_last_updated_by_shed_ut": 1655261220,
+  "fuel_type": "p92",
+  "fuel_capacity": 200.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100045",
+  "address": "Batticaloa - Thirukkondiadimadu - Trincomalee Highway, Oddamavadi",
+  "lat_lng": [
+    7.912438,
+    81.526283
+  ],
+  "time_last_updated_ut": 1655261220,
+  "time_last_updated": "2022-06-15 08:17",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654832040,
+      "time_dispatch": "2022-06-10 09:04",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654834200,
+      "time_last_updated": "2022-06-10 09:40",
+      "time_eta_ut": 1654836420,
+      "time_eta": "2022-06-10 10:17"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 400.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

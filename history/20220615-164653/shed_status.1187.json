@@ -1,0 +1,71 @@
+{
+  "shed_id": 1187,
+  "shed_name": "P ABEYSEKERA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 07:36",
+  "time_last_updated_by_shed_ut": 1655258760,
+  "fuel_type": "p92",
+  "fuel_capacity": 322.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105537",
+  "address": "Yatiyana Fuel Station",
+  "lat_lng": [
+    6.023461,
+    80.600433
+  ],
+  "time_last_updated_ut": 1655258760,
+  "time_last_updated": "2022-06-15 07:36",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655093640,
+      "time_dispatch": "2022-06-13 09:44",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655094000,
+      "time_last_updated": "2022-06-13 09:50",
+      "time_eta_ut": 1655095980,
+      "time_eta": "2022-06-13 10:23"
+    },
+    {
+      "time_dispatch_ut": 1654921260,
+      "time_dispatch": "2022-06-11 09:51",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654921800,
+      "time_last_updated": "2022-06-11 10:00",
+      "time_eta_ut": 1654923600,
+      "time_eta": "2022-06-11 10:30"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 322.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 700.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

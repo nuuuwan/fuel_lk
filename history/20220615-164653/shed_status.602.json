@@ -1,0 +1,71 @@
+{
+  "shed_id": 602,
+  "shed_name": "J.A.WITHARANA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 06:25",
+  "time_last_updated_by_shed_ut": 1655254500,
+  "fuel_type": "p92",
+  "fuel_capacity": 200.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 19:49, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100801",
+  "address": "Mulatiyana Rd,Bengamuwe",
+  "lat_lng": [
+    6.259231,
+    80.60379
+  ],
+  "time_last_updated_ut": 1655254500,
+  "time_last_updated": "2022-06-15 06:25",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655292960,
+      "time_dispatch": "2022-06-15 17:06",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655293500,
+      "time_last_updated": "2022-06-15 17:15",
+      "time_eta_ut": 1655302740,
+      "time_eta": "2022-06-15 19:49"
+    },
+    {
+      "time_dispatch_ut": 1654856580,
+      "time_dispatch": "2022-06-10 15:53",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654857000,
+      "time_last_updated": "2022-06-10 16:00",
+      "time_eta_ut": 1654866360,
+      "time_eta": "2022-06-10 18:36"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

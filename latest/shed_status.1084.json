@@ -1,0 +1,71 @@
+{
+  "shed_id": 1084,
+  "shed_name": "POLPITHIGAMA SANASA UNION (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 11:48",
+  "time_last_updated_by_shed_ut": 1655273880,
+  "fuel_type": "p92",
+  "fuel_capacity": 472.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104910",
+  "address": "Madagalla Road, Alutwegedara",
+  "lat_lng": [
+    7.782817,
+    80.39772
+  ],
+  "time_last_updated_ut": 1655273880,
+  "time_last_updated": "2022-06-15 11:48",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655099280,
+      "time_dispatch": "2022-06-13 11:18",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655099700,
+      "time_last_updated": "2022-06-13 11:25",
+      "time_eta_ut": 1655104920,
+      "time_eta": "2022-06-13 12:52"
+    },
+    {
+      "time_dispatch_ut": 1654914000,
+      "time_dispatch": "2022-06-11 07:50",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654914600,
+      "time_last_updated": "2022-06-11 08:00",
+      "time_eta_ut": 1654919640,
+      "time_eta": "2022-06-11 09:24"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 472.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 660.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 550.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 223.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

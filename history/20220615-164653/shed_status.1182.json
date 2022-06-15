@@ -1,0 +1,93 @@
+{
+  "shed_id": 1182,
+  "shed_name": "U D T N SOMARATNA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:01",
+  "time_last_updated_by_shed_ut": 1655263860,
+  "fuel_type": "p92",
+  "fuel_capacity": 294.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105416",
+  "address": "Maradankadawala-habarana-thirukkondaiadimadu Hwy, Minneriya",
+  "lat_lng": [
+    8.038854,
+    80.905571
+  ],
+  "time_last_updated_ut": 1655263860,
+  "time_last_updated": "2022-06-15 09:01",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655292180,
+      "time_dispatch": "2022-06-15 16:53",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655292600,
+      "time_last_updated": "2022-06-15 17:00",
+      "time_eta_ut": 1655314560,
+      "time_eta": "2022-06-15 23:06"
+    },
+    {
+      "time_dispatch_ut": 1655176380,
+      "time_dispatch": "2022-06-14 08:43",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655176800,
+      "time_last_updated": "2022-06-14 08:50",
+      "time_eta_ut": 1655188980,
+      "time_eta": "2022-06-14 12:13"
+    },
+    {
+      "time_dispatch_ut": 1655095740,
+      "time_dispatch": "2022-06-13 10:19",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655096400,
+      "time_last_updated": "2022-06-13 10:30",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655031780,
+      "time_dispatch": "2022-06-12 16:33",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655032200,
+      "time_last_updated": "2022-06-12 16:40",
+      "time_eta_ut": 1655054160,
+      "time_eta": "2022-06-12 22:46"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 294.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 540.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "shed_id": 1336,
+  "shed_name": "D N R K PERERA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:32",
+  "time_last_updated_by_shed_ut": 1655262120,
+  "fuel_type": "p92",
+  "fuel_capacity": 327.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 14:53, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106962",
+  "address": "Negombo-giriulla Rd, Madampella",
+  "lat_lng": [
+    7.261376,
+    79.939369
+  ],
+  "time_last_updated_ut": 1655262120,
+  "time_last_updated": "2022-06-15 08:32",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655279580,
+      "time_dispatch": "2022-06-15 13:23",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655280300,
+      "time_last_updated": "2022-06-15 13:35",
+      "time_eta_ut": 1655284980,
+      "time_eta": "2022-06-15 14:53"
+    },
+    {
+      "time_dispatch_ut": 1654878660,
+      "time_dispatch": "2022-06-10 22:01",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654879200,
+      "time_last_updated": "2022-06-10 22:10",
+      "time_eta_ut": 1654884600,
+      "time_eta": "2022-06-10 23:40"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 327.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1043.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1322.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 231.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

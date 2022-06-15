@@ -1,0 +1,71 @@
+{
+  "shed_id": 908,
+  "shed_name": "WICRAMASINGHE W D",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 07:45",
+  "time_last_updated_by_shed_ut": 1655259300,
+  "fuel_type": "p92",
+  "fuel_capacity": 831.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103716",
+  "address": "Seenigama - Aluthwala Rd, Warallana , Hikkaduwa",
+  "lat_lng": [
+    6.154433,
+    80.095459
+  ],
+  "time_last_updated_ut": 1655259300,
+  "time_last_updated": "2022-06-15 07:45",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655030940,
+      "time_dispatch": "2022-06-12 16:19",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655031600,
+      "time_last_updated": "2022-06-12 16:30",
+      "time_eta_ut": 1655043540,
+      "time_eta": "2022-06-12 19:49"
+    },
+    {
+      "time_dispatch_ut": 1654839300,
+      "time_dispatch": "2022-06-10 11:05",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654839900,
+      "time_last_updated": "2022-06-10 11:15",
+      "time_eta_ut": 1654851900,
+      "time_eta": "2022-06-10 14:35"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 831.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 270.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 920.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 337.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

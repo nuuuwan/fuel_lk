@@ -1,0 +1,82 @@
+{
+  "shed_id": 488,
+  "shed_name": "C.J.P.ENTERPRISES (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 10:46",
+  "time_last_updated_by_shed_ut": 1655270160,
+  "fuel_type": "p92",
+  "fuel_capacity": 714.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100590",
+  "address": "Ab10, Peliyagoda",
+  "lat_lng": [
+    6.955039,
+    79.88028
+  ],
+  "time_last_updated_ut": 1655270160,
+  "time_last_updated": "2022-06-15 10:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655100420,
+      "time_dispatch": "2022-06-13 11:37",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655100900,
+      "time_last_updated": "2022-06-13 11:45",
+      "time_eta_ut": 1655102220,
+      "time_eta": "2022-06-13 12:07"
+    },
+    {
+      "time_dispatch_ut": 1654926180,
+      "time_dispatch": "2022-06-11 11:13",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654926600,
+      "time_last_updated": "2022-06-11 11:20",
+      "time_eta_ut": 1654927980,
+      "time_eta": "2022-06-11 11:43"
+    },
+    {
+      "time_dispatch_ut": 1654926180,
+      "time_dispatch": "2022-06-11 11:13",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654926600,
+      "time_last_updated": "2022-06-11 11:20",
+      "time_eta_ut": 1654927980,
+      "time_eta": "2022-06-11 11:43"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 714.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 986.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 626.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 241.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

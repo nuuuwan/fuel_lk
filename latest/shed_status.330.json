@@ -1,0 +1,71 @@
+{
+  "shed_id": 330,
+  "shed_name": "D B .DISSANAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:22",
+  "time_last_updated_by_shed_ut": 1655265120,
+  "fuel_type": "p92",
+  "fuel_capacity": 440.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100404",
+  "address": "137 Talawa Rd, Eppawala",
+  "lat_lng": [
+    8.147655,
+    80.409721
+  ],
+  "time_last_updated_ut": 1655265120,
+  "time_last_updated": "2022-06-15 09:22",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655179740,
+      "time_dispatch": "2022-06-14 09:39",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655180100,
+      "time_last_updated": "2022-06-14 09:45",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654847340,
+      "time_dispatch": "2022-06-10 13:19",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654848000,
+      "time_last_updated": "2022-06-10 13:30",
+      "time_eta_ut": 1654868940,
+      "time_eta": "2022-06-10 19:19"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 440.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 720.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 403.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 303.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 498.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

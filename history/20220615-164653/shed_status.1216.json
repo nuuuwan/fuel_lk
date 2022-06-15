@@ -1,0 +1,71 @@
+{
+  "shed_id": 1216,
+  "shed_name": "SRI LUXMI NARAYANA PERUMAL FOUNDATI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 11:37",
+  "time_last_updated_by_shed_ut": 1655273220,
+  "fuel_type": "p92",
+  "fuel_capacity": 334.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105941",
+  "address": "Nilaveli",
+  "lat_lng": [
+    0.0,
+    0.0
+  ],
+  "time_last_updated_ut": 1655273220,
+  "time_last_updated": "2022-06-15 11:37",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655119320,
+      "time_dispatch": "2022-06-13 16:52",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655119800,
+      "time_last_updated": "2022-06-13 17:00",
+      "time_eta_ut": 1655139120,
+      "time_eta": "2022-06-13 22:22"
+    },
+    {
+      "time_dispatch_ut": 1654939020,
+      "time_dispatch": "2022-06-11 14:47",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654939500,
+      "time_last_updated": "2022-06-11 14:55",
+      "time_eta_ut": 1654958820,
+      "time_eta": "2022-06-11 20:17"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 334.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 436.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

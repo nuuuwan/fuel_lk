@@ -1,0 +1,71 @@
+{
+  "shed_id": 341,
+  "shed_name": "MONERAGALA KANDUKARA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:30",
+  "time_last_updated_by_shed_ut": 1655262000,
+  "fuel_type": "p92",
+  "fuel_capacity": 5498.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100418",
+  "address": "Colombo - Ratnapura - Wellawaya - Batticaloa Rd, Monaragala",
+  "lat_lng": [
+    6.856054,
+    81.339645
+  ],
+  "time_last_updated_ut": 1655262000,
+  "time_last_updated": "2022-06-15 08:30",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655211000,
+      "time_dispatch": "2022-06-14 18:20",
+      "fuel_type": "p92",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655211600,
+      "time_last_updated": "2022-06-14 18:30",
+      "time_eta_ut": 1655221800,
+      "time_eta": "2022-06-14 21:20"
+    },
+    {
+      "time_dispatch_ut": 1655133900,
+      "time_dispatch": "2022-06-13 20:55",
+      "fuel_type": "d",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655134500,
+      "time_last_updated": "2022-06-13 21:05",
+      "time_eta_ut": 1655144700,
+      "time_eta": "2022-06-13 23:55"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 5498.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 2204.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2780.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 591.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 272.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

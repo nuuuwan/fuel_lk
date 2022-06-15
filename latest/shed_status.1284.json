@@ -1,0 +1,71 @@
+{
+  "shed_id": 1284,
+  "shed_name": "J L S LANKA TRADING COMPANY (PVT) L",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 11:39",
+  "time_last_updated_by_shed_ut": 1655273340,
+  "fuel_type": "p92",
+  "fuel_capacity": 30.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106384",
+  "address": "Galagedara",
+  "lat_lng": [
+    7.375189,
+    80.525009
+  ],
+  "time_last_updated_ut": 1655273340,
+  "time_last_updated": "2022-06-15 11:39",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655107080,
+      "time_dispatch": "2022-06-13 13:28",
+      "fuel_type": "d",
+      "plant_name": "Sarasaviuyana",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655107500,
+      "time_last_updated": "2022-06-13 13:35",
+      "time_eta_ut": 1655110680,
+      "time_eta": "2022-06-13 14:28"
+    },
+    {
+      "time_dispatch_ut": 1654857420,
+      "time_dispatch": "2022-06-10 16:07",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654857900,
+      "time_last_updated": "2022-06-10 16:15",
+      "time_eta_ut": 1654861560,
+      "time_eta": "2022-06-10 17:16"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 30.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

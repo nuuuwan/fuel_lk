@@ -1,0 +1,71 @@
+{
+  "shed_id": 1197,
+  "shed_name": "OKEMCO INDUSTRIAL CHEMICAL (PVT) LT",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:40",
+  "time_last_updated_by_shed_ut": 1655266200,
+  "fuel_type": "p92",
+  "fuel_capacity": 912.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105724",
+  "address": "Giriulla",
+  "lat_lng": [
+    7.33597,
+    80.141739
+  ],
+  "time_last_updated_ut": 1655266200,
+  "time_last_updated": "2022-06-15 09:40",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654936440,
+      "time_dispatch": "2022-06-11 14:04",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1654956180,
+      "time_last_updated": "2022-06-11 19:33",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654837860,
+      "time_dispatch": "2022-06-10 10:41",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654838400,
+      "time_last_updated": "2022-06-10 10:50",
+      "time_eta_ut": 1654846860,
+      "time_eta": "2022-06-10 13:11"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 912.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 750.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1547.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 326.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 30.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

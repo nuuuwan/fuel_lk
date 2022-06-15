@@ -1,0 +1,71 @@
+{
+  "shed_id": 422,
+  "shed_name": "A.H.S.JAYAWEERA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 11:25",
+  "time_last_updated_by_shed_ut": 1655272500,
+  "fuel_type": "p92",
+  "fuel_capacity": 100.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100510",
+  "address": "Jayabodiya Road, Gandara",
+  "lat_lng": [
+    5.935549,
+    80.61013
+  ],
+  "time_last_updated_ut": 1655272500,
+  "time_last_updated": "2022-06-15 11:25",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654940520,
+      "time_dispatch": "2022-06-11 15:12",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654941000,
+      "time_last_updated": "2022-06-11 15:20",
+      "time_eta_ut": 1654942560,
+      "time_eta": "2022-06-11 15:46"
+    },
+    {
+      "time_dispatch_ut": 1654833780,
+      "time_dispatch": "2022-06-10 09:33",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654834200,
+      "time_last_updated": "2022-06-10 09:40",
+      "time_eta_ut": 1654835820,
+      "time_eta": "2022-06-10 10:07"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "shed_id": 31,
+  "shed_name": "CHAVAKACHCHERI MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:08",
+  "time_last_updated_by_shed_ut": 1655260680,
+  "fuel_type": "p92",
+  "fuel_capacity": 841.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100039",
+  "address": "A9, Chavakachcheri",
+  "lat_lng": [
+    9.659646,
+    80.165306
+  ],
+  "time_last_updated_ut": 1655260680,
+  "time_last_updated": "2022-06-15 08:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655266140,
+      "time_dispatch": "2022-06-15 09:39",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1655266500,
+      "time_last_updated": "2022-06-15 09:45",
+      "time_eta_ut": 1655270280,
+      "time_eta": "2022-06-15 10:48"
+    },
+    {
+      "time_dispatch_ut": 1654929600,
+      "time_dispatch": "2022-06-11 12:10",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654930200,
+      "time_last_updated": "2022-06-11 12:20",
+      "time_eta_ut": 1654933740,
+      "time_eta": "2022-06-11 13:19"
+    },
+    {
+      "time_dispatch_ut": 1654746900,
+      "time_dispatch": "2022-06-09 09:25",
+      "fuel_type": "k",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654751040,
+      "time_eta": "2022-06-09 10:34"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 841.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1385.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1359.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

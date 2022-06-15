@@ -1,0 +1,71 @@
+{
+  "shed_id": 1251,
+  "shed_name": "VIHANGA DISTRIBUTORS (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:15",
+  "time_last_updated_by_shed_ut": 1655264700,
+  "fuel_type": "p92",
+  "fuel_capacity": 600.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106224",
+  "address": "Bus Stop, Hanwella",
+  "lat_lng": [
+    6.886472,
+    80.087646
+  ],
+  "time_last_updated_ut": 1655264700,
+  "time_last_updated": "2022-06-15 09:15",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655116860,
+      "time_dispatch": "2022-06-13 16:11",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655117400,
+      "time_last_updated": "2022-06-13 16:20",
+      "time_eta_ut": 1655120700,
+      "time_eta": "2022-06-13 17:15"
+    },
+    {
+      "time_dispatch_ut": 1654922820,
+      "time_dispatch": "2022-06-11 10:17",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654923300,
+      "time_last_updated": "2022-06-11 10:25",
+      "time_eta_ut": 1654928220,
+      "time_eta": "2022-06-11 11:47"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 600.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 600.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 310.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

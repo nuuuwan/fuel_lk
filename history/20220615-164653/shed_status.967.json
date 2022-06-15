@@ -1,0 +1,71 @@
+{
+  "shed_id": 967,
+  "shed_name": "B H RANASINGHE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 10:05",
+  "time_last_updated_by_shed_ut": 1655267700,
+  "fuel_type": "p92",
+  "fuel_capacity": 413.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104243",
+  "address": "6th Mile Post, Yatagala Kanda Rd, Uragasmanhandiya",
+  "lat_lng": [
+    6.338422,
+    80.114708
+  ],
+  "time_last_updated_ut": 1655267700,
+  "time_last_updated": "2022-06-15 10:05",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654949520,
+      "time_dispatch": "2022-06-11 17:42",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654950000,
+      "time_last_updated": "2022-06-11 17:50",
+      "time_eta_ut": 1654960320,
+      "time_eta": "2022-06-11 20:42"
+    },
+    {
+      "time_dispatch_ut": 1654832580,
+      "time_dispatch": "2022-06-10 09:13",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654833000,
+      "time_last_updated": "2022-06-10 09:20",
+      "time_eta_ut": 1654843380,
+      "time_eta": "2022-06-10 12:13"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 413.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 332.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1306.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 332.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 332.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

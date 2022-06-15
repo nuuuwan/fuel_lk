@@ -1,0 +1,71 @@
+{
+  "shed_id": 1281,
+  "shed_name": "RANMUTHU ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:06",
+  "time_last_updated_by_shed_ut": 1655260560,
+  "fuel_type": "p92",
+  "fuel_capacity": 487.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106372",
+  "address": "Ranna",
+  "lat_lng": [
+    6.091074,
+    80.867271
+  ],
+  "time_last_updated_ut": 1655260560,
+  "time_last_updated": "2022-06-15 08:06",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654914960,
+      "time_dispatch": "2022-06-11 08:06",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654915500,
+      "time_last_updated": "2022-06-11 08:15",
+      "time_eta_ut": 1654921140,
+      "time_eta": "2022-06-11 09:49"
+    },
+    {
+      "time_dispatch_ut": 1654869840,
+      "time_dispatch": "2022-06-10 19:34",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654870500,
+      "time_last_updated": "2022-06-10 19:45",
+      "time_eta_ut": 1654876020,
+      "time_eta": "2022-06-10 21:17"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 487.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 498.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 42.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "shed_id": 514,
+  "shed_name": "RAMYA CHANDRASEELI WICKREMARACHCHI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:07",
+  "time_last_updated_by_shed_ut": 1655260620,
+  "fuel_type": "p92",
+  "fuel_capacity": 177.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100619",
+  "address": "Kaduwela",
+  "lat_lng": [
+    6.936655,
+    79.980896
+  ],
+  "time_last_updated_ut": 1655260620,
+  "time_last_updated": "2022-06-15 08:07",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655279100,
+      "time_dispatch": "2022-06-15 13:15",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655279700,
+      "time_last_updated": "2022-06-15 13:25",
+      "time_eta_ut": 1655281140,
+      "time_eta": "2022-06-15 13:49"
+    },
+    {
+      "time_dispatch_ut": 1655107440,
+      "time_dispatch": "2022-06-13 13:34",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655108100,
+      "time_last_updated": "2022-06-13 13:45",
+      "time_eta_ut": 1655109480,
+      "time_eta": "2022-06-13 14:08"
+    },
+    {
+      "time_dispatch_ut": 1655101620,
+      "time_dispatch": "2022-06-13 11:57",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655102100,
+      "time_last_updated": "2022-06-13 12:05",
+      "time_eta_ut": 1655103660,
+      "time_eta": "2022-06-13 12:31"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 177.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 155.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 148.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 144.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 167.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "shed_id": 988,
+  "shed_name": "NIHAL GUNASEKARA & COMPANY (PVT) LT",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:57",
+  "time_last_updated_by_shed_ut": 1655263620,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104333",
+  "address": "Ambalantota",
+  "lat_lng": [
+    6.108797,
+    80.975548
+  ],
+  "time_last_updated_ut": 1655263620,
+  "time_last_updated": "2022-06-15 08:57",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655035740,
+      "time_dispatch": "2022-06-12 17:39",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655036400,
+      "time_last_updated": "2022-06-12 17:50",
+      "time_eta_ut": 1655057880,
+      "time_eta": "2022-06-12 23:48"
+    },
+    {
+      "time_dispatch_ut": 1654923780,
+      "time_dispatch": "2022-06-11 10:33",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1654956180,
+      "time_last_updated": "2022-06-11 19:33",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654875180,
+      "time_dispatch": "2022-06-10 21:03",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654875600,
+      "time_last_updated": "2022-06-10 21:10",
+      "time_eta_ut": 1654882920,
+      "time_eta": "2022-06-10 23:12"
+    },
+    {
+      "time_dispatch_ut": 1654866120,
+      "time_dispatch": "2022-06-10 18:32",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654866600,
+      "time_last_updated": "2022-06-10 18:40",
+      "time_eta_ut": 1654888260,
+      "time_eta": "2022-06-11 00:41"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 420.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

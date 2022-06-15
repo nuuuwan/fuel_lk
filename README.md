@@ -1,6 +1,6 @@
 # Fuel.LK
 
-*Last updated at 20220615-161050*
+*Last updated at 20220615-164653*
 
 Analyzed 1344 sheds.
 
@@ -1238,6 +1238,8 @@ Analyzed 1344 sheds.
 
 * [100616] AMPARA MPCS LTD (D. S. Senanayke Rd, Ampara)
 
+* [100460] S.M.FAROOK (Karativu - Ampara Hwy, Sammanthurai)
+
 * [100225] M.C.KALDEEN (Akkaraipattu)
 
 * [100956] AKKARAIPATTU CENTRAL MPCS LTD (Colombo - Batticaloa Hwy, Akkaraipattu)
@@ -1730,6 +1732,8 @@ Analyzed 1344 sheds.
 
 * [100255] WG FRANCIS APPUHAMY SAMUHA VIYAPARA (Lanka Filling Station, Mihintale)
 
+* [103570] NC PROVINCE CONSUMERS CO-OP SO LTD (Oyamaduwa, Thanthirimale Road Oyamaduwa)
+
 * [104992] KAVINDA DISSANAYAKE (Tambuttegama)
 
 * [100602] C P ABDULLA & SONS (Kandy - Jaffna Hwy, Medawachchiya)
@@ -1803,6 +1807,8 @@ Analyzed 1344 sheds.
 * [104862] J M T B JAYASINGHA (Thirukkondaiadimadu Hwy, Welikanda)
 
 * [100007] ELAHERA SCHEME MPCS LTD (Giritale Road, Bakamuna)
+
+* [104920] K A C PRIYADARSHANA (Pansal Godella,polonnaruwa)
 
 * [105347] Tabo Trasport (Elahara)
 

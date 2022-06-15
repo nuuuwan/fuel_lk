@@ -1,0 +1,71 @@
+{
+  "shed_id": 128,
+  "shed_name": "TELLIPALLAI MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:05",
+  "time_last_updated_by_shed_ut": 1655264100,
+  "fuel_type": "p92",
+  "fuel_capacity": 6254.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100159",
+  "address": "Tellippalai",
+  "lat_lng": [
+    9.784301,
+    80.033119
+  ],
+  "time_last_updated_ut": 1655264100,
+  "time_last_updated": "2022-06-15 09:05",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655109960,
+      "time_dispatch": "2022-06-13 14:16",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655110500,
+      "time_last_updated": "2022-06-13 14:25",
+      "time_eta_ut": 1655111760,
+      "time_eta": "2022-06-13 14:46"
+    },
+    {
+      "time_dispatch_ut": 1654850640,
+      "time_dispatch": "2022-06-10 14:14",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654851000,
+      "time_last_updated": "2022-06-10 14:20",
+      "time_eta_ut": 1654852440,
+      "time_eta": "2022-06-10 14:44"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 6254.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 409.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

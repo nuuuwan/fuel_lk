@@ -1,0 +1,71 @@
+{
+  "shed_id": 36,
+  "shed_name": "VAVUNAYA  SOUTH  MPCS  LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 10:01",
+  "time_last_updated_by_shed_ut": 1655267460,
+  "fuel_type": "p92",
+  "fuel_capacity": 300.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100047",
+  "address": "Vavuniya",
+  "lat_lng": [
+    8.753976,
+    80.498291
+  ],
+  "time_last_updated_ut": 1655267460,
+  "time_last_updated": "2022-06-15 10:01",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655124840,
+      "time_dispatch": "2022-06-13 18:24",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655125200,
+      "time_last_updated": "2022-06-13 18:30",
+      "time_eta_ut": 1655153880,
+      "time_eta": "2022-06-14 02:28"
+    },
+    {
+      "time_dispatch_ut": 1655099100,
+      "time_dispatch": "2022-06-13 11:15",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655099700,
+      "time_last_updated": "2022-06-13 11:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

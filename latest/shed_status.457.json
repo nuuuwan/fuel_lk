@@ -1,0 +1,82 @@
+{
+  "shed_id": 457,
+  "shed_name": "THELLAMBURA & SON",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:23",
+  "time_last_updated_by_shed_ut": 1655261580,
+  "fuel_type": "p92",
+  "fuel_capacity": 1116.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100552",
+  "address": "A28, Talawa",
+  "lat_lng": [
+    8.238371,
+    80.352989
+  ],
+  "time_last_updated_ut": 1655261580,
+  "time_last_updated": "2022-06-15 08:23",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655182800,
+      "time_dispatch": "2022-06-14 10:30",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655183400,
+      "time_last_updated": "2022-06-14 10:40",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655102460,
+      "time_dispatch": "2022-06-13 12:11",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655103000,
+      "time_last_updated": "2022-06-13 12:20",
+      "time_eta_ut": 1655122500,
+      "time_eta": "2022-06-13 17:45"
+    },
+    {
+      "time_dispatch_ut": 1654945020,
+      "time_dispatch": "2022-06-11 16:27",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654945500,
+      "time_last_updated": "2022-06-11 16:35",
+      "time_eta_ut": 1654966620,
+      "time_eta": "2022-06-11 22:27"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1116.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 328.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 3016.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 180.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 909.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

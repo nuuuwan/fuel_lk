@@ -1,0 +1,82 @@
+{
+  "shed_id": 245,
+  "shed_name": "BUTTALA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 07:26",
+  "time_last_updated_by_shed_ut": 1655258160,
+  "fuel_type": "p92",
+  "fuel_capacity": 5637.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 14:54, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100298",
+  "address": "Main St, Buttala",
+  "lat_lng": [
+    6.760777,
+    81.248421
+  ],
+  "time_last_updated_ut": 1655258160,
+  "time_last_updated": "2022-06-15 07:26",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655276040,
+      "time_dispatch": "2022-06-15 12:24",
+      "fuel_type": "p92",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655276400,
+      "time_last_updated": "2022-06-15 12:30",
+      "time_eta_ut": 1655285040,
+      "time_eta": "2022-06-15 14:54"
+    },
+    {
+      "time_dispatch_ut": 1655276040,
+      "time_dispatch": "2022-06-15 12:24",
+      "fuel_type": "d",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655276400,
+      "time_last_updated": "2022-06-15 12:30",
+      "time_eta_ut": 1655285040,
+      "time_eta": "2022-06-15 14:54"
+    },
+    {
+      "time_dispatch_ut": 1654936020,
+      "time_dispatch": "2022-06-11 13:57",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654936500,
+      "time_last_updated": "2022-06-11 14:05",
+      "time_eta_ut": 1654961460,
+      "time_eta": "2022-06-11 21:01"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 5637.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 4509.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 409.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 409.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
