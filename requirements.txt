@@ -1,4 +1,4 @@
 # Auto Generated
 pytest
 utils-nuuuwan
-gig
+gig-nuuuwan
