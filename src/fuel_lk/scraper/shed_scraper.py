@@ -2,27 +2,17 @@ import json
 import os
 
 import requests
-from utils import JSONFile, timex
+from utils import JSONFile
 
-from fuel_lk.common import DIR_DATA, log
-from fuel_lk.core import districts
-
-DEFAULT_FUEL_TYPE = 'p92'
-
-URL_API_BASE = 'https://fuel.gov.lk/api/v1/sheddetails'
+from fuel_lk.common import DEFAULT_FUEL_TYPE, DIR_DATA, URL_API_BASE, log
+from fuel_lk.core import districts, time_utils
 
 
 def clean_shed_data(d):
-    try:
-        time_last_updated_by_shed_ut = timex.parse_time(
-            d['lastupdatebyshed'],
-            '%Y-%m-%d %H:%M',
-        )
-        time_last_updated_by_shed = timex.format_time(
-            time_last_updated_by_shed_ut)
-    except ValueError:
-        time_last_updated_by_shed_ut = None
-        time_last_updated_by_shed = None
+    [
+        time_last_updated_by_shed_ut,
+        time_last_updated_by_shed,
+    ] = time_utils.get_times(d['lastupdatebyshed'])
 
     return dict(
         shed_id=d['shedId'],
@@ -50,33 +40,37 @@ def scrape_sheds_for_single_district(
         district=district_fuel_id,
         fuelType=DEFAULT_FUEL_TYPE,
     )).text
-    shed_data_list = json.loads(data_json)
-    shed_data_list = list(map(clean_shed_data, shed_data_list))
-    n_shed_data_list = len(shed_data_list)
+    shed_list = json.loads(data_json)
+    shed_list = list(map(clean_shed_data, shed_list))
+    n_shed_list = len(shed_list)
 
-    json_file = os.path.join(DIR_DATA, f'latest/shed_data.{district_id}.json')
-    JSONFile(json_file).write(shed_data_list)
+    json_file = os.path.join(DIR_DATA, f'latest/shed_list.{district_id}.json')
+    JSONFile(json_file).write(shed_list)
     log.debug(
-        f'Saved {n_shed_data_list} sheds for {district_id} to {json_file}')
+        f'Saved {n_shed_list} sheds for {district_id} to {json_file}')
 
-    return shed_data_list
+    return shed_list
 
 
 def scrape_sheds():
     expanded_district_list = districts.get_expanded_district_list()
 
-    shed_data_list_all = []
+    shed_list_all = []
     for expanded_district in expanded_district_list:
-        shed_data_list_all += scrape_sheds_for_single_district(
+        shed_list_all += scrape_sheds_for_single_district(
             expanded_district['district_id'],
             expanded_district['province_fuel_id'],
             expanded_district['district_fuel_id'],
         )
 
-    n_shed_data_list_all = len(shed_data_list_all)
-    json_file = os.path.join(DIR_DATA, 'latest/shed_data.all.json')
-    JSONFile(json_file).write(shed_data_list_all)
+    n_shed_list_all = len(shed_list_all)
+    json_file = os.path.join(DIR_DATA, 'latest/shed_list.all.json')
+    JSONFile(json_file).write(shed_list_all)
     log.info(
-        f'Saved {n_shed_data_list_all} sheds to {json_file}')
+        f'Saved {n_shed_list_all} sheds to {json_file}')
 
-    return shed_data_list_all
+    return shed_list_all
+
+
+if __name__ == '__main__':
+    scrape_sheds_for_single_district('LK-11', 1, 1)
