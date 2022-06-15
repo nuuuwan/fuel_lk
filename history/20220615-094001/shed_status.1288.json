@@ -1,0 +1,70 @@
+{
+  "shed_id": 1288,
+  "shed_name": "S K G K  GUNARATHNA",
+  "time_last_updated_by_shed": "2022-06-15 09:38",
+  "time_last_updated_by_shed_ut": 1655266080,
+  "fuel_type": "p92",
+  "fuel_capacity": 962.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "106401",
+  "address": "Nugawela",
+  "lat_lng": [
+    7.325817,
+    80.599739
+  ],
+  "time_last_updated_ut": 1655266080,
+  "time_last_updated": "2022-06-15 09:38",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655192340,
+      "time_dispatch": "2022-06-14 13:09",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655192700,
+      "time_last_updated": "2022-06-14 13:15",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655018160,
+      "time_dispatch": "2022-06-12 12:46",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655018700,
+      "time_last_updated": "2022-06-12 12:55",
+      "time_eta_ut": 1655033100,
+      "time_eta": "2022-06-12 16:55"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 962.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 833.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1258.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 429.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

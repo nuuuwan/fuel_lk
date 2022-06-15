@@ -1,0 +1,81 @@
+{
+  "shed_id": 315,
+  "shed_name": "KASUN ENTERPRISES",
+  "time_last_updated_by_shed": "2022-06-15 09:19",
+  "time_last_updated_by_shed_ut": 1655264940,
+  "fuel_type": "p92",
+  "fuel_capacity": 2900.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100385",
+  "address": "Wilgamuwa",
+  "lat_lng": [
+    7.535126,
+    80.900673
+  ],
+  "time_last_updated_ut": 1655264940,
+  "time_last_updated": "2022-06-15 09:19",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655200860,
+      "time_dispatch": "2022-06-14 15:31",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655201400,
+      "time_last_updated": "2022-06-14 15:40",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655027400,
+      "time_dispatch": "2022-06-12 15:20",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655028000,
+      "time_last_updated": "2022-06-12 15:30",
+      "time_eta_ut": 1655051340,
+      "time_eta": "2022-06-12 21:59"
+    },
+    {
+      "time_dispatch_ut": 1654780500,
+      "time_dispatch": "2022-06-09 18:45",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654795680,
+      "time_eta": "2022-06-09 22:58"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 2900.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2170.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1120.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

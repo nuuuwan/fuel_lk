@@ -1,0 +1,59 @@
+{
+  "shed_id": 627,
+  "shed_name": "HINGURAKGODA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:32",
+  "time_last_updated_by_shed_ut": 1655265720,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100870",
+  "address": "Somawathiya - Hingurakgoda Rd",
+  "lat_lng": [
+    8.057211,
+    81.015732
+  ],
+  "time_last_updated_ut": 1655265720,
+  "time_last_updated": "2022-06-15 09:32",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654840860,
+      "time_dispatch": "2022-06-10 11:31",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654841400,
+      "time_last_updated": "2022-06-10 11:40",
+      "time_eta_ut": 1654855260,
+      "time_eta": "2022-06-10 15:31"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2075.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

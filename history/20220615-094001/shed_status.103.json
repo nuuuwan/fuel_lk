@@ -1,0 +1,70 @@
+{
+  "shed_id": 103,
+  "shed_name": "HONDAHITHA ENTERPRISES",
+  "time_last_updated_by_shed": "2022-06-15 09:53",
+  "time_last_updated_by_shed_ut": 1655266980,
+  "fuel_type": "p92",
+  "fuel_capacity": 242.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100125",
+  "address": "170 High Level Rd, Nugegoda",
+  "lat_lng": [
+    6.870019,
+    79.887573
+  ],
+  "time_last_updated_ut": 1655266980,
+  "time_last_updated": "2022-06-15 09:53",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655104140,
+      "time_dispatch": "2022-06-13 12:39",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655104800,
+      "time_last_updated": "2022-06-13 12:50",
+      "time_eta_ut": 1655106180,
+      "time_eta": "2022-06-13 13:13"
+    },
+    {
+      "time_dispatch_ut": 1655014080,
+      "time_dispatch": "2022-06-12 11:38",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655014500,
+      "time_last_updated": "2022-06-12 11:45",
+      "time_eta_ut": 1655016120,
+      "time_eta": "2022-06-12 12:12"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 242.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 426.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 387.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

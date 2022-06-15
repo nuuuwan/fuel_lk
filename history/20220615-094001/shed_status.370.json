@@ -1,0 +1,70 @@
+{
+  "shed_id": 370,
+  "shed_name": "MANMUNAIPATTU MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 10:06",
+  "time_last_updated_by_shed_ut": 1655267760,
+  "fuel_type": "p92",
+  "fuel_capacity": 741.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 10:58, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100454",
+  "address": "New Kalmunai Rd, Batticaloa",
+  "lat_lng": [
+    7.673255,
+    81.733345
+  ],
+  "time_last_updated_ut": 1655267760,
+  "time_last_updated": "2022-06-15 10:06",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655269080,
+      "time_dispatch": "2022-06-15 10:28",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655270100,
+      "time_last_updated": "2022-06-15 10:45",
+      "time_eta_ut": 1655270880,
+      "time_eta": "2022-06-15 10:58"
+    },
+    {
+      "time_dispatch_ut": 1654929660,
+      "time_dispatch": "2022-06-11 12:11",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654930200,
+      "time_last_updated": "2022-06-11 12:20",
+      "time_eta_ut": 1654931460,
+      "time_eta": "2022-06-11 12:41"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 741.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 912.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 712.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

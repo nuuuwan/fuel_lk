@@ -1,0 +1,81 @@
+{
+  "shed_id": 957,
+  "shed_name": "SHAKTHI LANKA OIL AND GAS (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:08",
+  "time_last_updated_by_shed_ut": 1655264280,
+  "fuel_type": "p92",
+  "fuel_capacity": 347.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "104171",
+  "address": "Kothalawala -Kaduwela",
+  "lat_lng": [
+    6.926424,
+    79.98011
+  ],
+  "time_last_updated_ut": 1655264280,
+  "time_last_updated": "2022-06-15 09:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655279100,
+      "time_dispatch": "2022-06-15 13:15",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655279700,
+      "time_last_updated": "2022-06-15 13:25",
+      "time_eta_ut": 1655281440,
+      "time_eta": "2022-06-15 13:54"
+    },
+    {
+      "time_dispatch_ut": 1655116140,
+      "time_dispatch": "2022-06-13 15:59",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655116800,
+      "time_last_updated": "2022-06-13 16:10",
+      "time_eta_ut": 1655119740,
+      "time_eta": "2022-06-13 16:59"
+    },
+    {
+      "time_dispatch_ut": 1655026200,
+      "time_dispatch": "2022-06-12 15:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655026800,
+      "time_last_updated": "2022-06-12 15:10",
+      "time_eta_ut": 1655028540,
+      "time_eta": "2022-06-12 15:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 347.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 56.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1285.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 310.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 128.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

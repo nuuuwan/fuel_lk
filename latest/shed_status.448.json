@@ -1,0 +1,81 @@
+{
+  "shed_id": 448,
+  "shed_name": "MALLIKA SILVA",
+  "time_last_updated_by_shed": "2022-06-15 09:03",
+  "time_last_updated_by_shed_ut": 1655263980,
+  "fuel_type": "p92",
+  "fuel_capacity": 178.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100542",
+  "address": "Dickson Moters Rd, Kurunegala",
+  "lat_lng": [
+    7.470927,
+    80.349251
+  ],
+  "time_last_updated_ut": 1655263980,
+  "time_last_updated": "2022-06-15 09:03",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655095260,
+      "time_dispatch": "2022-06-13 10:11",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655095800,
+      "time_last_updated": "2022-06-13 10:20",
+      "time_eta_ut": 1655096040,
+      "time_eta": "2022-06-13 10:24"
+    },
+    {
+      "time_dispatch_ut": 1654946580,
+      "time_dispatch": "2022-06-11 16:53",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654947000,
+      "time_last_updated": "2022-06-11 17:00",
+      "time_eta_ut": 1654957620,
+      "time_eta": "2022-06-11 19:57"
+    },
+    {
+      "time_dispatch_ut": 1654944180,
+      "time_dispatch": "2022-06-11 16:13",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654944600,
+      "time_last_updated": "2022-06-11 16:20",
+      "time_eta_ut": 1654944960,
+      "time_eta": "2022-06-11 16:26"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 178.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 335.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 178.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

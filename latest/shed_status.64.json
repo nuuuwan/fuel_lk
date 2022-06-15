@@ -1,0 +1,81 @@
+{
+  "shed_id": 64,
+  "shed_name": "H.D.PEIRIS & COMPANY",
+  "time_last_updated_by_shed": "2022-06-15 09:16",
+  "time_last_updated_by_shed_ut": 1655264760,
+  "fuel_type": "p92",
+  "fuel_capacity": 408.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100079",
+  "address": "Panadura",
+  "lat_lng": [
+    6.714839,
+    79.909653
+  ],
+  "time_last_updated_ut": 1655264760,
+  "time_last_updated": "2022-06-15 09:16",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655102640,
+      "time_dispatch": "2022-06-13 12:14",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655103300,
+      "time_last_updated": "2022-06-13 12:25",
+      "time_eta_ut": 1655106780,
+      "time_eta": "2022-06-13 13:23"
+    },
+    {
+      "time_dispatch_ut": 1655097420,
+      "time_dispatch": "2022-06-13 10:47",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655098200,
+      "time_last_updated": "2022-06-13 11:00",
+      "time_eta_ut": 1655101560,
+      "time_eta": "2022-06-13 11:56"
+    },
+    {
+      "time_dispatch_ut": 1654844100,
+      "time_dispatch": "2022-06-10 12:25",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654844700,
+      "time_last_updated": "2022-06-10 12:35",
+      "time_eta_ut": 1654848240,
+      "time_eta": "2022-06-10 13:34"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 408.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 178.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 794.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 408.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

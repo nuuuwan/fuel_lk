@@ -1,0 +1,112 @@
+[
+  {
+    "shed_id": 517,
+    "shed_name": "VAVUNIYA NORTH MPCS LTD, MANKULAM",
+    "time_last_updated_by_shed": "2022-06-15 06:15",
+    "time_last_updated_by_shed_ut": 1655253900,
+    "fuel_type": "p92",
+    "fuel_capacity": 800.0,
+    "bowser_distatch": false,
+    "eta": null,
+    "did_shed_owner_update_today": true
+  },
+  {
+    "shed_id": 553,
+    "shed_name": "MULLAITIVU FISHERMENS' CS LTD, NAYARU",
+    "time_last_updated_by_shed": "2022-06-15 06:49",
+    "time_last_updated_by_shed_ut": 1655255940,
+    "fuel_type": "p92",
+    "fuel_capacity": 100.0,
+    "bowser_distatch": false,
+    "eta": null,
+    "did_shed_owner_update_today": true
+  },
+  {
+    "shed_id": 580,
+    "shed_name": "PUTHUKUDIYIRUPPU MPCS LTD, PUTHUKUDIYIRUPPU",
+    "time_last_updated_by_shed": "2022-06-15 05:35",
+    "time_last_updated_by_shed_ut": 1655251500,
+    "fuel_type": "p92",
+    "fuel_capacity": 500.0,
+    "bowser_distatch": false,
+    "eta": null,
+    "did_shed_owner_update_today": true
+  },
+  {
+    "shed_id": 619,
+    "shed_name": "THUNUKKAI DIVISION MPCS LTD, THUNNUKAI,MALLAVI",
+    "time_last_updated_by_shed": "2022-06-14 06:57",
+    "time_last_updated_by_shed_ut": 1655170020,
+    "fuel_type": "p92",
+    "fuel_capacity": 770.0,
+    "bowser_distatch": false,
+    "eta": null,
+    "did_shed_owner_update_today": false
+  },
+  {
+    "shed_id": 652,
+    "shed_name": "MUTHUIANKADDU MPCS LTD, ODDUSUDDAN",
+    "time_last_updated_by_shed": "2022-06-15 09:54",
+    "time_last_updated_by_shed_ut": 1655267040,
+    "fuel_type": "p92",
+    "fuel_capacity": 210.0,
+    "bowser_distatch": false,
+    "eta": null,
+    "did_shed_owner_update_today": true
+  },
+  {
+    "shed_id": 665,
+    "shed_name": "VISVAMADHU FARMER'SMPCSLTD, VISVAMADHUKULAM",
+    "time_last_updated_by_shed": "2022-06-15 09:23",
+    "time_last_updated_by_shed_ut": 1655265180,
+    "fuel_type": "p92",
+    "fuel_capacity": 1750.0,
+    "bowser_distatch": false,
+    "eta": null,
+    "did_shed_owner_update_today": true
+  },
+  {
+    "shed_id": 834,
+    "shed_name": "A.ALISABRI, MALLAVI",
+    "time_last_updated_by_shed": "2022-06-15 09:03",
+    "time_last_updated_by_shed_ut": 1655263980,
+    "fuel_type": "p92",
+    "fuel_capacity": 0.0,
+    "bowser_distatch": false,
+    "eta": null,
+    "did_shed_owner_update_today": true
+  },
+  {
+    "shed_id": 861,
+    "shed_name": "MARITIMEPATTU MPCS LTD, MULATTIVU",
+    "time_last_updated_by_shed": "2022-06-15 01:01",
+    "time_last_updated_by_shed_ut": 1655235060,
+    "fuel_type": "p92",
+    "fuel_capacity": 2300.0,
+    "bowser_distatch": true,
+    "eta": "2022-06-15 15:47, 6600L",
+    "did_shed_owner_update_today": true
+  },
+  {
+    "shed_id": 947,
+    "shed_name": "K MAHENDREN, MULLIYAWALAI",
+    "time_last_updated_by_shed": "2022-06-15 07:34",
+    "time_last_updated_by_shed_ut": 1655258640,
+    "fuel_type": "p92",
+    "fuel_capacity": 1000.0,
+    "bowser_distatch": false,
+    "eta": null,
+    "did_shed_owner_update_today": true
+  },
+  {
+    "shed_id": 1092,
+    "shed_name": "SELLATHAMBY DILAXSHAN, MULLIYAWALAI",
+    "time_last_updated_by_shed": null,
+    "time_last_updated_by_shed_ut": null,
+    "fuel_type": "p92",
+    "fuel_capacity": 0.0,
+    "bowser_distatch": false,
+    "eta": null,
+    "did_shed_owner_update_today": false
+  }
+]

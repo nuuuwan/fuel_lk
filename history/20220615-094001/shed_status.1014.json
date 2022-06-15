@@ -1,0 +1,70 @@
+{
+  "shed_id": 1014,
+  "shed_name": "H WICRAMARATHNE",
+  "time_last_updated_by_shed": "2022-06-15 10:37",
+  "time_last_updated_by_shed_ut": 1655269620,
+  "fuel_type": "p92",
+  "fuel_capacity": 1978.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "104518",
+  "address": "Colombo - Kandy Rd, Warakapola",
+  "lat_lng": [
+    7.222327,
+    80.191422
+  ],
+  "time_last_updated_ut": 1655269620,
+  "time_last_updated": "2022-06-15 10:37",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655088480,
+      "time_dispatch": "2022-06-13 08:18",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655088900,
+      "time_last_updated": "2022-06-13 08:25",
+      "time_eta_ut": 1655095680,
+      "time_eta": "2022-06-13 10:18"
+    },
+    {
+      "time_dispatch_ut": 1654837680,
+      "time_dispatch": "2022-06-10 10:38",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654838100,
+      "time_last_updated": "2022-06-10 10:45",
+      "time_eta_ut": 1654843860,
+      "time_eta": "2022-06-10 12:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1978.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 259.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1672.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

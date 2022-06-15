@@ -1,0 +1,70 @@
+{
+  "shed_id": 349,
+  "shed_name": "N.G.H.WIJEYARATHNE",
+  "time_last_updated_by_shed": "2022-06-15 09:12",
+  "time_last_updated_by_shed_ut": 1655264520,
+  "fuel_type": "p92",
+  "fuel_capacity": 214.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100428",
+  "address": "Talagaha Fuel Station",
+  "lat_lng": [
+    6.078358,
+    80.24868
+  ],
+  "time_last_updated_ut": 1655264520,
+  "time_last_updated": "2022-06-15 09:12",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655185620,
+      "time_dispatch": "2022-06-14 11:17",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655186100,
+      "time_last_updated": "2022-06-14 11:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654849140,
+      "time_dispatch": "2022-06-10 13:49",
+      "fuel_type": "p92",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654851300,
+      "time_last_updated": "2022-06-10 14:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 214.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1049.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2780.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 170.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 450.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
