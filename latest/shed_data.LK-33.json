@@ -1,0 +1,452 @@
+[
+  {
+    "shedId": 6,
+    "shedName": "HAMBANTOTA MPCS LTD, HAMBANTOTA",
+    "lastupdatebyshed": "2022-06-14 09:41",
+    "fuelType": "p92",
+    "fuelCapacity": 6265.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 16,
+    "shedName": "MAGNET GROUP (PVT) LTD, AMBALANTHOTA",
+    "lastupdatebyshed": "2022-06-15 08:46",
+    "fuelType": "p92",
+    "fuelCapacity": 693.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 17,
+    "shedName": "PRESIDENT SERVICE INSTITUTE FUND, WEERAWILA",
+    "lastupdatebyshed": "2022-06-15 06:37",
+    "fuelType": "p92",
+    "fuelCapacity": 1194.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 77,
+    "shedName": "N.D.K.ENTERPRISE, TISSAMAHARAMA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 149,
+    "shedName": "WALASMULLA MPCS LTD, WALASMULLA",
+    "lastupdatebyshed": "2022-06-15 09:41",
+    "fuelType": "p92",
+    "fuelCapacity": 1454.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 174,
+    "shedName": "WALASMULLA MPCS LTD, KIRAMA",
+    "lastupdatebyshed": "2022-06-15 09:38",
+    "fuelType": "p92",
+    "fuelCapacity": 1030.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 283,
+    "shedName": "S SAHA S PETROLEUM TRADERS, TISSAMAHARAMA",
+    "lastupdatebyshed": "2022-06-15 07:00",
+    "fuelType": "p92",
+    "fuelCapacity": 1730.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 297,
+    "shedName": "D.W.A.U.DIKWELLA, TANGALLE",
+    "lastupdatebyshed": "2022-06-15 10:27",
+    "fuelType": "p92",
+    "fuelCapacity": 1137.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 311,
+    "shedName": "HUNGAMA MPCS LTD, HUNGAMA",
+    "lastupdatebyshed": "2022-06-15 11:59",
+    "fuelType": "p92",
+    "fuelCapacity": 200.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 314,
+    "shedName": "BELIATTA MPCS LTD, BELIATTA",
+    "lastupdatebyshed": "2022-06-12 21:45",
+    "fuelType": "p92",
+    "fuelCapacity": 4300.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 398,
+    "shedName": "K.A.ANURA RAMYALAL, TISSAMAHARAMA",
+    "lastupdatebyshed": "2022-06-15 09:56",
+    "fuelType": "p92",
+    "fuelCapacity": 17.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 439,
+    "shedName": "WEERAKETIYA MPCS LTD, WEERAKETIYA",
+    "lastupdatebyshed": "2022-06-15 11:57",
+    "fuelType": "p92",
+    "fuelCapacity": 315.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 481,
+    "shedName": "WEERAKETIYA MPCS LTD, MIDDENIYA",
+    "lastupdatebyshed": "2022-06-15 10:56",
+    "fuelType": "p92",
+    "fuelCapacity": 371.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 483,
+    "shedName": "BEN HEWA ASSOCIATES (PVT) LTD, SURIYAWEWA",
+    "lastupdatebyshed": "2022-06-15 07:04",
+    "fuelType": "p92",
+    "fuelCapacity": 1421.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 542,
+    "shedName": "C.WEERAKONE, BOLANA",
+    "lastupdatebyshed": "2022-06-15 09:01",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 544,
+    "shedName": "A.W.BENETTE, LUNUGAMVEHERA",
+    "lastupdatebyshed": "2022-06-14 06:59",
+    "fuelType": "p92",
+    "fuelCapacity": 34.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 578,
+    "shedName": " G.R.P.HETTIHEWA, BELIATTA",
+    "lastupdatebyshed": "2022-06-14 16:09",
+    "fuelType": "p92",
+    "fuelCapacity": 61.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 600,
+    "shedName": "MS.  CEYLON FISHERY HARBOURS CORPOR, TANGALLE",
+    "lastupdatebyshed": "2022-06-15 06:26",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 615,
+    "shedName": "CEYLON FISHERIES HARBOUR CORPORATIO, KIRINDA",
+    "lastupdatebyshed": "2022-06-15 09:26",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 621,
+    "shedName": "P.K.LIYANAGE, MIDDENIYA",
+    "lastupdatebyshed": "2022-06-15 08:36",
+    "fuelType": "p92",
+    "fuelCapacity": 480.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 629,
+    "shedName": "C.M.H.ENTERPRISES, WALASMULLA",
+    "lastupdatebyshed": "2022-06-15 09:11",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 656,
+    "shedName": "CEYLON FISHERIES HARBOUR CORPORATIO, HAMBANTOTA",
+    "lastupdatebyshed": "2022-06-15 09:32",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 783,
+    "shedName": "MRS K A A H DE SILVA, BELIATTA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 787,
+    "shedName": "WELDISI PVT LTD, HAMBANTOTA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 791,
+    "shedName": "TANGALLE MPCS LTD, TANGALLE",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 792,
+    "shedName": "TISSAMAHARAMA MPCS LTD, DEBARAWEWA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 799,
+    "shedName": "LALITH GAMAGE AND COMPANY (PVT) LIM, SURIYAWEWA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 827,
+    "shedName": "SRI LANKA RED CROSS SOCIETY, HAMBANTOTA",
+    "lastupdatebyshed": "2022-06-15 11:58",
+    "fuelType": "p92",
+    "fuelCapacity": 64.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 905,
+    "shedName": "FISHERY HARBOURS CORPORATION, NILWELLA",
+    "lastupdatebyshed": "2022-06-15 08:38",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 971,
+    "shedName": "AYOMA KALHARA FILLING STATION (PVT), WALASMULLA RD ,WEERAKETIYA",
+    "lastupdatebyshed": "2022-06-15 08:19",
+    "fuelType": "p92",
+    "fuelCapacity": 310.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 983,
+    "shedName": "RUHUNU LANKA IOC FILLING STATION, AMBALANTHOTA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 988,
+    "shedName": "NIHAL GUNASEKARA & COMPANY (PVT) LT, AMBALANTHOTA",
+    "lastupdatebyshed": "2022-06-15 08:57",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1034,
+    "shedName": "BELIATTA MPCS LTD, MAHAWELA, NAKULUGAMA",
+    "lastupdatebyshed": "2022-06-15 09:33",
+    "fuelType": "p92",
+    "fuelCapacity": 250.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1045,
+    "shedName": "A R THILAK KUMARA, TISSAMAHARAMA",
+    "lastupdatebyshed": "2022-06-15 08:33",
+    "fuelType": "p92",
+    "fuelCapacity": 1222.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1120,
+    "shedName": "SARATH MUNASINGHE FUEL MART, ANGUNUKOLAPELESSA",
+    "lastupdatebyshed": "2022-06-15 10:11",
+    "fuelType": "p92",
+    "fuelCapacity": 269.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1210,
+    "shedName": "P P SAMARASINGHE, MIDDENIYA",
+    "lastupdatebyshed": "2022-06-15 08:43",
+    "fuelType": "p92",
+    "fuelCapacity": 1056.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1217,
+    "shedName": "T M SENARATH PARANAYAPA, ANGUNUKOLAPELESSA",
+    "lastupdatebyshed": "2022-06-13 15:37",
+    "fuelType": "p92",
+    "fuelCapacity": 232.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1281,
+    "shedName": "RANMUTHU ENTERPRISES, RANNA",
+    "lastupdatebyshed": "2022-06-15 08:06",
+    "fuelType": "p92",
+    "fuelCapacity": 487.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1282,
+    "shedName": "RUHUNUPUTHA FILLING STATION, AMBALANTHOTA",
+    "lastupdatebyshed": "2022-06-15 08:32",
+    "fuelType": "p92",
+    "fuelCapacity": 790.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1296,
+    "shedName": "IRESHA FILLING STATION (PVT) LTD, TISSAMAHARAMA",
+    "lastupdatebyshed": "2022-06-15 09:41",
+    "fuelType": "p92",
+    "fuelCapacity": 2098.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1312,
+    "shedName": "D A CHULARATHNA, SUDUWELIPELESSA KIRINDA",
+    "lastupdatebyshed": "2022-06-15 08:20",
+    "fuelType": "p92",
+    "fuelCapacity": 550.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1324,
+    "shedName": "W A SENAKA, ANGUNUKOLAPELESSA",
+    "lastupdatebyshed": "2022-06-15 07:49",
+    "fuelType": "p92",
+    "fuelCapacity": 343.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1326,
+    "shedName": "A G G RAWIN GANITHA, SOORIYAWEWA",
+    "lastupdatebyshed": "2022-06-15 09:10",
+    "fuelType": "p92",
+    "fuelCapacity": 152.0,
+    "bowserDispatch": true,
+    "eta": "2022-06-15 14:55, 6600L",
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1341,
+    "shedName": "SARADA ENTERPRISES, TISSAMAHARAMA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": true,
+    "eta": "2022-06-15 13:29, 6600L",
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1343,
+    "shedName": "CEYLON FISHERY HARBOURS CORPORATION, KALAMETIYA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  }
+]

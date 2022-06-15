@@ -1,0 +1,112 @@
+[
+  {
+    "shedId": 151,
+    "shedName": "P THAMBIPILLAI, KILINOCHCHI",
+    "lastupdatebyshed": "2022-06-15 10:21",
+    "fuelType": "p92",
+    "fuelCapacity": 312.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 201,
+    "shedName": "KARACHCHI NORTH MPCS LTD, PARANTHAN",
+    "lastupdatebyshed": "2022-06-15 11:40",
+    "fuelType": "p92",
+    "fuelCapacity": 430.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 234,
+    "shedName": "NORTHERN  REGN  LORRY  OWNERS CO-OP, KILINOCHCHI",
+    "lastupdatebyshed": "2022-06-14 11:56",
+    "fuelType": "p92",
+    "fuelCapacity": 6976.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 357,
+    "shedName": "POONAKARY MPCS LTD, VADIYADI",
+    "lastupdatebyshed": "2022-06-15 09:04",
+    "fuelType": "p92",
+    "fuelCapacity": 763.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 391,
+    "shedName": "KARACHCHI SOUTH MPCS LTD, KILINOCHCHI",
+    "lastupdatebyshed": "2022-06-15 07:30",
+    "fuelType": "p92",
+    "fuelCapacity": 2017.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 634,
+    "shedName": "AKKARAYAN MPCS LTD, AKKARAYANKULAM",
+    "lastupdatebyshed": "2022-06-15 10:44",
+    "fuelType": "p92",
+    "fuelCapacity": 120.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 667,
+    "shedName": "POONAKARI MPCS LTD, MULANKAVIL",
+    "lastupdatebyshed": "2022-06-15 09:06",
+    "fuelType": "p92",
+    "fuelCapacity": 2041.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 918,
+    "shedName": "UNITED FUEL MART  (PVT) LTD, KILINOCHCHI",
+    "lastupdatebyshed": "2022-06-15 06:35",
+    "fuelType": "p92",
+    "fuelCapacity": 393.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 945,
+    "shedName": "EVER PRAY ENTERPRISES (PVT) LTD, PALLAI",
+    "lastupdatebyshed": "2022-06-14 10:13",
+    "fuelType": "p92",
+    "fuelCapacity": 803.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1212,
+    "shedName": "ALVAPILLAI SANTHARUBAN, IYAKACHCHI",
+    "lastupdatebyshed": "2022-06-15 12:09",
+    "fuelType": "p92",
+    "fuelCapacity": 2404.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1318,
+    "shedName": "M KANAGARATNAM, PALLAI",
+    "lastupdatebyshed": "2022-06-15 09:31",
+    "fuelType": "p92",
+    "fuelCapacity": 147.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  }
+]

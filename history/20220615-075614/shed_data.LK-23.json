@@ -1,0 +1,232 @@
+[
+  {
+    "shedId": 76,
+    "shedName": "M.WEERASINGHE ARACHCHI, KOTAGALA",
+    "lastupdatebyshed": "2022-06-15 07:51",
+    "fuelType": "p92",
+    "fuelCapacity": 870.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 113,
+    "shedName": "MASKELIYA MPCS LTD, NORWOOD",
+    "lastupdatebyshed": "2022-06-15 08:37",
+    "fuelType": "p92",
+    "fuelCapacity": 262.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 142,
+    "shedName": "GINIGATHENA MPCS LTD, GINIGATHENA",
+    "lastupdatebyshed": "2022-06-14 11:13",
+    "fuelType": "p92",
+    "fuelCapacity": 368.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 147,
+    "shedName": "D & T ORGANIZATION, UDUPUSSELLAWA",
+    "lastupdatebyshed": "2022-06-15 11:55",
+    "fuelType": "p92",
+    "fuelCapacity": 4195.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 199,
+    "shedName": "U.K.BUDDHADASA SILVA, TALAWAKELE",
+    "lastupdatebyshed": "2022-06-14 10:04",
+    "fuelType": "p92",
+    "fuelCapacity": 1612.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 205,
+    "shedName": "HANGURANKETA MPCS LTD, HANGURANKETA",
+    "lastupdatebyshed": "2022-06-15 08:33",
+    "fuelType": "p92",
+    "fuelCapacity": 317.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 271,
+    "shedName": "M.H.SARATH CHANDRASIRI, NANU OYA",
+    "lastupdatebyshed": "2022-06-15 07:37",
+    "fuelType": "p92",
+    "fuelCapacity": 400.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 336,
+    "shedName": "MASKELIYA MPCS LTD, MASKELIYA",
+    "lastupdatebyshed": "2022-06-15 11:02",
+    "fuelType": "p92",
+    "fuelCapacity": 1084.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 410,
+    "shedName": "NAWA WALAPONE MPCS LTD, RAGALA",
+    "lastupdatebyshed": "2022-06-15 11:38",
+    "fuelType": "p92",
+    "fuelCapacity": 768.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 528,
+    "shedName": "PUNDALU OYA MPCS LTD, PUNDALUOYA",
+    "lastupdatebyshed": "2022-06-15 10:08",
+    "fuelType": "p92",
+    "fuelCapacity": 645.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 717,
+    "shedName": "G K SAMIE & SONS, HATTON",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 719,
+    "shedName": "M M Noohu Marikar, KANDAPOLA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 725,
+    "shedName": "W PALIHAWADANA & SONS, NUWARA ELIYA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": true,
+    "eta": "2022-06-15 11:50, 6600L",
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 728,
+    "shedName": "A V HINNIAPPUHAMI & CO, TALAWAKELE",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 732,
+    "shedName": "A MADAWAN, TAWALANTENNA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 919,
+    "shedName": "R M S K RATHNAYAKE, KEERTIBANDARAPURA",
+    "lastupdatebyshed": "2022-06-15 07:38",
+    "fuelType": "p92",
+    "fuelCapacity": 596.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1089,
+    "shedName": "WATTAWALA PLANTATIONS PLC, WATTAWALA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1125,
+    "shedName": "OKMART HOLDING (PVT) LTD, HATTON",
+    "lastupdatebyshed": "2022-06-15 10:56",
+    "fuelType": "p92",
+    "fuelCapacity": 1220.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1157,
+    "shedName": "MS.M.Y.HEMACHANDRA & CO. (TRANS.) L, TALAWAKELE",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1165,
+    "shedName": "S M D M SAMARAKOON & SONS, PADIYAPELELLA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1239,
+    "shedName": "M UDAYAKUMAR, HATTON",
+    "lastupdatebyshed": "2022-06-15 09:26",
+    "fuelType": "p92",
+    "fuelCapacity": 690.0,
+    "bowserDispatch": true,
+    "eta": "2022-06-15 10:34, 6600L",
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1277,
+    "shedName": "U L U SHANTHA, NORTONBRIDGE",
+    "lastupdatebyshed": "2022-06-15 07:06",
+    "fuelType": "p92",
+    "fuelCapacity": 181.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1297,
+    "shedName": "D D KASTHURIARACHCHI & SONS, NUWARA ELIYA",
+    "lastupdatebyshed": "2022-06-15 10:27",
+    "fuelType": "p92",
+    "fuelCapacity": 1138.0,
+    "bowserDispatch": true,
+    "eta": "2022-06-15 11:05, 6600L",
+    "shedownerupdatetoday": true
+  }
+]

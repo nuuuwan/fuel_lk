@@ -1,0 +1,1182 @@
+[
+  {
+    "shedId": 1,
+    "shedName": "R.M. M. J.NAWINNA, KURUNEGALA",
+    "lastupdatebyshed": "2022-06-15 10:06",
+    "fuelType": "p92",
+    "fuelCapacity": 1030.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 45,
+    "shedName": "MAHO MPCS LTD, MAHO",
+    "lastupdatebyshed": "2022-06-15 09:07",
+    "fuelType": "p92",
+    "fuelCapacity": 1020.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 52,
+    "shedName": "CHANDANA FILLING STATION, NARAMMALA",
+    "lastupdatebyshed": "2022-06-15 08:26",
+    "fuelType": "p92",
+    "fuelCapacity": 337.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 53,
+    "shedName": "KOBEIGANE MPCS LTD, KOBEIGANE",
+    "lastupdatebyshed": "2022-06-15 09:07",
+    "fuelType": "p92",
+    "fuelCapacity": 1301.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 68,
+    "shedName": "WARIYAPOLA MPCS LTD, KATUPOTHA",
+    "lastupdatebyshed": "2022-06-15 09:32",
+    "fuelType": "p92",
+    "fuelCapacity": 320.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 79,
+    "shedName": "NIKEWERATIYA MPCS LTD, NIKAWERATIYA",
+    "lastupdatebyshed": "2022-06-15 10:39",
+    "fuelType": "p92",
+    "fuelCapacity": 2100.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 94,
+    "shedName": "A M M .NIJAM, IBBAGAMUWA",
+    "lastupdatebyshed": "2022-06-15 09:10",
+    "fuelType": "p92",
+    "fuelCapacity": 180.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 118,
+    "shedName": "R.M.N.RANASINGHE, DAMBADENIYA",
+    "lastupdatebyshed": "2022-06-15 08:59",
+    "fuelType": "p92",
+    "fuelCapacity": 148.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 119,
+    "shedName": "NAWA PANDUWASNUWARA INDHANA PIRAVUM, HETTIPOLA",
+    "lastupdatebyshed": "2022-06-15 08:24",
+    "fuelType": "p92",
+    "fuelCapacity": 100.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 131,
+    "shedName": "K.M.JAINUL ABDEEN, MINUWANGATE",
+    "lastupdatebyshed": "2022-06-15 07:36",
+    "fuelType": "p92",
+    "fuelCapacity": 454.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 135,
+    "shedName": " M.S.M.IQBAL, POLGAHAWELA",
+    "lastupdatebyshed": "2022-06-15 09:21",
+    "fuelType": "p92",
+    "fuelCapacity": 699.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 137,
+    "shedName": "RAMEES  M S M, WE - UDA",
+    "lastupdatebyshed": "2022-06-15 08:40",
+    "fuelType": "p92",
+    "fuelCapacity": 572.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 150,
+    "shedName": "ST.ANTHONY'S FILLING AND SERVICE ST, IBBAGAMUWA",
+    "lastupdatebyshed": "2022-06-15 06:23",
+    "fuelType": "p92",
+    "fuelCapacity": 41.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 164,
+    "shedName": "RISIKI LANKA PIRAVUMHALA, MASPOTHA",
+    "lastupdatebyshed": "2022-06-15 08:43",
+    "fuelType": "p92",
+    "fuelCapacity": 677.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 165,
+    "shedName": "SISIRA TRADING COMPANY (PVT) LTD, NARAMMALA",
+    "lastupdatebyshed": "2022-06-15 08:21",
+    "fuelType": "p92",
+    "fuelCapacity": 100.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 167,
+    "shedName": "INDIKA N SOVIS, WELLAWA",
+    "lastupdatebyshed": "2022-06-15 08:35",
+    "fuelType": "p92",
+    "fuelCapacity": 1742.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 206,
+    "shedName": "J K A R.PERERA, DUMMALASURIYA",
+    "lastupdatebyshed": "2022-06-15 10:34",
+    "fuelType": "p92",
+    "fuelCapacity": 536.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 207,
+    "shedName": "W B P ARIYADASA & SONS, KURUNEGALA",
+    "lastupdatebyshed": "2022-06-15 08:15",
+    "fuelType": "p92",
+    "fuelCapacity": 312.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 226,
+    "shedName": "K.R.SRIYANI JAYASURIYA, IBBAGAMUWA",
+    "lastupdatebyshed": "2022-06-15 08:59",
+    "fuelType": "p92",
+    "fuelCapacity": 592.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 259,
+    "shedName": "KULIYAPITIYA DIVISION MPCS LTD, KULIYAPITIYA",
+    "lastupdatebyshed": "2022-06-15 07:59",
+    "fuelType": "p92",
+    "fuelCapacity": 1500.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 274,
+    "shedName": "RIDIGAMA MPCS LTD, RIDIGAMA",
+    "lastupdatebyshed": "2022-06-15 08:44",
+    "fuelType": "p92",
+    "fuelCapacity": 902.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 294,
+    "shedName": "NAWA PANDUWASNUWARA MPCS LTD, HETTIPOLA",
+    "lastupdatebyshed": "2022-06-15 09:23",
+    "fuelType": "p92",
+    "fuelCapacity": 500.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 296,
+    "shedName": "N K B.ANIL JAYASINGHE, MAHO",
+    "lastupdatebyshed": "2022-06-15 09:09",
+    "fuelType": "p92",
+    "fuelCapacity": 699.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 306,
+    "shedName": "ALAWWA MPCS LTD, ALAWWA",
+    "lastupdatebyshed": "2022-06-15 09:33",
+    "fuelType": "p92",
+    "fuelCapacity": 63.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 322,
+    "shedName": "ROHANA ENTERPRISES, KALUGAMUWA JUNCTION, KALUGAMUWA",
+    "lastupdatebyshed": "2022-06-15 08:18",
+    "fuelType": "p92",
+    "fuelCapacity": 310.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 340,
+    "shedName": "N K B.ANIL JAYASINGHE, WARIYAPOLA",
+    "lastupdatebyshed": "2022-06-15 08:23",
+    "fuelType": "p92",
+    "fuelCapacity": 676.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 347,
+    "shedName": "DHAMMIKA ENTERPRISES, KURUNEGALA",
+    "lastupdatebyshed": "2022-06-15 08:29",
+    "fuelType": "p92",
+    "fuelCapacity": 387.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 373,
+    "shedName": "R M.ABEYKOON BANDA, KUMBUKGATE",
+    "lastupdatebyshed": "2022-06-15 08:50",
+    "fuelType": "p92",
+    "fuelCapacity": 291.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 377,
+    "shedName": "M N.WICKREMASINGHE, KURUNEGALA",
+    "lastupdatebyshed": "2022-06-15 09:03",
+    "fuelType": "p92",
+    "fuelCapacity": 152.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 388,
+    "shedName": "UDUBADDAWA MPCS LTD, UDUBADDAWA",
+    "lastupdatebyshed": "2022-06-15 10:14",
+    "fuelType": "p92",
+    "fuelCapacity": 620.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 394,
+    "shedName": "HIRIYALA MPCS LTD, IBBAGAMUWA",
+    "lastupdatebyshed": "2022-06-15 08:42",
+    "fuelType": "p92",
+    "fuelCapacity": 321.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 396,
+    "shedName": "WARIYAPOLA MPCS LTD, WARIYAPOLA",
+    "lastupdatebyshed": "2022-06-15 09:44",
+    "fuelType": "p92",
+    "fuelCapacity": 1634.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 419,
+    "shedName": "GAMINI MUNASINGHE  A M, NIKAWERATIYA",
+    "lastupdatebyshed": "2022-06-15 10:04",
+    "fuelType": "p92",
+    "fuelCapacity": 498.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 425,
+    "shedName": "POLPITIGAMA MPCS LTD, POLPITHIGAMA",
+    "lastupdatebyshed": "2022-06-15 09:50",
+    "fuelType": "p92",
+    "fuelCapacity": 716.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 435,
+    "shedName": "DAMBADENIYA MPCS LTD, DAMBADENIYA",
+    "lastupdatebyshed": "2022-06-15 08:56",
+    "fuelType": "p92",
+    "fuelCapacity": 1230.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 444,
+    "shedName": "GUNASIRI LANKA FILLING STATION, POTUHERA",
+    "lastupdatebyshed": "2022-06-15 08:58",
+    "fuelType": "p92",
+    "fuelCapacity": 365.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 447,
+    "shedName": "P.K.JAYATILLEKE, KULIYAPITIYA",
+    "lastupdatebyshed": "2022-06-15 09:44",
+    "fuelType": "p92",
+    "fuelCapacity": 1467.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 448,
+    "shedName": "MALLIKA SILVA, KURUNEGALA",
+    "lastupdatebyshed": "2022-06-15 09:03",
+    "fuelType": "p92",
+    "fuelCapacity": 178.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 471,
+    "shedName": "ASIRI LANKA, IBBAGAMUWA",
+    "lastupdatebyshed": "2022-06-15 09:07",
+    "fuelType": "p92",
+    "fuelCapacity": 1248.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 472,
+    "shedName": "B S S .DAYARATHNA, HIRIPITIYA",
+    "lastupdatebyshed": "2022-06-15 06:21",
+    "fuelType": "p92",
+    "fuelCapacity": 499.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 473,
+    "shedName": "S A P.PREMADASA, MAWATHAGAMA",
+    "lastupdatebyshed": "2022-06-15 09:07",
+    "fuelType": "p92",
+    "fuelCapacity": 430.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 482,
+    "shedName": "R N P R .FERNANDO, KULIYAPITIYA",
+    "lastupdatebyshed": "2022-06-15 09:04",
+    "fuelType": "p92",
+    "fuelCapacity": 146.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 490,
+    "shedName": "KATUGAMPOLA MPCS LTD, PANNALA",
+    "lastupdatebyshed": "2022-06-15 08:53",
+    "fuelType": "p92",
+    "fuelCapacity": 208.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 493,
+    "shedName": "KATUGAMPOLA MPCS LTD, GIRIULLA",
+    "lastupdatebyshed": "2022-06-15 08:54",
+    "fuelType": "p92",
+    "fuelCapacity": 900.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 496,
+    "shedName": "SEWANA LANKA FILLING STATION, AMBANPOLA",
+    "lastupdatebyshed": "2022-06-15 09:56",
+    "fuelType": "p92",
+    "fuelCapacity": 1150.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 506,
+    "shedName": "B.M.S.BANDARANAYAKE, GALGAMUWA",
+    "lastupdatebyshed": "2022-06-15 08:09",
+    "fuelType": "p92",
+    "fuelCapacity": 904.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 523,
+    "shedName": "KURUNEGALA MPCS LTD, KURUNEGALA",
+    "lastupdatebyshed": "2022-06-15 06:39",
+    "fuelType": "p92",
+    "fuelCapacity": 512.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 530,
+    "shedName": "KATUGAMPOLA MPCS LTD, KANDANAGEDERA",
+    "lastupdatebyshed": "2022-06-15 08:55",
+    "fuelType": "p92",
+    "fuelCapacity": 560.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 552,
+    "shedName": "I M.JAYATILLEKE, HORAMBAWA",
+    "lastupdatebyshed": "2022-06-14 10:28",
+    "fuelType": "p92",
+    "fuelCapacity": 5001.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 567,
+    "shedName": " P A.INDRASENA, MEEGALAWA",
+    "lastupdatebyshed": "2022-06-15 08:25",
+    "fuelType": "p92",
+    "fuelCapacity": 590.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 596,
+    "shedName": "MS.  MEDAMAWATHA HOLDINGS (PVT) LTD, BANDARAKOSWATTE",
+    "lastupdatebyshed": "2022-06-15 08:49",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 603,
+    "shedName": " W.A.SUMATHIPALA, KEPPETIWALANA",
+    "lastupdatebyshed": "2022-06-15 09:13",
+    "fuelType": "p92",
+    "fuelCapacity": 97.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 608,
+    "shedName": "C L M ENTERPRISES, WELPOTHUWEWA- BORULUWEWA",
+    "lastupdatebyshed": "2022-06-15 07:50",
+    "fuelType": "p92",
+    "fuelCapacity": 80.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 622,
+    "shedName": "BINGIRIYA MPCS LTD, NAGOLLAGODA",
+    "lastupdatebyshed": "2022-06-15 09:21",
+    "fuelType": "p92",
+    "fuelCapacity": 420.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 673,
+    "shedName": " R A.MAHINDA RANASINGHE, GIRIULLA",
+    "lastupdatebyshed": "2022-06-15 11:58",
+    "fuelType": "p92",
+    "fuelCapacity": 398.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 707,
+    "shedName": "POLGAHAWELA MPCS LTD, POLGAHAWELA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 760,
+    "shedName": "BINGIRIYA MPCS LTD, BINGIRIYA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 764,
+    "shedName": "K W SUSIRIPALA ASSOCIATES, KURUNEGALA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 766,
+    "shedName": "MAWATHAGAMA MPCS LTD, MAWATHAGAMA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 769,
+    "shedName": "SANDALANKAWA NEW MPCS LTD, SANDALANKAWA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 774,
+    "shedName": "T S JAYALATH, MASPOTHA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": true,
+    "eta": "2022-06-15 18:21, 6600L",
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 775,
+    "shedName": "A M D N ARTHANAYAKE, KULIYAPITIYA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 804,
+    "shedName": "GALGAMUVA MPCS LTD, GALGAMUWA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 822,
+    "shedName": "KURUNEGALA MPCS LTD, POTUHERA",
+    "lastupdatebyshed": "2022-06-15 09:25",
+    "fuelType": "p92",
+    "fuelCapacity": 590.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 825,
+    "shedName": "M.R.TENNAKOON, NIKAWERATIYA",
+    "lastupdatebyshed": "2022-06-15 08:06",
+    "fuelType": "p92",
+    "fuelCapacity": 410.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 850,
+    "shedName": "W.D.SAMARAPALA, RIDIGAMA",
+    "lastupdatebyshed": "2022-06-15 08:57",
+    "fuelType": "p92",
+    "fuelCapacity": 700.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 855,
+    "shedName": "M.C.S.PERERA, DUMMALASURIYA",
+    "lastupdatebyshed": "2022-06-15 09:24",
+    "fuelType": "p92",
+    "fuelCapacity": 380.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 865,
+    "shedName": "M.U.M.SUHOODI, BATTULU OYA",
+    "lastupdatebyshed": "2022-06-15 08:29",
+    "fuelType": "p92",
+    "fuelCapacity": 190.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 876,
+    "shedName": "R.M.S.UPATISSA, KOBEIGANE",
+    "lastupdatebyshed": "2022-06-15 08:26",
+    "fuelType": "p92",
+    "fuelCapacity": 596.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 884,
+    "shedName": "I.M.M.B.EDIRISINGHE, NANKAWATHTHA",
+    "lastupdatebyshed": "2022-06-15 08:04",
+    "fuelType": "p92",
+    "fuelCapacity": 799.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 885,
+    "shedName": "DISSANAYAKE ENTERPRICES, ALAWWA",
+    "lastupdatebyshed": "2022-06-15 10:11",
+    "fuelType": "p92",
+    "fuelCapacity": 69.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 889,
+    "shedName": "T. AMILA INDIKA GUNAPALA, NARANGODA",
+    "lastupdatebyshed": "2022-06-15 08:38",
+    "fuelType": "p92",
+    "fuelCapacity": 510.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 890,
+    "shedName": "A.I.C.FERNANDO, MUDUKATUWA",
+    "lastupdatebyshed": "2022-06-15 08:06",
+    "fuelType": "p92",
+    "fuelCapacity": 80.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 891,
+    "shedName": "W.G.M.P.WIJEWARDENE, WARIYAPOLA",
+    "lastupdatebyshed": "2022-06-15 08:07",
+    "fuelType": "p92",
+    "fuelCapacity": 670.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 901,
+    "shedName": "SAMSE AUTO MART (PVT) LTD, PANNALA",
+    "lastupdatebyshed": "2022-06-15 09:30",
+    "fuelType": "p92",
+    "fuelCapacity": 1548.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 926,
+    "shedName": "SLIPTO AGENCIES, SALIYA ASHOKAPURA",
+    "lastupdatebyshed": "2022-06-15 07:40",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 941,
+    "shedName": "D M SEELAWATHI, KAMBURUPOLA",
+    "lastupdatebyshed": "2022-06-15 11:47",
+    "fuelType": "p92",
+    "fuelCapacity": 450.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 973,
+    "shedName": "SOUTHERN PETROLEUM (PVT) LTD-2, KURUNEGALA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1005,
+    "shedName": "H.M.R.B Hearth Meewellawa Autocare, WARIYAPOLA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1008,
+    "shedName": "G S N N GUNATHILAKA, ILIPPUGAMUWA",
+    "lastupdatebyshed": "2022-06-15 08:35",
+    "fuelType": "p92",
+    "fuelCapacity": 910.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1010,
+    "shedName": "R K  HEMAKUMARA, KETAWALAGEDARA-WEWAGAMA",
+    "lastupdatebyshed": "2022-06-15 08:19",
+    "fuelType": "p92",
+    "fuelCapacity": 169.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1026,
+    "shedName": "R M J C  RATHNAYAKE, GOKARELLA",
+    "lastupdatebyshed": "2022-06-15 09:15",
+    "fuelType": "p92",
+    "fuelCapacity": 467.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1029,
+    "shedName": "MS. SURANGI SENARATH, PANNALA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1036,
+    "shedName": "W I N SOVIS, DODANGASLANDA",
+    "lastupdatebyshed": "2022-06-15 08:04",
+    "fuelType": "p92",
+    "fuelCapacity": 752.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1041,
+    "shedName": "MAX HOLDINGS  KANDY (PVT) LTD, PILESSA",
+    "lastupdatebyshed": "2022-06-15 08:45",
+    "fuelType": "p92",
+    "fuelCapacity": 394.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1048,
+    "shedName": "T M ALAHAKOON ENTERPRISES, MELSIRIPURA",
+    "lastupdatebyshed": "2022-06-15 08:31",
+    "fuelType": "p92",
+    "fuelCapacity": 813.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1053,
+    "shedName": "KURUNEGALA MPCS, GONAGAMA",
+    "lastupdatebyshed": "2022-06-15 07:01",
+    "fuelType": "p92",
+    "fuelCapacity": 590.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1056,
+    "shedName": "W G A M RANAWEERA, MAKADURA",
+    "lastupdatebyshed": "2022-06-15 07:58",
+    "fuelType": "p92",
+    "fuelCapacity": 765.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1060,
+    "shedName": "W UPALI AMROS DABARERA, VILATHTHAWA -PULIYAMKADAWALA",
+    "lastupdatebyshed": "2022-06-15 09:45",
+    "fuelType": "p92",
+    "fuelCapacity": 296.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1062,
+    "shedName": "W D W D SAMARASINGHE, DODANGASLANDA",
+    "lastupdatebyshed": "2022-06-15 08:33",
+    "fuelType": "p92",
+    "fuelCapacity": 200.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1084,
+    "shedName": "POLPITHIGAMA SANASA UNION (PVT) LTD, POLPITHIGAMA",
+    "lastupdatebyshed": "2022-06-15 11:48",
+    "fuelType": "p92",
+    "fuelCapacity": 472.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1085,
+    "shedName": "B M S BANDARANAYAKE, GALAPITAMULLA",
+    "lastupdatebyshed": "2022-06-15 08:12",
+    "fuelType": "p92",
+    "fuelCapacity": 960.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1086,
+    "shedName": "S B M A BANDARANAYAKE, GALGAMUWA",
+    "lastupdatebyshed": "2022-06-15 07:47",
+    "fuelType": "p92",
+    "fuelCapacity": 349.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1093,
+    "shedName": "MAHO MPCS, NAGOLLAGAMA",
+    "lastupdatebyshed": "2022-06-15 10:09",
+    "fuelType": "p92",
+    "fuelCapacity": 1558.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1097,
+    "shedName": "BINGIRIYA MPCS, WEERAPOKUNA",
+    "lastupdatebyshed": "2022-06-15 09:26",
+    "fuelType": "p92",
+    "fuelCapacity": 570.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1104,
+    "shedName": "S A L SOLANGAARACHCHI, KULIYAPITIYA",
+    "lastupdatebyshed": "2022-06-15 11:07",
+    "fuelType": "p92",
+    "fuelCapacity": 251.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1123,
+    "shedName": "B.M GUNERATHHAMY, KURUNEGALA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1139,
+    "shedName": "S D P HOLDINGS (PVT) LTD, KURUNEGALA RD - BOPITIYA",
+    "lastupdatebyshed": "2022-06-15 05:34",
+    "fuelType": "p92",
+    "fuelCapacity": 540.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1153,
+    "shedName": "YASASIRI LANKA FILLING STATION, KURUNEGALA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1197,
+    "shedName": "OKEMCO INDUSTRIAL CHEMICAL (PVT) LT, GIRIULLA",
+    "lastupdatebyshed": "2022-06-15 09:40",
+    "fuelType": "p92",
+    "fuelCapacity": 912.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1206,
+    "shedName": "D M SEELAWATHIE, YAKWILA-PARAGAMMANA",
+    "lastupdatebyshed": "2022-06-15 09:33",
+    "fuelType": "p92",
+    "fuelCapacity": 469.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1214,
+    "shedName": "E M N EKANAYAKE, ALAWWA",
+    "lastupdatebyshed": "2022-06-15 08:13",
+    "fuelType": "p92",
+    "fuelCapacity": 120.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1226,
+    "shedName": "S S FILLING STATION, BAMUNAWALA",
+    "lastupdatebyshed": "2022-06-15 08:43",
+    "fuelType": "p92",
+    "fuelCapacity": 2159.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1241,
+    "shedName": "W RUPASINGHE, MASPOTHA",
+    "lastupdatebyshed": "2022-06-15 08:46",
+    "fuelType": "p92",
+    "fuelCapacity": 332.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1243,
+    "shedName": "A A S H AMARASINHA, KATUMULUWA",
+    "lastupdatebyshed": "2022-06-15 08:59",
+    "fuelType": "p92",
+    "fuelCapacity": 595.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1245,
+    "shedName": "A H J LABDEEN, NARAMMALA",
+    "lastupdatebyshed": "2022-06-15 08:05",
+    "fuelType": "p92",
+    "fuelCapacity": 356.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1246,
+    "shedName": "S A M A JAYAWANSA, MELSIRIPURA",
+    "lastupdatebyshed": "2022-06-15 10:43",
+    "fuelType": "p92",
+    "fuelCapacity": 484.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1257,
+    "shedName": "S M WASANTHA PUSHPA KUMARA, ALAWWA",
+    "lastupdatebyshed": "2022-06-15 08:10",
+    "fuelType": "p92",
+    "fuelCapacity": 229.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1261,
+    "shedName": "SLIPTO AGENCIES - SH, SALIYA ASHOKAPURA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1263,
+    "shedName": "D M R D B UKUWELA, POLGAHAWELA",
+    "lastupdatebyshed": "2022-06-15 09:41",
+    "fuelType": "p92",
+    "fuelCapacity": 701.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1272,
+    "shedName": "H M K HERATH, THUTHTHIRIPITIGAMA-KADAWALAGEDARA",
+    "lastupdatebyshed": "2022-06-15 08:39",
+    "fuelType": "p92",
+    "fuelCapacity": 1000.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1290,
+    "shedName": "H M M N HERATH, MAVEE ELA JUNCTION",
+    "lastupdatebyshed": "2022-06-15 06:24",
+    "fuelType": "p92",
+    "fuelCapacity": 159.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1293,
+    "shedName": "D M SEELAWATHI, WARIYAPOLA",
+    "lastupdatebyshed": "2022-06-15 07:37",
+    "fuelType": "p92",
+    "fuelCapacity": 462.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1294,
+    "shedName": "B H B D K NIROSHAN, KADAHAPOLA",
+    "lastupdatebyshed": "2022-06-15 08:40",
+    "fuelType": "p92",
+    "fuelCapacity": 128.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1306,
+    "shedName": "H H D E P HERATH, BARAMPOLA JUNCTION",
+    "lastupdatebyshed": "2022-06-15 08:01",
+    "fuelType": "p92",
+    "fuelCapacity": 213.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1311,
+    "shedName": "J M B J JAYASUNDARA, WITHIKULIYA JUNCTION",
+    "lastupdatebyshed": "2022-06-14 13:18",
+    "fuelType": "p92",
+    "fuelCapacity": 1176.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1321,
+    "shedName": "A R WIJESINGHE, WENNORUWA",
+    "lastupdatebyshed": "2022-06-15 09:56",
+    "fuelType": "p92",
+    "fuelCapacity": 263.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1323,
+    "shedName": "S S FILLING STATIONS (PVT) LTD, KURUNEGALA",
+    "lastupdatebyshed": "2022-06-15 06:54",
+    "fuelType": "p92",
+    "fuelCapacity": 1306.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  }
+]

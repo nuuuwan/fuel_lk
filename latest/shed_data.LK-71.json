@@ -1,0 +1,512 @@
+[
+  {
+    "shedId": 5,
+    "shedName": "SRI LANKA AIR FORCE SERVICE INSTITU, ANURADHAPURA",
+    "lastupdatebyshed": "2022-06-15 12:21",
+    "fuelType": "p92",
+    "fuelCapacity": 172.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 67,
+    "shedName": "M H M.MOHIDEEN, GALENBINDUNUWEWA",
+    "lastupdatebyshed": "2022-06-15 08:18",
+    "fuelType": "p92",
+    "fuelCapacity": 350.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 114,
+    "shedName": "MRS. L S K.DISSANAYAKE, EPPAWELA",
+    "lastupdatebyshed": "2022-06-15 08:14",
+    "fuelType": "p92",
+    "fuelCapacity": 100.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 132,
+    "shedName": "R.N.KARUNANAYAKE, SIPPUKULAMA",
+    "lastupdatebyshed": "2022-06-15 09:03",
+    "fuelType": "p92",
+    "fuelCapacity": 650.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 186,
+    "shedName": "KEBITIGOLLAWA MPCS LTD, KEBITIGOLLAWA",
+    "lastupdatebyshed": "2022-06-15 08:49",
+    "fuelType": "p92",
+    "fuelCapacity": 1253.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 209,
+    "shedName": "WG FRANCIS APPUHAMY SAMUHA VIYAPARA, MIHINTALE",
+    "lastupdatebyshed": "2022-06-15 08:57",
+    "fuelType": "p92",
+    "fuelCapacity": 290.0,
+    "bowserDispatch": true,
+    "eta": "2022-06-15 08:19, 6600L",
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 237,
+    "shedName": "R A T A .MEDAGAMA, KEKIRAWA",
+    "lastupdatebyshed": "2022-06-15 07:39",
+    "fuelType": "p92",
+    "fuelCapacity": 400.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 264,
+    "shedName": "A DE S JAYAWARDENA & SON, ANURADHAPURA",
+    "lastupdatebyshed": "2022-06-15 10:23",
+    "fuelType": "p92",
+    "fuelCapacity": 174.0,
+    "bowserDispatch": true,
+    "eta": "2022-06-15 08:22, 6600L",
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 317,
+    "shedName": "GALKULAMA FUEL MART, GALKULAMA",
+    "lastupdatebyshed": "2022-06-15 09:08",
+    "fuelType": "p92",
+    "fuelCapacity": 454.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 330,
+    "shedName": "D B .DISSANAYAKE, EPPAWELA",
+    "lastupdatebyshed": "2022-06-15 09:22",
+    "fuelType": "p92",
+    "fuelCapacity": 440.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 363,
+    "shedName": "U.D. GAMAGE, KEKIRAWA",
+    "lastupdatebyshed": "2022-06-15 09:32",
+    "fuelType": "p92",
+    "fuelCapacity": 400.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 403,
+    "shedName": "GALNEWA MPCS LTD, GALNEWA",
+    "lastupdatebyshed": "2022-06-15 08:58",
+    "fuelType": "p92",
+    "fuelCapacity": 659.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 428,
+    "shedName": "PADAVI PARAKRAMAPURA MPCS LTD, PADAVIYA",
+    "lastupdatebyshed": "2022-06-15 07:23",
+    "fuelType": "p92",
+    "fuelCapacity": 596.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 446,
+    "shedName": "RAMBEWA MPCS LTD, RAMBEWA",
+    "lastupdatebyshed": "2022-06-15 08:59",
+    "fuelType": "p92",
+    "fuelCapacity": 640.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 457,
+    "shedName": "THELLAMBURA & SON, TALAWA",
+    "lastupdatebyshed": "2022-06-15 08:23",
+    "fuelType": "p92",
+    "fuelCapacity": 1116.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 461,
+    "shedName": "ANURADHAPURA MPCS LTD, ANURADHAPURA",
+    "lastupdatebyshed": "2022-06-15 08:22",
+    "fuelType": "p92",
+    "fuelCapacity": 5587.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 479,
+    "shedName": "GAMINI SAMARASINGHA, NOCHCHIYAGAMA",
+    "lastupdatebyshed": "2022-06-15 01:58",
+    "fuelType": "p92",
+    "fuelCapacity": 215.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 487,
+    "shedName": "D S GUNASEKARA FILLING & SERV(PVT), ANURADHAPURA",
+    "lastupdatebyshed": "2022-06-15 08:59",
+    "fuelType": "p92",
+    "fuelCapacity": 435.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 497,
+    "shedName": "C P ABDULLA & SONS, MEDAWACHCHIYA",
+    "lastupdatebyshed": "2022-06-15 12:25",
+    "fuelType": "p92",
+    "fuelCapacity": 860.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 500,
+    "shedName": "MEDAWACHCHIYA MPCS LTD, MEDAWACHCHIYA",
+    "lastupdatebyshed": "2022-06-15 08:51",
+    "fuelType": "p92",
+    "fuelCapacity": 1013.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 527,
+    "shedName": "W M D K .UYANWATTE, ANURADHAPURA",
+    "lastupdatebyshed": "2022-06-15 09:56",
+    "fuelType": "p92",
+    "fuelCapacity": 285.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 554,
+    "shedName": "B SAMARAWEERA  & SON, MAHA VILACHCHIYA",
+    "lastupdatebyshed": "2022-06-15 06:38",
+    "fuelType": "p92",
+    "fuelCapacity": 400.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 633,
+    "shedName": "NAJEEM STORES, HOROWUPOTANA",
+    "lastupdatebyshed": "2022-06-15 08:48",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 805,
+    "shedName": "KAHATAGASDIGILIYA MPCS LTD, KAHATAGASDIGILIYA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 807,
+    "shedName": "MRS C R SAMARASINGHE, NOCHCHIYAGAMA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 820,
+    "shedName": "FALAHI GROUP (PVT) LTD, KEKIRAWA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 839,
+    "shedName": "A M NANDAWATHI, KEKIRAWA",
+    "lastupdatebyshed": "2022-06-15 10:01",
+    "fuelType": "p92",
+    "fuelCapacity": 350.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 843,
+    "shedName": "K P A C CHANDRASEELI, MARADANKADAWALA",
+    "lastupdatebyshed": "2022-06-15 09:18",
+    "fuelType": "p92",
+    "fuelCapacity": 600.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 848,
+    "shedName": "W.G.NANDALAL, HOROWUPOTANA",
+    "lastupdatebyshed": "2022-06-15 07:05",
+    "fuelType": "p92",
+    "fuelCapacity": 445.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 867,
+    "shedName": "INDIKA FILLING STATION, ANURADHAPURA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 874,
+    "shedName": "P S PIYATHILAKE & SONS PVT LTD, ANURADHAPURA",
+    "lastupdatebyshed": "2022-06-15 08:54",
+    "fuelType": "p92",
+    "fuelCapacity": 613.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 894,
+    "shedName": "NC PROVINCE CONSUMERS CO-OP SO LTD, OYAMADUWA",
+    "lastupdatebyshed": "2022-06-14 09:13",
+    "fuelType": "p92",
+    "fuelCapacity": 5925.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 932,
+    "shedName": "CENTRAL AGENCY, ANURADHAPURA",
+    "lastupdatebyshed": "2022-06-15 09:39",
+    "fuelType": "p92",
+    "fuelCapacity": 654.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 946,
+    "shedName": "S H KANDAMBI, NOCHCHIYAGAMA",
+    "lastupdatebyshed": "2022-06-15 09:35",
+    "fuelType": "p92",
+    "fuelCapacity": 445.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 949,
+    "shedName": "M D W UPUL KUMARA, POTHANEGAMA",
+    "lastupdatebyshed": "2022-06-15 09:56",
+    "fuelType": "p92",
+    "fuelCapacity": 1263.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 977,
+    "shedName": "MAYADUNNE FILLING CENTER, ANURADHAPURA",
+    "lastupdatebyshed": "2022-06-15 08:44",
+    "fuelType": "p92",
+    "fuelCapacity": 131.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 987,
+    "shedName": "H M M K JAYASENA, IHALAWEWA, KIRALOGAMA",
+    "lastupdatebyshed": "2022-06-15 08:31",
+    "fuelType": "p92",
+    "fuelCapacity": 370.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1013,
+    "shedName": "Mrs. D.P.Nanayakkara, ANURADHAPURA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1024,
+    "shedName": "P A THILAKAWARDANA, KEKIRAWA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1102,
+    "shedName": "KAVINDA DISSANAYAKE, THAMBUTHEGAMA",
+    "lastupdatebyshed": "2022-06-14 12:29",
+    "fuelType": "p92",
+    "fuelCapacity": 3108.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1105,
+    "shedName": "P D E SENAVIRATNA, HABARANA",
+    "lastupdatebyshed": "2022-06-15 08:05",
+    "fuelType": "p92",
+    "fuelCapacity": 41.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1143,
+    "shedName": "R S B FERNANDO LANKA SERVICE ST, ANURADHAPURA",
+    "lastupdatebyshed": "2022-06-15 08:49",
+    "fuelType": "p92",
+    "fuelCapacity": 251.0,
+    "bowserDispatch": true,
+    "eta": "2022-06-15 08:22, 6600L",
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1178,
+    "shedName": "N U DISSANAYAKE, KORASAGALLA",
+    "lastupdatebyshed": "2022-06-15 07:01",
+    "fuelType": "p92",
+    "fuelCapacity": 1920.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1213,
+    "shedName": "C K K SENAVIRATNA, GALENBINDUNUWEWA",
+    "lastupdatebyshed": "2022-06-15 08:11",
+    "fuelType": "p92",
+    "fuelCapacity": 196.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1215,
+    "shedName": "W G NANDALAL, KAHATAGASDIGILIYA",
+    "lastupdatebyshed": "2022-06-15 07:03",
+    "fuelType": "p92",
+    "fuelCapacity": 256.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1249,
+    "shedName": "H M SUNIL JAYARATHNA, BULNEWA",
+    "lastupdatebyshed": "2022-06-15 10:23",
+    "fuelType": "p92",
+    "fuelCapacity": 210.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1308,
+    "shedName": "A W W ROHANA BANDARA, PUBBOGAMA",
+    "lastupdatebyshed": "2022-06-15 07:52",
+    "fuelType": "p92",
+    "fuelCapacity": 179.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1309,
+    "shedName": "W A VERANGA KARUNARATNE, RAJANGANAYA",
+    "lastupdatebyshed": "2022-06-15 08:45",
+    "fuelType": "p92",
+    "fuelCapacity": 497.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1310,
+    "shedName": "K K D SENAVIRATHNA, BOGASWEWA, IKIRIGOLLEWA",
+    "lastupdatebyshed": "2022-06-15 08:22",
+    "fuelType": "p92",
+    "fuelCapacity": 360.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1330,
+    "shedName": "RITIGALA FILLING STATION, KEKIRAWA",
+    "lastupdatebyshed": "2022-06-15 09:38",
+    "fuelType": "p92",
+    "fuelCapacity": 130.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1334,
+    "shedName": "K D ANIL, HABARANA",
+    "lastupdatebyshed": "2022-06-15 06:37",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  }
+]

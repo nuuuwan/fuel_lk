@@ -1,0 +1,142 @@
+[
+  {
+    "shedId": 26,
+    "shedName": "MANNAR MPCS LTD, SIRITOPPU",
+    "lastupdatebyshed": "2022-06-13 06:13",
+    "fuelType": "p92",
+    "fuelCapacity": 3800.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 51,
+    "shedName": " I CHARLES  NIRMALANATHAN, MANNAR",
+    "lastupdatebyshed": "2022-06-15 08:05",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 211,
+    "shedName": "S. ANTON, MURUNGAN",
+    "lastupdatebyshed": "2022-06-14 14:28",
+    "fuelType": "p92",
+    "fuelCapacity": 100.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 235,
+    "shedName": "MANTAI  SOUTH MPCS LTD, MANNAR",
+    "lastupdatebyshed": "2022-06-15 06:18",
+    "fuelType": "p92",
+    "fuelCapacity": 990.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 460,
+    "shedName": "MANTHAI WEST MPCS LTD, MANNAR",
+    "lastupdatebyshed": "2022-06-15 09:33",
+    "fuelType": "p92",
+    "fuelCapacity": 425.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 548,
+    "shedName": "UDUMAN  FAROOK, THALAIMANNAR",
+    "lastupdatebyshed": "2022-06-15 09:40",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 577,
+    "shedName": "CANCEL-MS.  MANSOOR JAINUL ABDEEN, TALAIMANNAR PIER",
+    "lastupdatebyshed": "2022-06-15 09:56",
+    "fuelType": "p92",
+    "fuelCapacity": 1826.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 582,
+    "shedName": "NANATTAN  DIVISION MPCS  LTD, NANATTAN",
+    "lastupdatebyshed": "2022-06-14 11:16",
+    "fuelType": "p92",
+    "fuelCapacity": 450.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 851,
+    "shedName": "Nanhatan MPCS Ltd., MURUNGAN",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 868,
+    "shedName": "MANNAR MPCS LIMITED, MANNAR",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1063,
+    "shedName": "MADHU CHURCH, MANNAR",
+    "lastupdatebyshed": "2022-06-15 11:01",
+    "fuelType": "p92",
+    "fuelCapacity": 489.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1138,
+    "shedName": "S D P N JEYASUNDARA, SILAWATTURA",
+    "lastupdatebyshed": "2022-06-15 09:17",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1278,
+    "shedName": "N SHANMUKAKUMARAN, MANNAR",
+    "lastupdatebyshed": "2022-06-15 09:13",
+    "fuelType": "p92",
+    "fuelCapacity": 950.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1305,
+    "shedName": "M J M ASLAM, THARAPURAM",
+    "lastupdatebyshed": "2022-06-15 09:15",
+    "fuelType": "p92",
+    "fuelCapacity": 380.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  }
+]

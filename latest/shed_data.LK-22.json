@@ -1,0 +1,292 @@
+[
+  {
+    "shedId": 127,
+    "shedName": "WIJAYA LANKA TRADING (PVT) LTD, GALEWELA",
+    "lastupdatebyshed": "2022-06-15 07:34",
+    "fuelType": "p92",
+    "fuelCapacity": 337.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 146,
+    "shedName": "CAFFOOR & CO, MATALE",
+    "lastupdatebyshed": "2022-06-15 08:51",
+    "fuelType": "p92",
+    "fuelCapacity": 361.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 170,
+    "shedName": "JAYANTHI MARKETING ( PVT ) LTD, RATTOTA",
+    "lastupdatebyshed": "2022-06-15 09:22",
+    "fuelType": "p92",
+    "fuelCapacity": 480.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 255,
+    "shedName": "AUTO SERVICES DAMBULLA (PVT) LTD, DAMBULLA",
+    "lastupdatebyshed": "2022-06-15 08:16",
+    "fuelType": "p92",
+    "fuelCapacity": 1236.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 257,
+    "shedName": "LAKRUKA, NAULA",
+    "lastupdatebyshed": "2022-06-15 09:02",
+    "fuelType": "p92",
+    "fuelCapacity": 212.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 315,
+    "shedName": "KASUN ENTERPRISES, WILGAMUWA",
+    "lastupdatebyshed": "2022-06-15 09:19",
+    "fuelType": "p92",
+    "fuelCapacity": 2900.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 339,
+    "shedName": "GALEWELA MPCS LTD, DEVAHUWA",
+    "lastupdatebyshed": "2022-06-15 12:00",
+    "fuelType": "p92",
+    "fuelCapacity": 611.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 348,
+    "shedName": "W.K.ANURA GUNAWARDANA, DAMBULLA",
+    "lastupdatebyshed": "2022-06-15 10:22",
+    "fuelType": "p92",
+    "fuelCapacity": 225.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 358,
+    "shedName": "NAULA MPCS LTD, NAULA",
+    "lastupdatebyshed": "2022-06-14 09:01",
+    "fuelType": "p92",
+    "fuelCapacity": 157.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 489,
+    "shedName": "MANCHANAYAKE PIRAVUMHALA, DAMBULLA",
+    "lastupdatebyshed": "2022-06-15 09:02",
+    "fuelType": "p92",
+    "fuelCapacity": 3866.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 539,
+    "shedName": "GALEWELA MPCS LTD, NEELAGAMA",
+    "lastupdatebyshed": "2022-06-15 08:01",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 724,
+    "shedName": "S S BANDARA, MATALE",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 730,
+    "shedName": "SCAN LANKA, MATALE",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 734,
+    "shedName": "MATALE MPCS LTD, MATALE",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 737,
+    "shedName": "PALLEPOLA MPCS LTD, PALLEPOLA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 802,
+    "shedName": "RANGIRI DAMBULLA MPCS LTD, DAMBULLA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 803,
+    "shedName": "GALEWELA MPCS LTD, GALEWELA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 824,
+    "shedName": "M.H.M.FAZLUL HAQ, MATALE",
+    "lastupdatebyshed": "2022-06-15 08:55",
+    "fuelType": "p92",
+    "fuelCapacity": 416.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 942,
+    "shedName": "B H PARAKUM, DAMBULLA",
+    "lastupdatebyshed": "2022-06-15 09:41",
+    "fuelType": "p92",
+    "fuelCapacity": 157.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1011,
+    "shedName": "ISURI MOTORS (PVT) LTD, INAMALUWA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1012,
+    "shedName": "D.A. Dammika, DAMBULLA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1081,
+    "shedName": "E G P A RUPASINGHE, DAMBULLA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": true,
+    "eta": "Not Available",
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1111,
+    "shedName": "A & J DEVELOPERS & CONSULTANTS (PVT, MATALE",
+    "lastupdatebyshed": "2022-06-15 11:16",
+    "fuelType": "p92",
+    "fuelCapacity": 747.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1146,
+    "shedName": "A M U B ARAMPOLA, PALAPATHWALA",
+    "lastupdatebyshed": "2022-06-15 12:04",
+    "fuelType": "p92",
+    "fuelCapacity": 1316.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1166,
+    "shedName": "ASIGIRI MPCS LTD, YATAWATTA",
+    "lastupdatebyshed": "Not Available",
+    "fuelType": "p92",
+    "fuelCapacity": 0.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": false
+  },
+  {
+    "shedId": 1185,
+    "shedName": "S S N DE SILVA, PALAPATHWALA",
+    "lastupdatebyshed": "2022-06-15 09:30",
+    "fuelType": "p92",
+    "fuelCapacity": 50.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1194,
+    "shedName": "JAYANTHI TRADING & EXPORT (PVT) LTD, UKUWELA",
+    "lastupdatebyshed": "2022-06-15 08:45",
+    "fuelType": "p92",
+    "fuelCapacity": 780.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1208,
+    "shedName": "G M N G C K GAMLATH, YATAWATTA",
+    "lastupdatebyshed": "2022-06-15 08:20",
+    "fuelType": "p92",
+    "fuelCapacity": 500.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  },
+  {
+    "shedId": 1236,
+    "shedName": "LAKRUKA, MATALE",
+    "lastupdatebyshed": "2022-06-15 09:03",
+    "fuelType": "p92",
+    "fuelCapacity": 476.0,
+    "bowserDispatch": false,
+    "eta": null,
+    "shedownerupdatetoday": true
+  }
+]
