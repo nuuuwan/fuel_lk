@@ -37,7 +37,7 @@ def clean_shed_data(d):
     )
 
 
-def scrape_shed_data_for_single_district(
+def scrape_sheds_for_single_district(
     district_id,
     province_fuel_id,
     district_fuel_id,
@@ -62,12 +62,12 @@ def scrape_shed_data_for_single_district(
     return shed_data_list
 
 
-def scrape_shed_data():
+def scrape_sheds():
     expanded_district_list = districts.get_expanded_district_list()
 
     shed_data_list_all = []
-    for expanded_district in expanded_district_list[-1:]:
-        shed_data_list_all += scrape_shed_data_for_single_district(
+    for expanded_district in expanded_district_list:
+        shed_data_list_all += scrape_sheds_for_single_district(
             expanded_district['district_id'],
             expanded_district['province_fuel_id'],
             expanded_district['district_fuel_id'],
