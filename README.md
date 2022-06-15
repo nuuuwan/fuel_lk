@@ -1,6 +1,6 @@
 # Fuel.LK
 
-*Last updated at 20220615-173451*
+*Last updated at 20220615-181302*
 
 Analyzed 1344 sheds.
 
@@ -1058,6 +1058,8 @@ Analyzed 1344 sheds.
 
 * [104267] C S MUNASINGHE (Access Road Nugaduwa,Galle)
 
+* [105055] A ARUNA SURANGA (Kahawa - Batapola Rd, Batapola)
+
 * [105105] R K BANDUJITH (Hikkaduwa-baddegama Rd, Gonapinuwala)
 
 * [100400] BALAPITIYA MPCS LTD (Lanka Filling Station, A2, Balapitiya)
@@ -1118,9 +1120,9 @@ Analyzed 1344 sheds.
 
 * [103349] RUWAN SISIL DISSANAYAKE (Nelluwa Filling Station, B411, Neluwa)
 
-* [100120] TELIKADA MAJUWANA MPCS LTD (B128, Baddegama)
-
 * [103845] H J KITHSIRI (Uduwila-Batapola)
+
+* [100120] TELIKADA MAJUWANA MPCS LTD (B128, Baddegama)
 
 * [103608] M.K.SIRISENA (Denipitiya Fuel Station, , Denipitiya, Weligama)
 
@@ -1157,8 +1159,6 @@ Analyzed 1344 sheds.
 * [100663] WITHNAGE ENTERPRISES (Galle - Udugama Rd, Nakiyadeniya)
 
 * [105068] N T K WIJESEKARA & SON (WANDURAMBA)
-
-* [105055] A ARUNA SURANGA (Kahawa - Batapola Rd, Batapola)
 
 * [103722] T H JAYALATH (Godagama Lanka Fuel Station, A2, Godagama, Thelwatta)
 
@@ -1366,6 +1366,8 @@ Analyzed 1344 sheds.
 
 * [100320] C P MOHAMED & SONS (Trincomalee Rd, Anuradhapura)
 
+* [106327] MRS. J KANAGARASAN & SISTER (No 87 Raja Complex, Jaffna-kankesanturai Rd, Chunnakam)
+
 * [106346] RATNAM FILLING STATION (Palali Rd, Jaffna)
 
 * [100354] C.VETHANAYAKI (Punnalaikaduvan)
@@ -1462,27 +1464,25 @@ Analyzed 1344 sheds.
 
 * [100459] NALLUR MPCS LTD (Lanka Filling Station, Ab20, Kalviyankadu)
 
-* [106327] MRS. J KANAGARASAN & SISTER (No 87 Raja Complex, Jaffna-kankesanturai Rd, Chunnakam)
-
 * [100883] N.S.NAGALINGAM & SONS (Tellippalai)
 
-* [100813] CHANKANAI MPCS LTD (Chankanai)
-
-* [100521] SELLIAH UTHAYAKUMAR (Seerani Junction, Sandilipay)
+* [104831] SRI LANKA RED CROSS SOCIETY (JAFFNA.)
 
 * [103935] KARAINAGAR MPCS LTD (Valanthalai Junction,Karainagar)
 
-* [100899] T.AMPALAM (Kurichchikadu)
-
 * [103919] SIVA FILLING STATION (278, Kandy Road, Nunavil, Chavakachcheri)
+
+* [100813] CHANKANAI MPCS LTD (Chankanai)
+
+* [100899] T.AMPALAM (Kurichchikadu)
 
 * [100842] ALAVEDDY MALLAKAM MPCS LTD (Alaveddy Centre)
 
 * [100790] MRS.  R.RAJALEDCHUMY (Jaffna-Point Pedro Rd Puttur)
 
-* [104831] SRI LANKA RED CROSS SOCIETY (JAFFNA.)
-
 * [100721] MS.  DELFT MPCS LTD (Punkudutivu)
+
+* [100521] SELLIAH UTHAYAKUMAR (Seerani Junction, Sandilipay)
 
 * [100258] S. ANTON (Murunkan - Silavatturai Rd)
 
@@ -1606,6 +1606,8 @@ Analyzed 1344 sheds.
 
 * [100270] JAGATHEES & SONS (Trincomalee Hwy, Batticaloa)
 
+* [104682] S GOBIKRISHNA (Chenkalady)
+
 * [104709] LOGESPARAN PRIYAPARAN (Colombo - Batticaloa Hwy, Thalankudah)
 
 * [105634] V PARAMESHWARY (Mandur)
@@ -1666,8 +1668,6 @@ Analyzed 1344 sheds.
 
 * [103925] FISHERY DEPARTMENT (Palameenmadhu)
 
-* [104682] S GOBIKRISHNA (Chenkalady)
-
 * [100447] BT/ LIVE STOCK BREEDER'S CS LTD (Batticaloa)
 
 * [106360] J A YOGANATHAN (37, Station Cross Rd, Batticaloa)
@@ -1683,6 +1683,10 @@ Analyzed 1344 sheds.
 * [106006] HANA LANKA LOGISTICS (PVT) LTD (203 Main St, Kalmunai)
 
 * [100616] AMPARA MPCS LTD (D. S. Senanayke Rd, Ampara)
+
+* [100247] O.M.ALIYAR SONS (Colombo - Ratnapura - Wellawaya - Batticaloa Rd, Kalmunai )
+
+* [103786] ARUMUGAM RASAMANI (A.rasamany Fuel Station, Sinnapananakadu - Akkaraipattu)
 
 * [100460] S.M.FAROOK (Karativu - Ampara Hwy, Sammanthurai)
 
@@ -1774,17 +1778,13 @@ Analyzed 1344 sheds.
 
 * [100169] P.M.K.RAHUMAN (213 Main St, Kalmunai)
 
-* [103786] ARUMUGAM RASAMANI (A.rasamany Fuel Station, Sinnapananakadu - Akkaraipattu)
-
 * [102681] H.M. AMEER ALI (Karaitivu)
-
-* [100247] O.M.ALIYAR SONS (Colombo - Ratnapura - Wellawaya - Batticaloa Rd, Kalmunai )
 
 * [104318] MANGO TREE LANKA IOC FILLING (Pottuvil)
 
-* [102796] OSAKA LANKA IOC FILLING STATION (Addapallam, Nintavour)
-
 * [104458] LAUGFS PETROLEUM (PVT) LTD (Oluvil)
+
+* [102796] OSAKA LANKA IOC FILLING STATION (Addapallam, Nintavour)
 
 * [102460] A Z M HASSIM (237, Colombo - Batticaloa Hwy, Akkaraipattu)
 
