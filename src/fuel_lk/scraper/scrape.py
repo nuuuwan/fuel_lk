@@ -2,7 +2,7 @@ import json
 import os
 
 import requests
-from utils import TSVFile
+from utils import JSONFile
 
 from fuel_lk.common import DIR_DATA, log
 from fuel_lk.core import districts
@@ -28,11 +28,11 @@ def scrape_shed_data_for_single_district(
     shed_data_list = json.loads(data_json)
     n_shed_data_list = len(shed_data_list)
 
-    tsv_file = os.path.join(DIR_DATA, f'shed_data.{district_id}.tsv')
-    TSVFile(tsv_file).write(shed_data_list)
+    json_file = os.path.join(DIR_DATA, f'latest/shed_data.{district_id}.json')
+    JSONFile(json_file).write(shed_data_list)
 
     log.debug(
-        f'Saved {n_shed_data_list} sheds for {district_id} to {tsv_file}')
+        f'Saved {n_shed_data_list} sheds for {district_id} to {json_file}')
 
 
 def scrape_shed_data():
