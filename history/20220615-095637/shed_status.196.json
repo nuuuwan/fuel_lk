@@ -1,0 +1,81 @@
+{
+  "shed_id": 196,
+  "shed_name": "ISLAMIC SOCIETY",
+  "time_last_updated_by_shed": "2022-06-15 09:48",
+  "time_last_updated_by_shed_ut": 1655266680,
+  "fuel_type": "p92",
+  "fuel_capacity": 380.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100238",
+  "address": "Thampalakama Kinniya Road, Kinniya",
+  "lat_lng": [
+    8.486852,
+    81.173027
+  ],
+  "time_last_updated_ut": 1655266680,
+  "time_last_updated": "2022-06-15 09:48",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655112660,
+      "time_dispatch": "2022-06-13 15:01",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655113200,
+      "time_last_updated": "2022-06-13 15:10",
+      "time_eta_ut": 1655131200,
+      "time_eta": "2022-06-13 20:10"
+    },
+    {
+      "time_dispatch_ut": 1654758360,
+      "time_dispatch": "2022-06-09 12:36",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654776900,
+      "time_eta": "2022-06-09 17:45"
+    },
+    {
+      "time_dispatch_ut": 1654573740,
+      "time_dispatch": "2022-06-07 09:19",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654574100,
+      "time_last_updated": "2022-06-07 09:25",
+      "time_eta_ut": 1654602540,
+      "time_eta": "2022-06-07 17:19"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 380.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 600.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 170.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

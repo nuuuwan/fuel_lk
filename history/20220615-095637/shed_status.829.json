@@ -1,0 +1,59 @@
+{
+  "shed_id": 829,
+  "shed_name": "CEYLON FISHERY HARBOURS CORPORATION",
+  "time_last_updated_by_shed": "2022-06-15 09:54",
+  "time_last_updated_by_shed_ut": 1655267040,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "102679",
+  "address": "Negambo",
+  "lat_lng": [
+    7.20431,
+    79.827583
+  ],
+  "time_last_updated_ut": 1655267040,
+  "time_last_updated": "2022-06-15 09:54",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655109540,
+      "time_dispatch": "2022-06-13 14:09",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655110200,
+      "time_last_updated": "2022-06-13 14:20",
+      "time_eta_ut": 1655113920,
+      "time_eta": "2022-06-13 15:22"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 7125.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

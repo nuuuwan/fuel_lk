@@ -1,0 +1,70 @@
+{
+  "shed_id": 1201,
+  "shed_name": "T S CHAINS (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 10:10",
+  "time_last_updated_by_shed_ut": 1655268000,
+  "fuel_type": "p92",
+  "fuel_capacity": 611.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105739",
+  "address": "Gonawala",
+  "lat_lng": [
+    6.986517,
+    79.974533
+  ],
+  "time_last_updated_ut": 1655268000,
+  "time_last_updated": "2022-06-15 10:10",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655281140,
+      "time_dispatch": "2022-06-15 13:49",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655281800,
+      "time_last_updated": "2022-06-15 14:00",
+      "time_eta_ut": 1655283720,
+      "time_eta": "2022-06-15 14:32"
+    },
+    {
+      "time_dispatch_ut": 1655103000,
+      "time_dispatch": "2022-06-13 12:20",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655103600,
+      "time_last_updated": "2022-06-13 12:30",
+      "time_eta_ut": 1655105340,
+      "time_eta": "2022-06-13 12:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 611.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 233.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 369.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

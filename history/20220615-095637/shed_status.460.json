@@ -1,0 +1,70 @@
+{
+  "shed_id": 460,
+  "shed_name": "MANTHAI WEST MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:33",
+  "time_last_updated_by_shed_ut": 1655265780,
+  "fuel_type": "p92",
+  "fuel_capacity": 425.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100555",
+  "address": "Pallimunai Rd, Mannar",
+  "lat_lng": [
+    8.978288,
+    79.913177
+  ],
+  "time_last_updated_ut": 1655265780,
+  "time_last_updated": "2022-06-15 09:33",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655096880,
+      "time_dispatch": "2022-06-13 10:38",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655097300,
+      "time_last_updated": "2022-06-13 10:45",
+      "time_eta_ut": 1655117220,
+      "time_eta": "2022-06-13 16:17"
+    },
+    {
+      "time_dispatch_ut": 1654660380,
+      "time_dispatch": "2022-06-08 09:23",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654660800,
+      "time_last_updated": "2022-06-08 09:30",
+      "time_eta_ut": 1654673520,
+      "time_eta": "2022-06-08 13:02"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 425.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 5899.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 279.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
