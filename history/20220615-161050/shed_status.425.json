@@ -1,0 +1,70 @@
+{
+  "shed_id": 425,
+  "shed_name": "POLPITIGAMA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:50",
+  "time_last_updated_by_shed_ut": 1655266800,
+  "fuel_type": "p92",
+  "fuel_capacity": 716.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 21:05, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100513",
+  "address": "Andarayaya, Polpithigama",
+  "lat_lng": [
+    7.824348,
+    80.404816
+  ],
+  "time_last_updated_ut": 1655266800,
+  "time_last_updated": "2022-06-15 09:50",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655290560,
+      "time_dispatch": "2022-06-15 16:26",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655291100,
+      "time_last_updated": "2022-06-15 16:35",
+      "time_eta_ut": 1655307300,
+      "time_eta": "2022-06-15 21:05"
+    },
+    {
+      "time_dispatch_ut": 1655185560,
+      "time_dispatch": "2022-06-14 11:16",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655186100,
+      "time_last_updated": "2022-06-14 11:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 716.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1593.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 130.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

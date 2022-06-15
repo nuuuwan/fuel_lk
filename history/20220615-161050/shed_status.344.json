@@ -1,0 +1,81 @@
+{
+  "shed_id": 344,
+  "shed_name": "EURO LANKA ENTERPRISES (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 08:20",
+  "time_last_updated_by_shed_ut": 1655261400,
+  "fuel_type": "p92",
+  "fuel_capacity": 75.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100421",
+  "address": "Boossa",
+  "lat_lng": [
+    6.072029,
+    80.162224
+  ],
+  "time_last_updated_ut": 1655261400,
+  "time_last_updated": "2022-06-15 08:20",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655294820,
+      "time_dispatch": "2022-06-15 17:37",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655295300,
+      "time_last_updated": "2022-06-15 17:45",
+      "time_eta_ut": 1655308200,
+      "time_eta": "2022-06-15 21:20"
+    },
+    {
+      "time_dispatch_ut": 1655132820,
+      "time_dispatch": "2022-06-13 20:37",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655133300,
+      "time_last_updated": "2022-06-13 20:45",
+      "time_eta_ut": 1655146200,
+      "time_eta": "2022-06-14 00:20"
+    },
+    {
+      "time_dispatch_ut": 1655008440,
+      "time_dispatch": "2022-06-12 10:04",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655009100,
+      "time_last_updated": "2022-06-12 10:15",
+      "time_eta_ut": 1655021820,
+      "time_eta": "2022-06-12 13:47"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 75.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 102.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 625.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 178.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

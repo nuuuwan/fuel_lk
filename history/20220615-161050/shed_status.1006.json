@@ -1,0 +1,81 @@
+{
+  "shed_id": 1006,
+  "shed_name": "REGAL FILLING STATION (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:27",
+  "time_last_updated_by_shed_ut": 1655265420,
+  "fuel_type": "p92",
+  "fuel_capacity": 398.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104457",
+  "address": "Thambarawila",
+  "lat_lng": [
+    7.276341,
+    79.863945
+  ],
+  "time_last_updated_ut": 1655265420,
+  "time_last_updated": "2022-06-15 09:27",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654914120,
+      "time_dispatch": "2022-06-11 07:52",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654956180,
+      "time_last_updated": "2022-06-11 19:33",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654943220,
+      "time_dispatch": "2022-06-11 15:57",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654943700,
+      "time_last_updated": "2022-06-11 16:05",
+      "time_eta_ut": 1654948860,
+      "time_eta": "2022-06-11 17:31"
+    },
+    {
+      "time_dispatch_ut": 1654573140,
+      "time_dispatch": "2022-06-07 09:09",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654573500,
+      "time_last_updated": "2022-06-07 09:15",
+      "time_eta_ut": 1654578780,
+      "time_eta": "2022-06-07 10:43"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 398.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 245.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 179.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 23.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "shed_id": 398,
+  "shed_name": "K.A.ANURA RAMYALAL",
+  "time_last_updated_by_shed": "2022-06-15 09:56",
+  "time_last_updated_by_shed_ut": 1655267160,
+  "fuel_type": "p92",
+  "fuel_capacity": 17.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100483",
+  "address": "Colombo - Galle - Hambantota - Wellawaya Hwy",
+  "lat_lng": [
+    6.307125,
+    81.232864
+  ],
+  "time_last_updated_ut": 1655267160,
+  "time_last_updated": "2022-06-15 09:56",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655199000,
+      "time_dispatch": "2022-06-14 15:00",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655199600,
+      "time_last_updated": "2022-06-14 15:10",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654967520,
+      "time_dispatch": "2022-06-11 22:42",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654968000,
+      "time_last_updated": "2022-06-11 22:50",
+      "time_eta_ut": 1654980360,
+      "time_eta": "2022-06-12 02:16"
+    },
+    {
+      "time_dispatch_ut": 1654786140,
+      "time_dispatch": "2022-06-09 20:19",
+      "fuel_type": "k",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654798980,
+      "time_eta": "2022-06-09 23:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 17.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1462.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1047.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

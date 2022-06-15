@@ -1,0 +1,70 @@
+{
+  "shed_id": 304,
+  "shed_name": "CHANDANI DHAMMEARACHCHI  MRS. D A",
+  "time_last_updated_by_shed": "2022-06-15 09:29",
+  "time_last_updated_by_shed_ut": 1655265540,
+  "fuel_type": "p92",
+  "fuel_capacity": 1766.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100371",
+  "address": "Karandupona - Kegalle",
+  "lat_lng": [
+    7.254183,
+    80.384132
+  ],
+  "time_last_updated_ut": 1655265540,
+  "time_last_updated": "2022-06-15 09:29",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655123820,
+      "time_dispatch": "2022-06-13 18:07",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655124300,
+      "time_last_updated": "2022-06-13 18:15",
+      "time_eta_ut": 1655133600,
+      "time_eta": "2022-06-13 20:50"
+    },
+    {
+      "time_dispatch_ut": 1654940880,
+      "time_dispatch": "2022-06-11 15:18",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654942800,
+      "time_last_updated": "2022-06-11 15:50",
+      "time_eta_ut": 1654950420,
+      "time_eta": "2022-06-11 17:57"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1766.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2295.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

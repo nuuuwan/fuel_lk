@@ -1,0 +1,103 @@
+{
+  "shed_id": 161,
+  "shed_name": "S.S.FILLING STATION ( PVT ) LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:30",
+  "time_last_updated_by_shed_ut": 1655265600,
+  "fuel_type": "p92",
+  "fuel_capacity": 956.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100194",
+  "address": "No. 21/8, Buthgamuwa Road, Kalapaluwawa, Rajagiriya",
+  "lat_lng": [
+    6.914065,
+    79.910332
+  ],
+  "time_last_updated_ut": 1655265600,
+  "time_last_updated": "2022-06-15 09:30",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655299500,
+      "time_dispatch": "2022-06-15 18:55",
+      "fuel_type": "sd",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655300100,
+      "time_last_updated": "2022-06-15 19:05",
+      "time_eta_ut": 1655301300,
+      "time_eta": "2022-06-15 19:25"
+    },
+    {
+      "time_dispatch_ut": 1655278920,
+      "time_dispatch": "2022-06-15 13:12",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655279400,
+      "time_last_updated": "2022-06-15 13:20",
+      "time_eta_ut": 1655280720,
+      "time_eta": "2022-06-15 13:42"
+    },
+    {
+      "time_dispatch_ut": 1655112840,
+      "time_dispatch": "2022-06-13 15:04",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655113500,
+      "time_last_updated": "2022-06-13 15:15",
+      "time_eta_ut": 1655114640,
+      "time_eta": "2022-06-13 15:34"
+    },
+    {
+      "time_dispatch_ut": 1655106540,
+      "time_dispatch": "2022-06-13 13:19",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655107200,
+      "time_last_updated": "2022-06-13 13:30",
+      "time_eta_ut": 1655108340,
+      "time_eta": "2022-06-13 13:49"
+    },
+    {
+      "time_dispatch_ut": 1654935060,
+      "time_dispatch": "2022-06-11 13:41",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654935600,
+      "time_last_updated": "2022-06-11 13:50",
+      "time_eta_ut": 1654936860,
+      "time_eta": "2022-06-11 14:11"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 956.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 645.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1170.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 596.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

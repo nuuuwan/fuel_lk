@@ -1,0 +1,70 @@
+{
+  "shed_id": 179,
+  "shed_name": "H.R.DHARMAPALA",
+  "time_last_updated_by_shed": "2022-06-15 07:12",
+  "time_last_updated_by_shed_ut": 1655257320,
+  "fuel_type": "p92",
+  "fuel_capacity": 89.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100217",
+  "address": "Mariarawa Rd, Dambagalla, Monaragala",
+  "lat_lng": [
+    6.979304,
+    81.373177
+  ],
+  "time_last_updated_ut": 1655257320,
+  "time_last_updated": "2022-06-15 07:12",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655192880,
+      "time_dispatch": "2022-06-14 13:18",
+      "fuel_type": "d",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655193300,
+      "time_last_updated": "2022-06-14 13:25",
+      "time_eta_ut": 1655202420,
+      "time_eta": "2022-06-14 15:57"
+    },
+    {
+      "time_dispatch_ut": 1654858560,
+      "time_dispatch": "2022-06-10 16:26",
+      "fuel_type": "p92",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654859100,
+      "time_last_updated": "2022-06-10 16:35",
+      "time_eta_ut": 1654868100,
+      "time_eta": "2022-06-10 19:05"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 288.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

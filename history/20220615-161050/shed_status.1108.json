@@ -1,0 +1,70 @@
+{
+  "shed_id": 1108,
+  "shed_name": "PRIYANKARA CONSTRUCTION",
+  "time_last_updated_by_shed": "2022-06-15 08:01",
+  "time_last_updated_by_shed_ut": 1655260260,
+  "fuel_type": "p92",
+  "fuel_capacity": 878.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 21:30, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105009",
+  "address": "AMBALANGODA",
+  "lat_lng": [
+    6.236568,
+    80.054253
+  ],
+  "time_last_updated_ut": 1655260260,
+  "time_last_updated": "2022-06-15 08:01",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655298000,
+      "time_dispatch": "2022-06-15 18:30",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298600,
+      "time_last_updated": "2022-06-15 18:40",
+      "time_eta_ut": 1655308800,
+      "time_eta": "2022-06-15 21:30"
+    },
+    {
+      "time_dispatch_ut": 1655298000,
+      "time_dispatch": "2022-06-15 18:30",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298600,
+      "time_last_updated": "2022-06-15 18:40",
+      "time_eta_ut": 1655308800,
+      "time_eta": "2022-06-15 21:30"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 878.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 384.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 834.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

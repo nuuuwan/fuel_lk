@@ -1,0 +1,70 @@
+{
+  "shed_id": 80,
+  "shed_name": "S & J FUEL DISTRIBUTORS",
+  "time_last_updated_by_shed": "2022-06-15 09:15",
+  "time_last_updated_by_shed_ut": 1655264700,
+  "fuel_type": "p92",
+  "fuel_capacity": 600.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100098",
+  "address": "B287, Hingurakgoda",
+  "lat_lng": [
+    8.040647,
+    80.950539
+  ],
+  "time_last_updated_ut": 1655264700,
+  "time_last_updated": "2022-06-15 09:15",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655176380,
+      "time_dispatch": "2022-06-14 08:43",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655176800,
+      "time_last_updated": "2022-06-14 08:50",
+      "time_eta_ut": 1655189520,
+      "time_eta": "2022-06-14 12:22"
+    },
+    {
+      "time_dispatch_ut": 1655119800,
+      "time_dispatch": "2022-06-13 17:00",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655120700,
+      "time_last_updated": "2022-06-13 17:15",
+      "time_eta_ut": 1655132940,
+      "time_eta": "2022-06-13 20:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 600.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 600.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
