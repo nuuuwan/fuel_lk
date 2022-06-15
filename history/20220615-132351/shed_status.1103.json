@@ -1,0 +1,81 @@
+{
+  "shed_id": 1103,
+  "shed_name": "N M C Y NAGASENA",
+  "time_last_updated_by_shed": "2022-06-15 13:04",
+  "time_last_updated_by_shed_ut": 1655278440,
+  "fuel_type": "p92",
+  "fuel_capacity": 800.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104995",
+  "address": "IDIGOLLA",
+  "lat_lng": [
+    7.091279,
+    80.020164
+  ],
+  "time_last_updated_ut": 1655278440,
+  "time_last_updated": "2022-06-15 13:04",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655277600,
+      "time_dispatch": "2022-06-15 12:50",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655278200,
+      "time_last_updated": "2022-06-15 13:00",
+      "time_eta_ut": 1655281740,
+      "time_eta": "2022-06-15 13:59"
+    },
+    {
+      "time_dispatch_ut": 1655017740,
+      "time_dispatch": "2022-06-12 12:39",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655018400,
+      "time_last_updated": "2022-06-12 12:50",
+      "time_eta_ut": 1655021880,
+      "time_eta": "2022-06-12 13:48"
+    },
+    {
+      "time_dispatch_ut": 1654935540,
+      "time_dispatch": "2022-06-11 13:49",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654936200,
+      "time_last_updated": "2022-06-11 14:00",
+      "time_eta_ut": 1654939380,
+      "time_eta": "2022-06-11 14:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 800.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 214.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 214.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

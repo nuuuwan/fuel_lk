@@ -1,0 +1,47 @@
+{
+  "shed_id": 946,
+  "shed_name": "S H KANDAMBI",
+  "time_last_updated_by_shed": "2022-06-15 09:35",
+  "time_last_updated_by_shed_ut": 1655265900,
+  "fuel_type": "p92",
+  "fuel_capacity": 445.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103961",
+  "address": "Ikiriwewa-Nochchiyagama",
+  "lat_lng": [
+    8.28013,
+    80.251717
+  ],
+  "time_last_updated_ut": 1655265900,
+  "time_last_updated": "2022-06-15 09:35",
+  "browser_dispatch": false,
+  "dispatch_schedule_list": [],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 445.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 885.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1465.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 103.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

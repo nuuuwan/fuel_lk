@@ -1,0 +1,70 @@
+{
+  "shed_id": 639,
+  "shed_name": "A.M.THANGANAYAGAM",
+  "time_last_updated_by_shed": "2022-06-15 11:25",
+  "time_last_updated_by_shed_ut": 1655272500,
+  "fuel_type": "p92",
+  "fuel_capacity": 645.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100897",
+  "address": "Irupalai",
+  "lat_lng": [
+    9.686949,
+    80.048401
+  ],
+  "time_last_updated_ut": 1655272500,
+  "time_last_updated": "2022-06-15 11:25",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655204220,
+      "time_dispatch": "2022-06-14 16:27",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655204700,
+      "time_last_updated": "2022-06-14 16:35",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655109960,
+      "time_dispatch": "2022-06-13 14:16",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655110500,
+      "time_last_updated": "2022-06-13 14:25",
+      "time_eta_ut": 1655112540,
+      "time_eta": "2022-06-13 14:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 645.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 4350.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 6540.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 420.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 645.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

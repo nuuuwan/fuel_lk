@@ -1,0 +1,92 @@
+{
+  "shed_id": 29,
+  "shed_name": "NAFT",
+  "time_last_updated_by_shed": "2022-06-15 07:44",
+  "time_last_updated_by_shed_ut": 1655259240,
+  "fuel_type": "p92",
+  "fuel_capacity": 900.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100037",
+  "address": "Kurunegoda",
+  "lat_lng": [
+    7.114292,
+    80.282166
+  ],
+  "time_last_updated_ut": 1655259240,
+  "time_last_updated": "2022-06-15 07:44",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655201220,
+      "time_dispatch": "2022-06-14 15:37",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655201700,
+      "time_last_updated": "2022-06-14 15:45",
+      "time_eta_ut": 1655210220,
+      "time_eta": "2022-06-14 18:07"
+    },
+    {
+      "time_dispatch_ut": 1655118540,
+      "time_dispatch": "2022-06-13 16:39",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655118900,
+      "time_last_updated": "2022-06-13 16:45",
+      "time_eta_ut": 1655127540,
+      "time_eta": "2022-06-13 19:09"
+    },
+    {
+      "time_dispatch_ut": 1655118540,
+      "time_dispatch": "2022-06-13 16:39",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655118900,
+      "time_last_updated": "2022-06-13 16:45",
+      "time_eta_ut": 1655127540,
+      "time_eta": "2022-06-13 19:09"
+    },
+    {
+      "time_dispatch_ut": 1655096100,
+      "time_dispatch": "2022-06-13 10:25",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655096700,
+      "time_last_updated": "2022-06-13 10:35",
+      "time_eta_ut": 1655105640,
+      "time_eta": "2022-06-13 13:04"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 900.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1300.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1000.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 4000.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

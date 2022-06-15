@@ -1,0 +1,70 @@
+{
+  "shed_id": 471,
+  "shed_name": "ASIRI LANKA",
+  "time_last_updated_by_shed": "2022-06-15 09:07",
+  "time_last_updated_by_shed_ut": 1655264220,
+  "fuel_type": "p92",
+  "fuel_capacity": 1248.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 14:44, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100570",
+  "address": "Ambepussa - Kurunegala - Trincomalee Hwy, Thorayaya",
+  "lat_lng": [
+    7.51589,
+    80.422188
+  ],
+  "time_last_updated_ut": 1655264220,
+  "time_last_updated": "2022-06-15 09:07",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655282640,
+      "time_dispatch": "2022-06-15 14:14",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655283300,
+      "time_last_updated": "2022-06-15 14:25",
+      "time_eta_ut": 1655284440,
+      "time_eta": "2022-06-15 14:44"
+    },
+    {
+      "time_dispatch_ut": 1654917960,
+      "time_dispatch": "2022-06-11 08:56",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654918500,
+      "time_last_updated": "2022-06-11 09:05",
+      "time_eta_ut": 1654919760,
+      "time_eta": "2022-06-11 09:26"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1248.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1129.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 555.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 1011.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

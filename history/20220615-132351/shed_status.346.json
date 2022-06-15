@@ -1,0 +1,70 @@
+{
+  "shed_id": 346,
+  "shed_name": "U.A.KURUPPUARACHCHI",
+  "time_last_updated_by_shed": "2022-06-15 09:05",
+  "time_last_updated_by_shed_ut": 1655264100,
+  "fuel_type": "p92",
+  "fuel_capacity": 110.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100423",
+  "address": "Athurugiriya",
+  "lat_lng": [
+    6.888872,
+    79.997086
+  ],
+  "time_last_updated_ut": 1655264100,
+  "time_last_updated": "2022-06-15 09:05",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655189940,
+      "time_dispatch": "2022-06-14 12:29",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655190600,
+      "time_last_updated": "2022-06-14 12:40",
+      "time_eta_ut": 1655192520,
+      "time_eta": "2022-06-14 13:12"
+    },
+    {
+      "time_dispatch_ut": 1654924980,
+      "time_dispatch": "2022-06-11 10:53",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654925700,
+      "time_last_updated": "2022-06-11 11:05",
+      "time_eta_ut": 1654929360,
+      "time_eta": "2022-06-11 12:06"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 110.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 90.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "shed_id": 177,
+  "shed_name": " L.A.I.S.DASSANAYAKA",
+  "time_last_updated_by_shed": "2022-06-15 08:34",
+  "time_last_updated_by_shed_ut": 1655262240,
+  "fuel_type": "p92",
+  "fuel_capacity": 312.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 18:59, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100215",
+  "address": "Andigama",
+  "lat_lng": [
+    7.780784,
+    79.948479
+  ],
+  "time_last_updated_ut": 1655262240,
+  "time_last_updated": "2022-06-15 08:34",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655287140,
+      "time_dispatch": "2022-06-15 15:29",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655287800,
+      "time_last_updated": "2022-06-15 15:40",
+      "time_eta_ut": 1655299740,
+      "time_eta": "2022-06-15 18:59"
+    },
+    {
+      "time_dispatch_ut": 1654776360,
+      "time_dispatch": "2022-06-09 17:36",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654789500,
+      "time_eta": "2022-06-09 21:15"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 312.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 612.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

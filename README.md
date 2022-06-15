@@ -1,6 +1,6 @@
 # Fuel.LK
 
-*Last updated at 20220615-131848*
+*Last updated at 20220615-132351*
 
 Analyzed 1343 sheds.
 
@@ -45,6 +45,8 @@ Analyzed 1343 sheds.
 * [100066] S.R.DINAMITHRA (D.S.Senanayake Mawatha, Colombo)
 
 * [100036] EHELIYAGODA ASSOCIATES (Baseline Rd, Colombo)
+
+* [106280] CIMBA LANKA OIL DISTRIBUTORS (PVT) (Godagama)
 
 * [100081] MORATUWA MPCS LTD (Moratuwa)
 
@@ -852,6 +854,8 @@ Analyzed 1343 sheds.
 
 * [100196] HARISCHANDRA MILLS LTD (Nilwala By Pass, Matara)
 
+* [100645] CEYLON FISHERIES HARBOURS CORPORAT. (Puranawella)
+
 * [100828] G.WIJETUNGE (Mirissa)
 
 * [100795] S.ABESOORIYA (Gandara)
@@ -1317,6 +1321,8 @@ Analyzed 1343 sheds.
 * [100563] MUTTUR A.G.A.DIVISION MPCS LTD (Old Batticaloa Rd, Mutur)
 
 * [100517] PADAVI SIRIPURA SEVA JANAPADA MPCS (Padavi Sripura, Welioya)
+
+* [100973] MS.  GOMARANKADAWELA MORAWEWA MPCS (Gomarankadawala)
 
 * [104145] FISHERIES DEPARTMENT (Kinniya)
 
@@ -2025,6 +2031,8 @@ Analyzed 1343 sheds.
 * [100276] KEGALLE MPCS LTD. (Ceypetco Filling Station, Colombo - Kandy Rd, Kegalle)
 
 * [100130] K K A R KUMARASINGHE & SONS (Road, Yatiyanthota)
+
+* [100144] AUTO CARE FILLING STATION (PVT) LTD (Auto Care Filling Station, A1, Kegalle)
 
 * [105178] K K N KARUNASIRI (RUWANWELLA)
 

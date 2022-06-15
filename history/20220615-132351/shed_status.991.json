@@ -1,0 +1,81 @@
+{
+  "shed_id": 991,
+  "shed_name": "MIDDLE EAST PETROLEUM DELEAR'S (PVT",
+  "time_last_updated_by_shed": "2022-06-15 08:36",
+  "time_last_updated_by_shed_ut": 1655262360,
+  "fuel_type": "p92",
+  "fuel_capacity": 541.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 16:30, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104341",
+  "address": "220-196 Mahiyangana Rd, Badulla",
+  "lat_lng": [
+    6.999031,
+    81.056725
+  ],
+  "time_last_updated_ut": 1655262360,
+  "time_last_updated": "2022-06-15 08:36",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655290020,
+      "time_dispatch": "2022-06-15 16:17",
+      "fuel_type": "d",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655290500,
+      "time_last_updated": "2022-06-15 16:25",
+      "time_eta_ut": 1655290800,
+      "time_eta": "2022-06-15 16:30"
+    },
+    {
+      "time_dispatch_ut": 1655290020,
+      "time_dispatch": "2022-06-15 16:17",
+      "fuel_type": "p92",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655290500,
+      "time_last_updated": "2022-06-15 16:25",
+      "time_eta_ut": 1655290800,
+      "time_eta": "2022-06-15 16:30"
+    },
+    {
+      "time_dispatch_ut": 1654592580,
+      "time_dispatch": "2022-06-07 14:33",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654593000,
+      "time_last_updated": "2022-06-07 14:40",
+      "time_eta_ut": 1654618320,
+      "time_eta": "2022-06-07 21:42"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 541.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1943.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1114.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 390.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

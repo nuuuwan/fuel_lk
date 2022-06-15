@@ -1,0 +1,70 @@
+{
+  "shed_id": 155,
+  "shed_name": "ELLAPOLA ENTERPRISES",
+  "time_last_updated_by_shed": "2022-06-15 07:49",
+  "time_last_updated_by_shed_ut": 1655259540,
+  "fuel_type": "p92",
+  "fuel_capacity": 225.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100187",
+  "address": "Yatinuwara St, Kandy",
+  "lat_lng": [
+    7.296035,
+    80.635941
+  ],
+  "time_last_updated_ut": 1655259540,
+  "time_last_updated": "2022-06-15 07:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654924620,
+      "time_dispatch": "2022-06-11 10:47",
+      "fuel_type": "d",
+      "plant_name": "Sarasaviuyana",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654925100,
+      "time_last_updated": "2022-06-11 10:55",
+      "time_eta_ut": 1654926660,
+      "time_eta": "2022-06-11 11:21"
+    },
+    {
+      "time_dispatch_ut": 1654917540,
+      "time_dispatch": "2022-06-11 08:49",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654917900,
+      "time_last_updated": "2022-06-11 08:55",
+      "time_eta_ut": 1654919580,
+      "time_eta": "2022-06-11 09:23"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 225.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 225.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 225.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
