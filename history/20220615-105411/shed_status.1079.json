@@ -1,0 +1,70 @@
+{
+  "shed_id": 1079,
+  "shed_name": "A H SUNIL",
+  "time_last_updated_by_shed": "2022-06-15 14:05",
+  "time_last_updated_by_shed_ut": 1655282100,
+  "fuel_type": "p92",
+  "fuel_capacity": 1026.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "104887",
+  "address": "Alpitiya Rd, Karandeniya",
+  "lat_lng": [
+    6.268581,
+    80.099823
+  ],
+  "time_last_updated_ut": 1655282100,
+  "time_last_updated": "2022-06-15 14:05",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655123220,
+      "time_dispatch": "2022-06-13 17:57",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655123700,
+      "time_last_updated": "2022-06-13 18:05",
+      "time_eta_ut": 1655134260,
+      "time_eta": "2022-06-13 21:01"
+    },
+    {
+      "time_dispatch_ut": 1654943940,
+      "time_dispatch": "2022-06-11 16:09",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654944300,
+      "time_last_updated": "2022-06-11 16:15",
+      "time_eta_ut": 1654954980,
+      "time_eta": "2022-06-11 19:13"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1026.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 540.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 620.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
