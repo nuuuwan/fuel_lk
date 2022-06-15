@@ -1,0 +1,81 @@
+{
+  "shed_id": 492,
+  "shed_name": "W.D.MILTON PERERA",
+  "time_last_updated_by_shed": "2022-06-15 08:59:00",
+  "time_last_updated_by_shed_ut": 1655283540,
+  "fuel_type": "p92",
+  "fuel_capacity": 1595.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100597",
+  "address": "Peradeniya - Badulla - Chenkaladi Hwy, Keppetipola",
+  "lat_lng": [
+    6.894291,
+    80.867653
+  ],
+  "time_last_updated_ut": 1655283540,
+  "time_last_updated": "2022-06-15 08:59:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655131680,
+      "time_dispatch": "2022-06-13 14:48:00",
+      "fuel_type": "d",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655132100,
+      "time_last_updated": "2022-06-13 14:55:00",
+      "time_eta_ut": 1655139120,
+      "time_eta": "2022-06-13 16:52:00"
+    },
+    {
+      "time_dispatch_ut": 1654867020,
+      "time_dispatch": "2022-06-10 13:17:00",
+      "fuel_type": "p92",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654867500,
+      "time_last_updated": "2022-06-10 13:25:00",
+      "time_eta_ut": 1654874460,
+      "time_eta": "2022-06-10 15:21:00"
+    },
+    {
+      "time_dispatch_ut": 1654805700,
+      "time_dispatch": "2022-06-09 20:15:00",
+      "fuel_type": "k",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654816980,
+      "time_last_updated": "2022-06-09 23:23:00",
+      "time_eta_ut": 1654813140,
+      "time_eta": "2022-06-09 22:19:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1595.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1125.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 730.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 501.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 415.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

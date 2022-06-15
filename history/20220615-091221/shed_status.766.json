@@ -1,0 +1,70 @@
+{
+  "shed_id": 766,
+  "shed_name": "MAWATHAGAMA MPCS LTD",
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102407",
+  "address": "Mawathagama West, Mawathagama",
+  "lat_lng": [
+    7.432901,
+    80.446098
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655126280,
+      "time_dispatch": "2022-06-13 13:18:00",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655126700,
+      "time_last_updated": "2022-06-13 13:25:00",
+      "time_eta_ut": 1655128320,
+      "time_eta": "2022-06-13 13:52:00"
+    },
+    {
+      "time_dispatch_ut": 1654857840,
+      "time_dispatch": "2022-06-10 10:44:00",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654858200,
+      "time_last_updated": "2022-06-10 10:50:00",
+      "time_eta_ut": 1654859880,
+      "time_eta": "2022-06-10 11:18:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

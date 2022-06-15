@@ -1,0 +1,59 @@
+{
+  "shed_id": 489,
+  "shed_name": "MANCHANAYAKE PIRAVUMHALA",
+  "time_last_updated_by_shed": "2022-06-15 09:02:00",
+  "time_last_updated_by_shed_ut": 1655283720,
+  "fuel_type": "p92",
+  "fuel_capacity": 3866.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100592",
+  "address": "Dambulugama Junction, Ambepussa - Kurunegala - Trincomalee Hwy, Dambulla",
+  "lat_lng": [
+    7.88473,
+    80.651169
+  ],
+  "time_last_updated_ut": 1655283720,
+  "time_last_updated": "2022-06-15 09:02:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654962960,
+      "time_dispatch": "2022-06-11 15:56:00",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 19800.0,
+      "time_last_updated_ut": 1654975980,
+      "time_last_updated": "2022-06-11 19:33:00",
+      "time_eta_ut": 1654977360,
+      "time_eta": "2022-06-11 19:56:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 3866.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 8143.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1070.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 1296.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 10.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

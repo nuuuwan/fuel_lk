@@ -1,0 +1,59 @@
+{
+  "shed_id": 972,
+  "shed_name": "L P PATHIRATHNA",
+  "time_last_updated_by_shed": "2022-06-15 10:39:00",
+  "time_last_updated_by_shed_ut": 1655289540,
+  "fuel_type": "p92",
+  "fuel_capacity": 487.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 09:57, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104271",
+  "address": "Akarawita",
+  "lat_lng": [
+    7.093258,
+    79.985672
+  ],
+  "time_last_updated_ut": 1655289540,
+  "time_last_updated": "2022-06-15 10:39:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655284440,
+      "time_dispatch": "2022-06-15 09:14:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655285100,
+      "time_last_updated": "2022-06-15 09:25:00",
+      "time_eta_ut": 1655287020,
+      "time_eta": "2022-06-15 09:57:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 487.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 420.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 872.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 550.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

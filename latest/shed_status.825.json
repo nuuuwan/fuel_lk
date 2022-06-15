@@ -1,0 +1,59 @@
+{
+  "shed_id": 825,
+  "shed_name": "M.R.TENNAKOON",
+  "time_last_updated_by_shed": "2022-06-15 08:06:00",
+  "time_last_updated_by_shed_ut": 1655280360,
+  "fuel_type": "p92",
+  "fuel_capacity": 410.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "102675",
+  "address": "Tennakoon Filling Station, Katugastota-kurunegala-puttalam Hwy,Nikaweratiya",
+  "lat_lng": [
+    7.798573,
+    80.085434
+  ],
+  "time_last_updated_ut": 1655280360,
+  "time_last_updated": "2022-06-15 08:06:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654869660,
+      "time_dispatch": "2022-06-10 14:01:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654870200,
+      "time_last_updated": "2022-06-10 14:10:00",
+      "time_eta_ut": 1654884840,
+      "time_eta": "2022-06-10 18:14:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 410.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 499.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 499.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

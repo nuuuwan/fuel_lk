@@ -1,0 +1,70 @@
+{
+  "shed_id": 665,
+  "shed_name": "VISVAMADHU FARMER'SMPCSLTD",
+  "time_last_updated_by_shed": "2022-06-15 09:23:00",
+  "time_last_updated_by_shed_ut": 1655284980,
+  "fuel_type": "p92",
+  "fuel_capacity": 1750.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100980",
+  "address": "Parantan- Mullaitivu Hwy, Visuvamadu",
+  "lat_lng": [
+    9.3868,
+    80.548317
+  ],
+  "time_last_updated_ut": 1655284980,
+  "time_last_updated": "2022-06-15 09:23:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655134980,
+      "time_dispatch": "2022-06-13 15:43:00",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655135400,
+      "time_last_updated": "2022-06-13 15:50:00",
+      "time_eta_ut": 1655152980,
+      "time_eta": "2022-06-13 20:43:00"
+    },
+    {
+      "time_dispatch_ut": 1654938360,
+      "time_dispatch": "2022-06-11 09:06:00",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654938900,
+      "time_last_updated": "2022-06-11 09:15:00",
+      "time_eta_ut": 1654956360,
+      "time_eta": "2022-06-11 14:06:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1750.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1778.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 693.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

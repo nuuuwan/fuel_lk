@@ -1,0 +1,70 @@
+{
+  "shed_id": 314,
+  "shed_name": "BELIATTA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-12 21:45:00",
+  "time_last_updated_by_shed_ut": 1655070300,
+  "fuel_type": "p92",
+  "fuel_capacity": 4300.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100383",
+  "address": "Hakmana - Beliatte - Tangalle Rd, Puwakdandawa",
+  "lat_lng": [
+    6.042588,
+    80.744255
+  ],
+  "time_last_updated_ut": 1655070300,
+  "time_last_updated": "2022-06-12 21:45:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655147040,
+      "time_dispatch": "2022-06-13 19:04:00",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655147400,
+      "time_last_updated": "2022-06-13 19:10:00",
+      "time_eta_ut": 1655151420,
+      "time_eta": "2022-06-13 20:17:00"
+    },
+    {
+      "time_dispatch_ut": 1655124240,
+      "time_dispatch": "2022-06-13 12:44:00",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655124600,
+      "time_last_updated": "2022-06-13 12:50:00",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 4300.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 3400.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

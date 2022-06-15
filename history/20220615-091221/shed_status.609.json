@@ -1,0 +1,81 @@
+{
+  "shed_id": 609,
+  "shed_name": "UVA PARANAGAMA SOUTH MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 08:35:00",
+  "time_last_updated_by_shed_ut": 1655282100,
+  "fuel_type": "p92",
+  "fuel_capacity": 103.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100825",
+  "address": "Ambagasdowa",
+  "lat_lng": [
+    6.927939,
+    80.898781
+  ],
+  "time_last_updated_ut": 1655282100,
+  "time_last_updated": "2022-06-15 08:35:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655191020,
+      "time_dispatch": "2022-06-14 07:17:00",
+      "fuel_type": "d",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655191500,
+      "time_last_updated": "2022-06-14 07:25:00",
+      "time_eta_ut": 1655200020,
+      "time_eta": "2022-06-14 09:47:00"
+    },
+    {
+      "time_dispatch_ut": 1655191020,
+      "time_dispatch": "2022-06-14 07:17:00",
+      "fuel_type": "p92",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655191500,
+      "time_last_updated": "2022-06-14 07:25:00",
+      "time_eta_ut": 1655200020,
+      "time_eta": "2022-06-14 09:47:00"
+    },
+    {
+      "time_dispatch_ut": 1654966680,
+      "time_dispatch": "2022-06-11 16:58:00",
+      "fuel_type": "k",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654967100,
+      "time_last_updated": "2022-06-11 17:05:00",
+      "time_eta_ut": 1654975680,
+      "time_eta": "2022-06-11 19:28:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 103.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 498.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 345.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

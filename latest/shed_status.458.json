@@ -1,0 +1,70 @@
+{
+  "shed_id": 458,
+  "shed_name": "SERUWILA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 08:28:00",
+  "time_last_updated_by_shed_ut": 1655281680,
+  "fuel_type": "p92",
+  "fuel_capacity": 7500.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100553",
+  "address": "Allai-kantalai Rd, Serunuwara",
+  "lat_lng": [
+    8.323896,
+    81.299942
+  ],
+  "time_last_updated_ut": 1655281680,
+  "time_last_updated": "2022-06-15 08:28:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655217840,
+      "time_dispatch": "2022-06-14 14:44:00",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655218200,
+      "time_last_updated": "2022-06-14 14:50:00",
+      "time_eta_ut": 1655237640,
+      "time_eta": "2022-06-14 20:14:00"
+    },
+    {
+      "time_dispatch_ut": 1655110380,
+      "time_dispatch": "2022-06-13 08:53:00",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655110800,
+      "time_last_updated": "2022-06-13 09:00:00",
+      "time_eta_ut": 1655130180,
+      "time_eta": "2022-06-13 14:23:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 7500.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1300.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

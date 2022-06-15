@@ -1,0 +1,81 @@
+{
+  "shed_id": 1116,
+  "shed_name": "HIRAN MOTOR TRADERS",
+  "time_last_updated_by_shed": "2022-06-15 09:33:00",
+  "time_last_updated_by_shed_ut": 1655285580,
+  "fuel_type": "p92",
+  "fuel_capacity": 612.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105046",
+  "address": "Madapatha, Piliyandala",
+  "lat_lng": [
+    6.768373,
+    79.930763
+  ],
+  "time_last_updated_ut": 1655285580,
+  "time_last_updated": "2022-06-15 09:33:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654945560,
+      "time_dispatch": "2022-06-11 11:06:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654946100,
+      "time_last_updated": "2022-06-11 11:15:00",
+      "time_eta_ut": 1654949160,
+      "time_eta": "2022-06-11 12:06:00"
+    },
+    {
+      "time_dispatch_ut": 1654880100,
+      "time_dispatch": "2022-06-10 16:55:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654880700,
+      "time_last_updated": "2022-06-10 17:05:00",
+      "time_eta_ut": 1654883700,
+      "time_eta": "2022-06-10 17:55:00"
+    },
+    {
+      "time_dispatch_ut": 1654853160,
+      "time_dispatch": "2022-06-10 09:26:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654853700,
+      "time_last_updated": "2022-06-10 09:35:00",
+      "time_eta_ut": 1654856760,
+      "time_eta": "2022-06-10 10:26:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 612.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 219.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 674.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 251.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

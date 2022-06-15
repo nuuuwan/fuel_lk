@@ -1,0 +1,59 @@
+{
+  "shed_id": 559,
+  "shed_name": "P S  ABDULLA  &  SON",
+  "time_last_updated_by_shed": "2022-06-15 08:54:00",
+  "time_last_updated_by_shed_ut": 1655283240,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100688",
+  "address": "Bazaar St, Vavuniya",
+  "lat_lng": [
+    8.755754,
+    80.500412
+  ],
+  "time_last_updated_ut": 1655283240,
+  "time_last_updated": "2022-06-15 08:54:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654609800,
+      "time_dispatch": "2022-06-07 13:50:00",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654610400,
+      "time_last_updated": "2022-06-07 14:00:00",
+      "time_eta_ut": 1654617000,
+      "time_eta": "2022-06-07 15:50:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 259.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 259.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

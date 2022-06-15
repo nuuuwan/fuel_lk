@@ -1,0 +1,81 @@
+{
+  "shed_id": 1229,
+  "shed_name": "M R HENRY",
+  "time_last_updated_by_shed": "2022-06-15 09:30:00",
+  "time_last_updated_by_shed_ut": 1655285400,
+  "fuel_type": "p92",
+  "fuel_capacity": 344.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "106021",
+  "address": "Ceypetco Filling Station - Parana Handiya",
+  "lat_lng": [
+    6.865967,
+    80.00444
+  ],
+  "time_last_updated_ut": 1655285400,
+  "time_last_updated": "2022-06-15 09:30:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655209740,
+      "time_dispatch": "2022-06-14 12:29:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655210400,
+      "time_last_updated": "2022-06-14 12:40:00",
+      "time_eta_ut": 1655212320,
+      "time_eta": "2022-06-14 13:12:00"
+    },
+    {
+      "time_dispatch_ut": 1654954980,
+      "time_dispatch": "2022-06-11 13:43:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654955700,
+      "time_last_updated": "2022-06-11 13:55:00",
+      "time_eta_ut": 1654958820,
+      "time_eta": "2022-06-11 14:47:00"
+    },
+    {
+      "time_dispatch_ut": 1654949760,
+      "time_dispatch": "2022-06-11 12:16:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654950300,
+      "time_last_updated": "2022-06-11 12:25:00",
+      "time_eta_ut": 1654952340,
+      "time_eta": "2022-06-11 12:59:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 344.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 197.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 613.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 197.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

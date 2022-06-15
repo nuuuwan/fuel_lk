@@ -1,0 +1,81 @@
+{
+  "shed_id": 1248,
+  "shed_name": "K K I S SARATHCHANDRA",
+  "time_last_updated_by_shed": "2022-06-15 08:12:00",
+  "time_last_updated_by_shed_ut": 1655280720,
+  "fuel_type": "p92",
+  "fuel_capacity": 89.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 09:56, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106181",
+  "address": "Express Way Entrance Road, Godagama, Matara",
+  "lat_lng": [
+    5.965136,
+    80.521202
+  ],
+  "time_last_updated_ut": 1655280720,
+  "time_last_updated": "2022-06-15 08:12:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655286180,
+      "time_dispatch": "2022-06-15 09:43:00",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655286600,
+      "time_last_updated": "2022-06-15 09:50:00",
+      "time_eta_ut": 1655286960,
+      "time_eta": "2022-06-15 09:56:00"
+    },
+    {
+      "time_dispatch_ut": 1655116440,
+      "time_dispatch": "2022-06-13 10:34:00",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655116800,
+      "time_last_updated": "2022-06-13 10:40:00",
+      "time_eta_ut": 1655117220,
+      "time_eta": "2022-06-13 10:47:00"
+    },
+    {
+      "time_dispatch_ut": 1654953840,
+      "time_dispatch": "2022-06-11 13:24:00",
+      "fuel_type": "ik",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654955400,
+      "time_last_updated": "2022-06-11 13:50:00",
+      "time_eta_ut": 1654973640,
+      "time_eta": "2022-06-11 18:54:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 857.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 42.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

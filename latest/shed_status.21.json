@@ -1,0 +1,70 @@
+{
+  "shed_id": 21,
+  "shed_name": "S.ABEYSEKERA",
+  "time_last_updated_by_shed": "2022-06-15 09:53:00",
+  "time_last_updated_by_shed_ut": 1655286780,
+  "fuel_type": "p92",
+  "fuel_capacity": 22.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100027",
+  "address": "Galle - Esplanade",
+  "lat_lng": [
+    6.032288,
+    80.217499
+  ],
+  "time_last_updated_ut": 1655286780,
+  "time_last_updated": "2022-06-15 09:53:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655109060,
+      "time_dispatch": "2022-06-13 08:31:00",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655109600,
+      "time_last_updated": "2022-06-13 08:40:00",
+      "time_eta_ut": 1655109840,
+      "time_eta": "2022-06-13 08:44:00"
+    },
+    {
+      "time_dispatch_ut": 1654944000,
+      "time_dispatch": "2022-06-11 10:40:00",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654944600,
+      "time_last_updated": "2022-06-11 10:50:00",
+      "time_eta_ut": 1654944780,
+      "time_eta": "2022-06-11 10:53:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 22.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 870.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 741.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 22.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

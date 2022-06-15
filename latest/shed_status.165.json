@@ -1,0 +1,70 @@
+{
+  "shed_id": 165,
+  "shed_name": "SISIRA TRADING COMPANY (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 08:21:00",
+  "time_last_updated_by_shed_ut": 1655281260,
+  "fuel_type": "p92",
+  "fuel_capacity": 100.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100199",
+  "address": "Kurunegala - Narammala - Madampe Rd, Narammala",
+  "lat_lng": [
+    7.432251,
+    80.214928
+  ],
+  "time_last_updated_ut": 1655281260,
+  "time_last_updated": "2022-06-15 08:21:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654952520,
+      "time_dispatch": "2022-06-11 13:02:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654953000,
+      "time_last_updated": "2022-06-11 13:10:00",
+      "time_eta_ut": 1654962060,
+      "time_eta": "2022-06-11 15:41:00"
+    },
+    {
+      "time_dispatch_ut": 1654781880,
+      "time_dispatch": "2022-06-09 13:38:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654816920,
+      "time_last_updated": "2022-06-09 23:22:00",
+      "time_eta_ut": 1654790880,
+      "time_eta": "2022-06-09 16:08:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 70.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

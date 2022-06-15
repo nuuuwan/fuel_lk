@@ -1,0 +1,81 @@
+{
+  "shed_id": 445,
+  "shed_name": "PANADURA AUTO SERVICE & FILLING STN",
+  "time_last_updated_by_shed": "2022-06-15 05:53:00",
+  "time_last_updated_by_shed_ut": 1655272380,
+  "fuel_type": "p92",
+  "fuel_capacity": 249.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100537",
+  "address": "702 Colombo Main Rd, Panadura",
+  "lat_lng": [
+    6.698989,
+    79.912872
+  ],
+  "time_last_updated_ut": 1655272380,
+  "time_last_updated": "2022-06-15 05:53:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655292420,
+      "time_dispatch": "2022-06-15 11:27:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655292900,
+      "time_last_updated": "2022-06-15 11:35:00",
+      "time_eta_ut": 1655296800,
+      "time_eta": "2022-06-15 12:40:00"
+    },
+    {
+      "time_dispatch_ut": 1655291040,
+      "time_dispatch": "2022-06-15 11:04:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655291400,
+      "time_last_updated": "2022-06-15 11:10:00",
+      "time_eta_ut": 1655295420,
+      "time_eta": "2022-06-15 12:17:00"
+    },
+    {
+      "time_dispatch_ut": 1655027340,
+      "time_dispatch": "2022-06-12 09:49:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655028000,
+      "time_last_updated": "2022-06-12 10:00:00",
+      "time_eta_ut": 1655031720,
+      "time_eta": "2022-06-12 11:02:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 165.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 878.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 241.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 165.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

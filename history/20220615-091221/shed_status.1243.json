@@ -1,0 +1,70 @@
+{
+  "shed_id": 1243,
+  "shed_name": "A A S H AMARASINHA",
+  "time_last_updated_by_shed": "2022-06-15 08:59:00",
+  "time_last_updated_by_shed_ut": 1655283540,
+  "fuel_type": "p92",
+  "fuel_capacity": 595.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "106169",
+  "address": "Kurunegala",
+  "lat_lng": [
+    7.596842,
+    80.201698
+  ],
+  "time_last_updated_ut": 1655283540,
+  "time_last_updated": "2022-06-15 08:59:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655145060,
+      "time_dispatch": "2022-06-13 18:31:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655145600,
+      "time_last_updated": "2022-06-13 18:40:00",
+      "time_eta_ut": 1655156400,
+      "time_eta": "2022-06-13 21:40:00"
+    },
+    {
+      "time_dispatch_ut": 1655137500,
+      "time_dispatch": "2022-06-13 16:25:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655138100,
+      "time_last_updated": "2022-06-13 16:35:00",
+      "time_eta_ut": 1655148300,
+      "time_eta": "2022-06-13 19:25:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 595.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 565.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

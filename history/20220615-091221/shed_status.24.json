@@ -1,0 +1,70 @@
+{
+  "shed_id": 24,
+  "shed_name": "EBERT SILVA AUTO. ENG.CO.(PVT)LTD",
+  "time_last_updated_by_shed": "2022-06-15 07:17:00",
+  "time_last_updated_by_shed_ut": 1655277420,
+  "fuel_type": "p92",
+  "fuel_capacity": 525.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 13:59, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100031",
+  "address": "173 Galle Rd, Dehiwala-Mount Lavinia",
+  "lat_lng": [
+    6.853955,
+    79.865875
+  ],
+  "time_last_updated_ut": 1655277420,
+  "time_last_updated": "2022-06-15 07:17:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655299200,
+      "time_dispatch": "2022-06-15 13:20:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655299800,
+      "time_last_updated": "2022-06-15 13:30:00",
+      "time_eta_ut": 1655301540,
+      "time_eta": "2022-06-15 13:59:00"
+    },
+    {
+      "time_dispatch_ut": 1655124780,
+      "time_dispatch": "2022-06-13 12:53:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655125200,
+      "time_last_updated": "2022-06-13 13:00:00",
+      "time_eta_ut": 1655127120,
+      "time_eta": "2022-06-13 13:32:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 525.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 218.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 450.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

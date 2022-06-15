@@ -1,0 +1,70 @@
+{
+  "shed_id": 524,
+  "shed_name": "AGALAWATTA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:28:00",
+  "time_last_updated_by_shed_ut": 1655285280,
+  "fuel_type": "p92",
+  "fuel_capacity": 116.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100629",
+  "address": "No 108/1, Tiruwanaketiya - Agalawatte Rd, Lathpandura",
+  "lat_lng": [
+    6.51729,
+    80.23082
+  ],
+  "time_last_updated_ut": 1655285280,
+  "time_last_updated": "2022-06-15 09:28:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655140620,
+      "time_dispatch": "2022-06-13 17:17:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655141100,
+      "time_last_updated": "2022-06-13 17:25:00",
+      "time_eta_ut": 1655151420,
+      "time_eta": "2022-06-13 20:17:00"
+    },
+    {
+      "time_dispatch_ut": 1654879860,
+      "time_dispatch": "2022-06-10 16:51:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654880400,
+      "time_last_updated": "2022-06-10 17:00:00",
+      "time_eta_ut": 1654890660,
+      "time_eta": "2022-06-10 19:51:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 248.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

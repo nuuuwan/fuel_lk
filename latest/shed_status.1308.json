@@ -1,0 +1,70 @@
+{
+  "shed_id": 1308,
+  "shed_name": "A W W ROHANA BANDARA",
+  "time_last_updated_by_shed": "2022-06-15 07:52:00",
+  "time_last_updated_by_shed_ut": 1655279520,
+  "fuel_type": "p92",
+  "fuel_capacity": 179.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "106512",
+  "address": "Namal Uyana Road, Pubbogama",
+  "lat_lng": [
+    7.926971,
+    80.594498
+  ],
+  "time_last_updated_ut": 1655279520,
+  "time_last_updated": "2022-06-15 07:52:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654957080,
+      "time_dispatch": "2022-06-11 14:18:00",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654957500,
+      "time_last_updated": "2022-06-11 14:25:00",
+      "time_eta_ut": 1654966080,
+      "time_eta": "2022-06-11 16:48:00"
+    },
+    {
+      "time_dispatch_ut": 1654951200,
+      "time_dispatch": "2022-06-11 12:40:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654951800,
+      "time_last_updated": "2022-06-11 12:50:00",
+      "time_eta_ut": 1654969980,
+      "time_eta": "2022-06-11 17:53:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 179.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 198.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 198.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

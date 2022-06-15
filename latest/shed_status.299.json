@@ -1,0 +1,70 @@
+{
+  "shed_id": 299,
+  "shed_name": "H P.PALANSURIYA",
+  "time_last_updated_by_shed": "2022-06-15 08:36:00",
+  "time_last_updated_by_shed_ut": 1655282160,
+  "fuel_type": "p92",
+  "fuel_capacity": 286.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100366",
+  "address": "Manampitiya",
+  "lat_lng": [
+    7.906173,
+    81.123833
+  ],
+  "time_last_updated_ut": 1655282160,
+  "time_last_updated": "2022-06-15 08:36:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654966920,
+      "time_dispatch": "2022-06-11 17:02:00",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654967400,
+      "time_last_updated": "2022-06-11 17:10:00",
+      "time_eta_ut": 1654983360,
+      "time_eta": "2022-06-11 21:36:00"
+    },
+    {
+      "time_dispatch_ut": 1654608060,
+      "time_dispatch": "2022-06-07 13:21:00",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654608600,
+      "time_last_updated": "2022-06-07 13:30:00",
+      "time_eta_ut": 1654624500,
+      "time_eta": "2022-06-07 17:55:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 286.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 251.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 807.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 145.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 334.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

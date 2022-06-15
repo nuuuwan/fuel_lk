@@ -1,0 +1,70 @@
+{
+  "shed_id": 472,
+  "shed_name": "B S S .DAYARATHNA",
+  "time_last_updated_by_shed": "2022-06-15 06:21:00",
+  "time_last_updated_by_shed_ut": 1655274060,
+  "fuel_type": "p92",
+  "fuel_capacity": 499.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100571",
+  "address": "Nikadalupotha, Hiripitiya",
+  "lat_lng": [
+    7.656293,
+    80.370926
+  ],
+  "time_last_updated_ut": 1655274060,
+  "time_last_updated": "2022-06-15 06:21:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654933800,
+      "time_dispatch": "2022-06-11 07:50:00",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654934400,
+      "time_last_updated": "2022-06-11 08:00:00",
+      "time_eta_ut": 1654937400,
+      "time_eta": "2022-06-11 08:50:00"
+    },
+    {
+      "time_dispatch_ut": 1654593900,
+      "time_dispatch": "2022-06-07 09:25:00",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654594500,
+      "time_last_updated": "2022-06-07 09:35:00",
+      "time_eta_ut": 1654597500,
+      "time_eta": "2022-06-07 10:25:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 499.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 313.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 398.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

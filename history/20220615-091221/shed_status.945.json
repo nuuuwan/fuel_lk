@@ -1,0 +1,70 @@
+{
+  "shed_id": 945,
+  "shed_name": "EVER PRAY ENTERPRISES (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-14 10:13:00",
+  "time_last_updated_by_shed_ut": 1655201580,
+  "fuel_type": "p92",
+  "fuel_capacity": 803.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "103960",
+  "address": "Pachchilapalli,Pallai",
+  "lat_lng": [
+    9.607298,
+    80.332497
+  ],
+  "time_last_updated_ut": 1655201580,
+  "time_last_updated": "2022-06-14 10:13:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655155380,
+      "time_dispatch": "2022-06-13 21:23:00",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655155800,
+      "time_last_updated": "2022-06-13 21:30:00",
+      "time_eta_ut": 1655173920,
+      "time_eta": "2022-06-14 02:32:00"
+    },
+    {
+      "time_dispatch_ut": 1654855620,
+      "time_dispatch": "2022-06-10 10:07:00",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654857300,
+      "time_last_updated": "2022-06-10 10:35:00",
+      "time_eta_ut": 1654874160,
+      "time_eta": "2022-06-10 15:16:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 803.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 7608.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 251.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

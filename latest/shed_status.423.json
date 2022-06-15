@@ -1,0 +1,70 @@
+{
+  "shed_id": 423,
+  "shed_name": "AGRA ENTERPRISES (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 08:58:00",
+  "time_last_updated_by_shed_ut": 1655283480,
+  "fuel_type": "p92",
+  "fuel_capacity": 286.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 12:03, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100511",
+  "address": "Kandy Rd, Pasyala",
+  "lat_lng": [
+    7.167767,
+    80.123985
+  ],
+  "time_last_updated_ut": 1655283480,
+  "time_last_updated": "2022-06-15 08:58:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655289180,
+      "time_dispatch": "2022-06-15 10:33:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655289600,
+      "time_last_updated": "2022-06-15 10:40:00",
+      "time_eta_ut": 1655294580,
+      "time_eta": "2022-06-15 12:03:00"
+    },
+    {
+      "time_dispatch_ut": 1655139600,
+      "time_dispatch": "2022-06-13 17:00:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655140200,
+      "time_last_updated": "2022-06-13 17:10:00",
+      "time_eta_ut": 1655145240,
+      "time_eta": "2022-06-13 18:34:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 286.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1587.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

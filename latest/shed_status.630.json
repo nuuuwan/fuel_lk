@@ -1,0 +1,70 @@
+{
+  "shed_id": 630,
+  "shed_name": "CEYLON FISHERY HARBOURS CORPORATION",
+  "time_last_updated_by_shed": "2022-06-15 06:15:00",
+  "time_last_updated_by_shed_ut": 1655273700,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100874",
+  "address": "Kalpitiya",
+  "lat_lng": [
+    8.237713,
+    79.766968
+  ],
+  "time_last_updated_ut": 1655273700,
+  "time_last_updated": "2022-06-15 06:15:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655141580,
+      "time_dispatch": "2022-06-13 17:33:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655142300,
+      "time_last_updated": "2022-06-13 17:45:00",
+      "time_eta_ut": 1655161380,
+      "time_eta": "2022-06-13 23:03:00"
+    },
+    {
+      "time_dispatch_ut": 1654854180,
+      "time_dispatch": "2022-06-10 09:43:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654854600,
+      "time_last_updated": "2022-06-10 09:50:00",
+      "time_eta_ut": 1654873980,
+      "time_eta": "2022-06-10 15:13:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1230.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 6550.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

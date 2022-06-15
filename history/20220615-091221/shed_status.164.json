@@ -1,0 +1,81 @@
+{
+  "shed_id": 164,
+  "shed_name": "RISIKI LANKA PIRAVUMHALA",
+  "time_last_updated_by_shed": "2022-06-15 08:43:00",
+  "time_last_updated_by_shed_ut": 1655282580,
+  "fuel_type": "p92",
+  "fuel_capacity": 677.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100197",
+  "address": "Katugastota - Kurunegala - Puttalam Hwy, Kurunegala",
+  "lat_lng": [
+    7.520666,
+    80.330971
+  ],
+  "time_last_updated_ut": 1655282580,
+  "time_last_updated": "2022-06-15 08:43:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655113260,
+      "time_dispatch": "2022-06-13 09:41:00",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655113800,
+      "time_last_updated": "2022-06-13 09:50:00",
+      "time_eta_ut": 1655115060,
+      "time_eta": "2022-06-13 10:11:00"
+    },
+    {
+      "time_dispatch_ut": 1654967340,
+      "time_dispatch": "2022-06-11 17:09:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654967700,
+      "time_last_updated": "2022-06-11 17:15:00",
+      "time_eta_ut": 1654978920,
+      "time_eta": "2022-06-11 20:22:00"
+    },
+    {
+      "time_dispatch_ut": 1654851840,
+      "time_dispatch": "2022-06-10 09:04:00",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654852200,
+      "time_last_updated": "2022-06-10 09:10:00",
+      "time_eta_ut": 1654853640,
+      "time_eta": "2022-06-10 09:34:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 677.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1451.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 946.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 230.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 308.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

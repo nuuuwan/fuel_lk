@@ -1,0 +1,81 @@
+{
+  "shed_id": 452,
+  "shed_name": "GAMPAHA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:10:00",
+  "time_last_updated_by_shed_ut": 1655284200,
+  "fuel_type": "p92",
+  "fuel_capacity": 554.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100546",
+  "address": "Colombo Road, Gampaha",
+  "lat_lng": [
+    7.090893,
+    79.999252
+  ],
+  "time_last_updated_ut": 1655284200,
+  "time_last_updated": "2022-06-15 09:10:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655132400,
+      "time_dispatch": "2022-06-13 15:00:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655133000,
+      "time_last_updated": "2022-06-13 15:10:00",
+      "time_eta_ut": 1655136540,
+      "time_eta": "2022-06-13 16:09:00"
+    },
+    {
+      "time_dispatch_ut": 1655132400,
+      "time_dispatch": "2022-06-13 15:00:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655133000,
+      "time_last_updated": "2022-06-13 15:10:00",
+      "time_eta_ut": 1655136540,
+      "time_eta": "2022-06-13 16:09:00"
+    },
+    {
+      "time_dispatch_ut": 1654955340,
+      "time_dispatch": "2022-06-11 13:49:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654956000,
+      "time_last_updated": "2022-06-11 14:00:00",
+      "time_eta_ut": 1654959180,
+      "time_eta": "2022-06-11 14:53:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 554.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 212.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 263.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 23.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "shed_id": 1235,
+  "shed_name": "M G S M DASANAYAKA",
+  "time_last_updated_by_shed": "2022-06-14 16:47:00",
+  "time_last_updated_by_shed_ut": 1655225220,
+  "fuel_type": "p92",
+  "fuel_capacity": 820.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "106078",
+  "address": "Horewala - Hemmathagama Rd, Hemmathagama",
+  "lat_lng": [
+    7.172215,
+    80.500275
+  ],
+  "time_last_updated_ut": 1655225220,
+  "time_last_updated": "2022-06-14 16:47:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654963080,
+      "time_dispatch": "2022-06-11 15:58:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654963800,
+      "time_last_updated": "2022-06-11 16:10:00",
+      "time_eta_ut": 1654975680,
+      "time_eta": "2022-06-11 19:28:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 820.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 550.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1002.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 550.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

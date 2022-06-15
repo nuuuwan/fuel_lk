@@ -1,0 +1,70 @@
+{
+  "shed_id": 364,
+  "shed_name": "BT/ LIVE STOCK BREEDER'S CS LTD",
+  "time_last_updated_by_shed": "2022-06-14 07:08:00",
+  "time_last_updated_by_shed_ut": 1655190480,
+  "fuel_type": "p92",
+  "fuel_capacity": 386.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100447",
+  "address": "Batticaloa",
+  "lat_lng": [
+    7.696995,
+    81.672241
+  ],
+  "time_last_updated_ut": 1655190480,
+  "time_last_updated": "2022-06-14 07:08:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655216820,
+      "time_dispatch": "2022-06-14 14:27:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655217300,
+      "time_last_updated": "2022-06-14 14:35:00",
+      "time_eta_ut": 1655252820,
+      "time_eta": "2022-06-15 00:27:00"
+    },
+    {
+      "time_dispatch_ut": 1654941300,
+      "time_dispatch": "2022-06-11 09:55:00",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654941900,
+      "time_last_updated": "2022-06-11 10:05:00",
+      "time_eta_ut": 1654943100,
+      "time_eta": "2022-06-11 10:25:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 386.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1320.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 120.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

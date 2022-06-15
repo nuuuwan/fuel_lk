@@ -1,0 +1,70 @@
+{
+  "shed_id": 87,
+  "shed_name": "R.RUWAN ASIRI DE SILVA",
+  "time_last_updated_by_shed": "2022-06-15 11:22:00",
+  "time_last_updated_by_shed_ut": 1655292120,
+  "fuel_type": "p92",
+  "fuel_capacity": 661.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100106",
+  "address": "290 A2, Hikkaduwa",
+  "lat_lng": [
+    6.140191,
+    80.099823
+  ],
+  "time_last_updated_ut": 1655292120,
+  "time_last_updated": "2022-06-15 11:22:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655028240,
+      "time_dispatch": "2022-06-12 10:04:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655028900,
+      "time_last_updated": "2022-06-12 10:15:00",
+      "time_eta_ut": 1655040840,
+      "time_eta": "2022-06-12 13:34:00"
+    },
+    {
+      "time_dispatch_ut": 1654974060,
+      "time_dispatch": "2022-06-11 19:01:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654975980,
+      "time_last_updated": "2022-06-11 19:33:00",
+      "time_eta_ut": 1654986660,
+      "time_eta": "2022-06-11 22:31:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 661.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 458.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1580.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 22.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

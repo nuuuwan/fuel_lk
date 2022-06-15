@@ -1,0 +1,70 @@
+{
+  "shed_id": 770,
+  "shed_name": "KATANA MPCS LTD",
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102412",
+  "address": "Seeduwa",
+  "lat_lng": [
+    7.131993,
+    79.875862
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655151660,
+      "time_dispatch": "2022-06-13 20:21:00",
+      "fuel_type": "d",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655152200,
+      "time_last_updated": "2022-06-13 20:30:00",
+      "time_eta_ut": 1655180880,
+      "time_eta": "2022-06-14 04:28:00"
+    },
+    {
+      "time_dispatch_ut": 1654678800,
+      "time_dispatch": "2022-06-08 09:00:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654680300,
+      "time_last_updated": "2022-06-08 09:25:00",
+      "time_eta_ut": 1654681140,
+      "time_eta": "2022-06-08 09:39:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

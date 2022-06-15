@@ -1,0 +1,70 @@
+{
+  "shed_id": 1210,
+  "shed_name": "P P SAMARASINGHE",
+  "time_last_updated_by_shed": "2022-06-15 08:43:00",
+  "time_last_updated_by_shed_ut": 1655282580,
+  "fuel_type": "p92",
+  "fuel_capacity": 1056.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105868",
+  "address": "Murungasyaya Junction",
+  "lat_lng": [
+    6.251616,
+    80.781929
+  ],
+  "time_last_updated_ut": 1655282580,
+  "time_last_updated": "2022-06-15 08:43:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655199000,
+      "time_dispatch": "2022-06-14 09:30:00",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655199600,
+      "time_last_updated": "2022-06-14 09:40:00",
+      "time_eta_ut": 1655210340,
+      "time_eta": "2022-06-14 12:39:00"
+    },
+    {
+      "time_dispatch_ut": 1654962660,
+      "time_dispatch": "2022-06-11 15:51:00",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 19800.0,
+      "time_last_updated_ut": 1654975980,
+      "time_last_updated": "2022-06-11 19:33:00",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1056.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 5638.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 951.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 2850.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

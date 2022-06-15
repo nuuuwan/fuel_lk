@@ -1,0 +1,92 @@
+{
+  "shed_id": 910,
+  "shed_name": "D R M WICRAMASEKERA HOLDINGS",
+  "time_last_updated_by_shed": "2022-06-15 08:17:00",
+  "time_last_updated_by_shed_ut": 1655281020,
+  "fuel_type": "p92",
+  "fuel_capacity": 265.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "103752",
+  "address": "Polgasowita",
+  "lat_lng": [
+    6.787398,
+    79.964607
+  ],
+  "time_last_updated_ut": 1655281020,
+  "time_last_updated": "2022-06-15 08:17:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655044440,
+      "time_dispatch": "2022-06-12 14:34:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655045100,
+      "time_last_updated": "2022-06-12 14:45:00",
+      "time_eta_ut": 1655048280,
+      "time_eta": "2022-06-12 15:38:00"
+    },
+    {
+      "time_dispatch_ut": 1655032260,
+      "time_dispatch": "2022-06-12 11:11:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655032800,
+      "time_last_updated": "2022-06-12 11:20:00",
+      "time_eta_ut": 1655036100,
+      "time_eta": "2022-06-12 12:15:00"
+    },
+    {
+      "time_dispatch_ut": 1654974120,
+      "time_dispatch": "2022-06-11 19:02:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654975980,
+      "time_last_updated": "2022-06-11 19:33:00",
+      "time_eta_ut": 1654977960,
+      "time_eta": "2022-06-11 20:06:00"
+    },
+    {
+      "time_dispatch_ut": 1654959120,
+      "time_dispatch": "2022-06-11 14:52:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654959600,
+      "time_last_updated": "2022-06-11 15:00:00",
+      "time_eta_ut": 1654962960,
+      "time_eta": "2022-06-11 15:56:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 265.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 248.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 452.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 592.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 28.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

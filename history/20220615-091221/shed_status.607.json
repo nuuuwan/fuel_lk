@@ -1,0 +1,81 @@
+{
+  "shed_id": 607,
+  "shed_name": "A.M.I.HASSAN",
+  "time_last_updated_by_shed": "2022-06-15 06:31:00",
+  "time_last_updated_by_shed_ut": 1655274660,
+  "fuel_type": "p92",
+  "fuel_capacity": 16.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100821",
+  "address": "Central Camp - Ampara",
+  "lat_lng": [
+    7.416894,
+    81.731682
+  ],
+  "time_last_updated_ut": 1655274660,
+  "time_last_updated": "2022-06-15 06:31:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654942620,
+      "time_dispatch": "2022-06-11 10:17:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654943100,
+      "time_last_updated": "2022-06-11 10:25:00",
+      "time_eta_ut": 1654978620,
+      "time_eta": "2022-06-11 20:17:00"
+    },
+    {
+      "time_dispatch_ut": 1654865520,
+      "time_dispatch": "2022-06-10 12:52:00",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654867200,
+      "time_last_updated": "2022-06-10 13:20:00",
+      "time_eta_ut": 1654871700,
+      "time_eta": "2022-06-10 14:35:00"
+    },
+    {
+      "time_dispatch_ut": 1654607760,
+      "time_dispatch": "2022-06-07 13:16:00",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654608900,
+      "time_last_updated": "2022-06-07 13:35:00",
+      "time_eta_ut": 1654613940,
+      "time_eta": "2022-06-07 14:59:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 16.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 103.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "shed_id": 53,
+  "shed_name": "KOBEIGANE MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:07:00",
+  "time_last_updated_by_shed_ut": 1655284020,
+  "fuel_type": "p92",
+  "fuel_capacity": 1301.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100064",
+  "address": "B167, Kobeigane",
+  "lat_lng": [
+    7.656303,
+    80.126495
+  ],
+  "time_last_updated_ut": 1655284020,
+  "time_last_updated": "2022-06-15 09:07:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654960920,
+      "time_dispatch": "2022-06-11 15:22:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654962600,
+      "time_last_updated": "2022-06-11 15:50:00",
+      "time_eta_ut": 1654972500,
+      "time_eta": "2022-06-11 18:35:00"
+    },
+    {
+      "time_dispatch_ut": 1654890780,
+      "time_dispatch": "2022-06-10 19:53:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654891200,
+      "time_last_updated": "2022-06-10 20:00:00",
+      "time_eta_ut": 1654903620,
+      "time_eta": "2022-06-10 23:27:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1301.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 741.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

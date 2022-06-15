@@ -1,0 +1,92 @@
+{
+  "shed_id": 317,
+  "shed_name": "GALKULAMA FUEL MART",
+  "time_last_updated_by_shed": "2022-06-15 09:08:00",
+  "time_last_updated_by_shed_ut": 1655284080,
+  "fuel_type": "p92",
+  "fuel_capacity": 454.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100388",
+  "address": "Galkulama",
+  "lat_lng": [
+    8.269369,
+    80.503006
+  ],
+  "time_last_updated_ut": 1655284080,
+  "time_last_updated": "2022-06-15 09:08:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655297820,
+      "time_dispatch": "2022-06-15 12:57:00",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298300,
+      "time_last_updated": "2022-06-15 13:05:00",
+      "time_eta_ut": 1655300160,
+      "time_eta": "2022-06-15 13:36:00"
+    },
+    {
+      "time_dispatch_ut": 1655111640,
+      "time_dispatch": "2022-06-13 09:14:00",
+      "fuel_type": "k",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655112000,
+      "time_last_updated": "2022-06-13 09:20:00",
+      "time_eta_ut": 1655113980,
+      "time_eta": "2022-06-13 09:53:00"
+    },
+    {
+      "time_dispatch_ut": 1655111640,
+      "time_dispatch": "2022-06-13 09:14:00",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655112000,
+      "time_last_updated": "2022-06-13 09:20:00",
+      "time_eta_ut": 1655113980,
+      "time_eta": "2022-06-13 09:53:00"
+    },
+    {
+      "time_dispatch_ut": 1654605660,
+      "time_dispatch": "2022-06-07 12:41:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654606200,
+      "time_last_updated": "2022-06-07 12:50:00",
+      "time_eta_ut": 1654629060,
+      "time_eta": "2022-06-07 19:11:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 454.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 514.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 860.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 88.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

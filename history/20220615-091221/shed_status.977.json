@@ -1,0 +1,70 @@
+{
+  "shed_id": 977,
+  "shed_name": "MAYADUNNE FILLING CENTER",
+  "time_last_updated_by_shed": "2022-06-15 08:44:00",
+  "time_last_updated_by_shed_ut": 1655282640,
+  "fuel_type": "p92",
+  "fuel_capacity": 131.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "104307",
+  "address": "Fuel Station, A12, Anuradhapura",
+  "lat_lng": [
+    8.353874,
+    80.432739
+  ],
+  "time_last_updated_ut": 1655282640,
+  "time_last_updated": "2022-06-15 08:44:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655123460,
+      "time_dispatch": "2022-06-13 12:31:00",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655124000,
+      "time_last_updated": "2022-06-13 12:40:00",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655122140,
+      "time_dispatch": "2022-06-13 12:09:00",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655122500,
+      "time_last_updated": "2022-06-13 12:15:00",
+      "time_eta_ut": 1655122920,
+      "time_eta": "2022-06-13 12:22:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 131.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1043.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 441.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "shed_id": 490,
+  "shed_name": "KATUGAMPOLA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 08:53:00",
+  "time_last_updated_by_shed_ut": 1655283180,
+  "fuel_type": "p92",
+  "fuel_capacity": 208.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100593",
+  "address": "Pannala Police Station Rd, Pannala",
+  "lat_lng": [
+    7.328778,
+    80.022278
+  ],
+  "time_last_updated_ut": 1655283180,
+  "time_last_updated": "2022-06-15 08:53:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655196000,
+      "time_dispatch": "2022-06-14 08:40:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655196600,
+      "time_last_updated": "2022-06-14 08:50:00",
+      "time_eta_ut": 1655203440,
+      "time_eta": "2022-06-14 10:44:00"
+    },
+    {
+      "time_dispatch_ut": 1654952460,
+      "time_dispatch": "2022-06-11 13:01:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654953000,
+      "time_last_updated": "2022-06-11 13:10:00",
+      "time_eta_ut": 1654959660,
+      "time_eta": "2022-06-11 15:01:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 208.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 654.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 302.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

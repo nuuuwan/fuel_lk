@@ -1,0 +1,70 @@
+{
+  "shed_id": 1144,
+  "shed_name": "HAKMANA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:58:00",
+  "time_last_updated_by_shed_ut": 1655287080,
+  "fuel_type": "p92",
+  "fuel_capacity": 574.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105238",
+  "address": "67p, Urubokka Road, Ransagoda",
+  "lat_lng": [
+    6.125567,
+    80.558182
+  ],
+  "time_last_updated_ut": 1655287080,
+  "time_last_updated": "2022-06-15 09:58:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654940340,
+      "time_dispatch": "2022-06-11 09:39:00",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654940700,
+      "time_last_updated": "2022-06-11 09:45:00",
+      "time_eta_ut": 1654948320,
+      "time_eta": "2022-06-11 11:52:00"
+    },
+    {
+      "time_dispatch_ut": 1654860540,
+      "time_dispatch": "2022-06-10 11:29:00",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654860900,
+      "time_last_updated": "2022-06-10 11:35:00",
+      "time_eta_ut": 1654868520,
+      "time_eta": "2022-06-10 13:42:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 574.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 180.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1000.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 180.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 648.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

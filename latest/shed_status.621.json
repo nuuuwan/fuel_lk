@@ -1,0 +1,70 @@
+{
+  "shed_id": 621,
+  "shed_name": "P.K.LIYANAGE",
+  "time_last_updated_by_shed": "2022-06-15 08:36:00",
+  "time_last_updated_by_shed_ut": 1655282160,
+  "fuel_type": "p92",
+  "fuel_capacity": 480.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100851",
+  "address": "Middeniya",
+  "lat_lng": [
+    6.249278,
+    80.764343
+  ],
+  "time_last_updated_ut": 1655282160,
+  "time_last_updated": "2022-06-15 08:36:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655141940,
+      "time_dispatch": "2022-06-13 17:39:00",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655142300,
+      "time_last_updated": "2022-06-13 17:45:00",
+      "time_eta_ut": 1655153280,
+      "time_eta": "2022-06-13 20:48:00"
+    },
+    {
+      "time_dispatch_ut": 1654856640,
+      "time_dispatch": "2022-06-10 10:24:00",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654857300,
+      "time_last_updated": "2022-06-10 10:35:00",
+      "time_eta_ut": 1654867980,
+      "time_eta": "2022-06-10 13:33:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 480.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 7800.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 800.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "shed_id": 827,
+  "shed_name": "SRI LANKA RED CROSS SOCIETY",
+  "time_last_updated_by_shed": "2022-06-15 11:58:00",
+  "time_last_updated_by_shed_ut": 1655294280,
+  "fuel_type": "p92",
+  "fuel_capacity": 64.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "102677",
+  "address": "Hambantota",
+  "lat_lng": [
+    6.153313,
+    81.143402
+  ],
+  "time_last_updated_ut": 1655294280,
+  "time_last_updated": "2022-06-15 11:58:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655131560,
+      "time_dispatch": "2022-06-13 14:46:00",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655132100,
+      "time_last_updated": "2022-06-13 14:55:00",
+      "time_eta_ut": 1655142360,
+      "time_eta": "2022-06-13 17:46:00"
+    },
+    {
+      "time_dispatch_ut": 1654793220,
+      "time_dispatch": "2022-06-09 16:47:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654816980,
+      "time_last_updated": "2022-06-09 23:23:00",
+      "time_eta_ut": 1654817400,
+      "time_eta": "2022-06-09 23:30:00"
+    },
+    {
+      "time_dispatch_ut": 1654796820,
+      "time_dispatch": "2022-06-09 17:47:00",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654816980,
+      "time_last_updated": "2022-06-09 23:23:00",
+      "time_eta_ut": 1654807620,
+      "time_eta": "2022-06-09 20:47:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 158.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2475.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 1100.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 408.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

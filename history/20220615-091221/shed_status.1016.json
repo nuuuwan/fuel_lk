@@ -1,0 +1,92 @@
+{
+  "shed_id": 1016,
+  "shed_name": "NANDANA GAMAGE",
+  "time_last_updated_by_shed": "2022-06-15 08:45:00",
+  "time_last_updated_by_shed_ut": 1655282700,
+  "fuel_type": "p92",
+  "fuel_capacity": 294.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 10:41, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104528",
+  "address": "Sri Jayawardenepura Kotte",
+  "lat_lng": [
+    6.881203,
+    79.916344
+  ],
+  "time_last_updated_ut": 1655282700,
+  "time_last_updated": "2022-06-15 08:45:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655287620,
+      "time_dispatch": "2022-06-15 10:07:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655288100,
+      "time_last_updated": "2022-06-15 10:15:00",
+      "time_eta_ut": 1655289660,
+      "time_eta": "2022-06-15 10:41:00"
+    },
+    {
+      "time_dispatch_ut": 1655143380,
+      "time_dispatch": "2022-06-13 18:03:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655143800,
+      "time_last_updated": "2022-06-13 18:10:00",
+      "time_eta_ut": 1655145420,
+      "time_eta": "2022-06-13 18:37:00"
+    },
+    {
+      "time_dispatch_ut": 1655047380,
+      "time_dispatch": "2022-06-12 15:23:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655047800,
+      "time_last_updated": "2022-06-12 15:30:00",
+      "time_eta_ut": 1655049420,
+      "time_eta": "2022-06-12 15:57:00"
+    },
+    {
+      "time_dispatch_ut": 1654880820,
+      "time_dispatch": "2022-06-10 17:07:00",
+      "fuel_type": "sd",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654881300,
+      "time_last_updated": "2022-06-10 17:15:00",
+      "time_eta_ut": 1654882860,
+      "time_eta": "2022-06-10 17:41:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 294.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 311.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 220.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 409.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

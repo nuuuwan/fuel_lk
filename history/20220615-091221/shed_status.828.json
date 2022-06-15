@@ -1,0 +1,59 @@
+{
+  "shed_id": 828,
+  "shed_name": "CEYLON FISHERY HARBOURS CORPORATION",
+  "time_last_updated_by_shed": "2022-06-13 12:36:00",
+  "time_last_updated_by_shed_ut": 1655123760,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102678",
+  "address": "Ceypetco Filling Station, Ambalangoda",
+  "lat_lng": [
+    6.233832,
+    80.051872
+  ],
+  "time_last_updated_ut": 1655123760,
+  "time_last_updated": "2022-06-13 12:36:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655225040,
+      "time_dispatch": "2022-06-14 16:44:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655225700,
+      "time_last_updated": "2022-06-14 16:55:00",
+      "time_eta_ut": 1655236080,
+      "time_eta": "2022-06-14 19:48:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1100.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

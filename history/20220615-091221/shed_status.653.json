@@ -1,0 +1,70 @@
+{
+  "shed_id": 653,
+  "shed_name": "MAWANELLA HEMMATAGAMA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:54:00",
+  "time_last_updated_by_shed_ut": 1655286840,
+  "fuel_type": "p92",
+  "fuel_capacity": 780.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100947",
+  "address": "Hemmathagama",
+  "lat_lng": [
+    7.173752,
+    80.500793
+  ],
+  "time_last_updated_ut": 1655286840,
+  "time_last_updated": "2022-06-15 09:54:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655145180,
+      "time_dispatch": "2022-06-13 18:33:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655145600,
+      "time_last_updated": "2022-06-13 18:40:00",
+      "time_eta_ut": 1655158020,
+      "time_eta": "2022-06-13 22:07:00"
+    },
+    {
+      "time_dispatch_ut": 1654963080,
+      "time_dispatch": "2022-06-11 15:58:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654963800,
+      "time_last_updated": "2022-06-11 16:10:00",
+      "time_eta_ut": 1654974660,
+      "time_eta": "2022-06-11 19:11:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 780.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 800.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 105.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

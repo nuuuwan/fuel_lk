@@ -1,0 +1,70 @@
+{
+  "shed_id": 263,
+  "shed_name": "C P MOHAMED & SONS",
+  "time_last_updated_by_shed": "2022-06-15 02:43:00",
+  "time_last_updated_by_shed_ut": 1655260980,
+  "fuel_type": "p92",
+  "fuel_capacity": 192.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 07:58, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100320",
+  "address": "Trincomalee Rd, Anuradhapura",
+  "lat_lng": [
+    8.355429,
+    80.416039
+  ],
+  "time_last_updated_ut": 1655260980,
+  "time_last_updated": "2022-06-15 02:43:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655279100,
+      "time_dispatch": "2022-06-15 07:45:00",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655279700,
+      "time_last_updated": "2022-06-15 07:55:00",
+      "time_eta_ut": 1655279880,
+      "time_eta": "2022-06-15 07:58:00"
+    },
+    {
+      "time_dispatch_ut": 1655135100,
+      "time_dispatch": "2022-06-13 15:45:00",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655135700,
+      "time_last_updated": "2022-06-13 15:55:00",
+      "time_eta_ut": 1655135880,
+      "time_eta": "2022-06-13 15:58:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 192.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 4193.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "shed_id": 463,
+  "shed_name": "PUNGUDUTIVU MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 06:37:00",
+  "time_last_updated_by_shed_ut": 1655275020,
+  "fuel_type": "p92",
+  "fuel_capacity": 50.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100558",
+  "address": "Pungudutivu West, Kurichchikadu",
+  "lat_lng": [
+    9.58577,
+    79.815804
+  ],
+  "time_last_updated_ut": 1655275020,
+  "time_last_updated": "2022-06-15 06:37:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654882620,
+      "time_dispatch": "2022-06-10 17:37:00",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654883100,
+      "time_last_updated": "2022-06-10 17:45:00",
+      "time_eta_ut": 1654888560,
+      "time_eta": "2022-06-10 19:16:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 50.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 220.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 50.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

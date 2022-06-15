@@ -1,0 +1,81 @@
+{
+  "shed_id": 242,
+  "shed_name": "KADDAIVELY NELLIADY MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 07:29:00",
+  "time_last_updated_by_shed_ut": 1655278140,
+  "fuel_type": "p92",
+  "fuel_capacity": 740.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100295",
+  "address": "Lanka Filling Station, Ab20, Karaveddi",
+  "lat_lng": [
+    9.799875,
+    80.19812
+  ],
+  "time_last_updated_ut": 1655278140,
+  "time_last_updated": "2022-06-15 07:29:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655127480,
+      "time_dispatch": "2022-06-13 13:38:00",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1655127900,
+      "time_last_updated": "2022-06-13 13:45:00",
+      "time_eta_ut": 1655131080,
+      "time_eta": "2022-06-13 14:38:00"
+    },
+    {
+      "time_dispatch_ut": 1655113200,
+      "time_dispatch": "2022-06-13 09:40:00",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655113800,
+      "time_last_updated": "2022-06-13 09:50:00",
+      "time_eta_ut": 1655116800,
+      "time_eta": "2022-06-13 10:40:00"
+    },
+    {
+      "time_dispatch_ut": 1654767840,
+      "time_dispatch": "2022-06-09 09:44:00",
+      "fuel_type": "k",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654816920,
+      "time_last_updated": "2022-06-09 23:22:00",
+      "time_eta_ut": 1654771440,
+      "time_eta": "2022-06-09 10:44:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 740.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1276.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 381.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

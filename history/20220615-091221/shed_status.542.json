@@ -1,0 +1,70 @@
+{
+  "shed_id": 542,
+  "shed_name": "C.WEERAKONE",
+  "time_last_updated_by_shed": "2022-06-15 09:01:00",
+  "time_last_updated_by_shed_ut": 1655283660,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100659",
+  "address": "Bolana",
+  "lat_lng": [
+    6.163014,
+    81.004349
+  ],
+  "time_last_updated_ut": 1655283660,
+  "time_last_updated": "2022-06-15 09:01:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655145540,
+      "time_dispatch": "2022-06-13 18:39:00",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655145900,
+      "time_last_updated": "2022-06-13 18:45:00",
+      "time_eta_ut": 1655154780,
+      "time_eta": "2022-06-13 21:13:00"
+    },
+    {
+      "time_dispatch_ut": 1654894980,
+      "time_dispatch": "2022-06-10 21:03:00",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654895400,
+      "time_last_updated": "2022-06-10 21:10:00",
+      "time_eta_ut": 1654904220,
+      "time_eta": "2022-06-10 23:37:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "shed_id": 909,
+  "shed_name": "T H JAYALATH",
+  "time_last_updated_by_shed": "2022-06-13 16:17:00",
+  "time_last_updated_by_shed_ut": 1655137020,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "103722",
+  "address": "Godagama Lanka Fuel Station, A2, Godagama, Thelwatta",
+  "lat_lng": [
+    6.173238,
+    80.083694
+  ],
+  "time_last_updated_ut": 1655137020,
+  "time_last_updated": "2022-06-13 16:17:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654974060,
+      "time_dispatch": "2022-06-11 19:01:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654975980,
+      "time_last_updated": "2022-06-11 19:33:00",
+      "time_eta_ut": 1654985640,
+      "time_eta": "2022-06-11 22:14:00"
+    },
+    {
+      "time_dispatch_ut": 1654859100,
+      "time_dispatch": "2022-06-10 11:05:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654859700,
+      "time_last_updated": "2022-06-10 11:15:00",
+      "time_eta_ut": 1654870680,
+      "time_eta": "2022-06-10 14:18:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 3880.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

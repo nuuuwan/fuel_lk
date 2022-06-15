@@ -1,0 +1,70 @@
+{
+  "shed_id": 153,
+  "shed_name": "R.S.WIJESOORIYA",
+  "time_last_updated_by_shed": "2022-06-15 09:25:00",
+  "time_last_updated_by_shed_ut": 1655285100,
+  "fuel_type": "p92",
+  "fuel_capacity": 157.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100185",
+  "address": "Tangalle Rd",
+  "lat_lng": [
+    5.964332,
+    80.691154
+  ],
+  "time_last_updated_ut": 1655285100,
+  "time_last_updated": "2022-06-15 09:25:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655202420,
+      "time_dispatch": "2022-06-14 10:27:00",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655202900,
+      "time_last_updated": "2022-06-14 10:35:00",
+      "time_eta_ut": 1655218620,
+      "time_eta": "2022-06-14 14:57:00"
+    },
+    {
+      "time_dispatch_ut": 1654960320,
+      "time_dispatch": "2022-06-11 15:12:00",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654960800,
+      "time_last_updated": "2022-06-11 15:20:00",
+      "time_eta_ut": 1654963920,
+      "time_eta": "2022-06-11 16:12:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 157.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 499.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 13370.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 410.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "shed_id": 19,
+  "shed_name": "K.THEVAGURUNATHAN",
+  "time_last_updated_by_shed": "2022-06-14 09:52:00",
+  "time_last_updated_by_shed_ut": 1655200320,
+  "fuel_type": "p92",
+  "fuel_capacity": 855.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100023",
+  "address": "Market, 1010 Jaffna-Point Pedro Rd, Jaffna",
+  "lat_lng": [
+    9.680778,
+    80.03875
+  ],
+  "time_last_updated_ut": 1655200320,
+  "time_last_updated": "2022-06-14 09:52:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654967820,
+      "time_dispatch": "2022-06-11 17:17:00",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654968300,
+      "time_last_updated": "2022-06-11 17:25:00",
+      "time_eta_ut": 1654971420,
+      "time_eta": "2022-06-11 18:17:00"
+    },
+    {
+      "time_dispatch_ut": 1654859520,
+      "time_dispatch": "2022-06-10 11:12:00",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654860000,
+      "time_last_updated": "2022-06-10 11:20:00",
+      "time_eta_ut": 1654863120,
+      "time_eta": "2022-06-10 12:12:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 855.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 7020.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 360.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "shed_id": 410,
+  "shed_name": "NAWA WALAPONE MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 11:38:00",
+  "time_last_updated_by_shed_ut": 1655293080,
+  "fuel_type": "p92",
+  "fuel_capacity": 768.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100497",
+  "address": "Nawa Walapone Mpcs, Thennekumbura - Rikillagaskada - Ragala",
+  "lat_lng": [
+    7.011906,
+    80.859947
+  ],
+  "time_last_updated_ut": 1655293080,
+  "time_last_updated": "2022-06-15 11:38:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655198700,
+      "time_dispatch": "2022-06-14 09:25:00",
+      "fuel_type": "d",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655199300,
+      "time_last_updated": "2022-06-14 09:35:00",
+      "time_eta_ut": 1655206440,
+      "time_eta": "2022-06-14 11:34:00"
+    },
+    {
+      "time_dispatch_ut": 1654966620,
+      "time_dispatch": "2022-06-11 16:57:00",
+      "fuel_type": "p92",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654967100,
+      "time_last_updated": "2022-06-11 17:05:00",
+      "time_eta_ut": 1654974360,
+      "time_eta": "2022-06-11 19:06:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 768.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1371.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 227.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

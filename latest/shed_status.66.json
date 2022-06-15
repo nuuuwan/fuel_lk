@@ -1,0 +1,81 @@
+{
+  "shed_id": 66,
+  "shed_name": "MORATUWA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-14 17:22:00",
+  "time_last_updated_by_shed_ut": 1655227320,
+  "fuel_type": "p92",
+  "fuel_capacity": 2143.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100081",
+  "address": "Moratuwa",
+  "lat_lng": [
+    6.786272,
+    79.884445
+  ],
+  "time_last_updated_ut": 1655227320,
+  "time_last_updated": "2022-06-14 17:22:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655124900,
+      "time_dispatch": "2022-06-13 12:55:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655125500,
+      "time_last_updated": "2022-06-13 13:05:00",
+      "time_eta_ut": 1655128500,
+      "time_eta": "2022-06-13 13:55:00"
+    },
+    {
+      "time_dispatch_ut": 1655032620,
+      "time_dispatch": "2022-06-12 11:17:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655033100,
+      "time_last_updated": "2022-06-12 11:25:00",
+      "time_eta_ut": 1655036220,
+      "time_eta": "2022-06-12 12:17:00"
+    },
+    {
+      "time_dispatch_ut": 1654777680,
+      "time_dispatch": "2022-06-09 12:28:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654816920,
+      "time_last_updated": "2022-06-09 23:22:00",
+      "time_eta_ut": 1654781280,
+      "time_eta": "2022-06-09 13:28:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 2143.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1286.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1807.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 2000.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1156.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

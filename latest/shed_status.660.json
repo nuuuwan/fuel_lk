@@ -1,0 +1,47 @@
+{
+  "shed_id": 660,
+  "shed_name": "MS.  IHALA LELWALA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-11 12:03:00",
+  "time_last_updated_by_shed_ut": 1654948980,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100962",
+  "address": "Baddegama Road, Wanduramba, Galle",
+  "lat_lng": [
+    6.135192,
+    80.253754
+  ],
+  "time_last_updated_ut": 1654948980,
+  "time_last_updated": "2022-06-11 12:03:00",
+  "browser_dispatch": false,
+  "dispatch_schedule_list": [],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1548.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

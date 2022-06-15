@@ -1,0 +1,70 @@
+{
+  "shed_id": 1222,
+  "shed_name": "HANA LANKA LOGISTICS (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-14 09:33:00",
+  "time_last_updated_by_shed_ut": 1655199180,
+  "fuel_type": "p92",
+  "fuel_capacity": 748.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "106006",
+  "address": "203 Main St, Kalmunai",
+  "lat_lng": [
+    7.406149,
+    81.830978
+  ],
+  "time_last_updated_ut": 1655199180,
+  "time_last_updated": "2022-06-14 09:33:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654963080,
+      "time_dispatch": "2022-06-11 15:58:00",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654963500,
+      "time_last_updated": "2022-06-11 16:05:00",
+      "time_eta_ut": 1654968720,
+      "time_eta": "2022-06-11 17:32:00"
+    },
+    {
+      "time_dispatch_ut": 1654867140,
+      "time_dispatch": "2022-06-10 13:19:00",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654868400,
+      "time_last_updated": "2022-06-10 13:40:00",
+      "time_eta_ut": 1654872780,
+      "time_eta": "2022-06-10 14:53:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 748.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 4532.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 7302.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 327.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

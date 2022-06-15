@@ -1,0 +1,81 @@
+{
+  "shed_id": 134,
+  "shed_name": "REAL LANKA FILLING STATION",
+  "time_last_updated_by_shed": "2022-06-14 16:13:00",
+  "time_last_updated_by_shed_ut": 1655223180,
+  "fuel_type": "p92",
+  "fuel_capacity": 452.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 12:53, 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100165",
+  "address": "Weligama By Pass Rd",
+  "lat_lng": [
+    5.972268,
+    80.428703
+  ],
+  "time_last_updated_ut": 1655223180,
+  "time_last_updated": "2022-06-14 16:13:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655293980,
+      "time_dispatch": "2022-06-15 11:53:00",
+      "fuel_type": "k",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655294400,
+      "time_last_updated": "2022-06-15 12:00:00",
+      "time_eta_ut": 1655297820,
+      "time_eta": "2022-06-15 12:57:00"
+    },
+    {
+      "time_dispatch_ut": 1655293740,
+      "time_dispatch": "2022-06-15 11:49:00",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655294100,
+      "time_last_updated": "2022-06-15 11:55:00",
+      "time_eta_ut": 1655297580,
+      "time_eta": "2022-06-15 12:53:00"
+    },
+    {
+      "time_dispatch_ut": 1654937940,
+      "time_dispatch": "2022-06-11 08:59:00",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654938300,
+      "time_last_updated": "2022-06-11 09:05:00",
+      "time_eta_ut": 1654941780,
+      "time_eta": "2022-06-11 10:03:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 452.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 555.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 337.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "shed_id": 172,
+  "shed_name": "A.B.WIJESINGHE",
+  "time_last_updated_by_shed": "2022-06-15 08:28:00",
+  "time_last_updated_by_shed_ut": 1655281680,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100207",
+  "address": "Kandy - Mahiyangane - Padiyatalawa Highway, Karalliyadda",
+  "lat_lng": [
+    7.31637,
+    80.756691
+  ],
+  "time_last_updated_ut": 1655281680,
+  "time_last_updated": "2022-06-15 08:28:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655225340,
+      "time_dispatch": "2022-06-14 16:49:00",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 19800.0,
+      "time_last_updated_ut": 1655225700,
+      "time_last_updated": "2022-06-14 16:55:00",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654605120,
+      "time_dispatch": "2022-06-07 12:32:00",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654607700,
+      "time_last_updated": "2022-06-07 13:15:00",
+      "time_eta_ut": 1654609500,
+      "time_eta": "2022-06-07 13:45:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 609.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 12309.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

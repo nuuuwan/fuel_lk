@@ -1,0 +1,81 @@
+{
+  "shed_id": 398,
+  "shed_name": "K.A.ANURA RAMYALAL",
+  "time_last_updated_by_shed": "2022-06-15 09:56:00",
+  "time_last_updated_by_shed_ut": 1655286960,
+  "fuel_type": "p92",
+  "fuel_capacity": 17.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100483",
+  "address": "Colombo - Galle - Hambantota - Wellawaya Hwy",
+  "lat_lng": [
+    6.307125,
+    81.232864
+  ],
+  "time_last_updated_ut": 1655286960,
+  "time_last_updated": "2022-06-15 09:56:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655218800,
+      "time_dispatch": "2022-06-14 15:00:00",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655219400,
+      "time_last_updated": "2022-06-14 15:10:00",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654987320,
+      "time_dispatch": "2022-06-11 22:42:00",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654987800,
+      "time_last_updated": "2022-06-11 22:50:00",
+      "time_eta_ut": 1655000160,
+      "time_eta": "2022-06-12 02:16:00"
+    },
+    {
+      "time_dispatch_ut": 1654805940,
+      "time_dispatch": "2022-06-09 20:19:00",
+      "fuel_type": "k",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654816980,
+      "time_last_updated": "2022-06-09 23:23:00",
+      "time_eta_ut": 1654818780,
+      "time_eta": "2022-06-09 23:53:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 17.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1462.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1047.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "shed_id": 845,
+  "shed_name": "K.L.G.UDAYANANDA",
+  "time_last_updated_by_shed": "2022-06-14 08:04:00",
+  "time_last_updated_by_shed_ut": 1655193840,
+  "fuel_type": "p92",
+  "fuel_capacity": 122.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "103270",
+  "address": "Thalahena Gas Station, B240,Thalahena",
+  "lat_lng": [
+    6.907305,
+    79.934723
+  ],
+  "time_last_updated_ut": 1655193840,
+  "time_last_updated": "2022-06-14 08:04:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654955040,
+      "time_dispatch": "2022-06-11 13:44:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654955400,
+      "time_last_updated": "2022-06-11 13:50:00",
+      "time_eta_ut": 1654957080,
+      "time_eta": "2022-06-11 14:18:00"
+    },
+    {
+      "time_dispatch_ut": 1654940760,
+      "time_dispatch": "2022-06-11 09:46:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654941300,
+      "time_last_updated": "2022-06-11 09:55:00",
+      "time_eta_ut": 1654942800,
+      "time_eta": "2022-06-11 10:20:00"
+    },
+    {
+      "time_dispatch_ut": 1654622040,
+      "time_dispatch": "2022-06-07 17:14:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654622400,
+      "time_last_updated": "2022-06-07 17:20:00",
+      "time_eta_ut": 1654624080,
+      "time_eta": "2022-06-07 17:48:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 122.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 114.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 103.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 111.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

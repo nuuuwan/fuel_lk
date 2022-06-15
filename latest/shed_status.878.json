@@ -1,0 +1,70 @@
+{
+  "shed_id": 878,
+  "shed_name": "W.M.Y.N.WEERASINGHE",
+  "time_last_updated_by_shed": "2022-06-15 08:16:00",
+  "time_last_updated_by_shed_ut": 1655280960,
+  "fuel_type": "p92",
+  "fuel_capacity": 247.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "103480",
+  "address": "Sri Bodhi Road, Gampaha",
+  "lat_lng": [
+    7.084246,
+    80.009781
+  ],
+  "time_last_updated_ut": 1655280960,
+  "time_last_updated": "2022-06-15 08:16:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655297400,
+      "time_dispatch": "2022-06-15 12:50:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298000,
+      "time_last_updated": "2022-06-15 13:00:00",
+      "time_eta_ut": 1655301240,
+      "time_eta": "2022-06-15 13:54:00"
+    },
+    {
+      "time_dispatch_ut": 1654961160,
+      "time_dispatch": "2022-06-11 15:26:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654962600,
+      "time_last_updated": "2022-06-11 15:50:00",
+      "time_eta_ut": 1654964760,
+      "time_eta": "2022-06-11 16:26:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 247.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 247.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 327.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 347.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

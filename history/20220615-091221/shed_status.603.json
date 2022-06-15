@@ -1,0 +1,70 @@
+{
+  "shed_id": 603,
+  "shed_name": " W.A.SUMATHIPALA",
+  "time_last_updated_by_shed": "2022-06-15 09:13:00",
+  "time_last_updated_by_shed_ut": 1655284380,
+  "fuel_type": "p92",
+  "fuel_capacity": 97.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100805",
+  "address": "Alawwa - Maharagama Rd, Boyawalana",
+  "lat_lng": [
+    7.334894,
+    80.176208
+  ],
+  "time_last_updated_ut": 1655284380,
+  "time_last_updated": "2022-06-15 09:13:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655151480,
+      "time_dispatch": "2022-06-13 20:18:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655151900,
+      "time_last_updated": "2022-06-13 20:25:00",
+      "time_eta_ut": 1655160480,
+      "time_eta": "2022-06-13 22:48:00"
+    },
+    {
+      "time_dispatch_ut": 1654860060,
+      "time_dispatch": "2022-06-10 11:21:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654860600,
+      "time_last_updated": "2022-06-10 11:30:00",
+      "time_eta_ut": 1654867500,
+      "time_eta": "2022-06-10 13:25:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 97.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 194.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

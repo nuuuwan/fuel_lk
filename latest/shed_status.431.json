@@ -1,0 +1,70 @@
+{
+  "shed_id": 431,
+  "shed_name": "JAELA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 06:30:00",
+  "time_last_updated_by_shed_ut": 1655274600,
+  "fuel_type": "p92",
+  "fuel_capacity": 465.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 10:45, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100520",
+  "address": "Petrol Shed Junction, Ragama",
+  "lat_lng": [
+    7.0279,
+    79.915634
+  ],
+  "time_last_updated_ut": 1655274600,
+  "time_last_updated": "2022-06-15 06:30:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655288100,
+      "time_dispatch": "2022-06-15 10:15:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655288700,
+      "time_last_updated": "2022-06-15 10:25:00",
+      "time_eta_ut": 1655289900,
+      "time_eta": "2022-06-15 10:45:00"
+    },
+    {
+      "time_dispatch_ut": 1655125800,
+      "time_dispatch": "2022-06-13 13:10:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655126400,
+      "time_last_updated": "2022-06-13 13:20:00",
+      "time_eta_ut": 1655128140,
+      "time_eta": "2022-06-13 13:49:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 465.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 478.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 607.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

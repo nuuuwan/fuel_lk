@@ -1,0 +1,70 @@
+{
+  "shed_id": 497,
+  "shed_name": "C P ABDULLA & SONS",
+  "time_last_updated_by_shed": "2022-06-15 12:25:00",
+  "time_last_updated_by_shed_ut": 1655295900,
+  "fuel_type": "p92",
+  "fuel_capacity": 860.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100602",
+  "address": "Kandy - Jaffna Hwy, Medawachchiya",
+  "lat_lng": [
+    8.534045,
+    80.49556
+  ],
+  "time_last_updated_ut": 1655295900,
+  "time_last_updated": "2022-06-15 12:25:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655122140,
+      "time_dispatch": "2022-06-13 12:09:00",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655122500,
+      "time_last_updated": "2022-06-13 12:15:00",
+      "time_eta_ut": 1655125980,
+      "time_eta": "2022-06-13 13:13:00"
+    },
+    {
+      "time_dispatch_ut": 1654863600,
+      "time_dispatch": "2022-06-10 12:20:00",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654864200,
+      "time_last_updated": "2022-06-10 12:30:00",
+      "time_eta_ut": 1654867440,
+      "time_eta": "2022-06-10 13:24:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 860.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1130.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 550.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "shed_id": 313,
+  "shed_name": "KORALAI CENTRAL MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 07:20:00",
+  "time_last_updated_by_shed_ut": 1655277600,
+  "fuel_type": "p92",
+  "fuel_capacity": 164.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100382",
+  "address": "Valachchenai",
+  "lat_lng": [
+    7.923157,
+    81.524483
+  ],
+  "time_last_updated_ut": 1655277600,
+  "time_last_updated": "2022-06-15 07:20:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655058540,
+      "time_dispatch": "2022-06-12 18:29:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655059200,
+      "time_last_updated": "2022-06-12 18:40:00",
+      "time_eta_ut": 1655090940,
+      "time_eta": "2022-06-13 03:29:00"
+    },
+    {
+      "time_dispatch_ut": 1654854660,
+      "time_dispatch": "2022-06-10 09:51:00",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654857300,
+      "time_last_updated": "2022-06-10 10:35:00",
+      "time_eta_ut": 1654859040,
+      "time_eta": "2022-06-10 11:04:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 164.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 355.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

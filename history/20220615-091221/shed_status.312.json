@@ -1,0 +1,81 @@
+{
+  "shed_id": 312,
+  "shed_name": "VIYALUWA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 06:58:00",
+  "time_last_updated_by_shed_ut": 1655276280,
+  "fuel_type": "p92",
+  "fuel_capacity": 1172.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100380",
+  "address": "Kandaketiya - Loggaloya Junction",
+  "lat_lng": [
+    7.194312,
+    81.021988
+  ],
+  "time_last_updated_ut": 1655276280,
+  "time_last_updated": "2022-06-15 06:58:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655202840,
+      "time_dispatch": "2022-06-14 10:34:00",
+      "fuel_type": "d",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655203200,
+      "time_last_updated": "2022-06-14 10:40:00",
+      "time_eta_ut": 1655208240,
+      "time_eta": "2022-06-14 12:04:00"
+    },
+    {
+      "time_dispatch_ut": 1655133780,
+      "time_dispatch": "2022-06-13 15:23:00",
+      "fuel_type": "p92",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655134200,
+      "time_last_updated": "2022-06-13 15:30:00",
+      "time_eta_ut": 1655139180,
+      "time_eta": "2022-06-13 16:53:00"
+    },
+    {
+      "time_dispatch_ut": 1654875660,
+      "time_dispatch": "2022-06-10 15:41:00",
+      "fuel_type": "k",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654876200,
+      "time_last_updated": "2022-06-10 15:50:00",
+      "time_eta_ut": 1654881060,
+      "time_eta": "2022-06-10 17:11:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1172.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2601.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1094.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

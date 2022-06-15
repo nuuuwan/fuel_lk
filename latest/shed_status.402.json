@@ -1,0 +1,70 @@
+{
+  "shed_id": 402,
+  "shed_name": "NELUKA ENTERPRISES",
+  "time_last_updated_by_shed": "2022-06-15 08:18:00",
+  "time_last_updated_by_shed_ut": 1655281080,
+  "fuel_type": "p92",
+  "fuel_capacity": 251.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100489",
+  "address": "253, Nagoda. Kadana",
+  "lat_lng": [
+    7.036103,
+    79.898819
+  ],
+  "time_last_updated_ut": 1655281080,
+  "time_last_updated": "2022-06-15 08:18:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655123520,
+      "time_dispatch": "2022-06-13 12:32:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655124000,
+      "time_last_updated": "2022-06-13 12:40:00",
+      "time_eta_ut": 1655125320,
+      "time_eta": "2022-06-13 13:02:00"
+    },
+    {
+      "time_dispatch_ut": 1654953120,
+      "time_dispatch": "2022-06-11 13:12:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654953600,
+      "time_last_updated": "2022-06-11 13:20:00",
+      "time_eta_ut": 1654955700,
+      "time_eta": "2022-06-11 13:55:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 251.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 770.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

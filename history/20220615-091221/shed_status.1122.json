@@ -1,0 +1,70 @@
+{
+  "shed_id": 1122,
+  "shed_name": "LAUGFS PETROLEUM (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 08:01:00",
+  "time_last_updated_by_shed_ut": 1655280060,
+  "fuel_type": "p92",
+  "fuel_capacity": 809.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 13:26, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105100",
+  "address": "2, Havelock Rd, Colombo",
+  "lat_lng": [
+    6.885716,
+    79.865791
+  ],
+  "time_last_updated_ut": 1655280060,
+  "time_last_updated": "2022-06-15 08:01:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655297760,
+      "time_dispatch": "2022-06-15 12:56:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298300,
+      "time_last_updated": "2022-06-15 13:05:00",
+      "time_eta_ut": 1655299560,
+      "time_eta": "2022-06-15 13:26:00"
+    },
+    {
+      "time_dispatch_ut": 1654940640,
+      "time_dispatch": "2022-06-11 09:44:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654941000,
+      "time_last_updated": "2022-06-11 09:50:00",
+      "time_eta_ut": 1654942440,
+      "time_eta": "2022-06-11 10:14:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 809.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1800.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 700.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

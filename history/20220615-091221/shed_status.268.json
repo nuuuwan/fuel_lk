@@ -1,0 +1,92 @@
+{
+  "shed_id": 268,
+  "shed_name": "S.A.D.C.SAMANTHA",
+  "time_last_updated_by_shed": "2022-06-15 08:46:00",
+  "time_last_updated_by_shed_ut": 1655282760,
+  "fuel_type": "p92",
+  "fuel_capacity": 320.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100329",
+  "address": "No 54 Avissawella Rd, Hanwella ",
+  "lat_lng": [
+    6.909066,
+    80.084778
+  ],
+  "time_last_updated_ut": 1655282760,
+  "time_last_updated": "2022-06-15 08:46:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655120160,
+      "time_dispatch": "2022-06-13 11:36:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655120700,
+      "time_last_updated": "2022-06-13 11:45:00",
+      "time_eta_ut": 1655124000,
+      "time_eta": "2022-06-13 12:40:00"
+    },
+    {
+      "time_dispatch_ut": 1655046720,
+      "time_dispatch": "2022-06-12 15:12:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655047200,
+      "time_last_updated": "2022-06-12 15:20:00",
+      "time_eta_ut": 1655050560,
+      "time_eta": "2022-06-12 16:16:00"
+    },
+    {
+      "time_dispatch_ut": 1655031360,
+      "time_dispatch": "2022-06-12 10:56:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655031900,
+      "time_last_updated": "2022-06-12 11:05:00",
+      "time_eta_ut": 1655035200,
+      "time_eta": "2022-06-12 12:00:00"
+    },
+    {
+      "time_dispatch_ut": 1654969980,
+      "time_dispatch": "2022-06-11 17:53:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654970400,
+      "time_last_updated": "2022-06-11 18:00:00",
+      "time_eta_ut": 1654973820,
+      "time_eta": "2022-06-11 18:57:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 320.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1892.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1014.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 543.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 543.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "shed_id": 953,
+  "shed_name": "FISHERIES DEPARTMENT",
+  "time_last_updated_by_shed": "2022-06-15 00:01:00",
+  "time_last_updated_by_shed_ut": 1655251260,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "104140",
+  "address": "Kaluwankarni",
+  "lat_lng": [
+    7.856282,
+    81.543297
+  ],
+  "time_last_updated_ut": 1655251260,
+  "time_last_updated": "2022-06-15 00:01:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655216820,
+      "time_dispatch": "2022-06-14 14:27:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655217300,
+      "time_last_updated": "2022-06-14 14:35:00",
+      "time_eta_ut": 1655249760,
+      "time_eta": "2022-06-14 23:36:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 15.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

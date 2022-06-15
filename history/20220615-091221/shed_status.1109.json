@@ -1,0 +1,70 @@
+{
+  "shed_id": 1109,
+  "shed_name": "AJITH PUTHA FILLING STATION (PVT) L",
+  "time_last_updated_by_shed": "2022-06-15 09:42:00",
+  "time_last_updated_by_shed_ut": 1655286120,
+  "fuel_type": "p92",
+  "fuel_capacity": 1104.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105025",
+  "address": "Outtalam-colombo Rd, Madampe",
+  "lat_lng": [
+    7.509312,
+    79.828926
+  ],
+  "time_last_updated_ut": 1655286120,
+  "time_last_updated": "2022-06-15 09:42:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655201700,
+      "time_dispatch": "2022-06-14 10:15:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655202300,
+      "time_last_updated": "2022-06-14 10:25:00",
+      "time_eta_ut": 1655210700,
+      "time_eta": "2022-06-14 12:45:00"
+    },
+    {
+      "time_dispatch_ut": 1654858920,
+      "time_dispatch": "2022-06-10 11:02:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654859400,
+      "time_last_updated": "2022-06-10 11:10:00",
+      "time_eta_ut": 1654866660,
+      "time_eta": "2022-06-10 13:11:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1104.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1323.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 1766.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 499.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

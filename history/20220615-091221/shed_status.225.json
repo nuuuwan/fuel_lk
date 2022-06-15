@@ -1,0 +1,70 @@
+{
+  "shed_id": 225,
+  "shed_name": "TELDENIYA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 10:02:00",
+  "time_last_updated_by_shed_ut": 1655287320,
+  "fuel_type": "p92",
+  "fuel_capacity": 998.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100274",
+  "address": "Co-op Filling Station, A26, Karalliyadda",
+  "lat_lng": [
+    7.310581,
+    80.763634
+  ],
+  "time_last_updated_ut": 1655287320,
+  "time_last_updated": "2022-06-15 10:02:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655201880,
+      "time_dispatch": "2022-06-14 10:18:00",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655202300,
+      "time_last_updated": "2022-06-14 10:25:00",
+      "time_eta_ut": 1655206260,
+      "time_eta": "2022-06-14 11:31:00"
+    },
+    {
+      "time_dispatch_ut": 1655135100,
+      "time_dispatch": "2022-06-13 15:45:00",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655135700,
+      "time_last_updated": "2022-06-13 15:55:00",
+      "time_eta_ut": 1655139480,
+      "time_eta": "2022-06-13 16:58:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 998.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2190.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 545.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

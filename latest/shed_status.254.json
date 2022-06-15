@@ -1,0 +1,81 @@
+{
+  "shed_id": 254,
+  "shed_name": "LAUGFS PETROLEUM (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 06:30:00",
+  "time_last_updated_by_shed_ut": 1655274600,
+  "fuel_type": "p92",
+  "fuel_capacity": 458.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 11:13, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100310",
+  "address": "Mabima West, Welivita",
+  "lat_lng": [
+    6.94384,
+    79.960907
+  ],
+  "time_last_updated_ut": 1655274600,
+  "time_last_updated": "2022-06-15 06:30:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655300940,
+      "time_dispatch": "2022-06-15 13:49:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655301600,
+      "time_last_updated": "2022-06-15 14:00:00",
+      "time_eta_ut": 1655303280,
+      "time_eta": "2022-06-15 14:28:00"
+    },
+    {
+      "time_dispatch_ut": 1655289000,
+      "time_dispatch": "2022-06-15 10:30:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655289600,
+      "time_last_updated": "2022-06-15 10:40:00",
+      "time_eta_ut": 1655291580,
+      "time_eta": "2022-06-15 11:13:00"
+    },
+    {
+      "time_dispatch_ut": 1654965480,
+      "time_dispatch": "2022-06-11 16:38:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654965900,
+      "time_last_updated": "2022-06-11 16:45:00",
+      "time_eta_ut": 1654967820,
+      "time_eta": "2022-06-11 17:17:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 458.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 859.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1398.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 914.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

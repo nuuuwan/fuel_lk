@@ -1,0 +1,81 @@
+{
+  "shed_id": 427,
+  "shed_name": "JAELA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:09:00",
+  "time_last_updated_by_shed_ut": 1655284140,
+  "fuel_type": "p92",
+  "fuel_capacity": 875.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100515",
+  "address": "Chillaw - Colombo Main Road, Ja-ela Kandana",
+  "lat_lng": [
+    7.049313,
+    79.896751
+  ],
+  "time_last_updated_ut": 1655284140,
+  "time_last_updated": "2022-06-15 09:09:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655110740,
+      "time_dispatch": "2022-06-13 08:59:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655111400,
+      "time_last_updated": "2022-06-13 09:10:00",
+      "time_eta_ut": 1655113080,
+      "time_eta": "2022-06-13 09:38:00"
+    },
+    {
+      "time_dispatch_ut": 1655045700,
+      "time_dispatch": "2022-06-12 14:55:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655046300,
+      "time_last_updated": "2022-06-12 15:05:00",
+      "time_eta_ut": 1655048040,
+      "time_eta": "2022-06-12 15:34:00"
+    },
+    {
+      "time_dispatch_ut": 1654957860,
+      "time_dispatch": "2022-06-11 14:31:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654958400,
+      "time_last_updated": "2022-06-11 14:40:00",
+      "time_eta_ut": 1654959660,
+      "time_eta": "2022-06-11 15:01:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 875.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 840.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 310.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

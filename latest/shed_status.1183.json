@@ -1,0 +1,70 @@
+{
+  "shed_id": 1183,
+  "shed_name": "DARMADASA LIYANAGE",
+  "time_last_updated_by_shed": "2022-06-15 09:58:00",
+  "time_last_updated_by_shed_ut": 1655287080,
+  "fuel_type": "p92",
+  "fuel_capacity": 625.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105431",
+  "address": "Thalgaswala",
+  "lat_lng": [
+    6.23099,
+    80.279251
+  ],
+  "time_last_updated_ut": 1655287080,
+  "time_last_updated": "2022-06-15 09:58:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654962180,
+      "time_dispatch": "2022-06-11 15:43:00",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654962600,
+      "time_last_updated": "2022-06-11 15:50:00",
+      "time_eta_ut": 1654966560,
+      "time_eta": "2022-06-11 16:56:00"
+    },
+    {
+      "time_dispatch_ut": 1654860600,
+      "time_dispatch": "2022-06-10 11:30:00",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654861200,
+      "time_last_updated": "2022-06-10 11:40:00",
+      "time_eta_ut": 1654864980,
+      "time_eta": "2022-06-10 12:43:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 625.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 460.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 966.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 803.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

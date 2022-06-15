@@ -1,0 +1,81 @@
+{
+  "shed_id": 385,
+  "shed_name": "VALI EAST NORTHERN DIVISION MPCS LT",
+  "time_last_updated_by_shed": "2022-06-15 07:27:00",
+  "time_last_updated_by_shed_ut": 1655278020,
+  "fuel_type": "p92",
+  "fuel_capacity": 1379.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100469",
+  "address": "Lanka Filling Station Atchuvely",
+  "lat_lng": [
+    9.777577,
+    80.114532
+  ],
+  "time_last_updated_ut": 1655278020,
+  "time_last_updated": "2022-06-15 07:27:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655127480,
+      "time_dispatch": "2022-06-13 13:38:00",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1655127900,
+      "time_last_updated": "2022-06-13 13:45:00",
+      "time_eta_ut": 1655129820,
+      "time_eta": "2022-06-13 14:17:00"
+    },
+    {
+      "time_dispatch_ut": 1655113200,
+      "time_dispatch": "2022-06-13 09:40:00",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655113800,
+      "time_last_updated": "2022-06-13 09:50:00",
+      "time_eta_ut": 1655115540,
+      "time_eta": "2022-06-13 10:19:00"
+    },
+    {
+      "time_dispatch_ut": 1654595760,
+      "time_dispatch": "2022-06-07 09:56:00",
+      "fuel_type": "k",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654596300,
+      "time_last_updated": "2022-06-07 10:05:00",
+      "time_eta_ut": 1654598100,
+      "time_eta": "2022-06-07 10:35:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1379.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1844.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 209.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

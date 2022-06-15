@@ -1,0 +1,81 @@
+{
+  "shed_id": 1266,
+  "shed_name": "CIMBA LANKA OIL DISTRIBUTORS (PVT)",
+  "time_last_updated_by_shed": "2022-06-13 13:03:00",
+  "time_last_updated_by_shed_ut": 1655125380,
+  "fuel_type": "p92",
+  "fuel_capacity": 1264.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "106280",
+  "address": "Godagama",
+  "lat_lng": [
+    6.89024,
+    80.03656
+  ],
+  "time_last_updated_ut": 1655125380,
+  "time_last_updated": "2022-06-13 13:03:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655149260,
+      "time_dispatch": "2022-06-13 19:41:00",
+      "fuel_type": "sd",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655149800,
+      "time_last_updated": "2022-06-13 19:50:00",
+      "time_eta_ut": 1655152860,
+      "time_eta": "2022-06-13 20:41:00"
+    },
+    {
+      "time_dispatch_ut": 1655032080,
+      "time_dispatch": "2022-06-12 11:08:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655032500,
+      "time_last_updated": "2022-06-12 11:15:00",
+      "time_eta_ut": 1655035680,
+      "time_eta": "2022-06-12 12:08:00"
+    },
+    {
+      "time_dispatch_ut": 1655026860,
+      "time_dispatch": "2022-06-12 09:41:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655027400,
+      "time_last_updated": "2022-06-12 09:50:00",
+      "time_eta_ut": 1655030460,
+      "time_eta": "2022-06-12 10:41:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1264.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 289.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 730.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 214.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

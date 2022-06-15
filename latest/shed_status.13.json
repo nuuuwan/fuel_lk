@@ -1,0 +1,81 @@
+{
+  "shed_id": 13,
+  "shed_name": "DAVIDSON FILLING STATION",
+  "time_last_updated_by_shed": "2022-06-15 09:28:00",
+  "time_last_updated_by_shed_ut": 1655285280,
+  "fuel_type": "p92",
+  "fuel_capacity": 89.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100015",
+  "address": "Kandy",
+  "lat_lng": [
+    7.30981,
+    80.636475
+  ],
+  "time_last_updated_ut": 1655285280,
+  "time_last_updated": "2022-06-15 09:28:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655203980,
+      "time_dispatch": "2022-06-14 10:53:00",
+      "fuel_type": "d",
+      "plant_name": "Sarasaviuyana",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655204400,
+      "time_last_updated": "2022-06-14 11:00:00",
+      "time_eta_ut": 1655206320,
+      "time_eta": "2022-06-14 11:32:00"
+    },
+    {
+      "time_dispatch_ut": 1655118720,
+      "time_dispatch": "2022-06-13 11:12:00",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655119200,
+      "time_last_updated": "2022-06-13 11:20:00",
+      "time_eta_ut": 1655120760,
+      "time_eta": "2022-06-13 11:46:00"
+    },
+    {
+      "time_dispatch_ut": 1654679040,
+      "time_dispatch": "2022-06-08 09:04:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654680300,
+      "time_last_updated": "2022-06-08 09:25:00",
+      "time_eta_ut": 1654693680,
+      "time_eta": "2022-06-08 13:08:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 231.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

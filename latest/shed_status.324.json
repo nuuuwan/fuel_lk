@@ -1,0 +1,70 @@
+{
+  "shed_id": 324,
+  "shed_name": "THUSARI & SON",
+  "time_last_updated_by_shed": "2022-06-15 08:23:00",
+  "time_last_updated_by_shed_ut": 1655281380,
+  "fuel_type": "p92",
+  "fuel_capacity": 50.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100398",
+  "address": "Peliyagoda - Puttalam Highway, Ja-Ela",
+  "lat_lng": [
+    7.073213,
+    79.89286
+  ],
+  "time_last_updated_ut": 1655281380,
+  "time_last_updated": "2022-06-15 08:23:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655298360,
+      "time_dispatch": "2022-06-15 13:06:00",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298900,
+      "time_last_updated": "2022-06-15 13:15:00",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654935300,
+      "time_dispatch": "2022-06-11 08:15:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654935900,
+      "time_last_updated": "2022-06-11 08:25:00",
+      "time_eta_ut": 1654937640,
+      "time_eta": "2022-06-11 08:54:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 50.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 415.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 197.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

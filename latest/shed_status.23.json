@@ -1,0 +1,81 @@
+{
+  "shed_id": 23,
+  "shed_name": "SUPPIAH YOGESWARAM",
+  "time_last_updated_by_shed": "2022-06-15 08:22:00",
+  "time_last_updated_by_shed_ut": 1655281320,
+  "fuel_type": "p92",
+  "fuel_capacity": 690.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100030",
+  "address": "Trincomalee Hwy, Chenkaladi",
+  "lat_lng": [
+    7.784536,
+    81.591949
+  ],
+  "time_last_updated_ut": 1655281320,
+  "time_last_updated": "2022-06-15 08:22:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655137740,
+      "time_dispatch": "2022-06-13 16:29:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655138400,
+      "time_last_updated": "2022-06-13 16:40:00",
+      "time_eta_ut": 1655171940,
+      "time_eta": "2022-06-14 01:59:00"
+    },
+    {
+      "time_dispatch_ut": 1655128440,
+      "time_dispatch": "2022-06-13 13:54:00",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655130600,
+      "time_last_updated": "2022-06-13 14:30:00",
+      "time_eta_ut": 1655130780,
+      "time_eta": "2022-06-13 14:33:00"
+    },
+    {
+      "time_dispatch_ut": 1654962900,
+      "time_dispatch": "2022-06-11 15:55:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654963500,
+      "time_last_updated": "2022-06-11 16:05:00",
+      "time_eta_ut": 1654997100,
+      "time_eta": "2022-06-12 01:25:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 690.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 2542.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 600.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 454.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 750.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
