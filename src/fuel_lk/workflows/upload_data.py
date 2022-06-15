@@ -56,17 +56,9 @@ def pipeline():
     JSONFile(json_file).write(shed_list_all)
     log.info(f'Saved {n_shed_list_all} sheds to {json_file}')
 
-    filtered_shed_data_list_all = list(filter(
-        filter_by_time,
-        shed_list_all,
-    ))
-    n_filtered_shed_data_list_all = len(filtered_shed_data_list_all)
-    log.info(
-        f'Found {n_filtered_shed_data_list_all} updated ' +
-        f'in the last {MAX_UPDATE_DELAY_H} hours')
-
     shed_status_list = shed_status_scraper.scrape_shed_statuses(
-        filtered_shed_data_list_all)
+        shed_list_all
+    )
     n_shed_status_list = len(shed_status_list)
     json_file = os.path.join(DIR_DATA, 'latest/shed_status_list.all.json')
     JSONFile(json_file).write(shed_status_list)
