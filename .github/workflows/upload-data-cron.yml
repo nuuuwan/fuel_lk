@@ -29,7 +29,7 @@ jobs:
     - name: Run - Upload Data
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python src/fuel_lk/upload_data.py
+        python src/fuel_lk/workflows/upload_data.py
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2
@@ -41,7 +41,6 @@ jobs:
       run: |
         git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-        cp -r /tmp/fuel_lk/* .
         cp -r /tmp/fuel_lk/* .
         git add .
         git commit -m "Updated data $(date)"
