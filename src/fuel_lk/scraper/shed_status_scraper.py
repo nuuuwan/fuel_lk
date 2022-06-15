@@ -45,7 +45,7 @@ def clean_shed_status(d):
         did_shed_owner_update_today=d['shedownerupdatetoday'],
         dispatch_schedule_list=list(map(
             clean_dispatch_schedule,
-            d['dispatchSheduleList'],
+            d['dispatchSheduleList'] if d['dispatchSheduleList'] else [],
         )),
         fuel_status_idx=dict(
             p92=dict(
