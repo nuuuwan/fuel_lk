@@ -3,7 +3,7 @@ import os
 from utils import timex
 
 from fuel_lk.common import DIR_DATA, DIR_DATA_HISTORY, DIR_DATA_LATEST, log
-from fuel_lk.scraper import shed_scraper
+from fuel_lk.scraper import shed_scraper, shed_status_scraper
 
 
 def before():
@@ -21,7 +21,8 @@ def after():
 
 
 def pipeline():
-    shed_scraper.scrape_sheds()
+    shed_data_list_all = shed_scraper.scrape_sheds()
+    shed_status_scraper.scrape_shed_statuses(shed_data_list_all)
 
 
 if __name__ == '__main__':
