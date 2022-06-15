@@ -1,0 +1,70 @@
+{
+  "shed_id": 68,
+  "shed_name": "WARIYAPOLA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 09:32",
+  "time_last_updated_by_shed_ut": 1655265720,
+  "fuel_type": "p92",
+  "fuel_capacity": 320.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100084",
+  "address": "Kadahapola - Rambawewa Rd, Katupotha",
+  "lat_lng": [
+    7.534212,
+    80.18792
+  ],
+  "time_last_updated_ut": 1655265720,
+  "time_last_updated": "2022-06-15 09:32",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655107140,
+      "time_dispatch": "2022-06-13 13:29",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655107800,
+      "time_last_updated": "2022-06-13 13:40",
+      "time_eta_ut": 1655118180,
+      "time_eta": "2022-06-13 16:33"
+    },
+    {
+      "time_dispatch_ut": 1654945260,
+      "time_dispatch": "2022-06-11 16:31",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654945800,
+      "time_last_updated": "2022-06-11 16:40",
+      "time_eta_ut": 1654955040,
+      "time_eta": "2022-06-11 19:14"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 320.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 130.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 60.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

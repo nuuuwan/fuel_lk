@@ -1,0 +1,70 @@
+{
+  "shed_id": 93,
+  "shed_name": "C.K.WARUSAVITHANA & COMPANY (PVT) L",
+  "time_last_updated_by_shed": "2022-06-15 08:54",
+  "time_last_updated_by_shed_ut": 1655263440,
+  "fuel_type": "p92",
+  "fuel_capacity": 536.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100112",
+  "address": "Ratmalana Road, Dehiwala - Mount Lavinia",
+  "lat_lng": [
+    6.831449,
+    79.885231
+  ],
+  "time_last_updated_ut": 1655263440,
+  "time_last_updated": "2022-06-15 08:54",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655266260,
+      "time_dispatch": "2022-06-15 09:41",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655266800,
+      "time_last_updated": "2022-06-15 09:50",
+      "time_eta_ut": 1655268600,
+      "time_eta": "2022-06-15 10:20"
+    },
+    {
+      "time_dispatch_ut": 1654749840,
+      "time_dispatch": "2022-06-09 10:14",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654752180,
+      "time_eta": "2022-06-09 10:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 536.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 85.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 55.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 411.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

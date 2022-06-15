@@ -1,6 +1,6 @@
 # Fuel.LK
 
-*Last updated at 20220615-132351*
+*Last updated at 20220615-141554*
 
 Analyzed 1343 sheds.
 
@@ -244,8 +244,6 @@ Analyzed 1343 sheds.
 
 * [100520] JAELA MPCS LTD (Petrol Shed Junction, Ragama)
 
-* [103519] N.S.A.P.NANAYAKKARA (Prassana Filling Station, Baduragoda)
-
 * [100058] W.UPALI PERERA (Delgoda - Pugoda Rd)
 
 * [100477] SENANAYAKE PIRAVUMPOLA (Yakkala)
@@ -460,9 +458,7 @@ Analyzed 1343 sheds.
 
 * [100493] AIRPORT & AVIATION SERVICES(SL) LTD (Lanka Filling Station, Canada Friendship Rd, Katunayake)
 
-* [100441] ST. JUDE'S FILLING STATION (Ceypetco Filling Station, Negombo)
-
-* [104148] WIJESINGHE ENTERPRICES (Jaywardana Filling Station, B152, Wattala- Hedala)
+* [100352] S.A.SIRIPALA TEL PIRAWUMHALA (Pelawatte)
 
 * [101007] CANCEL-AGALAWATTA MPCS LTD (ITTAPANA-CANCEL)
 
@@ -515,8 +511,6 @@ Analyzed 1343 sheds.
 * [103920] S L WASANTHA (Moragahahena)
 
 * [106565] LANKA FILLING STATION YATADOLA (Yatadola, Nagoda-mathugama-kalawellawa-bellapitiya Road)
-
-* [100352] S.A.SIRIPALA TEL PIRAWUMHALA (Pelawatte)
 
 * [100079] H.D.PEIRIS & COMPANY (Panadura)
 
@@ -670,6 +664,8 @@ Analyzed 1343 sheds.
 
 * [100101] GANGA IHALAKORALE MPCS LTD (Gampola - Dolosbage Rd)
 
+* [100311] AUTO SERVICES DAMBULLA (PVT) LTD (No.34, Mirisgoniyawa Trinco Road, Dambulla )
+
 * [100440] NAULA MPCS LTD (Naula)
 
 * [105247] A M U B ARAMPOLA (Udesh Filling Station, Palapathwela)
@@ -702,8 +698,6 @@ Analyzed 1343 sheds.
 
 * [105857] G M N G C K GAMLATH (Kurunegala Rd, Yatawatta)
 
-* [100311] AUTO SERVICES DAMBULLA (PVT) LTD (No.34, Mirisgoniyawa Trinco Road, Dambulla )
-
 * [100651] GALEWELA MPCS LTD (Neelagama)
 
 * [100158] WIJAYA LANKA TRADING (PVT) LTD (Ambepussa - Kurunegala - Trincomalee Highway, Galewela)
@@ -734,6 +728,8 @@ Analyzed 1343 sheds.
 
 * [106356] U L U SHANTHA (Nortonbridge)
 
+* [105009] PRIYANKARA CONSTRUCTION (AMBALANGODA)
+
 * [100848] R.R.WEDISINGHE (Elpitiya)
 
 * [100577] GALLE MPCS LTD (Galle - Queen Street)
@@ -743,6 +739,8 @@ Analyzed 1343 sheds.
 * [100462] G.K.J.WIMALANANDA (Fuel Station, Galle)
 
 * [104267] C S MUNASINGHE (Access Road Nugaduwa,Galle)
+
+* [100400] BALAPITIYA MPCS LTD (Lanka Filling Station, A2, Balapitiya)
 
 * [100890] GALLE DISTRICT FISHERIES CS LTD (Galle)
 
@@ -805,8 +803,6 @@ Analyzed 1343 sheds.
 * [103845] H J KITHSIRI (Uduwila-Batapola)
 
 * [100120] TELIKADA MAJUWANA MPCS LTD (B128, Baddegama)
-
-* [105009] PRIYANKARA CONSTRUCTION (AMBALANGODA)
 
 * [103608] M.K.SIRISENA (Denipitiya Fuel Station, , Denipitiya, Weligama)
 
@@ -912,6 +908,8 @@ Analyzed 1343 sheds.
 
 * [106440] WARNASURIYA ENTERPRISES (Hakmana)
 
+* [106611] W A SENAKA (Aluthwewa, Angunukolapelessa)
+
 * [100851] P.K.LIYANAGE (Middeniya)
 
 * [106617] A G G RAWIN GANITHA (51, Meegahajandura Rd, Sooriyawewa)
@@ -965,8 +963,6 @@ Analyzed 1343 sheds.
 * [104268] AYOMA KALHARA FILLING STATION (PVT) (Walasmulla Rd ,Weeraketiya)
 
 * [106372] RANMUTHU ENTERPRISES (Ranna)
-
-* [106611] W A SENAKA (Aluthwewa, Angunukolapelessa)
 
 * [100583] BEN HEWA ASSOCIATES (PVT) LTD (School Rd, Sooriyawewa)
 
@@ -1230,6 +1226,8 @@ Analyzed 1343 sheds.
 
 * [100616] AMPARA MPCS LTD (D. S. Senanayke Rd, Ampara)
 
+* [100225] M.C.KALDEEN (Akkaraipattu)
+
 * [100956] AKKARAIPATTU CENTRAL MPCS LTD (Colombo - Batticaloa Hwy, Akkaraipattu)
 
 * [100351] M.A.ABDUL MAJEED (Lanka Fuel Station, Akkaraipattu - Warapathanchenai)
@@ -1362,6 +1360,8 @@ Analyzed 1343 sheds.
 
 * [100416] N K B.ANIL JAYASINGHE (Katugastota - Kurunegala - Puttalam Hwy, Padeniya)
 
+* [100168] RAMEES  M S M (Katugastota-kurunegala-puttalam Hwy, Paragahadeniya)
+
 * [100635] KATUGAMPOLA MPCS LTD (Kandanagedera)
 
 * [100096] NIKEWERATIYA MPCS LTD (Nikaweratiya)
@@ -1493,8 +1493,6 @@ Analyzed 1343 sheds.
 * [100197] RISIKI LANKA PIRAVUMHALA (Katugastota - Kurunegala - Puttalam Hwy, Kurunegala)
 
 * [100479] HIRIYALA MPCS LTD (Ambepussa - Kurunegala - Trincomalee Hwy, Ipalawa)
-
-* [100168] RAMEES  M S M (Katugastota-kurunegala-puttalam Hwy, Paragahadeniya)
 
 * [106421] B H B D K NIROSHAN (Kadahapola)
 
@@ -1698,6 +1696,10 @@ Analyzed 1343 sheds.
 
 * [101013] MR.  W W A K J.FERNANDO (Puttalam Road, Katuneriya)
 
+* [105001] P D E SENAVIRATNA (HABARANA)
+
+* [100290] R A T A .MEDAGAMA (Kekirawa)
+
 * [103294] W.G.NANDALAL (Horowpathana)
 
 * [100540] RAMBEWA MPCS LTD (Rambewa)
@@ -1768,11 +1770,7 @@ Analyzed 1343 sheds.
 
 * [105890] C K K SENAVIRATNA (Galenbindunuwewa)
 
-* [105001] P D E SENAVIRATNA (HABARANA)
-
 * [106512] A W W ROHANA BANDARA (Namal Uyana Road, Pubbogama)
-
-* [100290] R A T A .MEDAGAMA (Kekirawa)
 
 * [100516] PADAVI PARAKRAMAPURA MPCS LTD (Padaviya Rd, Padaviya)
 
@@ -1785,6 +1783,8 @@ Analyzed 1343 sheds.
 * [106755] K D ANIL (Moragaswewa)
 
 * [100579] GAMINI SAMARASINGHA (Lanka Filling Station, Nochchiyagama)
+
+* [100345] D L GAMINI .THILAKARATNE (Maradankadawala - Habarana - Thirukkondaiadimadu Hwy, Polonnaruwa)
 
 * [104862] J M T B JAYASINGHA (Thirukkondaiadimadu Hwy, Welikanda)
 
@@ -1807,8 +1807,6 @@ Analyzed 1343 sheds.
 * [100924] MS.  PALUGASDAMANA MPCS LTD (Somawathiya Rd, Polonnaruwa)
 
 * [100560] R A.GNANAWATHIE (Maradankadawala - Habarana - Thirukkondaiadimadu Hwy, Polonnaruwa)
-
-* [100345] D L GAMINI .THILAKARATNE (Maradankadawala - Habarana - Thirukkondaiadimadu Hwy, Polonnaruwa)
 
 * [100223] POLONNARUWA MPCS LTD (Polonnaruwa - Kaduruwela)
 
@@ -2031,6 +2029,8 @@ Analyzed 1343 sheds.
 * [100276] KEGALLE MPCS LTD. (Ceypetco Filling Station, Colombo - Kandy Rd, Kegalle)
 
 * [100130] K K A R KUMARASINGHE & SONS (Road, Yatiyanthota)
+
+* [106078] M G S M DASANAYAKA (Horewala - Hemmathagama Rd, Hemmathagama)
 
 * [100144] AUTO CARE FILLING STATION (PVT) LTD (Auto Care Filling Station, A1, Kegalle)
 

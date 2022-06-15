@@ -1,0 +1,81 @@
+{
+  "shed_id": 465,
+  "shed_name": "R A.GNANAWATHIE",
+  "time_last_updated_by_shed": "2022-06-15 08:53",
+  "time_last_updated_by_shed_ut": 1655263380,
+  "fuel_type": "p92",
+  "fuel_capacity": 378.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100560",
+  "address": "Maradankadawala - Habarana - Thirukkondaiadimadu Hwy, Polonnaruwa",
+  "lat_lng": [
+    7.926757,
+    81.035492
+  ],
+  "time_last_updated_ut": 1655263380,
+  "time_last_updated": "2022-06-15 08:53",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654938540,
+      "time_dispatch": "2022-06-11 14:39",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 19800.0,
+      "time_last_updated_ut": 1654956180,
+      "time_last_updated": "2022-06-11 19:33",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654870560,
+      "time_dispatch": "2022-06-10 19:46",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654871100,
+      "time_last_updated": "2022-06-10 19:55",
+      "time_eta_ut": 1654896000,
+      "time_eta": "2022-06-11 02:50"
+    },
+    {
+      "time_dispatch_ut": 1654771260,
+      "time_dispatch": "2022-06-09 16:11",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654786200,
+      "time_eta": "2022-06-09 20:20"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 378.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1024.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2631.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 129.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 482.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "shed_id": 1311,
+  "shed_name": "J M B J JAYASUNDARA",
+  "time_last_updated_by_shed": "2022-06-15 13:59",
+  "time_last_updated_by_shed_ut": 1655281740,
+  "fuel_type": "p92",
+  "fuel_capacity": 1176.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106540",
+  "address": "Withikuliya Junction",
+  "lat_lng": [
+    7.716807,
+    80.147614
+  ],
+  "time_last_updated_ut": 1655281740,
+  "time_last_updated": "2022-06-15 13:59",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655135880,
+      "time_dispatch": "2022-06-13 21:28",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655136300,
+      "time_last_updated": "2022-06-13 21:35",
+      "time_eta_ut": 1655149020,
+      "time_eta": "2022-06-14 01:07"
+    },
+    {
+      "time_dispatch_ut": 1654846440,
+      "time_dispatch": "2022-06-10 13:04",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654846800,
+      "time_last_updated": "2022-06-10 13:10",
+      "time_eta_ut": 1654859040,
+      "time_eta": "2022-06-10 16:34"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1176.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 326.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 130.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 90.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
