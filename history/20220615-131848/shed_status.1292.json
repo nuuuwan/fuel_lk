@@ -1,0 +1,81 @@
+{
+  "shed_id": 1292,
+  "shed_name": "W M N P WALPOLA",
+  "time_last_updated_by_shed": "2022-06-15 07:52",
+  "time_last_updated_by_shed_ut": 1655259720,
+  "fuel_type": "p92",
+  "fuel_capacity": 320.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106416",
+  "address": "High Level Rd, Hanwella",
+  "lat_lng": [
+    6.854412,
+    80.055611
+  ],
+  "time_last_updated_ut": 1655259720,
+  "time_last_updated": "2022-06-15 07:52",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655118060,
+      "time_dispatch": "2022-06-13 16:31",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655118600,
+      "time_last_updated": "2022-06-13 16:40",
+      "time_eta_ut": 1655123460,
+      "time_eta": "2022-06-13 18:01"
+    },
+    {
+      "time_dispatch_ut": 1655100360,
+      "time_dispatch": "2022-06-13 11:36",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655100900,
+      "time_last_updated": "2022-06-13 11:45",
+      "time_eta_ut": 1655104200,
+      "time_eta": "2022-06-13 12:40"
+    },
+    {
+      "time_dispatch_ut": 1654940760,
+      "time_dispatch": "2022-06-11 15:16",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654942800,
+      "time_last_updated": "2022-06-11 15:50",
+      "time_eta_ut": 1654944600,
+      "time_eta": "2022-06-11 16:20"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 320.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 400.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

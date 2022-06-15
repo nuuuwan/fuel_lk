@@ -1,0 +1,81 @@
+{
+  "shed_id": 406,
+  "shed_name": "AIRPORT & AVIATION SERVICES(SL) LTD",
+  "time_last_updated_by_shed": "2022-06-14 19:46",
+  "time_last_updated_by_shed_ut": 1655216160,
+  "fuel_type": "p92",
+  "fuel_capacity": 109.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100493",
+  "address": "Lanka Filling Station, Canada Friendship Rd, Katunayake",
+  "lat_lng": [
+    7.157766,
+    79.872597
+  ],
+  "time_last_updated_ut": 1655216160,
+  "time_last_updated": "2022-06-14 19:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655089800,
+      "time_dispatch": "2022-06-13 08:40",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655090400,
+      "time_last_updated": "2022-06-13 08:50",
+      "time_eta_ut": 1655093400,
+      "time_eta": "2022-06-13 09:40"
+    },
+    {
+      "time_dispatch_ut": 1654940520,
+      "time_dispatch": "2022-06-11 15:12",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654941000,
+      "time_last_updated": "2022-06-11 15:20",
+      "time_eta_ut": 1654944660,
+      "time_eta": "2022-06-11 16:21"
+    },
+    {
+      "time_dispatch_ut": 1654767420,
+      "time_dispatch": "2022-06-09 15:07",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654771560,
+      "time_eta": "2022-06-09 16:16"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 109.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 428.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 528.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 298.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "shed_id": 171,
+  "shed_name": "ROMICO GROUP ( PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 07:21",
+  "time_last_updated_by_shed_ut": 1655257860,
+  "fuel_type": "p92",
+  "fuel_capacity": 56.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100206",
+  "address": "12 Galle Rd, Ahungalla",
+  "lat_lng": [
+    6.317135,
+    80.033646
+  ],
+  "time_last_updated_ut": 1655257860,
+  "time_last_updated": "2022-06-15 07:21",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655297520,
+      "time_dispatch": "2022-06-15 18:22",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298000,
+      "time_last_updated": "2022-06-15 18:30",
+      "time_eta_ut": 1655307060,
+      "time_eta": "2022-06-15 21:01"
+    },
+    {
+      "time_dispatch_ut": 1655121900,
+      "time_dispatch": "2022-06-13 17:35",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655122500,
+      "time_last_updated": "2022-06-13 17:45",
+      "time_eta_ut": 1655131440,
+      "time_eta": "2022-06-13 20:14"
+    },
+    {
+      "time_dispatch_ut": 1654829700,
+      "time_dispatch": "2022-06-10 08:25",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654830300,
+      "time_last_updated": "2022-06-10 08:35",
+      "time_eta_ut": 1654839240,
+      "time_eta": "2022-06-10 11:04"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 56.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 78.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 27.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

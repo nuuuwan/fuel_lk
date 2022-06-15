@@ -1,0 +1,70 @@
+{
+  "shed_id": 99,
+  "shed_name": "TELIKADA MAJUWANA MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 08:12",
+  "time_last_updated_by_shed_ut": 1655260920,
+  "fuel_type": "p92",
+  "fuel_capacity": 64.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100120",
+  "address": "B128, Baddegama",
+  "lat_lng": [
+    6.169513,
+    80.179283
+  ],
+  "time_last_updated_ut": 1655260920,
+  "time_last_updated": "2022-06-15 08:12",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655093340,
+      "time_dispatch": "2022-06-13 09:39",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655094000,
+      "time_last_updated": "2022-06-13 09:50",
+      "time_eta_ut": 1655106720,
+      "time_eta": "2022-06-13 13:22"
+    },
+    {
+      "time_dispatch_ut": 1654929540,
+      "time_dispatch": "2022-06-11 12:09",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654930200,
+      "time_last_updated": "2022-06-11 12:20",
+      "time_eta_ut": 1654942920,
+      "time_eta": "2022-06-11 15:52"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 75.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

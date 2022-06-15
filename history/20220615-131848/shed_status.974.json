@@ -1,0 +1,70 @@
+{
+  "shed_id": 974,
+  "shed_name": "D J B S AMARASEKARA",
+  "time_last_updated_by_shed": "2022-06-15 10:48",
+  "time_last_updated_by_shed_ut": 1655270280,
+  "fuel_type": "p92",
+  "fuel_capacity": 621.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-15 15:17, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104291",
+  "address": "Ceypetco Filling Station, Athurugiriya Rd, Pannipitiya",
+  "lat_lng": [
+    6.844432,
+    79.968788
+  ],
+  "time_last_updated_ut": 1655270280,
+  "time_last_updated": "2022-06-15 10:48",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655283840,
+      "time_dispatch": "2022-06-15 14:34",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655284500,
+      "time_last_updated": "2022-06-15 14:45",
+      "time_eta_ut": 1655286420,
+      "time_eta": "2022-06-15 15:17"
+    },
+    {
+      "time_dispatch_ut": 1655198340,
+      "time_dispatch": "2022-06-14 14:49",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655199000,
+      "time_last_updated": "2022-06-14 15:00",
+      "time_eta_ut": 1655200920,
+      "time_eta": "2022-06-14 15:32"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 621.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 598.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1484.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "shed_id": 1323,
+  "shed_name": "S S FILLING STATIONS (PVT) LTD",
+  "time_last_updated_by_shed": "2022-06-15 06:54",
+  "time_last_updated_by_shed_ut": 1655256240,
+  "fuel_type": "p92",
+  "fuel_capacity": 1306.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106605",
+  "address": "Circular Road, West",
+  "lat_lng": [
+    7.488988,
+    80.350136
+  ],
+  "time_last_updated_ut": 1655256240,
+  "time_last_updated": "2022-06-15 06:54",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654921140,
+      "time_dispatch": "2022-06-11 09:49",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654921500,
+      "time_last_updated": "2022-06-11 09:55",
+      "time_eta_ut": 1654921920,
+      "time_eta": "2022-06-11 10:02"
+    },
+    {
+      "time_dispatch_ut": 1654867200,
+      "time_dispatch": "2022-06-10 18:50",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654867800,
+      "time_last_updated": "2022-06-10 19:00",
+      "time_eta_ut": 1654878540,
+      "time_eta": "2022-06-10 21:59"
+    },
+    {
+      "time_dispatch_ut": 1654851060,
+      "time_dispatch": "2022-06-10 14:21",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654851600,
+      "time_last_updated": "2022-06-10 14:30",
+      "time_eta_ut": 1654851840,
+      "time_eta": "2022-06-10 14:34"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1306.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1203.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 555.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 574.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

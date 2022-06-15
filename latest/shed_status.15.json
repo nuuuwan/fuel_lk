@@ -1,0 +1,70 @@
+{
+  "shed_id": 15,
+  "shed_name": "PANDETHIRUPPU MPCS LTD",
+  "time_last_updated_by_shed": "2022-06-15 07:13",
+  "time_last_updated_by_shed_ut": 1655257380,
+  "fuel_type": "p92",
+  "fuel_capacity": 281.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100018",
+  "address": "Pandatharippu",
+  "lat_lng": [
+    9.773771,
+    79.968452
+  ],
+  "time_last_updated_ut": 1655257380,
+  "time_last_updated": "2022-06-15 07:13",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655107680,
+      "time_dispatch": "2022-06-13 13:38",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1655108100,
+      "time_last_updated": "2022-06-13 13:45",
+      "time_eta_ut": 1655110020,
+      "time_eta": "2022-06-13 14:17"
+    },
+    {
+      "time_dispatch_ut": 1654938780,
+      "time_dispatch": "2022-06-11 14:43",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654939200,
+      "time_last_updated": "2022-06-11 14:50",
+      "time_eta_ut": 1654941120,
+      "time_eta": "2022-06-11 15:22"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 281.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 481.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 785.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

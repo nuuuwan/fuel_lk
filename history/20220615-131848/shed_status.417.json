@@ -1,0 +1,70 @@
+{
+  "shed_id": 417,
+  "shed_name": "R.L.PINIDIYA",
+  "time_last_updated_by_shed": "2022-06-15 08:26",
+  "time_last_updated_by_shed_ut": 1655261760,
+  "fuel_type": "p92",
+  "fuel_capacity": 728.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100505",
+  "address": "Matara - Hakmana Rd",
+  "lat_lng": [
+    5.95739,
+    80.545723
+  ],
+  "time_last_updated_ut": 1655261760,
+  "time_last_updated": "2022-06-15 08:26",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654826100,
+      "time_dispatch": "2022-06-10 07:25",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654826700,
+      "time_last_updated": "2022-06-10 07:35",
+      "time_eta_ut": 1654826880,
+      "time_eta": "2022-06-10 07:38"
+    },
+    {
+      "time_dispatch_ut": 1654748940,
+      "time_dispatch": "2022-06-09 09:59",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654749720,
+      "time_eta": "2022-06-09 10:12"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 728.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 148.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 521.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 415.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 365.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

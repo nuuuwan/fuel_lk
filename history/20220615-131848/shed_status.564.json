@@ -1,0 +1,70 @@
+{
+  "shed_id": 564,
+  "shed_name": "S.K.CADER",
+  "time_last_updated_by_shed": "2022-06-15 07:02",
+  "time_last_updated_by_shed_ut": 1655256720,
+  "fuel_type": "p92",
+  "fuel_capacity": 1177.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100695",
+  "address": "Lanka Filling Station - S.K Carder, Vavuniya - Puliyankulam",
+  "lat_lng": [
+    8.941036,
+    80.517578
+  ],
+  "time_last_updated_ut": 1655256720,
+  "time_last_updated": "2022-06-15 07:02",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655099100,
+      "time_dispatch": "2022-06-13 11:15",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655099700,
+      "time_last_updated": "2022-06-13 11:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654756980,
+      "time_dispatch": "2022-06-09 12:13",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654766220,
+      "time_eta": "2022-06-09 14:47"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1177.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 3446.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 239.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

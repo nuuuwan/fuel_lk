@@ -1,0 +1,70 @@
+{
+  "shed_id": 237,
+  "shed_name": "R A T A .MEDAGAMA",
+  "time_last_updated_by_shed": "2022-06-15 07:39",
+  "time_last_updated_by_shed_ut": 1655258940,
+  "fuel_type": "p92",
+  "fuel_capacity": 400.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100290",
+  "address": "Kekirawa",
+  "lat_lng": [
+    8.035096,
+    80.599937
+  ],
+  "time_last_updated_ut": 1655258940,
+  "time_last_updated": "2022-06-15 07:39",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655298240,
+      "time_dispatch": "2022-06-15 18:34",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298600,
+      "time_last_updated": "2022-06-15 18:40",
+      "time_eta_ut": 1655307780,
+      "time_eta": "2022-06-15 21:13"
+    },
+    {
+      "time_dispatch_ut": 1655298240,
+      "time_dispatch": "2022-06-15 18:34",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298600,
+      "time_last_updated": "2022-06-15 18:40",
+      "time_eta_ut": 1655307780,
+      "time_eta": "2022-06-15 21:13"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 400.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 4200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
