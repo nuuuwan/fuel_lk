@@ -1,0 +1,49 @@
+name: Upload Data - Cron
+
+on:
+ schedule:
+   - cron:  "*/30 * * * *"
+
+jobs:
+  upload-data:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8 pytest
+        pip install -r requirements.txt
+        python -m spacy download en_core_web_sm
+
+    - name: Test
+      uses: nuuuwan/python-repo-test@v1
+
+    - name: Run - Upload Data
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python src/fuel_lk/upload_data.py
+
+    - name: Checkout repo branch data
+      uses: actions/checkout@v2
+      with:
+        ref: 'data'
+        token: "${{ secrets.REPO_DATA_TOKEN }}"
+
+    - name: Copy data, and push to repo branch data
+      run: |
+        git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+        git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+        cp -r /tmp/fuel_lk/* .
+        cp -r /tmp/fuel_lk/* .
+        git add .
+        git commit -m "Updated data $(date)"
+        git push origin data
