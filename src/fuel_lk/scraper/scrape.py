@@ -34,13 +34,22 @@ def scrape_shed_data_for_single_district(
     log.debug(
         f'Saved {n_shed_data_list} sheds for {district_id} to {json_file}')
 
+    return shed_data_list
+
 
 def scrape_shed_data():
     expanded_district_list = districts.get_expanded_district_list()
 
+    shed_data_list_all = []
     for expanded_district in expanded_district_list:
-        scrape_shed_data_for_single_district(
+        shed_data_list_all += scrape_shed_data_for_single_district(
             expanded_district['district_id'],
             expanded_district['province_fuel_id'],
             expanded_district['district_fuel_id'],
         )
+
+    n_shed_data_list_all = len(shed_data_list_all)
+    json_file = os.path.join(DIR_DATA, 'latest/shed_data.all.json')
+    JSONFile(json_file).write(shed_data_list_all)
+    log.info(
+        f'Saved {n_shed_data_list_all} sheds to {json_file}')
