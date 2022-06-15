@@ -17,6 +17,7 @@ def clean_shed_data(d):
     return dict(
         shed_id=d['shedId'],
         shed_name=d['shedName'],
+        shed_type=d['shedType'],
         time_last_updated_by_shed=time_last_updated_by_shed,
         time_last_updated_by_shed_ut=time_last_updated_by_shed_ut,
         fuel_type=d['fuelType'],
