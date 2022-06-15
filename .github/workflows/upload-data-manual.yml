@@ -20,7 +20,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 pytest
         pip install -r requirements.txt
-        python -m spacy download en_core_web_sm
 
     - name: Test
       uses: nuuuwan/python-repo-test@v1
