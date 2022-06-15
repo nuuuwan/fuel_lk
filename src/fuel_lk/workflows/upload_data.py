@@ -5,6 +5,8 @@ from utils import timex
 from fuel_lk.common import DIR_DATA, DIR_DATA_HISTORY, DIR_DATA_LATEST, log
 from fuel_lk.scraper import shed_scraper, shed_status_scraper
 
+MAX_UPDATE_DELAY = 3 * 3600
+
 
 def before():
     os.system(f'rm -rf {DIR_DATA}')
@@ -20,9 +22,25 @@ def after():
     log.info(f"Saved latest to {dir_history_item}")
 
 
+def filter_by_time(shed):
+    time_last_updated_by_shed_ut = shed['time_last_updated_by_shed_ut']
+    if not time_last_updated_by_shed_ut:
+        return False
+    delta_t = timex.get_unixtime() - time_last_updated_by_shed_ut
+    return delta_t < MAX_UPDATE_DELAY
+
+
 def pipeline():
     shed_data_list_all = shed_scraper.scrape_sheds()
-    shed_status_scraper.scrape_shed_statuses(shed_data_list_all)
+    filtered_shed_data_list_all = list(filter(
+        filter_by_time,
+        shed_data_list_all,
+    ))
+    n_filtered_shed_data_list_all = len(filtered_shed_data_list_all)
+    log.info(
+        f'Found {n_filtered_shed_data_list_all} updated ' +
+        f'in the last {MAX_UPDATE_DELAY}s')
+    shed_status_scraper.scrape_shed_statuses(filtered_shed_data_list_all)
 
 
 if __name__ == '__main__':
