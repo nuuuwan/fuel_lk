@@ -1,0 +1,71 @@
+{
+  "shed_id": 933,
+  "shed_name": "R B ATHULA PRABATH",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:09",
+  "time_last_updated_by_shed_ut": 1655343540,
+  "fuel_type": "p92",
+  "fuel_capacity": 80.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103905",
+  "address": "Buttala",
+  "lat_lng": [
+    6.757261,
+    81.237541
+  ],
+  "time_last_updated_ut": 1655343540,
+  "time_last_updated": "2022-06-16 07:09",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654936020,
+      "time_dispatch": "2022-06-11 13:57",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654936500,
+      "time_last_updated": "2022-06-11 14:05",
+      "time_eta_ut": 1654961460,
+      "time_eta": "2022-06-11 21:01"
+    },
+    {
+      "time_dispatch_ut": 1654929600,
+      "time_dispatch": "2022-06-11 12:10",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654930200,
+      "time_last_updated": "2022-06-11 12:20",
+      "time_eta_ut": 1654955040,
+      "time_eta": "2022-06-11 19:14"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 80.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 86.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

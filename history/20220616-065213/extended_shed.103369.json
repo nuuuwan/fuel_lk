@@ -1,0 +1,71 @@
+{
+  "shed_id": 859,
+  "shed_name": "UNITED BOLTS &ACCESSORIES(PVT)LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:51",
+  "time_last_updated_by_shed_ut": 1655353260,
+  "fuel_type": "p92",
+  "fuel_capacity": 270.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103369",
+  "address": "Polonnaruwa",
+  "lat_lng": [
+    7.962401,
+    80.981499
+  ],
+  "time_last_updated_ut": 1655353260,
+  "time_last_updated": "2022-06-16 09:51",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654777200,
+      "time_dispatch": "2022-06-09 17:50",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654801380,
+      "time_eta": "2022-06-10 00:33"
+    },
+    {
+      "time_dispatch_ut": 1654586160,
+      "time_dispatch": "2022-06-07 12:46",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654586700,
+      "time_last_updated": "2022-06-07 12:55",
+      "time_eta_ut": 1654600560,
+      "time_eta": "2022-06-07 16:46"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 270.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 400.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 390.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

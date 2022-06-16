@@ -1,0 +1,82 @@
+{
+  "shed_id": 298,
+  "shed_name": "MATHUGAMA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:38",
+  "time_last_updated_by_shed_ut": 1655345280,
+  "fuel_type": "p92",
+  "fuel_capacity": 334.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100365",
+  "address": "Mathugama",
+  "lat_lng": [
+    6.523005,
+    80.11264
+  ],
+  "time_last_updated_ut": 1655345280,
+  "time_last_updated": "2022-06-16 07:38",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655127780,
+      "time_dispatch": "2022-06-13 19:13",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655128200,
+      "time_last_updated": "2022-06-13 19:20",
+      "time_eta_ut": 1655136780,
+      "time_eta": "2022-06-13 21:43"
+    },
+    {
+      "time_dispatch_ut": 1654835880,
+      "time_dispatch": "2022-06-10 10:08",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654837500,
+      "time_last_updated": "2022-06-10 10:35",
+      "time_eta_ut": 1654844880,
+      "time_eta": "2022-06-10 12:38"
+    },
+    {
+      "time_dispatch_ut": 1654772160,
+      "time_dispatch": "2022-06-09 16:26",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654781160,
+      "time_eta": "2022-06-09 18:56"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 334.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 166.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

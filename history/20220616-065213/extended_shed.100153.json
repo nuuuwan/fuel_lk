@@ -1,0 +1,71 @@
+{
+  "shed_id": 122,
+  "shed_name": "C.F.DE MEL & SONS (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:42",
+  "time_last_updated_by_shed_ut": 1655345520,
+  "fuel_type": "p92",
+  "fuel_capacity": 452.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100153",
+  "address": "Sri Sambuddhathva Jayanthi Mawatha, Colombo 05",
+  "lat_lng": [
+    6.891356,
+    79.8629
+  ],
+  "time_last_updated_ut": 1655345520,
+  "time_last_updated": "2022-06-16 07:42",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655185260,
+      "time_dispatch": "2022-06-14 11:11",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655185800,
+      "time_last_updated": "2022-06-14 11:20",
+      "time_eta_ut": 1655187300,
+      "time_eta": "2022-06-14 11:45"
+    },
+    {
+      "time_dispatch_ut": 1655087640,
+      "time_dispatch": "2022-06-13 08:04",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655088300,
+      "time_last_updated": "2022-06-13 08:15",
+      "time_eta_ut": 1655089680,
+      "time_eta": "2022-06-13 08:38"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 452.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 462.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 369.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
