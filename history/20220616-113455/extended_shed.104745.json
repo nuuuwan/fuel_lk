@@ -1,0 +1,72 @@
+{
+  "shed_id": 1054,
+  "shed_name": "BRIGHT DEALERS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 11:50",
+  "time_last_updated_by_shed_ut": 1655274000,
+  "fuel_type": "p92",
+  "fuel_capacity": 677.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104745",
+  "address": "Kottawa - Talagala Rd",
+  "lat_lng": [
+    6.795908,
+    80.052177
+  ],
+  "time_last_updated_ut": 1655274000,
+  "time_last_updated": "2022-06-15 11:50",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655096460,
+      "time_dispatch": "2022-06-13 10:31",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097000,
+      "time_last_updated": "2022-06-13 10:40",
+      "time_eta_ut": 1655102400,
+      "time_eta": "2022-06-13 12:10"
+    },
+    {
+      "time_dispatch_ut": 1655096100,
+      "time_dispatch": "2022-06-13 10:25",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655096700,
+      "time_last_updated": "2022-06-13 10:35",
+      "time_eta_ut": 1655100240,
+      "time_eta": "2022-06-13 11:34"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 677.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 803.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 269.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 163.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "Q3W2+8VV, Talagala, Sri Lanka"
+}

@@ -1,0 +1,72 @@
+{
+  "shed_id": 721,
+  "shed_name": "A W DAVITH APPUHAMY & SONS",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102357",
+  "address": "E L Senanayake Veediya, Kandy",
+  "lat_lng": [
+    7.296781,
+    80.636742
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655129460,
+      "time_dispatch": "2022-06-13 19:41",
+      "fuel_type": "d",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655130000,
+      "time_last_updated": "2022-06-13 19:50",
+      "time_eta_ut": 1655151600,
+      "time_eta": "2022-06-14 01:50"
+    },
+    {
+      "time_dispatch_ut": 1654575900,
+      "time_dispatch": "2022-06-07 09:55",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654576500,
+      "time_last_updated": "2022-06-07 10:05",
+      "time_eta_ut": 1654577940,
+      "time_eta": "2022-06-07 10:29"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "143 E L Senanayake Veediya, Kandy, Sri Lanka"
+}
