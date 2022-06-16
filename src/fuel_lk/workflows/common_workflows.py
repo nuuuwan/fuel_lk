@@ -18,18 +18,42 @@ def scrape_sheds():
     return shed_list
 
 
-def write_extended_shed(extended_shed):
+def get_extended_shed_file(extended_shed):
     shed_code = extended_shed['shed_code']
-    json_file = os.path.join(
+    return os.path.join(
         DIR_LATEST,
         f'extended_shed.{shed_code}.json',
     )
+
+
+def read_extended_shed(extended_shed):
+    json_file = get_extended_shed_file(extended_shed)
+    if not os.path.exists(json_file):
+        return None
+    return JSONFile(json_file).read()
+
+
+def write_extended_shed(extended_shed):
+    json_file = get_extended_shed_file(extended_shed)
     JSONFile(json_file).write(extended_shed)
     log.debug(f'Wrote {json_file}')
 
 
 def get_shed_data_3p(extended_shed, gmaps):
     gmaps_address = gmaps.get_address(extended_shed['lat_lng'])
+    old_extended_shed = read_extended_shed(extended_shed)
+    gmaps_address = None
+    if old_extended_shed:
+        gmaps_address = old_extended_shed.get('gmaps_address', None)
+
+    if not gmaps_address:
+        lat_lng = extended_shed['lat_lng']
+        try:
+            gmaps_address = gmaps.get_address(lat_lng)
+        except IndexError:
+            pass
+        log.debug(f'[get_shed_data_3p] {lat_lng=} -> {gmaps_address=}')
+
     extended_shed['gmaps_address'] = gmaps_address
     return extended_shed
 
@@ -60,9 +84,13 @@ def sort_extended_shed_list(extended_shed_list):
     )
 
 
+def get_legacy_json_file():
+    return os.path.join(DIR_LATEST, 'shed_status_list.all.json')
+
+
 def write_LEGACY_shed_status_list(extended_shed_list):
     n_extended_shed_list = len(extended_shed_list)
-    json_file = os.path.join(DIR_LATEST, 'shed_status_list.all.json')
+    json_file = get_legacy_json_file()
 
     sorted_extended_shed_list = sort_extended_shed_list(
         extended_shed_list)
