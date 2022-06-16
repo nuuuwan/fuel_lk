@@ -84,7 +84,7 @@ def get_extended_shed_status_files():
     return extended_shed_status_files
 
 
-def get_extened_status_list():
+def get_extended_shed_list():
     extended_shed_status_files = get_extended_shed_status_files()
     extended_shed_list = []
     for extended_shed_status_file in extended_shed_status_files:
@@ -93,8 +93,8 @@ def get_extened_status_list():
     return extended_shed_list
 
 
-def write_extened_status_list():
-    extended_shed_list = get_extened_status_list()
+def write_extended_shed_list():
+    extended_shed_list = get_extended_shed_list()
     n_extended_shed_list = len(extended_shed_list)
 
     sorted_extended_shed_list = sort_extended_shed_list(
@@ -169,7 +169,7 @@ def run_pipeline(
         log.info('[do_write_LEGACY_shed_status_list]')
         write_LEGACY_shed_status_list(extended_shed_list)
 
-    write_extened_status_list()
+    write_extended_shed_list()
 
     time_id = copy_latest_to_history()
     write_readme(shed_list, time_id)
