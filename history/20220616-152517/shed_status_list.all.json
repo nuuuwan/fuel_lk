@@ -1,0 +1,144 @@
+[
+  {
+    "shed_id": 277,
+    "shed_name": "THENMARATCHY EAST MPCS LTD",
+    "shed_type": 1,
+    "time_last_updated_by_shed": "2022-06-16 19:58",
+    "time_last_updated_by_shed_ut": 1655389680,
+    "fuel_type": "p92",
+    "fuel_capacity": 490.0,
+    "bowser_distatch": false,
+    "eta": "",
+    "did_shed_owner_update_today": true,
+    "shed_code": "100341",
+    "address": "Kodikamam, Kandy - Jaffna Hwy",
+    "lat_lng": [
+      9.681672,
+      80.219627
+    ],
+    "time_last_updated_ut": 1655389680,
+    "time_last_updated": "2022-06-16 19:58",
+    "browser_dispatch": true,
+    "dispatch_schedule_list": [
+      {
+        "time_dispatch_ut": 1655266140,
+        "time_dispatch": "2022-06-15 09:39",
+        "fuel_type": "d",
+        "plant_name": "KKS",
+        "amount": 3300.0,
+        "time_last_updated_ut": 1655266500,
+        "time_last_updated": "2022-06-15 09:45",
+        "time_eta_ut": 1655270520,
+        "time_eta": "2022-06-15 10:52"
+      },
+      {
+        "time_dispatch_ut": 1654839720,
+        "time_dispatch": "2022-06-10 11:12",
+        "fuel_type": "p92",
+        "plant_name": "KKS",
+        "amount": 6600.0,
+        "time_last_updated_ut": 1654840200,
+        "time_last_updated": "2022-06-10 11:20",
+        "time_eta_ut": 1654844100,
+        "time_eta": "2022-06-10 12:25"
+      }
+    ],
+    "fuel_status_idx": {
+      "p92": {
+        "is_available": true,
+        "capacity": 490.0
+      },
+      "p95": {
+        "is_available": true,
+        "capacity": 0.0
+      },
+      "d": {
+        "is_available": true,
+        "capacity": 2360.0
+      },
+      "sd": {
+        "is_available": true,
+        "capacity": 0.0
+      },
+      "k": {
+        "is_available": true,
+        "capacity": 294.0
+      },
+      "ik": {
+        "is_available": true,
+        "capacity": 0.0
+      }
+    }
+  },
+  {
+    "shed_id": 404,
+    "shed_name": "VALLI EAST SOUTHERN DIVISION MPCS L",
+    "shed_type": 1,
+    "time_last_updated_by_shed": "2022-06-16 19:58",
+    "time_last_updated_by_shed_ut": 1655389680,
+    "fuel_type": "p92",
+    "fuel_capacity": 540.0,
+    "bowser_distatch": false,
+    "eta": "",
+    "did_shed_owner_update_today": true,
+    "shed_code": "100491",
+    "address": "Jaffna - Point Pedro Road, Kopay",
+    "lat_lng": [
+      9.704087,
+      80.069252
+    ],
+    "time_last_updated_ut": 1655389680,
+    "time_last_updated": "2022-06-16 19:58",
+    "browser_dispatch": true,
+    "dispatch_schedule_list": [
+      {
+        "time_dispatch_ut": 1654867920,
+        "time_dispatch": "2022-06-10 19:02",
+        "fuel_type": "d",
+        "plant_name": "KKS",
+        "amount": 3300.0,
+        "time_last_updated_ut": 1654868400,
+        "time_last_updated": "2022-06-10 19:10",
+        "time_eta_ut": 1654870500,
+        "time_eta": "2022-06-10 19:45"
+      },
+      {
+        "time_dispatch_ut": 1654746900,
+        "time_dispatch": "2022-06-09 09:25",
+        "fuel_type": "k",
+        "plant_name": "KKS",
+        "amount": 3300.0,
+        "time_last_updated_ut": 1654797120,
+        "time_last_updated": "2022-06-09 23:22",
+        "time_eta_ut": 1654749480,
+        "time_eta": "2022-06-09 10:08"
+      }
+    ],
+    "fuel_status_idx": {
+      "p92": {
+        "is_available": true,
+        "capacity": 540.0
+      },
+      "p95": {
+        "is_available": true,
+        "capacity": 0.0
+      },
+      "d": {
+        "is_available": true,
+        "capacity": 450.0
+      },
+      "sd": {
+        "is_available": true,
+        "capacity": 0.0
+      },
+      "k": {
+        "is_available": true,
+        "capacity": 1000.0
+      },
+      "ik": {
+        "is_available": true,
+        "capacity": 0.0
+      }
+    }
+  }
+]
