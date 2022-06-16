@@ -1,0 +1,72 @@
+{
+  "shed_id": 950,
+  "shed_name": "M W J KARUNARATHNE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:53",
+  "time_last_updated_by_shed_ut": 1655346180,
+  "fuel_type": "p92",
+  "fuel_capacity": 912.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104074",
+  "address": "Bellapitiya,Aguruwathota",
+  "lat_lng": [
+    6.694498,
+    80.075676
+  ],
+  "time_last_updated_ut": 1655346180,
+  "time_last_updated": "2022-06-16 07:53",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655285880,
+      "time_dispatch": "2022-06-15 15:08",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655286300,
+      "time_last_updated": "2022-06-15 15:15",
+      "time_eta_ut": 1655291520,
+      "time_eta": "2022-06-15 16:42"
+    },
+    {
+      "time_dispatch_ut": 1655113320,
+      "time_dispatch": "2022-06-13 15:12",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655113800,
+      "time_last_updated": "2022-06-13 15:20",
+      "time_eta_ut": 1655118960,
+      "time_eta": "2022-06-13 16:46"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 912.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 661.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 888.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 556.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "M3VG+R77, Horana - Anguruwatota - Mathugama - Aluthgama Road, Ballapitiya, Sri Lanka"
+}
