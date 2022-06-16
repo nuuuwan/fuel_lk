@@ -1,0 +1,71 @@
+{
+  "shed_id": 569,
+  "shed_name": "CEYLON FISHERIES HARBOUR CORPORATIO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 14:17",
+  "time_last_updated_by_shed_ut": 1655369220,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100727",
+  "address": "Mirissa",
+  "lat_lng": [
+    5.9478,
+    80.448296
+  ],
+  "time_last_updated_ut": 1655369220,
+  "time_last_updated": "2022-06-16 14:17",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655364360,
+      "time_dispatch": "2022-06-16 12:56",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655364900,
+      "time_last_updated": "2022-06-16 13:05",
+      "time_eta_ut": 1655368500,
+      "time_eta": "2022-06-16 14:05"
+    },
+    {
+      "time_dispatch_ut": 1654750380,
+      "time_dispatch": "2022-06-09 10:23",
+      "fuel_type": "k",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654754520,
+      "time_eta": "2022-06-09 11:32"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 19253.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
