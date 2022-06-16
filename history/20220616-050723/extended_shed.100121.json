@@ -1,0 +1,71 @@
+{
+  "shed_id": 100,
+  "shed_name": "VIJAYA SERVICE STATION (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 11:37",
+  "time_last_updated_by_shed_ut": 1655273220,
+  "fuel_type": "p92",
+  "fuel_capacity": 455.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100121",
+  "address": "Colombo",
+  "lat_lng": [
+    6.943342,
+    79.864525
+  ],
+  "time_last_updated_ut": 1655273220,
+  "time_last_updated": "2022-06-15 11:37",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655094060,
+      "time_dispatch": "2022-06-13 09:51",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655094600,
+      "time_last_updated": "2022-06-13 10:00",
+      "time_eta_ut": 1655096100,
+      "time_eta": "2022-06-13 10:25"
+    },
+    {
+      "time_dispatch_ut": 1655025360,
+      "time_dispatch": "2022-06-12 14:46",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655025900,
+      "time_last_updated": "2022-06-12 14:55",
+      "time_eta_ut": 1655027160,
+      "time_eta": "2022-06-12 15:16"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 455.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 455.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

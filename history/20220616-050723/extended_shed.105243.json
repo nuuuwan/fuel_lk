@@ -1,0 +1,82 @@
+{
+  "shed_id": 1145,
+  "shed_name": "R S PINIDIYA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:45",
+  "time_last_updated_by_shed_ut": 1655345700,
+  "fuel_type": "p92",
+  "fuel_capacity": 555.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105243",
+  "address": "Borella Rd, Athurugiriya Rd",
+  "lat_lng": [
+    6.882382,
+    79.97982
+  ],
+  "time_last_updated_ut": 1655345700,
+  "time_last_updated": "2022-06-16 07:45",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655286420,
+      "time_dispatch": "2022-06-15 15:17",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655286900,
+      "time_last_updated": "2022-06-15 15:25",
+      "time_eta_ut": 1655288760,
+      "time_eta": "2022-06-15 15:56"
+    },
+    {
+      "time_dispatch_ut": 1655032200,
+      "time_dispatch": "2022-06-12 16:40",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655032800,
+      "time_last_updated": "2022-06-12 16:50",
+      "time_eta_ut": 1655034540,
+      "time_eta": "2022-06-12 17:19"
+    },
+    {
+      "time_dispatch_ut": 1654924980,
+      "time_dispatch": "2022-06-11 10:53",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654925700,
+      "time_last_updated": "2022-06-11 11:05",
+      "time_eta_ut": 1654928820,
+      "time_eta": "2022-06-11 11:57"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 555.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 740.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 176.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

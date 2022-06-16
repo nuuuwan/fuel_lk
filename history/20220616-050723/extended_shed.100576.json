@@ -1,0 +1,82 @@
+{
+  "shed_id": 476,
+  "shed_name": "RANJITH ATTALE SAHA SAMAGAMA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:27",
+  "time_last_updated_by_shed_ut": 1655344620,
+  "fuel_type": "p92",
+  "fuel_capacity": 210.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100576",
+  "address": "306 Kotte Rd, Nugegoda",
+  "lat_lng": [
+    6.880422,
+    79.899902
+  ],
+  "time_last_updated_ut": 1655344620,
+  "time_last_updated": "2022-06-16 07:27",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655267820,
+      "time_dispatch": "2022-06-15 10:07",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655268300,
+      "time_last_updated": "2022-06-15 10:15",
+      "time_eta_ut": 1655269860,
+      "time_eta": "2022-06-15 10:41"
+    },
+    {
+      "time_dispatch_ut": 1655112720,
+      "time_dispatch": "2022-06-13 15:02",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655113200,
+      "time_last_updated": "2022-06-13 15:10",
+      "time_eta_ut": 1655114760,
+      "time_eta": "2022-06-13 15:36"
+    },
+    {
+      "time_dispatch_ut": 1654576380,
+      "time_dispatch": "2022-06-07 10:03",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654576800,
+      "time_last_updated": "2022-06-07 10:10",
+      "time_eta_ut": 1654578420,
+      "time_eta": "2022-06-07 10:37"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 210.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 63.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 176.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 43.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

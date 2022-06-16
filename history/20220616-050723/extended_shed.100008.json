@@ -1,0 +1,82 @@
+{
+  "shed_id": 8,
+  "shed_name": "W.D.C.GROUP (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:42",
+  "time_last_updated_by_shed_ut": 1655345520,
+  "fuel_type": "p92",
+  "fuel_capacity": 41.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100008",
+  "address": "Galle",
+  "lat_lng": [
+    6.03761,
+    80.224167
+  ],
+  "time_last_updated_ut": 1655345520,
+  "time_last_updated": "2022-06-16 07:42",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655089260,
+      "time_dispatch": "2022-06-13 08:31",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655089800,
+      "time_last_updated": "2022-06-13 08:40",
+      "time_eta_ut": 1655090040,
+      "time_eta": "2022-06-13 08:44"
+    },
+    {
+      "time_dispatch_ut": 1654915920,
+      "time_dispatch": "2022-06-11 08:22",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654916400,
+      "time_last_updated": "2022-06-11 08:30",
+      "time_eta_ut": 1654916700,
+      "time_eta": "2022-06-11 08:35"
+    },
+    {
+      "time_dispatch_ut": 1654833000,
+      "time_dispatch": "2022-06-10 09:20",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654833600,
+      "time_last_updated": "2022-06-10 09:30",
+      "time_eta_ut": 1654847640,
+      "time_eta": "2022-06-10 13:24"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 181.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1227.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 145.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

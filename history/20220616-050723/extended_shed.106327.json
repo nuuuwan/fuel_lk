@@ -1,0 +1,71 @@
+{
+  "shed_id": 1271,
+  "shed_name": "MRS. J KANAGARASAN & SISTER",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 21:50",
+  "time_last_updated_by_shed_ut": 1655310000,
+  "fuel_type": "p92",
+  "fuel_capacity": 209.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "106327",
+  "address": "No 87 Raja Complex, Jaffna-kankesanturai Rd, Chunnakam",
+  "lat_lng": [
+    9.746559,
+    80.028542
+  ],
+  "time_last_updated_ut": 1655310000,
+  "time_last_updated": "2022-06-15 21:50",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654850640,
+      "time_dispatch": "2022-06-10 14:14",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654851000,
+      "time_last_updated": "2022-06-10 14:20",
+      "time_eta_ut": 1654852680,
+      "time_eta": "2022-06-10 14:48"
+    },
+    {
+      "time_dispatch_ut": 1654608720,
+      "time_dispatch": "2022-06-07 19:02",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654609200,
+      "time_last_updated": "2022-06-07 19:10",
+      "time_eta_ut": 1654610760,
+      "time_eta": "2022-06-07 19:36"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 209.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 209.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 209.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

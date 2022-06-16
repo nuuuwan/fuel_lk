@@ -1,0 +1,82 @@
+{
+  "shed_id": 1231,
+  "shed_name": "D M A I DISSANAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:50",
+  "time_last_updated_by_shed_ut": 1655346000,
+  "fuel_type": "p92",
+  "fuel_capacity": 1201.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106028",
+  "address": "Colombo - Ratnapura - Wellawaya - Batticaloa Rd",
+  "lat_lng": [
+    6.824261,
+    81.307274
+  ],
+  "time_last_updated_ut": 1655346000,
+  "time_last_updated": "2022-06-16 07:50",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655194920,
+      "time_dispatch": "2022-06-14 13:52",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655195400,
+      "time_last_updated": "2022-06-14 14:00",
+      "time_eta_ut": 1655223960,
+      "time_eta": "2022-06-14 21:56"
+    },
+    {
+      "time_dispatch_ut": 1654946880,
+      "time_dispatch": "2022-06-11 16:58",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654956180,
+      "time_last_updated": "2022-06-11 19:33",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654859460,
+      "time_dispatch": "2022-06-10 16:41",
+      "fuel_type": "p92",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654860000,
+      "time_last_updated": "2022-06-10 16:50",
+      "time_eta_ut": 1654869240,
+      "time_eta": "2022-06-10 19:24"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1201.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 803.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1209.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

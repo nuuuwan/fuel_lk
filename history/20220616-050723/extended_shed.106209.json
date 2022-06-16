@@ -1,0 +1,71 @@
+{
+  "shed_id": 1249,
+  "shed_name": "H M SUNIL JAYARATHNA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:07",
+  "time_last_updated_by_shed_ut": 1655339820,
+  "fuel_type": "p92",
+  "fuel_capacity": 230.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106209",
+  "address": "Bulnewa",
+  "lat_lng": [
+    8.044239,
+    80.446014
+  ],
+  "time_last_updated_ut": 1655339820,
+  "time_last_updated": "2022-06-16 06:07",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654937040,
+      "time_dispatch": "2022-06-11 14:14",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654937400,
+      "time_last_updated": "2022-06-11 14:20",
+      "time_eta_ut": 1654946280,
+      "time_eta": "2022-06-11 16:48"
+    },
+    {
+      "time_dispatch_ut": 1654762260,
+      "time_dispatch": "2022-06-09 13:41",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654771500,
+      "time_eta": "2022-06-09 16:15"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 230.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 760.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

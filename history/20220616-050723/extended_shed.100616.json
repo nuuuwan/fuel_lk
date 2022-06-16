@@ -1,0 +1,71 @@
+{
+  "shed_id": 511,
+  "shed_name": "AMPARA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:31",
+  "time_last_updated_by_shed_ut": 1655344860,
+  "fuel_type": "p92",
+  "fuel_capacity": 1082.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100616",
+  "address": "D. S. Senanayke Rd, Ampara",
+  "lat_lng": [
+    7.291203,
+    81.677322
+  ],
+  "time_last_updated_ut": 1655344860,
+  "time_last_updated": "2022-06-16 07:31",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655274900,
+      "time_dispatch": "2022-06-15 12:05",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655276400,
+      "time_last_updated": "2022-06-15 12:30",
+      "time_eta_ut": 1655282880,
+      "time_eta": "2022-06-15 14:18"
+    },
+    {
+      "time_dispatch_ut": 1654935240,
+      "time_dispatch": "2022-06-11 13:44",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654936800,
+      "time_last_updated": "2022-06-11 14:10",
+      "time_eta_ut": 1654943220,
+      "time_eta": "2022-06-11 15:57"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1082.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 3471.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 441.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 179.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
