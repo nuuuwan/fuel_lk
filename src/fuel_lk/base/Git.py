@@ -64,15 +64,16 @@ class Git:
             self.cmd_checkout,
         )
 
-    def add_all_and_commit(self, message):
+    def add_and_commit(self, message):
         Git.run(
-            'git add .',
-            f'git commit -m "{message}"'
+            self.cmd_cd,
+            f'git commit -am "{message}"'
         )
 
     def push(self):
         Git.run(
-            self.cmd_git_push
+            self.cmd_cd,
+            self.cmd_git_push,
         )
 
 
