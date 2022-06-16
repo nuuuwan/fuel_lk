@@ -1,0 +1,82 @@
+{
+  "shed_id": 951,
+  "shed_name": "P.PRADEEP MIHINATH FERNANDO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 05:52",
+  "time_last_updated_by_shed_ut": 1655252520,
+  "fuel_type": "p92",
+  "fuel_capacity": 249.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104075",
+  "address": "Wekada-Panadura",
+  "lat_lng": [
+    6.711501,
+    79.912956
+  ],
+  "time_last_updated_ut": 1655252520,
+  "time_last_updated": "2022-06-15 05:52",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655116500,
+      "time_dispatch": "2022-06-13 16:05",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655117100,
+      "time_last_updated": "2022-06-13 16:15",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655007540,
+      "time_dispatch": "2022-06-12 09:49",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655008200,
+      "time_last_updated": "2022-06-12 10:00",
+      "time_eta_ut": 1655011680,
+      "time_eta": "2022-06-12 10:58"
+    },
+    {
+      "time_dispatch_ut": 1654571820,
+      "time_dispatch": "2022-06-07 08:47",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654572300,
+      "time_last_updated": "2022-06-07 08:55",
+      "time_eta_ut": 1654575960,
+      "time_eta": "2022-06-07 09:56"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 165.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 241.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

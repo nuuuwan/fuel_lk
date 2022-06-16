@@ -1,0 +1,71 @@
+{
+  "shed_id": 1305,
+  "shed_name": "M J M ASLAM",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:08",
+  "time_last_updated_by_shed_ut": 1655347080,
+  "fuel_type": "p92",
+  "fuel_capacity": 403.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106475",
+  "address": "Talaimannar",
+  "lat_lng": [
+    9.007241,
+    79.884941
+  ],
+  "time_last_updated_ut": 1655347080,
+  "time_last_updated": "2022-06-16 08:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655132220,
+      "time_dispatch": "2022-06-13 20:27",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655132700,
+      "time_last_updated": "2022-06-13 20:35",
+      "time_eta_ut": 1655146620,
+      "time_eta": "2022-06-14 00:27"
+    },
+    {
+      "time_dispatch_ut": 1654751460,
+      "time_dispatch": "2022-06-09 10:41",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654765860,
+      "time_eta": "2022-06-09 14:41"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 403.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 846.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 247.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

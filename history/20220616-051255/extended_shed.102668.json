@@ -1,0 +1,71 @@
+{
+  "shed_id": 818,
+  "shed_name": "MR. R.A.GAYAN",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:42",
+  "time_last_updated_by_shed_ut": 1655349120,
+  "fuel_type": "p92",
+  "fuel_capacity": 23.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "102668",
+  "address": "Kamburugamuwa",
+  "lat_lng": [
+    5.940298,
+    80.489586
+  ],
+  "time_last_updated_ut": 1655349120,
+  "time_last_updated": "2022-06-16 08:42",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655274180,
+      "time_dispatch": "2022-06-15 11:53",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655274600,
+      "time_last_updated": "2022-06-15 12:00",
+      "time_eta_ut": 1655278560,
+      "time_eta": "2022-06-15 13:06"
+    },
+    {
+      "time_dispatch_ut": 1654765800,
+      "time_dispatch": "2022-06-09 14:40",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654770180,
+      "time_eta": "2022-06-09 15:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 23.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 30.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "shed_id": 502,
+  "shed_name": "TRANS LANKA ENTERPRISES (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:37",
+  "time_last_updated_by_shed_ut": 1655348820,
+  "fuel_type": "p92",
+  "fuel_capacity": 85.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100607",
+  "address": "Colombo - Hanwella Low Level Rd, Colombo",
+  "lat_lng": [
+    6.923588,
+    80.019775
+  ],
+  "time_last_updated_ut": 1655348820,
+  "time_last_updated": "2022-06-16 08:37",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655274600,
+      "time_dispatch": "2022-06-15 12:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655275200,
+      "time_last_updated": "2022-06-15 12:10",
+      "time_eta_ut": 1655277180,
+      "time_eta": "2022-06-15 12:43"
+    },
+    {
+      "time_dispatch_ut": 1655208540,
+      "time_dispatch": "2022-06-14 17:39",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655209200,
+      "time_last_updated": "2022-06-14 17:50",
+      "time_eta_ut": 1655211120,
+      "time_eta": "2022-06-14 18:22"
+    },
+    {
+      "time_dispatch_ut": 1655100360,
+      "time_dispatch": "2022-06-13 11:36",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655100900,
+      "time_last_updated": "2022-06-13 11:45",
+      "time_eta_ut": 1655102940,
+      "time_eta": "2022-06-13 12:19"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 85.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 60.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 45.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

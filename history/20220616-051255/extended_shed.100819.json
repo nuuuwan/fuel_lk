@@ -1,0 +1,60 @@
+{
+  "shed_id": 605,
+  "shed_name": " L. I.JAYANTHA DE SILVA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:36",
+  "time_last_updated_by_shed_ut": 1655345160,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100819",
+  "address": "32 Coustom Rd, Beruwala",
+  "lat_lng": [
+    6.472895,
+    79.980118
+  ],
+  "time_last_updated_ut": 1655345160,
+  "time_last_updated": "2022-06-16 07:36",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655103240,
+      "time_dispatch": "2022-06-13 12:24",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655103600,
+      "time_last_updated": "2022-06-13 12:30",
+      "time_eta_ut": 1655110680,
+      "time_eta": "2022-06-13 14:28"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1000.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
