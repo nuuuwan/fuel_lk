@@ -1,0 +1,72 @@
+{
+  "shed_id": 986,
+  "shed_name": "KATUWANA ENTERPRISES (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:39",
+  "time_last_updated_by_shed_ut": 1655262540,
+  "fuel_type": "p92",
+  "fuel_capacity": 352.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104328",
+  "address": "Homagama",
+  "lat_lng": [
+    6.833151,
+    80.003799
+  ],
+  "time_last_updated_ut": 1655262540,
+  "time_last_updated": "2022-06-15 08:39",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655181000,
+      "time_dispatch": "2022-06-14 10:00",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655181600,
+      "time_last_updated": "2022-06-14 10:10",
+      "time_eta_ut": 1655184600,
+      "time_eta": "2022-06-14 11:00"
+    },
+    {
+      "time_dispatch_ut": 1655015280,
+      "time_dispatch": "2022-06-12 11:58",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655015700,
+      "time_last_updated": "2022-06-12 12:05",
+      "time_eta_ut": 1655018880,
+      "time_eta": "2022-06-12 12:58"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 352.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 217.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 157.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 217.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 157.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "189 Katuwana Rd, Homagama, Sri Lanka"
+}
