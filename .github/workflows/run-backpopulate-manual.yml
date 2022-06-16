@@ -1,8 +1,6 @@
 name: Upload Data - Cron
 
-on:
- schedule:
-   - cron:  "45 * * * *"
+on: workflow_dispatch
 
 jobs:
   upload-data:
@@ -26,10 +24,10 @@ jobs:
     - name: Test
       uses: nuuuwan/python-repo-test@v1
 
-    - name: Run - Upload Data
+    - name: Run - run_backpopulate.py
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python src/fuel_lk/workflows/upload_data.py
+        python src/fuel_lk/workflows/run_backpopulate.py
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2
@@ -43,5 +41,5 @@ jobs:
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         cp -r /tmp/fuel_lk/* .
         git add .
-        git commit -m "Updated data $(date)"
+        git commit -m "[run-incr-update] $(date)"
         git push origin data
