@@ -1,0 +1,72 @@
+{
+  "shed_id": 1044,
+  "shed_name": "H M MALLIKA HINDAGODA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 11:28",
+  "time_last_updated_by_shed_ut": 1655359080,
+  "fuel_type": "p92",
+  "fuel_capacity": 116.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104693",
+  "address": "Rikillagaskada",
+  "lat_lng": [
+    7.14914,
+    80.78511
+  ],
+  "time_last_updated_ut": 1655359080,
+  "time_last_updated": "2022-06-16 11:28",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654868580,
+      "time_dispatch": "2022-06-10 19:13",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654869000,
+      "time_last_updated": "2022-06-10 19:20",
+      "time_eta_ut": 1654874760,
+      "time_eta": "2022-06-10 20:56"
+    },
+    {
+      "time_dispatch_ut": 1654778160,
+      "time_dispatch": "2022-06-09 18:06",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654784340,
+      "time_eta": "2022-06-09 19:49"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 54.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "4QXM+HX8, Haragama Rd, Rikillagaskada, Sri Lanka"
+}
