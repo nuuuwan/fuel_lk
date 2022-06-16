@@ -1,73 +1,24 @@
-import os
-
-from utils import File, JSONFile, timex
-
-from fuel_lk.common import DIR_DATA, DIR_DATA_HISTORY, DIR_DATA_LATEST, log
-from fuel_lk.scraper import shed_scraper, shed_status_scraper
-
-MAX_UPDATE_DELAY_H = 24
 
 
-def before():
-    os.system(f'rm -rf {DIR_DATA}')
-    os.system(f'mkdir {DIR_DATA}')
-    os.system(f'mkdir {DIR_DATA_LATEST}')
-    os.system(f'mkdir {DIR_DATA_HISTORY}')
+from fuel_lk.base import Git
+from fuel_lk.common import DIR_DATA, GIT_REPO_URL
+from fuel_lk.workflows import common
 
 
-def after(shed_list_all, shed_status_list):
-    time_id = timex.get_time_id()
-    dir_history_item = os.path.join(DIR_DATA_HISTORY, time_id)
-    os.system(f'cp -r {DIR_DATA}/latest {dir_history_item}')
-    log.info(f"Saved latest to {dir_history_item}")
+def run_pipeline():
+    git = Git(GIT_REPO_URL)
+    git.clone(DIR_DATA, force=True)
+    git.checkout('data')
 
-    n_shed_list_all = len(shed_list_all)
+    shed_list = common.scrape_sheds()
+    extended_shed_list = common.scrape_and_write_shed_statuses(shed_list)
 
-    lines = [
-        '# Fuel.LK',
-        f'*Last updated at {time_id}*',
-        f'Analyzed {n_shed_list_all} sheds.',
-        '## Latest Shed Updates ',
-        f'(*Sheds that updated data in the last {MAX_UPDATE_DELAY_H} hours*)',
-    ] + list(map(lambda shed: '* [%s] %s (%s)' % (
-        shed['shed_code'],
-        shed['shed_name'],
-        shed['address'],
-    ),
-        shed_status_list,
-    ))
-    readme_file = os.path.join(DIR_DATA, 'README.md')
-    File(readme_file).write('\n\n'.join(lines))
-    log.info(f'Saved {readme_file}')
+    # TODO: Replace
+    common.write_LEGACY(extended_shed_list)
 
-
-def filter_by_time(shed):
-    time_last_updated_by_shed_ut = shed['time_last_updated_by_shed_ut']
-    if not time_last_updated_by_shed_ut:
-        return False
-    delta_t = timex.get_unixtime() - time_last_updated_by_shed_ut
-    return delta_t < MAX_UPDATE_DELAY_H * timex.SECONDS_IN.HOUR
-
-
-def pipeline():
-    shed_list_all = shed_scraper.scrape_sheds()
-    n_shed_list_all = len(shed_list_all)
-    json_file = os.path.join(DIR_DATA, 'latest/shed_list.all.json')
-    JSONFile(json_file).write(shed_list_all)
-    log.info(f'Saved {n_shed_list_all} sheds to {json_file}')
-
-    shed_status_list = shed_status_scraper.scrape_shed_statuses(
-        shed_list_all
-    )
-    n_shed_status_list = len(shed_status_list)
-    json_file = os.path.join(DIR_DATA, 'latest/shed_status_list.all.json')
-    JSONFile(json_file).write(shed_status_list)
-    log.info(f'Saved {n_shed_status_list} sheds to {json_file}')
-
-    return [shed_list_all, shed_status_list]
+    time_id = common.copy_latest_to_history()
+    common.write_readme(shed_list, time_id)
 
 
 if __name__ == '__main__':
-    before()
-    [shed_list_all, shed_status_list] = pipeline()
-    after(shed_list_all, shed_status_list)
+    run_pipeline()
