@@ -2,10 +2,11 @@ import os
 
 from utils import File, JSONFile, timex
 
-from fuel_lk.common import DIR_DATA, log
+from fuel_lk.base import Git
+from fuel_lk.common import DIR_DATA, GIT_REPO_URL, log
 from fuel_lk.scraper import shed_scraper, shed_status_scraper
 
-MAX_UPDATE_DELAY_H = 24
+MAX_UPDATE_DELAY_H = 3
 DIR_HISTORY = os.path.join(DIR_DATA, 'history')
 DIR_LATEST = os.path.join(DIR_DATA, 'latest')
 
@@ -15,14 +16,6 @@ def scrape_sheds():
     n_shed_list = len(shed_list)
     log.info(f'Scraed {n_shed_list} sheds')
     return shed_list
-
-
-def filter_by_time(shed):
-    time_last_updated_by_shed_ut = shed['time_last_updated_by_shed_ut']
-    if not time_last_updated_by_shed_ut:
-        return False
-    delta_t = timex.get_unixtime() - time_last_updated_by_shed_ut
-    return delta_t < MAX_UPDATE_DELAY_H * timex.SECONDS_IN.HOUR
 
 
 def write_extended_shed(extended_shed):
@@ -104,3 +97,53 @@ def write_readme(shed_list, time_id):
     readme_file = os.path.join(DIR_DATA, 'README.md')
     File(readme_file).write('\n\n'.join(lines))
     log.info(f'Wrote {readme_file}')
+
+
+def filter_by_time(shed):
+    time_last_updated_by_shed_ut = shed['time_last_updated_by_shed_ut']
+    if not time_last_updated_by_shed_ut:
+        return False
+    delta_t = timex.get_unixtime() - time_last_updated_by_shed_ut
+    return delta_t < MAX_UPDATE_DELAY_H * timex.SECONDS_IN.HOUR
+
+
+def run_pipeline(
+    do_write_LEGACY_shed_status_list=True,
+    do_backpopulate=True,
+    do_test=True,
+):
+    log.info(f'run_pipeline: {do_test=}, {do_backpopulate=},'
+             + f' {do_write_LEGACY_shed_status_list=}')
+
+    git = Git(GIT_REPO_URL)
+    git.clone(DIR_DATA, force=True)
+    git.checkout('data')
+
+    shed_list = scrape_sheds()
+
+    if do_backpopulate:
+        filtered_shed_list = shed_list
+        log.info('[do_backpopulate] no filter')
+    else:
+        filtered_shed_list = list(filter(filter_by_time, shed_list))
+        n_shed_list = len(shed_list)
+        n_filtered_shed_list = len(filtered_shed_list)
+        log.info(
+            f'Filtered {n_filtered_shed_list}/{n_shed_list} sheds,'
+            + f' updated in the last {MAX_UPDATE_DELAY_H} hours',
+        )
+
+    if do_test:
+        filtered_shed_list = filtered_shed_list[:10]
+        log.info('[do_test] processing only 10 sheds')
+
+    extended_shed_list = scrape_and_write_shed_statuses(filtered_shed_list)
+
+    if do_write_LEGACY_shed_status_list:
+        log.info('[do_write_LEGACY_shed_status_list]')
+        write_LEGACY_shed_status_list(extended_shed_list)
+
+    write_extened_status_list()
+
+    time_id = copy_latest_to_history()
+    write_readme(shed_list, time_id)
