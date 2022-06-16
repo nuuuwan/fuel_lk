@@ -1,0 +1,71 @@
+{
+  "shed_id": 442,
+  "shed_name": "A.M. ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 12:18",
+  "time_last_updated_by_shed_ut": 1655362080,
+  "fuel_type": "p92",
+  "fuel_capacity": 89.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100534",
+  "address": "264 Galle Rd, Beruwala",
+  "lat_lng": [
+    6.468023,
+    79.985931
+  ],
+  "time_last_updated_ut": 1655362080,
+  "time_last_updated": "2022-06-16 12:18",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655103240,
+      "time_dispatch": "2022-06-13 12:24",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655103600,
+      "time_last_updated": "2022-06-13 12:30",
+      "time_eta_ut": 1655110980,
+      "time_eta": "2022-06-13 14:33"
+    },
+    {
+      "time_dispatch_ut": 1655094720,
+      "time_dispatch": "2022-06-13 10:02",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655095200,
+      "time_last_updated": "2022-06-13 10:10",
+      "time_eta_ut": 1655102460,
+      "time_eta": "2022-06-13 12:11"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
