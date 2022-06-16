@@ -1,0 +1,61 @@
+{
+  "shed_id": 907,
+  "shed_name": "JAYAWARDHANA D M",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:16",
+  "time_last_updated_by_shed_ut": 1655351160,
+  "fuel_type": "p92",
+  "fuel_capacity": 359.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103706",
+  "address": "112 Ab44, Nawa Madagama Deiattakandiya",
+  "lat_lng": [
+    7.570333,
+    81.04158
+  ],
+  "time_last_updated_ut": 1655351160,
+  "time_last_updated": "2022-06-16 09:16",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654933920,
+      "time_dispatch": "2022-06-11 13:22",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 19800.0,
+      "time_last_updated_ut": 1654956180,
+      "time_last_updated": "2022-06-11 19:33",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 359.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 625.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 884.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "112 AB44, Nawa Madagama, Sri Lanka"
+}
