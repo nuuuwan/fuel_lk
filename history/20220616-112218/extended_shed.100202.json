@@ -1,0 +1,83 @@
+{
+  "shed_id": 167,
+  "shed_name": "INDIKA N SOVIS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:35",
+  "time_last_updated_by_shed_ut": 1655262300,
+  "fuel_type": "p92",
+  "fuel_capacity": 1742.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100202",
+  "address": "Wellawa",
+  "lat_lng": [
+    7.564183,
+    80.364738
+  ],
+  "time_last_updated_ut": 1655262300,
+  "time_last_updated": "2022-06-15 08:35",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655299800,
+      "time_dispatch": "2022-06-15 19:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655300400,
+      "time_last_updated": "2022-06-15 19:10",
+      "time_eta_ut": 1655312400,
+      "time_eta": "2022-06-15 22:30"
+    },
+    {
+      "time_dispatch_ut": 1654944000,
+      "time_dispatch": "2022-06-11 16:10",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654944600,
+      "time_last_updated": "2022-06-11 16:20",
+      "time_eta_ut": 1654946040,
+      "time_eta": "2022-06-11 16:44"
+    },
+    {
+      "time_dispatch_ut": 1654857660,
+      "time_dispatch": "2022-06-10 16:11",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654858200,
+      "time_last_updated": "2022-06-10 16:20",
+      "time_eta_ut": 1654859700,
+      "time_eta": "2022-06-10 16:45"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1742.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1708.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1572.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 1576.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1384.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "Rangama, H977+QVV, Sri Lanka"
+}
