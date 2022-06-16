@@ -1,0 +1,83 @@
+{
+  "shed_id": 305,
+  "shed_name": "J.J.DIAS ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:57",
+  "time_last_updated_by_shed_ut": 1655353620,
+  "fuel_type": "p92",
+  "fuel_capacity": 555.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100372",
+  "address": "Galagedera - Horana Rd, Padukka",
+  "lat_lng": [
+    6.840415,
+    80.093292
+  ],
+  "time_last_updated_ut": 1655353620,
+  "time_last_updated": "2022-06-16 09:57",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655286420,
+      "time_dispatch": "2022-06-15 15:17",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655286900,
+      "time_last_updated": "2022-06-15 15:25",
+      "time_eta_ut": 1655290560,
+      "time_eta": "2022-06-15 16:26"
+    },
+    {
+      "time_dispatch_ut": 1655185560,
+      "time_dispatch": "2022-06-14 11:16",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655186100,
+      "time_last_updated": "2022-06-14 11:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654841340,
+      "time_dispatch": "2022-06-10 11:39",
+      "fuel_type": "p92",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654851300,
+      "time_last_updated": "2022-06-10 14:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 555.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 251.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 881.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 251.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 248.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "R3RV+387, Galagedera - Horana Rd, Padukka, Sri Lanka"
+}

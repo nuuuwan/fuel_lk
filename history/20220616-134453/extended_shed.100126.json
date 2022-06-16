@@ -1,0 +1,72 @@
+{
+  "shed_id": 104,
+  "shed_name": "MS. RELIANCE CHEMICALS COMPANY (PVT",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 00:05",
+  "time_last_updated_by_shed_ut": 1655318100,
+  "fuel_type": "p92",
+  "fuel_capacity": 260.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100126",
+  "address": "Moronthuduwa",
+  "lat_lng": [
+    6.663347,
+    79.972099
+  ],
+  "time_last_updated_ut": 1655318100,
+  "time_last_updated": "2022-06-16 00:05",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655277840,
+      "time_dispatch": "2022-06-15 12:54",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655278500,
+      "time_last_updated": "2022-06-15 13:05",
+      "time_eta_ut": 1655283480,
+      "time_eta": "2022-06-15 14:28"
+    },
+    {
+      "time_dispatch_ut": 1654929300,
+      "time_dispatch": "2022-06-11 12:05",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654929900,
+      "time_last_updated": "2022-06-11 12:15",
+      "time_eta_ut": 1654934940,
+      "time_eta": "2022-06-11 13:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 260.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 220.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 119.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "MX7C+8VC, Moronthuduwa, Sri Lanka"
+}
