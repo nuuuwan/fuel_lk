@@ -48,8 +48,8 @@ def sort_extended_shed_list(extended_shed_list):
     return sorted(
         extended_shed_list,
         key=lambda extended_shed:
-        extended_shed['time_last_updated_by_shed_ut'] * 100_000
-        + extended_shed['shed_id'],
+        str(extended_shed['time_last_updated_by_shed_ut'])
+        + str(extended_shed['shed_id']),
     )
 
 
