@@ -1,0 +1,72 @@
+{
+  "shed_id": 322,
+  "shed_name": "ROHANA ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:18",
+  "time_last_updated_by_shed_ut": 1655261280,
+  "fuel_type": "p92",
+  "fuel_capacity": 310.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100396",
+  "address": "Kalugamuwa Junction, Kalugamuwa",
+  "lat_lng": [
+    7.449704,
+    80.262939
+  ],
+  "time_last_updated_ut": 1655261280,
+  "time_last_updated": "2022-06-15 08:18",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654917960,
+      "time_dispatch": "2022-06-11 08:56",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654918500,
+      "time_last_updated": "2022-06-11 09:05",
+      "time_eta_ut": 1654920300,
+      "time_eta": "2022-06-11 09:35"
+    },
+    {
+      "time_dispatch_ut": 1654917960,
+      "time_dispatch": "2022-06-11 08:56",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654918500,
+      "time_last_updated": "2022-06-11 09:05",
+      "time_eta_ut": 1654920300,
+      "time_eta": "2022-06-11 09:35"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 310.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 110.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "F727+28R, Dehikumbura, Sri Lanka"
+}
