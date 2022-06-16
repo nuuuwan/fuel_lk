@@ -1,0 +1,48 @@
+{
+  "shed_id": 906,
+  "shed_name": "C.K.GONZAGA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 06:37",
+  "time_last_updated_by_shed_ut": 1655255220,
+  "fuel_type": "p92",
+  "fuel_capacity": 450.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103701",
+  "address": "No. 609a, Trinco Road, Urani,Batticaloa",
+  "lat_lng": [
+    7.72977,
+    81.67347
+  ],
+  "time_last_updated_ut": 1655346900,
+  "time_last_updated": "2022-06-16 08:05",
+  "browser_dispatch": false,
+  "dispatch_schedule_list": [],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 400.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 560.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

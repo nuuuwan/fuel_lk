@@ -1,0 +1,71 @@
+{
+  "shed_id": 1086,
+  "shed_name": "S B M A BANDARANAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:54",
+  "time_last_updated_by_shed_ut": 1655342640,
+  "fuel_type": "p92",
+  "fuel_capacity": 349.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104912",
+  "address": "Diulwewa-galgamuwa",
+  "lat_lng": [
+    8.005129,
+    80.271027
+  ],
+  "time_last_updated_ut": 1655342640,
+  "time_last_updated": "2022-06-16 06:54",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654877220,
+      "time_dispatch": "2022-06-10 21:37",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654877700,
+      "time_last_updated": "2022-06-10 21:45",
+      "time_eta_ut": 1654895220,
+      "time_eta": "2022-06-11 02:37"
+    },
+    {
+      "time_dispatch_ut": 1654853400,
+      "time_dispatch": "2022-06-10 15:00",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654854000,
+      "time_last_updated": "2022-06-10 15:10",
+      "time_eta_ut": 1654870140,
+      "time_eta": "2022-06-10 19:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 349.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 674.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

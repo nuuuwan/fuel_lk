@@ -1,0 +1,71 @@
+{
+  "shed_id": 980,
+  "shed_name": "P SUNIMAL",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:30",
+  "time_last_updated_by_shed_ut": 1655262000,
+  "fuel_type": "p92",
+  "fuel_capacity": 1336.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104310",
+  "address": "Nilpanagoda, Minuwangoda",
+  "lat_lng": [
+    7.180815,
+    79.959427
+  ],
+  "time_last_updated_ut": 1655262000,
+  "time_last_updated": "2022-06-15 08:30",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655282580,
+      "time_dispatch": "2022-06-15 14:13",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655283000,
+      "time_last_updated": "2022-06-15 14:20",
+      "time_eta_ut": 1655286960,
+      "time_eta": "2022-06-15 15:26"
+    },
+    {
+      "time_dispatch_ut": 1655268420,
+      "time_dispatch": "2022-06-15 10:17",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655268900,
+      "time_last_updated": "2022-06-15 10:25",
+      "time_eta_ut": 1655272260,
+      "time_eta": "2022-06-15 11:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1336.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 750.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1744.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 648.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 413.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "shed_id": 1190,
+  "shed_name": "R RAJANATHAN",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:02",
+  "time_last_updated_by_shed_ut": 1655263920,
+  "fuel_type": "p92",
+  "fuel_capacity": 64.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "105541",
+  "address": "Colombo-batticaloa Hwy",
+  "lat_lng": [
+    7.62009,
+    81.761185
+  ],
+  "time_last_updated_ut": 1655263920,
+  "time_last_updated": "2022-06-15 09:02",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655111520,
+      "time_dispatch": "2022-06-13 14:42",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655112600,
+      "time_last_updated": "2022-06-13 15:00",
+      "time_eta_ut": 1655113860,
+      "time_eta": "2022-06-13 15:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

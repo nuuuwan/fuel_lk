@@ -1,0 +1,71 @@
+{
+  "shed_id": 1338,
+  "shed_name": "N SHANTHARATNAM",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:51",
+  "time_last_updated_by_shed_ut": 1655263260,
+  "fuel_type": "p92",
+  "fuel_capacity": 1545.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "107041",
+  "address": "Nedunkeni",
+  "lat_lng": [
+    9.063894,
+    80.661537
+  ],
+  "time_last_updated_ut": 1655263260,
+  "time_last_updated": "2022-06-15 08:51",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655270040,
+      "time_dispatch": "2022-06-15 10:44",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655270400,
+      "time_last_updated": "2022-06-15 10:50",
+      "time_eta_ut": 1655281620,
+      "time_eta": "2022-06-15 13:57"
+    },
+    {
+      "time_dispatch_ut": 1655124840,
+      "time_dispatch": "2022-06-13 18:24",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655125200,
+      "time_last_updated": "2022-06-13 18:30",
+      "time_eta_ut": 1655158020,
+      "time_eta": "2022-06-14 03:37"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1545.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1234.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

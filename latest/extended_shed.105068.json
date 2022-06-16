@@ -1,0 +1,71 @@
+{
+  "shed_id": 1121,
+  "shed_name": "N T K WIJESEKARA & SON",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:08",
+  "time_last_updated_by_shed_ut": 1655343480,
+  "fuel_type": "p92",
+  "fuel_capacity": 728.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105068",
+  "address": "WANDURAMBA",
+  "lat_lng": [
+    6.134941,
+    80.254654
+  ],
+  "time_last_updated_ut": 1655343480,
+  "time_last_updated": "2022-06-16 07:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654845180,
+      "time_dispatch": "2022-06-10 12:43",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654845600,
+      "time_last_updated": "2022-06-10 12:50",
+      "time_eta_ut": 1654847760,
+      "time_eta": "2022-06-10 13:26"
+    },
+    {
+      "time_dispatch_ut": 1654745460,
+      "time_dispatch": "2022-06-09 09:01",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654748040,
+      "time_eta": "2022-06-09 09:44"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 728.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 328.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 425.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

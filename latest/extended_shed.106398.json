@@ -1,0 +1,71 @@
+{
+  "shed_id": 1287,
+  "shed_name": "JAYALATH ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:37",
+  "time_last_updated_by_shed_ut": 1655345220,
+  "fuel_type": "p92",
+  "fuel_capacity": 480.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106398",
+  "address": "35, Aluthgama-mathugama Rd, Welipenna",
+  "lat_lng": [
+    6.471458,
+    80.113892
+  ],
+  "time_last_updated_ut": 1655345220,
+  "time_last_updated": "2022-06-16 07:37",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655181720,
+      "time_dispatch": "2022-06-14 10:12",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655182200,
+      "time_last_updated": "2022-06-14 10:20",
+      "time_eta_ut": 1655191260,
+      "time_eta": "2022-06-14 12:51"
+    },
+    {
+      "time_dispatch_ut": 1655100180,
+      "time_dispatch": "2022-06-13 11:33",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655100600,
+      "time_last_updated": "2022-06-13 11:40",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 480.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 76.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 620.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

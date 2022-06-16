@@ -1,0 +1,82 @@
+{
+  "shed_id": 385,
+  "shed_name": "VALI EAST NORTHERN DIVISION MPCS LT",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:07",
+  "time_last_updated_by_shed_ut": 1655343420,
+  "fuel_type": "p92",
+  "fuel_capacity": 1098.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100469",
+  "address": "Lanka Filling Station Atchuvely",
+  "lat_lng": [
+    9.777577,
+    80.114532
+  ],
+  "time_last_updated_ut": 1655343420,
+  "time_last_updated": "2022-06-16 07:07",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655107680,
+      "time_dispatch": "2022-06-13 13:38",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1655108100,
+      "time_last_updated": "2022-06-13 13:45",
+      "time_eta_ut": 1655110020,
+      "time_eta": "2022-06-13 14:17"
+    },
+    {
+      "time_dispatch_ut": 1655093400,
+      "time_dispatch": "2022-06-13 09:40",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655094000,
+      "time_last_updated": "2022-06-13 09:50",
+      "time_eta_ut": 1655095740,
+      "time_eta": "2022-06-13 10:19"
+    },
+    {
+      "time_dispatch_ut": 1654575960,
+      "time_dispatch": "2022-06-07 09:56",
+      "fuel_type": "k",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654576500,
+      "time_last_updated": "2022-06-07 10:05",
+      "time_eta_ut": 1654578300,
+      "time_eta": "2022-06-07 10:35"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1098.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1377.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 209.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

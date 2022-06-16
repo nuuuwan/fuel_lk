@@ -1,0 +1,71 @@
+{
+  "shed_id": 1087,
+  "shed_name": "K A C PRIYADARSHANA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 20:42",
+  "time_last_updated_by_shed_ut": 1655305920,
+  "fuel_type": "p92",
+  "fuel_capacity": 180.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104920",
+  "address": "Pansal Godella,polonnaruwa",
+  "lat_lng": [
+    8.08393,
+    81.028038
+  ],
+  "time_last_updated_ut": 1655305920,
+  "time_last_updated": "2022-06-15 20:42",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654861560,
+      "time_dispatch": "2022-06-10 17:16",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654862100,
+      "time_last_updated": "2022-06-10 17:25",
+      "time_eta_ut": 1654876200,
+      "time_eta": "2022-06-10 21:20"
+    },
+    {
+      "time_dispatch_ut": 1654765500,
+      "time_dispatch": "2022-06-09 14:35",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654780140,
+      "time_eta": "2022-06-09 18:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 180.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 696.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 952.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "shed_id": 615,
+  "shed_name": "CEYLON FISHERIES HARBOUR CORPORATIO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:26",
+  "time_last_updated_by_shed_ut": 1655265360,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100838",
+  "address": "Kirinda",
+  "lat_lng": [
+    6.217738,
+    81.336632
+  ],
+  "time_last_updated_ut": 1655265360,
+  "time_last_updated": "2022-06-15 09:26",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655299200,
+      "time_dispatch": "2022-06-15 18:50",
+      "fuel_type": "k",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655299800,
+      "time_last_updated": "2022-06-15 19:00",
+      "time_eta_ut": 1655313600,
+      "time_eta": "2022-06-15 22:50"
+    },
+    {
+      "time_dispatch_ut": 1655279580,
+      "time_dispatch": "2022-06-15 13:23",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655280000,
+      "time_last_updated": "2022-06-15 13:30",
+      "time_eta_ut": 1655293980,
+      "time_eta": "2022-06-15 17:23"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 8656.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 14565.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

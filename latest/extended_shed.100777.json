@@ -1,0 +1,82 @@
+{
+  "shed_id": 592,
+  "shed_name": "KORALAI SOUTH MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 06:55",
+  "time_last_updated_by_shed_ut": 1655256300,
+  "fuel_type": "p92",
+  "fuel_capacity": 200.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100777",
+  "address": "Trincomalee Hwy Road Kiran",
+  "lat_lng": [
+    7.861809,
+    81.539307
+  ],
+  "time_last_updated_ut": 1655256300,
+  "time_last_updated": "2022-06-15 06:55",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655117940,
+      "time_dispatch": "2022-06-13 16:29",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655118600,
+      "time_last_updated": "2022-06-13 16:40",
+      "time_eta_ut": 1655150880,
+      "time_eta": "2022-06-14 01:38"
+    },
+    {
+      "time_dispatch_ut": 1654943100,
+      "time_dispatch": "2022-06-11 15:55",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654943700,
+      "time_last_updated": "2022-06-11 16:05",
+      "time_eta_ut": 1654976040,
+      "time_eta": "2022-06-12 01:04"
+    },
+    {
+      "time_dispatch_ut": 1654836600,
+      "time_dispatch": "2022-06-10 10:20",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654838700,
+      "time_last_updated": "2022-06-10 10:55",
+      "time_eta_ut": 1654840440,
+      "time_eta": "2022-06-10 11:24"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

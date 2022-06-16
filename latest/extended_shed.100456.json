@@ -1,0 +1,71 @@
+{
+  "shed_id": 372,
+  "shed_name": "H.M.W.BANDARA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:56",
+  "time_last_updated_by_shed_ut": 1655346360,
+  "fuel_type": "p92",
+  "fuel_capacity": 703.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100456",
+  "address": "Uhana",
+  "lat_lng": [
+    7.358721,
+    81.643158
+  ],
+  "time_last_updated_ut": 1655346360,
+  "time_last_updated": "2022-06-16 07:56",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655096820,
+      "time_dispatch": "2022-06-13 10:37",
+      "fuel_type": "d",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097300,
+      "time_last_updated": "2022-06-13 10:45",
+      "time_eta_ut": 1655116620,
+      "time_eta": "2022-06-13 16:07"
+    },
+    {
+      "time_dispatch_ut": 1655096820,
+      "time_dispatch": "2022-06-13 10:37",
+      "fuel_type": "p92",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097300,
+      "time_last_updated": "2022-06-13 10:45",
+      "time_eta_ut": 1655116620,
+      "time_eta": "2022-06-13 16:07"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 703.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 597.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1828.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 62.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 87.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

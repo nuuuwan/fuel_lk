@@ -1,0 +1,71 @@
+{
+  "shed_id": 1250,
+  "shed_name": "J A D D ANTHONY ENTERPRISE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 10:43",
+  "time_last_updated_by_shed_ut": 1655269980,
+  "fuel_type": "p92",
+  "fuel_capacity": 500.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "106222",
+  "address": "Kadawatha",
+  "lat_lng": [
+    7.013178,
+    79.939507
+  ],
+  "time_last_updated_ut": 1655269980,
+  "time_last_updated": "2022-06-15 10:43",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655348400,
+      "time_dispatch": "2022-06-16 08:30",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655349000,
+      "time_last_updated": "2022-06-16 08:40",
+      "time_eta_ut": 1655350980,
+      "time_eta": "2022-06-16 09:13"
+    },
+    {
+      "time_dispatch_ut": 1655095620,
+      "time_dispatch": "2022-06-13 10:17",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655096100,
+      "time_last_updated": "2022-06-13 10:25",
+      "time_eta_ut": 1655097660,
+      "time_eta": "2022-06-13 10:51"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 656.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

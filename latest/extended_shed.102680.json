@@ -1,0 +1,71 @@
+{
+  "shed_id": 830,
+  "shed_name": "CEYLON FISHERY HARBOURS CORPORATION",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 07:12",
+  "time_last_updated_by_shed_ut": 1655257320,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102680",
+  "address": "Valachchenai",
+  "lat_lng": [
+    7.930949,
+    81.546043
+  ],
+  "time_last_updated_ut": 1655257320,
+  "time_last_updated": "2022-06-15 07:12",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655292540,
+      "time_dispatch": "2022-06-15 16:59",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655294400,
+      "time_last_updated": "2022-06-15 17:30",
+      "time_eta_ut": 1655297940,
+      "time_eta": "2022-06-15 18:29"
+    },
+    {
+      "time_dispatch_ut": 1655032740,
+      "time_dispatch": "2022-06-12 16:49",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655033400,
+      "time_last_updated": "2022-06-12 17:00",
+      "time_eta_ut": 1655065380,
+      "time_eta": "2022-06-13 01:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 963.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 700.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
