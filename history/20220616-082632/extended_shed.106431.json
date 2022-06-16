@@ -1,0 +1,72 @@
+{
+  "shed_id": 1299,
+  "shed_name": "L RATHNAYAKA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:45",
+  "time_last_updated_by_shed_ut": 1655352900,
+  "fuel_type": "p92",
+  "fuel_capacity": 332.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106431",
+  "address": "136, Nuwaraeliya Road, Dalpitiya Atabage",
+  "lat_lng": [
+    7.131653,
+    80.589378
+  ],
+  "time_last_updated_ut": 1655352900,
+  "time_last_updated": "2022-06-16 09:45",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655103600,
+      "time_dispatch": "2022-06-13 12:30",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655104200,
+      "time_last_updated": "2022-06-13 12:40",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654767780,
+      "time_dispatch": "2022-06-09 15:13",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654770360,
+      "time_eta": "2022-06-09 15:56"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 332.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 463.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "5 Peradeniya - Badulla - Chenkaladi Hwy, Udapalatha, Sri Lanka"
+}
