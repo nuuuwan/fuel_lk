@@ -1,0 +1,72 @@
+{
+  "shed_id": 401,
+  "shed_name": "D.M.D.WILLIAM APPUHAMY & SONS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:06",
+  "time_last_updated_by_shed_ut": 1655346960,
+  "fuel_type": "p92",
+  "fuel_capacity": 405.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100487",
+  "address": "Idangoda, Kiriella",
+  "lat_lng": [
+    6.730779,
+    80.278877
+  ],
+  "time_last_updated_ut": 1655346960,
+  "time_last_updated": "2022-06-16 08:06",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654831860,
+      "time_dispatch": "2022-06-10 09:01",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654832400,
+      "time_last_updated": "2022-06-10 09:10",
+      "time_eta_ut": 1654840860,
+      "time_eta": "2022-06-10 11:31"
+    },
+    {
+      "time_dispatch_ut": 1654831860,
+      "time_dispatch": "2022-06-10 09:01",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654832400,
+      "time_last_updated": "2022-06-10 09:10",
+      "time_eta_ut": 1654840860,
+      "time_eta": "2022-06-10 11:31"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 405.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 211.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 35.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "P7JH+9Q6, A8, Idangoda, Sri Lanka"
+}
