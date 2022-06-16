@@ -89,18 +89,20 @@ def scrape_shed_status(shed_data, i, n):
 
 
 if __name__ == '__main__':
-    scrape_shed_status(
-        {
-            "shed_id": 29,
-            "shed_name": "NAFT, MATTAMAGODA-KOTIYAKUMBURA",
-            "time_last_updated_by_shed": "2022-06-15 07:44:00",
-            "time_last_updated_by_shed_ut": 1655259240,
-            "fuel_type": "p92",
-            "fuel_capacity": 900.0,
-            "bowser_distatch": True,
-            "eta": None,
-            "did_shed_owner_update_today": True,
-        },
-        0,
-        1,
-    )
+    print(json.dumps(
+        scrape_shed_status(
+            {
+                "shed_id": 29,
+                "shed_name": "NAFT, MATTAMAGODA-KOTIYAKUMBURA",
+                "time_last_updated_by_shed": "2022-06-15 07:44:00",
+                "time_last_updated_by_shed_ut": 1655259240,
+                "fuel_type": "p92",
+                "fuel_capacity": 900.0,
+                "bowser_distatch": True,
+                "eta": None,
+                "did_shed_owner_update_today": True,
+            },
+            0,
+            1,
+        ),
+    indent=2))
