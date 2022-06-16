@@ -1,6 +1,6 @@
 import os
 
-from utils import File, JSONFile, timex
+from utils import File, GoogleMaps, JSONFile, timex
 
 from fuel_lk.base import Git
 from fuel_lk.common import DIR_DATA, GIT_REPO_URL, log
@@ -28,7 +28,14 @@ def write_extended_shed(extended_shed):
     log.debug(f'Wrote {json_file}')
 
 
+def get_shed_data_3p(extended_shed, gmaps):
+    gmaps_address = gmaps.get_address(extended_shed['lat_lng'])
+    extended_shed['gmaps_address'] = gmaps_address
+    return extended_shed
+
+
 def scrape_and_write_shed_statuses(shed_list):
+    gmaps = GoogleMaps()
     n_shed_list = len(shed_list)
     extended_shed_list = []
     for i, shed in enumerate(shed_list):
@@ -38,6 +45,10 @@ def scrape_and_write_shed_statuses(shed_list):
             n_shed_list,
         )
         extended_shed = shed | shed_status
+
+        shed_data_3p = get_shed_data_3p(extended_shed, gmaps)
+        extended_shed = extended_shed | shed_data_3p
+
         write_extended_shed(extended_shed)
         extended_shed_list.append(extended_shed)
 
