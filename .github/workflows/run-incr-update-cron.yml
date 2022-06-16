@@ -2,7 +2,7 @@ name: Incr. Update - Cron
 
 on:
  schedule:
-   - cron:  "45 * * * *"
+   - cron:  "*/15 * * * *"
 
 jobs:
   upload-data:
