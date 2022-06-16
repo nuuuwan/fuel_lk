@@ -1,0 +1,71 @@
+{
+  "shed_id": 359,
+  "shed_name": "ST. JUDE'S FILLING STATION",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 13:49",
+  "time_last_updated_by_shed_ut": 1655367540,
+  "fuel_type": "p92",
+  "fuel_capacity": 300.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100441",
+  "address": "Ceypetco Filling Station, Negombo",
+  "lat_lng": [
+    7.209054,
+    79.839508
+  ],
+  "time_last_updated_ut": 1655367540,
+  "time_last_updated": "2022-06-16 13:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655016780,
+      "time_dispatch": "2022-06-12 12:23",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655017200,
+      "time_last_updated": "2022-06-12 12:30",
+      "time_eta_ut": 1655021160,
+      "time_eta": "2022-06-12 13:36"
+    },
+    {
+      "time_dispatch_ut": 1654841220,
+      "time_dispatch": "2022-06-10 11:37",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654841700,
+      "time_last_updated": "2022-06-10 11:45",
+      "time_eta_ut": 1654845060,
+      "time_eta": "2022-06-10 12:41"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

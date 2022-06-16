@@ -1,0 +1,71 @@
+{
+  "shed_id": 1046,
+  "shed_name": "LOGESPARAN PRIYAPARAN",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 15:59",
+  "time_last_updated_by_shed_ut": 1655375340,
+  "fuel_type": "p92",
+  "fuel_capacity": 210.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104709",
+  "address": "Colombo - Batticaloa Hwy, Thalankudah",
+  "lat_lng": [
+    7.650131,
+    81.745285
+  ],
+  "time_last_updated_ut": 1655375340,
+  "time_last_updated": "2022-06-16 15:59",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655096400,
+      "time_dispatch": "2022-06-13 10:30",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655098200,
+      "time_last_updated": "2022-06-13 11:00",
+      "time_eta_ut": 1655098440,
+      "time_eta": "2022-06-13 11:04"
+    },
+    {
+      "time_dispatch_ut": 1654838640,
+      "time_dispatch": "2022-06-10 10:54",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654839900,
+      "time_last_updated": "2022-06-10 11:15",
+      "time_eta_ut": 1654840680,
+      "time_eta": "2022-06-10 11:28"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 210.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 155.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 190.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 88.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 22.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
