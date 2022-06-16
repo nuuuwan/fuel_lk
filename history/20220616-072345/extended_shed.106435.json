@@ -1,0 +1,83 @@
+{
+  "shed_id": 1300,
+  "shed_name": "W M RANBANDA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:00",
+  "time_last_updated_by_shed_ut": 1655350200,
+  "fuel_type": "p92",
+  "fuel_capacity": 3045.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106435",
+  "address": "Unawatuna Junction - Buttala",
+  "lat_lng": [
+    6.752616,
+    81.218422
+  ],
+  "time_last_updated_ut": 1655350200,
+  "time_last_updated": "2022-06-16 09:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655194920,
+      "time_dispatch": "2022-06-14 13:52",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655195400,
+      "time_last_updated": "2022-06-14 14:00",
+      "time_eta_ut": 1655222160,
+      "time_eta": "2022-06-14 21:26"
+    },
+    {
+      "time_dispatch_ut": 1655113860,
+      "time_dispatch": "2022-06-13 15:21",
+      "fuel_type": "d",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655114400,
+      "time_last_updated": "2022-06-13 15:30",
+      "time_eta_ut": 1655122860,
+      "time_eta": "2022-06-13 17:51"
+    },
+    {
+      "time_dispatch_ut": 1655012700,
+      "time_dispatch": "2022-06-12 11:15",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655013300,
+      "time_last_updated": "2022-06-12 11:25",
+      "time_eta_ut": 1655039940,
+      "time_eta": "2022-06-12 18:49"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 3045.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 2485.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1930.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 42.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "Q629+X6F, \u0d9a\u0ddc\u0dc5\u0db9 - \u0db8\u0da9\u0d9a\u0dc5\u0db4\u0dd4\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db4\u0dcf\u0dbb, Buttala, Sri Lanka"
+}
