@@ -1,0 +1,72 @@
+{
+  "shed_id": 730,
+  "shed_name": "SCAN LANKA",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102366",
+  "address": "Kandy - Jaffna Highway, Matale",
+  "lat_lng": [
+    7.502871,
+    80.622139
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655103600,
+      "time_dispatch": "2022-06-13 12:30",
+      "fuel_type": "p92",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655104200,
+      "time_last_updated": "2022-06-13 12:40",
+      "time_eta_ut": 1655122140,
+      "time_eta": "2022-06-13 17:39"
+    },
+    {
+      "time_dispatch_ut": 1654938420,
+      "time_dispatch": "2022-06-11 14:37",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654938900,
+      "time_last_updated": "2022-06-11 14:45",
+      "time_eta_ut": 1654944060,
+      "time_eta": "2022-06-11 16:11"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "1069 A9, Sri Lanka"
+}
