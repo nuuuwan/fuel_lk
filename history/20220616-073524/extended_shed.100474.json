@@ -1,0 +1,49 @@
+{
+  "shed_id": 390,
+  "shed_name": "K.V.BANDULA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:47",
+  "time_last_updated_by_shed_ut": 1655353020,
+  "fuel_type": "p92",
+  "fuel_capacity": 90.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100474",
+  "address": "Kirulapone, Colombo- 05",
+  "lat_lng": [
+    6.877909,
+    79.878448
+  ],
+  "time_last_updated_ut": 1655353020,
+  "time_last_updated": "2022-06-16 09:47",
+  "browser_dispatch": false,
+  "dispatch_schedule_list": [],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 90.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "173 High Level Rd, Colombo 00500, Sri Lanka"
+}
