@@ -1,0 +1,72 @@
+{
+  "shed_id": 150,
+  "shed_name": "ST.ANTHONY'S FILLING AND SERVICE ST",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:53",
+  "time_last_updated_by_shed_ut": 1655342580,
+  "fuel_type": "p92",
+  "fuel_capacity": 41.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100182",
+  "address": "Yakalla, Ibbagamuwa, Bakmeegolla",
+  "lat_lng": [
+    7.532499,
+    80.435448
+  ],
+  "time_last_updated_ut": 1655342580,
+  "time_last_updated": "2022-06-16 06:53",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655136180,
+      "time_dispatch": "2022-06-13 21:33",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655136600,
+      "time_last_updated": "2022-06-13 21:40",
+      "time_eta_ut": 1655138220,
+      "time_eta": "2022-06-13 22:07"
+    },
+    {
+      "time_dispatch_ut": 1654917960,
+      "time_dispatch": "2022-06-11 08:56",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654918500,
+      "time_last_updated": "2022-06-11 09:05",
+      "time_eta_ut": 1654920000,
+      "time_eta": "2022-06-11 09:30"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 198.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 212.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "Yakalla, Ibbagamuwa, GCJP+X6V, Bakmeegolla, Sri Lanka"
+}
