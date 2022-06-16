@@ -14,4 +14,4 @@ if __name__ == '__main__':
 
     os.system(f'cp {legacy_json_file} {new_json_file}')
     git.add_all_and_commit('[cheat_packpopulate] Added files')
-    # git.push()
+    git.push()
