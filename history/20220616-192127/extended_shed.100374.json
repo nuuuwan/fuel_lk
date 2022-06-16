@@ -1,0 +1,49 @@
+{
+  "shed_id": 307,
+  "shed_name": "P & P ENTERPRISE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 12:27",
+  "time_last_updated_by_shed_ut": 1655276220,
+  "fuel_type": "p92",
+  "fuel_capacity": 120.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100374",
+  "address": "374-364 Avissawella Rd, Nugegoda",
+  "lat_lng": [
+    6.863976,
+    79.898537
+  ],
+  "time_last_updated_ut": 1655276220,
+  "time_last_updated": "2022-06-15 12:27",
+  "browser_dispatch": false,
+  "dispatch_schedule_list": [],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 120.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 290.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 452.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 237.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 290.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "364b High Level Rd, Nugegoda, Sri Lanka"
+}
