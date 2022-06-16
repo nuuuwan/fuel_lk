@@ -1,0 +1,72 @@
+{
+  "shed_id": 1280,
+  "shed_name": "K S B P FERNANDO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 10:49",
+  "time_last_updated_by_shed_ut": 1655356740,
+  "fuel_type": "p92",
+  "fuel_capacity": 250.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106365",
+  "address": "Puttalam Road, Waikkal",
+  "lat_lng": [
+    7.292034,
+    79.852318
+  ],
+  "time_last_updated_ut": 1655356740,
+  "time_last_updated": "2022-06-16 10:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655299980,
+      "time_dispatch": "2022-06-15 19:03",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655300400,
+      "time_last_updated": "2022-06-15 19:10",
+      "time_eta_ut": 1655305920,
+      "time_eta": "2022-06-15 20:42"
+    },
+    {
+      "time_dispatch_ut": 1655283540,
+      "time_dispatch": "2022-06-15 14:29",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655284200,
+      "time_last_updated": "2022-06-15 14:40",
+      "time_eta_ut": 1655288940,
+      "time_eta": "2022-06-15 15:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 216.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 6903.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 212.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "7VR2+JWV, Kammala, Sri Lanka"
+}
