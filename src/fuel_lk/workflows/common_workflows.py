@@ -40,7 +40,6 @@ def write_extended_shed(extended_shed):
 
 
 def get_shed_data_3p(extended_shed, gmaps):
-    gmaps_address = gmaps.get_address(extended_shed['lat_lng'])
     old_extended_shed = read_extended_shed(extended_shed)
     gmaps_address = None
     if old_extended_shed:
