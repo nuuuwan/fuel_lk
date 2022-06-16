@@ -1,0 +1,82 @@
+{
+  "shed_id": 138,
+  "shed_name": "P.M.K.RAHUMAN",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 12:50",
+  "time_last_updated_by_shed_ut": 1655364000,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100169",
+  "address": "213 Main St, Kalmunai",
+  "lat_lng": [
+    7.414017,
+    81.826378
+  ],
+  "time_last_updated_ut": 1655364000,
+  "time_last_updated": "2022-06-16 12:50",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655271360,
+      "time_dispatch": "2022-06-15 11:06",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655273100,
+      "time_last_updated": "2022-06-15 11:35",
+      "time_eta_ut": 1655277000,
+      "time_eta": "2022-06-15 12:40"
+    },
+    {
+      "time_dispatch_ut": 1655211180,
+      "time_dispatch": "2022-06-14 18:23",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655211600,
+      "time_last_updated": "2022-06-14 18:30",
+      "time_eta_ut": 1655246160,
+      "time_eta": "2022-06-15 04:06"
+    },
+    {
+      "time_dispatch_ut": 1654845720,
+      "time_dispatch": "2022-06-10 12:52",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654847400,
+      "time_last_updated": "2022-06-10 13:20",
+      "time_eta_ut": 1654851360,
+      "time_eta": "2022-06-10 14:26"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 1.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
