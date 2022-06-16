@@ -1,0 +1,83 @@
+{
+  "shed_id": 468,
+  "shed_name": " B & S AUTO ENTERPRISES(PVT)LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:06",
+  "time_last_updated_by_shed_ut": 1655346960,
+  "fuel_type": "p92",
+  "fuel_capacity": 39.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100564",
+  "address": "Avissawella Rd, Homagama",
+  "lat_lng": [
+    6.840006,
+    79.994255
+  ],
+  "time_last_updated_ut": 1655346960,
+  "time_last_updated": "2022-06-16 08:06",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655198340,
+      "time_dispatch": "2022-06-14 14:49",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655199000,
+      "time_last_updated": "2022-06-14 15:00",
+      "time_eta_ut": 1655201940,
+      "time_eta": "2022-06-14 15:49"
+    },
+    {
+      "time_dispatch_ut": 1655096100,
+      "time_dispatch": "2022-06-13 10:25",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655096700,
+      "time_last_updated": "2022-06-13 10:35",
+      "time_eta_ut": 1655099700,
+      "time_eta": "2022-06-13 11:25"
+    },
+    {
+      "time_dispatch_ut": 1655012280,
+      "time_dispatch": "2022-06-12 11:08",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655012700,
+      "time_last_updated": "2022-06-12 11:15",
+      "time_eta_ut": 1655015880,
+      "time_eta": "2022-06-12 12:08"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 39.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 65.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 26.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 83.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 16.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "5a Shasanawardhanarama Rd, Homagama, Sri Lanka"
+}

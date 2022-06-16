@@ -1,0 +1,83 @@
+{
+  "shed_id": 297,
+  "shed_name": "D.W.A.U.DIKWELLA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 10:21",
+  "time_last_updated_by_shed_ut": 1655355060,
+  "fuel_type": "p92",
+  "fuel_capacity": 7128.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100364",
+  "address": "Hakmana - Beliatte - Tangalle Rd, Tangalle",
+  "lat_lng": [
+    6.02963,
+    80.793945
+  ],
+  "time_last_updated_ut": 1655355060,
+  "time_last_updated": "2022-06-16 10:21",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655351220,
+      "time_dispatch": "2022-06-16 09:17",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655351700,
+      "time_last_updated": "2022-06-16 09:25",
+      "time_eta_ut": 1655374860,
+      "time_eta": "2022-06-16 15:51"
+    },
+    {
+      "time_dispatch_ut": 1655303340,
+      "time_dispatch": "2022-06-15 19:59",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655303700,
+      "time_last_updated": "2022-06-15 20:05",
+      "time_eta_ut": 1655308740,
+      "time_eta": "2022-06-15 21:29"
+    },
+    {
+      "time_dispatch_ut": 1655105880,
+      "time_dispatch": "2022-06-13 13:08",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655106300,
+      "time_last_updated": "2022-06-13 13:15",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 7128.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 3808.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 326.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "2QHV+RHG, Tangalle, Sri Lanka"
+}

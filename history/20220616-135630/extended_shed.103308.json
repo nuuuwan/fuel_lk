@@ -1,0 +1,72 @@
+{
+  "shed_id": 849,
+  "shed_name": "M.I.DEEPAL DE SILVA DHARMARATHNE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:46",
+  "time_last_updated_by_shed_ut": 1655349360,
+  "fuel_type": "p92",
+  "fuel_capacity": 780.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-16 10:57, 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103308",
+  "address": "Lanka Filling Station (Opatha), Kotugoda",
+  "lat_lng": [
+    7.132051,
+    79.926285
+  ],
+  "time_last_updated_ut": 1655349360,
+  "time_last_updated": "2022-06-16 08:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655353620,
+      "time_dispatch": "2022-06-16 09:57",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655354400,
+      "time_last_updated": "2022-06-16 10:10",
+      "time_eta_ut": 1655357220,
+      "time_eta": "2022-06-16 10:57"
+    },
+    {
+      "time_dispatch_ut": 1655277360,
+      "time_dispatch": "2022-06-15 12:46",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655277900,
+      "time_last_updated": "2022-06-15 12:55",
+      "time_eta_ut": 1655281200,
+      "time_eta": "2022-06-15 13:50"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 780.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1010.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "4WJG+RGG, Gampaha, Sri Lanka"
+}

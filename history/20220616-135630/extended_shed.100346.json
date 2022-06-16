@@ -1,0 +1,72 @@
+{
+  "shed_id": 281,
+  "shed_name": "KIRINDIWELA - KERAGALA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:16",
+  "time_last_updated_by_shed_ut": 1655264760,
+  "fuel_type": "p92",
+  "fuel_capacity": 1071.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100346",
+  "address": "Kirindiwela",
+  "lat_lng": [
+    7.04376,
+    80.13166
+  ],
+  "time_last_updated_ut": 1655264760,
+  "time_last_updated": "2022-06-15 09:16",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655305560,
+      "time_dispatch": "2022-06-15 20:36",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655306100,
+      "time_last_updated": "2022-06-15 20:45",
+      "time_eta_ut": 1655310960,
+      "time_eta": "2022-06-15 22:06"
+    },
+    {
+      "time_dispatch_ut": 1655096880,
+      "time_dispatch": "2022-06-13 10:38",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097600,
+      "time_last_updated": "2022-06-13 10:50",
+      "time_eta_ut": 1655101260,
+      "time_eta": "2022-06-13 11:51"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1071.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 825.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 112.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "24VJ+GM6, Sri Lanka"
+}
