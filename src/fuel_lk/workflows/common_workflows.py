@@ -51,11 +51,38 @@ def scrape_and_write_shed_statuses(shed_list):
     return extended_shed_list
 
 
-def write_LEGACY(shed_status_list):
+def write_LEGACY_shed_status_list(shed_status_list):
     n_shed_status_list = len(shed_status_list)
-    json_file = os.path.join(DIR_DATA, 'latest/shed_status_list.all.json')
+    json_file = os.path.join(DIR_LATEST, 'shed_status_list.all.json')
     JSONFile(json_file).write(shed_status_list)
     log.info(f'Saved {n_shed_status_list} sheds to {json_file}')
+
+
+def get_extended_shed_status_files():
+    extended_shed_status_files = []
+    for file_only in os.listdir(DIR_LATEST):
+        if file_only[:14] == 'extended_shed.' and file_only[-5:] == '.json':
+            extended_shed_status_files.append(
+                os.path.join(DIR_LATEST, file_only)
+            )
+    return extended_shed_status_files
+
+
+def get_extened_status_list():
+    extended_shed_status_files = get_extended_shed_status_files()
+    extended_status_list = []
+    for extended_shed_status_file in extended_shed_status_files:
+        extended_status = JSONFile(extended_shed_status_file).read()
+        extended_status_list.append(extended_status)
+    return extended_status_list
+
+
+def write_extened_status_list():
+    extended_status_list = get_extened_status_list()
+    n_extended_status_list = len(extended_status_list)
+    json_file = os.path.join(DIR_LATEST, 'extended_status_list.json')
+    JSONFile(json_file).write(extended_status_list)
+    log.info(f'Wrote {n_extended_status_list} extended sheds to {json_file}')
 
 
 def copy_latest_to_history():
