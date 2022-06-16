@@ -75,7 +75,7 @@ def clean_shed_status(d):
     )
 
 
-def scrape_shed_status(shed_data, i1, n):
+def scrape_shed_status(shed_data, i, n):
     shed_id = shed_data['shed_id']
     url = os.path.join(
         URL_API_BASE, f'{shed_id}/{DEFAULT_FUEL_TYPE}'
@@ -83,21 +83,13 @@ def scrape_shed_status(shed_data, i1, n):
     data_json = requests.get(url).text
     data = json.loads(data_json)
     data = shed_data | clean_shed_status(data)
+    i1 = i + 1
     log.debug(f'{i1}/{n}) Scraped shed status for {shed_id=}')
     return data
 
 
-def scrape_shed_statuses(shed_data_list):
-    shed_status_list = []
-    n = len(shed_data_list)
-    for i, shed_data in enumerate(shed_data_list):
-        shed_status = scrape_shed_status(shed_data, i + 1, n)
-        shed_status_list.append(shed_data | shed_status)
-    return shed_status_list
-
-
 if __name__ == '__main__':
-    scrape_shed_statuses([
+    scrape_shed_status(
         {
             "shed_id": 29,
             "shed_name": "NAFT, MATTAMAGODA-KOTIYAKUMBURA",
@@ -108,5 +100,7 @@ if __name__ == '__main__':
             "bowser_distatch": True,
             "eta": None,
             "did_shed_owner_update_today": True,
-        }
-    ])
+        },
+        0,
+        1,
+    )
