@@ -1,0 +1,83 @@
+{
+  "shed_id": 199,
+  "shed_name": "U.K.BUDDHADASA SILVA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 10:58",
+  "time_last_updated_by_shed_ut": 1655357280,
+  "fuel_type": "p92",
+  "fuel_capacity": 860.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100243",
+  "address": "Avissawella - Hatton - Nuwara Eliya Hwy, Talawakelle",
+  "lat_lng": [
+    6.937884,
+    80.661469
+  ],
+  "time_last_updated_ut": 1655357280,
+  "time_last_updated": "2022-06-16 10:58",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655282940,
+      "time_dispatch": "2022-06-15 14:19",
+      "fuel_type": "p92",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655283300,
+      "time_last_updated": "2022-06-15 14:25",
+      "time_eta_ut": 1655285280,
+      "time_eta": "2022-06-15 14:58"
+    },
+    {
+      "time_dispatch_ut": 1654922340,
+      "time_dispatch": "2022-06-11 10:09",
+      "fuel_type": "d",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654922700,
+      "time_last_updated": "2022-06-11 10:15",
+      "time_eta_ut": 1654924680,
+      "time_eta": "2022-06-11 10:48"
+    },
+    {
+      "time_dispatch_ut": 1654746240,
+      "time_dispatch": "2022-06-09 09:14",
+      "fuel_type": "k",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654748580,
+      "time_eta": "2022-06-09 09:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 860.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1135.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 693.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 360.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 445.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "WMQ6+4HG, Talawakelle, Sri Lanka"
+}
