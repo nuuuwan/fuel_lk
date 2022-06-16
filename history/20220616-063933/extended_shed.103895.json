@@ -1,0 +1,71 @@
+{
+  "shed_id": 932,
+  "shed_name": "CENTRAL AGENCY",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:17",
+  "time_last_updated_by_shed_ut": 1655351220,
+  "fuel_type": "p92",
+  "fuel_capacity": 678.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103895",
+  "address": "151a Jayanthi Mawatha, Anuradhapura",
+  "lat_lng": [
+    8.320204,
+    80.394165
+  ],
+  "time_last_updated_ut": 1655351220,
+  "time_last_updated": "2022-06-16 09:17",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655280240,
+      "time_dispatch": "2022-06-15 13:34",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655280600,
+      "time_last_updated": "2022-06-15 13:40",
+      "time_eta_ut": 1655282040,
+      "time_eta": "2022-06-15 14:04"
+    },
+    {
+      "time_dispatch_ut": 1655123400,
+      "time_dispatch": "2022-06-13 18:00",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655124000,
+      "time_last_updated": "2022-06-13 18:10",
+      "time_eta_ut": 1655125200,
+      "time_eta": "2022-06-13 18:30"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 678.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 876.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 678.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 605.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 306.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

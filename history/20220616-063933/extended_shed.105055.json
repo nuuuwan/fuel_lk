@@ -1,0 +1,82 @@
+{
+  "shed_id": 1119,
+  "shed_name": "A ARUNA SURANGA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:57",
+  "time_last_updated_by_shed_ut": 1655346420,
+  "fuel_type": "p92",
+  "fuel_capacity": 131.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105055",
+  "address": "Kahawa - Batapola Rd, Batapola",
+  "lat_lng": [
+    6.224777,
+    80.114723
+  ],
+  "time_last_updated_ut": 1655346420,
+  "time_last_updated": "2022-06-16 07:57",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655123220,
+      "time_dispatch": "2022-06-13 17:57",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655123700,
+      "time_last_updated": "2022-06-13 18:05",
+      "time_eta_ut": 1655134800,
+      "time_eta": "2022-06-13 21:10"
+    },
+    {
+      "time_dispatch_ut": 1655024580,
+      "time_dispatch": "2022-06-12 14:33",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655025000,
+      "time_last_updated": "2022-06-12 14:40",
+      "time_eta_ut": 1655036160,
+      "time_eta": "2022-06-12 17:46"
+    },
+    {
+      "time_dispatch_ut": 1654830840,
+      "time_dispatch": "2022-06-10 08:44",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654831500,
+      "time_last_updated": "2022-06-10 08:55",
+      "time_eta_ut": 1654842420,
+      "time_eta": "2022-06-10 11:57"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 131.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1474.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 232.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "shed_id": 345,
+  "shed_name": "S.NAGENDRAN",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:59",
+  "time_last_updated_by_shed_ut": 1655350140,
+  "fuel_type": "p92",
+  "fuel_capacity": 1040.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100422",
+  "address": "Colombo - Ratnapura - Wellawaya - Batticaloa Rd, Kaluwanchikudy",
+  "lat_lng": [
+    7.514704,
+    81.787544
+  ],
+  "time_last_updated_ut": 1655350140,
+  "time_last_updated": "2022-06-16 08:59",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655271360,
+      "time_dispatch": "2022-06-15 11:06",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655273100,
+      "time_last_updated": "2022-06-15 11:35",
+      "time_eta_ut": 1655275200,
+      "time_eta": "2022-06-15 12:10"
+    },
+    {
+      "time_dispatch_ut": 1655212200,
+      "time_dispatch": "2022-06-14 18:40",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655212800,
+      "time_last_updated": "2022-06-14 18:50",
+      "time_eta_ut": 1655251800,
+      "time_eta": "2022-06-15 05:40"
+    },
+    {
+      "time_dispatch_ut": 1655095320,
+      "time_dispatch": "2022-06-13 10:12",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655096700,
+      "time_last_updated": "2022-06-13 10:35",
+      "time_eta_ut": 1655099160,
+      "time_eta": "2022-06-13 11:16"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1040.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1338.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1098.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

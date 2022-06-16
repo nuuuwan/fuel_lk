@@ -1,0 +1,48 @@
+{
+  "shed_id": 1138,
+  "shed_name": "S D P N JEYASUNDARA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:42",
+  "time_last_updated_by_shed_ut": 1655349120,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105206",
+  "address": "South-coast Rd, Silavathurai",
+  "lat_lng": [
+    8.751881,
+    79.950188
+  ],
+  "time_last_updated_ut": 1655349120,
+  "time_last_updated": "2022-06-16 08:42",
+  "browser_dispatch": false,
+  "dispatch_schedule_list": [],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

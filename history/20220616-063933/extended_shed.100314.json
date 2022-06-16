@@ -1,0 +1,82 @@
+{
+  "shed_id": 258,
+  "shed_name": "B.S.I.JAYASENA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:42",
+  "time_last_updated_by_shed_ut": 1655345520,
+  "fuel_type": "p92",
+  "fuel_capacity": 248.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100314",
+  "address": "Ceypetco, A4, Monaragala",
+  "lat_lng": [
+    6.863904,
+    81.344879
+  ],
+  "time_last_updated_ut": 1655345520,
+  "time_last_updated": "2022-06-16 07:42",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655012700,
+      "time_dispatch": "2022-06-12 11:15",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655013300,
+      "time_last_updated": "2022-06-12 11:25",
+      "time_eta_ut": 1655039940,
+      "time_eta": "2022-06-12 18:49"
+    },
+    {
+      "time_dispatch_ut": 1654936020,
+      "time_dispatch": "2022-06-11 13:57",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654936500,
+      "time_last_updated": "2022-06-11 14:05",
+      "time_eta_ut": 1654963260,
+      "time_eta": "2022-06-11 21:31"
+    },
+    {
+      "time_dispatch_ut": 1654859460,
+      "time_dispatch": "2022-06-10 16:41",
+      "fuel_type": "d",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654860000,
+      "time_last_updated": "2022-06-10 16:50",
+      "time_eta_ut": 1654870500,
+      "time_eta": "2022-06-10 19:45"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 248.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1368.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 178.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
