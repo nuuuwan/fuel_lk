@@ -1,12 +1,42 @@
 # Fuel.LK
 
-*Last updated at 20220616-030105*
+*Last updated at 20220616-034854*
 
 Analyzed 1344 sheds.
 
 ## Latest Shed Updates 
 
 (*Sheds that updated data in the last 24 hours*)
+
+* [103752] D R M WICRAMASEKERA HOLDINGS (Polgasowita)
+
+* [104232] H C J PERERA (Walgama Junction-Athrugiriya)
+
+* [103695] PREMACHANDRA  FILLING & SERVICES ST (Egoda Uyana, Moratuwa)
+
+* [104223] S P INDHANA PIRAUMHALA (Lanka Ceypetco Filling Station, Athurugiriya Rd, Malabe)
+
+* [100085] GANTHERA INDHANA PIRAVUMHALA (W.D.l.Appuhamy Mawatha, Panadura)
+
+* [106021] M R HENRY (Ceypetco Filling Station - Parana Handiya)
+
+* [100061] LAUGFS PETROLEUM (PVT) LTD (88b S. De S. Jayasinghe Mawatha, Nugegoda)
+
+* [100026] SISIRI ENTERPRISES (Kurunduwatta, Colombo-07)
+
+* [100248] K D P ARASAKULARATNE &  SONS (Avissawella)
+
+* [106014] SAVINRO ENTERPRISES (Hilevel Rd, Wattaraka,meegoda)
+
+* [105243] R S PINIDIYA (Borella Rd, Athurugiriya Rd)
+
+* [104336] SANEK ENTERPRISES (PVT) LTD (Godagama)
+
+* [100153] C.F.DE MEL & SONS (PVT) LTD (Sri Sambuddhathva Jayanthi Mawatha, Colombo 05)
+
+* [104482] N T K A  ADIKARAM (291b, Sri Road, Hokandara)
+
+* [100245] KOTAHENA CEN. LANKA SERV STN.(PVT)L (Skinners's Rd, Colombo - 13)
 
 * [100576] RANJITH ATTALE SAHA SAMAGAMA (306 Kotte Rd, Nugegoda)
 
@@ -60,8 +90,6 @@ Analyzed 1344 sheds.
 
 * [100504] PILIYANDALA - BOKUNDARA MPCS LTD (26, Piliyandala Rd, Piliyandala)
 
-* [103695] PREMACHANDRA  FILLING & SERVICES ST (Egoda Uyana, Moratuwa)
-
 * [100152] C.F.DE MEL & SONS (PVT) LTD (Colombo 02)
 
 * [100230] D. T. A. ATALE & SON ( PVT ) LTD (70 Mahakumarage Rd, Colombo)
@@ -102,15 +130,9 @@ Analyzed 1344 sheds.
 
 * [100603] AUTO SUPER SERVICE CENTRE (Sri Jayawardenepura Kotte)
 
-* [104482] N T K A  ADIKARAM (291b, Sri Road, Hokandara)
-
 * [100125] HONDAHITHA ENTERPRISES (170 High Level Rd, Nugegoda)
 
-* [106014] SAVINRO ENTERPRISES (Hilevel Rd, Wattaraka,meegoda)
-
 * [100562] D.C. & L.C.SENASEKARA (Kesbewa East, Piliyandala)
-
-* [104336] SANEK ENTERPRISES (PVT) LTD (Godagama)
 
 * [100087] S.M.D.C.D.SENARATNE AND COMPANY (717 P De S Kularatne Mawatha, Colombo 10)
 
@@ -119,8 +141,6 @@ Analyzed 1344 sheds.
 * [100631] H.K.D.R.S.PERERA (Lanka Filling Station, B84, Piliyandala)
 
 * [105046] HIRAN MOTOR TRADERS (Madapatha, Piliyandala)
-
-* [106021] M R HENRY (Ceypetco Filling Station - Parana Handiya)
 
 * [100194] S.S.FILLING STATION ( PVT ) LTD (No. 21/8, Buthgamuwa Road, Kalapaluwawa, Rajagiriya)
 
@@ -154,8 +174,6 @@ Analyzed 1344 sheds.
 
 * [106283] BUSINESS DEVELOPMENT COOP. SOCIETY (403 Udumulla Rd, Sri Jayawardenepura Kotte)
 
-* [104223] S P INDHANA PIRAUMHALA (Lanka Ceypetco Filling Station, Athurugiriya Rd, Malabe)
-
 * [100372] J.J.DIAS ENTERPRISES (Galagedera - Horana Rd, Padukka)
 
 * [100329] S.A.D.C.SAMANTHA (No 54 Avissawella Rd, Hanwella )
@@ -168,15 +186,11 @@ Analyzed 1344 sheds.
 
 * [100294] A.C.H.H.DE COSTA (45 Colombo - Horana Rd, Piliyandala)
 
-* [100153] C.F.DE MEL & SONS (PVT) LTD (Sri Sambuddhathva Jayanthi Mawatha, Colombo 05)
-
 * [104328] KATUWANA ENTERPRISES (PVT) LTD (Homagama)
 
 * [100564]  B & S AUTO ENTERPRISES(PVT)LTD (Avissawella Rd, Homagama)
 
 * [100607] TRANS LANKA ENTERPRISES (PVT) LTD (Colombo - Hanwella Low Level Rd, Colombo)
-
-* [100085] GANTHERA INDHANA PIRAVUMHALA (W.D.l.Appuhamy Mawatha, Panadura)
 
 * [100467]  A.H.WIMALATUNGA & SON (PVT) LTD (Colombo 14 - Jethawana Road)
 
@@ -185,12 +199,6 @@ Analyzed 1344 sheds.
 * [100060] PETRO GAS (PVT) LTD (Petrogas Lanka Ltd, Avissawella Rd, Maharagama)
 
 * [100143] HIGHWAY ENTERPRISES (Fuel Station, Dehiwela - Maharagama Road, Maharagama)
-
-* [103752] D R M WICRAMASEKERA HOLDINGS (Polgasowita)
-
-* [100248] K D P ARASAKULARATNE &  SONS (Avissawella)
-
-* [100245] KOTAHENA CEN. LANKA SERV STN.(PVT)L (Skinners's Rd, Colombo - 13)
 
 * [100095] SOMA EDIRISINGHE (629 Dr Danister De Silva Mawatha, Colombo)
 
@@ -202,19 +210,11 @@ Analyzed 1344 sheds.
 
 * [100180] SRI JAYEWARDENEPURA MPCS LTD (Lanka Filling Station, Sri Jayawardenepura Kotte)
 
-* [104232] H C J PERERA (Walgama Junction-Athrugiriya)
-
-* [100026] SISIRI ENTERPRISES (Kurunduwatta, Colombo-07)
-
 * [100471]  ABC FILLING STATION (Colombo Main Rd, Dehiwala - Mount Lavinia)
 
 * [100031] EBERT SILVA AUTO. ENG.CO.(PVT)LTD (173 Galle Rd, Dehiwala-Mount Lavinia)
 
 * [106554] W T P H PERERA (Arawwala Rd, Pannipitiya)
-
-* [100061] LAUGFS PETROLEUM (PVT) LTD (88b S. De S. Jayasinghe Mawatha, Nugegoda)
-
-* [105243] R S PINIDIYA (Borella Rd, Athurugiriya Rd)
 
 * [100254] MAYADUNNE SERVICE STATION (Colombo - Galle - Hambantota - Wellawaya Hwy, Dehiwala-Mount Lavinia)
 
@@ -326,6 +326,24 @@ Analyzed 1344 sheds.
 
 * [105662] V.R.H LANKA IOC FILLING STATION (PANNIPITIYA)
 
+* [102346] SARANI ENTERPRISE PVT LTD (Kiridiwela)
+
+* [103940] H A L K PERERA (Ioc Filling Station, Warana Rd Nelligahamulla- Atthanagalla)
+
+* [104527] DISSANAYAKE MAN POWER TRANSPORT SUP (207/04/16, Wilimbula, Henegama)
+
+* [106462] D L C C GUNASEKARA (106, Negombo Rd, Katuwellegama)
+
+* [100213] J.M.GUNATHILAKA (Kuswala Fuel Station, Katunayake)
+
+* [100398] THUSARI & SON (Peliyagoda - Puttalam Highway, Ja-Ela)
+
+* [100324] K.D.M.B.LORA (Ekala, A33, Ja-Ela)
+
+* [106347] LAKMINI ENTERPRISES (No:82 Pasyala - Giriulla Rd, Mirigama)
+
+* [103229] K. D. ANIL PRIYANTHA FERNANDO (Thibirigaskatuwa)
+
 * [100432] J.A.D.JULIET PERERA (Spc Petrol Shed, Wattala)
 
 * [100413] RAMANAYAKE VIYAPARA (Kaleliya - Medagampitiya Rd, Pallewela)
@@ -410,8 +428,6 @@ Analyzed 1344 sheds.
 
 * [100961] S.BENJAMIN SILVA PULLE & SONS (Greens Rd, Negombo)
 
-* [103229] K. D. ANIL PRIYANTHA FERNANDO (Thibirigaskatuwa)
-
 * [104995] N M C Y NAGASENA (IDIGOLLA)
 
 * [100283] DEVTURU ENTERPRISES (PVT) LTD (468 Colombo - Kandy Rd, Kadawatha)
@@ -453,8 +469,6 @@ Analyzed 1344 sheds.
 * [104591] J A C D JAYAKODY (Walpita, Kotadeniyawa)
 
 * [100362] SHANTHI JAYAKODI (PVT) LTD (Kirillawela - Imbulgoda)
-
-* [100213] J.M.GUNATHILAKA (Kuswala Fuel Station, Katunayake)
 
 * [105739] T S CHAINS (PVT) LTD (Gonawala)
 
@@ -506,8 +520,6 @@ Analyzed 1344 sheds.
 
 * [100515] JAELA MPCS LTD (Chillaw - Colombo Main Road, Ja-ela Kandana)
 
-* [100324] K.D.M.B.LORA (Ekala, A33, Ja-Ela)
-
 * [100477] SENANAYAKE PIRAVUMPOLA (Yakkala)
 
 * [100511] AGRA ENTERPRISES (PVT) LTD (Kandy Rd, Pasyala)
@@ -522,11 +534,7 @@ Analyzed 1344 sheds.
 
 * [105635] H A N JAYARATHNA (777/e/2, Samurdhi Mawatha, Heiyanthuduwa)
 
-* [104527] DISSANAYAKE MAN POWER TRANSPORT SUP (207/04/16, Wilimbula, Henegama)
-
 * [100617] SOORAYA LANKA PIRAVUMHALA (Kimbulapitiya Rd, Kimbulapitiya)
-
-* [103940] H A L K PERERA (Ioc Filling Station, Warana Rd Nelligahamulla- Atthanagalla)
 
 * [105980] TASMA INTERNATIONAL MANPOWER SPLS ( (Siyambalape)
 
@@ -537,8 +545,6 @@ Analyzed 1344 sheds.
 * [100935] S.R.B.TRADES (Puttalam - Colombo Rd, Ragama)
 
 * [103518] B. M. A. V. MAPA (Mudungoda)
-
-* [100398] THUSARI & SON (Peliyagoda - Puttalam Highway, Ja-Ela)
 
 * [104691] H A L K PERERA (Pohonnaruwa - Meerigama)
 
@@ -554,11 +560,7 @@ Analyzed 1344 sheds.
 
 * [100272] STEPHEN'S FILLING STATION (PVT ) LT (534 New Hunupitiya Rd, Kelaniya)
 
-* [106347] LAKMINI ENTERPRISES (No:82 Pasyala - Giriulla Rd, Mirigama)
-
 * [100091] A.P.GUNAWARDENA  & COMPANY(PVT)LTD (Puttalam - Colombo Rd, Dandugama)
-
-* [106462] D L C C GUNASEKARA (106, Negombo Rd, Katuwellegama)
 
 * [100264] T.C.S.PERERA (Ekala - Kotadeniyawa Rd, Ballapana)
 
@@ -618,8 +620,6 @@ Analyzed 1344 sheds.
 
 * [102344] ATTANAGALLA MPCS LTD (Veyangoda - Ruwanwella Rd,Urapola)
 
-* [102346] SARANI ENTERPRISE PVT LTD (Kiridiwela)
-
 * [102347] P K B  N BANDARA (Colombo - Kandy Rd, Kadawatha)
 
 * [102348] DON SOMAPALA COMPANY PVT LTD (Kandy Road, Weddamulla, Kelaniya)
@@ -664,6 +664,22 @@ Analyzed 1344 sheds.
 
 * [106584] HI TECH CARBON (Nittambuwa - Nambadaluwa)
 
+* [100397] S.K.RAJAPAKSE (Pinwatta Gas Station, A2, Panadura)
+
+* [100537] PANADURA AUTO SERVICE & FILLING STN (702 Colombo Main Rd, Panadura)
+
+* [104074] M W J KARUNARATHNE (Bellapitiya,Aguruwathota)
+
+* [100365] MATHUGAMA MPCS LTD (Mathugama)
+
+* [100108] BERUWALA MPCS LTD (Aluthgama)
+
+* [106398] JAYALATH ENTERPRISES (35, Aluthgama-mathugama Rd, Welipenna)
+
+* [100819]  L. I.JAYANTHA DE SILVA (32 Coustom Rd, Beruwala)
+
+* [100157] ANOJA FERNANDO (Katukurunda Lanka Filing Station, A2, Kalutara)
+
 * [103585] M.H.S.D.PIYASENA (Polegoda)
 
 * [100171] L.L.KULATUNGA (Colombo - Galle Main Rd, Kalutara)
@@ -685,8 +701,6 @@ Analyzed 1344 sheds.
 * [106732] G K C K PRASANNA (Nambapana, Ingiriya)
 
 * [102682] H SRIYANI PATRICIA FONSEKA (Ioc-payagala, Kuda Payagala South, Payagala)
-
-* [100397] S.K.RAJAPAKSE (Pinwatta Gas Station, A2, Panadura)
 
 * [100193] SAPTARA ENTERPRISES (A2, Beruwala)
 
@@ -716,8 +730,6 @@ Analyzed 1344 sheds.
 
 * [101007] CANCEL-AGALAWATTA MPCS LTD (ITTAPANA-CANCEL)
 
-* [100819]  L. I.JAYANTHA DE SILVA (32 Coustom Rd, Beruwala)
-
 * [103799] S.P.LANKA PETROLEUM (PVT) LTD (Tiruwanaketiya-agalawatte Rd, Bellana)
 
 * [100234] P K CHITHRA DAMAYANTHI (Meepe - Ingiriya Rd, Handapangoda)
@@ -730,8 +742,6 @@ Analyzed 1344 sheds.
 
 * [104224] P W RODRIGO (Panapitiya ,Kaluthara)
 
-* [106398] JAYALATH ENTERPRISES (35, Aluthgama-mathugama Rd, Welipenna)
-
 * [106112] P M WIMALASIRI (Payagala)
 
 * [100003] K.N.PERERA & SONS (Panadura)
@@ -742,19 +752,11 @@ Analyzed 1344 sheds.
 
 * [100843] M.G.M.IMTIYAZ (Beruwala)
 
-* [104074] M W J KARUNARATHNE (Bellapitiya,Aguruwathota)
-
 * [100318] PANADURA MPCS LTD (Colombo Main Rd, Wadduwa)
-
-* [100108] BERUWALA MPCS LTD (Aluthgama)
-
-* [100157] ANOJA FERNANDO (Katukurunda Lanka Filing Station, A2, Kalutara)
 
 * [100109] BERUWALA MPCS LTD (A2, Maggona)
 
 * [105704] LITRO GAS LANKA (PVT) LTD (Rest-stop Area, Southern Expy, Welipenna)
-
-* [100537] PANADURA AUTO SERVICE & FILLING STN (702 Colombo Main Rd, Panadura)
 
 * [104075] P.PRADEEP MIHINATH FERNANDO (Wekada-Panadura)
 
@@ -764,19 +766,17 @@ Analyzed 1344 sheds.
 
 * [100534] A.M. ENTERPRISES (264 Galle Rd, Beruwala)
 
-* [100365] MATHUGAMA MPCS LTD (Mathugama)
-
 * [100403] MATUGAMA AGENCY (PVT) LTD (Matugama)
-
-* [104649] S LALITH PERERA ( Bandaragama)
 
 * [104829] A J M FARRY. (M/s. A J FUEL MART) (ALUTHGAMA)
 
 * [104894] SOUTHERN PETROLEUM (PVT) LTD - 7 (BANDARAGAMA)
 
-* [104294] Raigam Udagahapattu MPCS LTD-B (Poruwadanda)
+* [104649] S LALITH PERERA ( Bandaragama)
 
 * [100873] P.L.R..C.COORAY (Beruwala)
+
+* [104294] Raigam Udagahapattu MPCS LTD-B (Poruwadanda)
 
 * [102427] H.N.W.Priyangani De Silva (161 Colombo Main Rd, Beruwala)
 
@@ -793,6 +793,22 @@ Analyzed 1344 sheds.
 * [102384] B D P GUNASEKERA & SONS (Horana)
 
 * [102377] SAMARANAYAKA SAHA SAMARANAYAKA (Agalawatta)
+
+* [100187] ELLAPOLA ENTERPRISES (Yatinuwara St, Kandy)
+
+* [100100] MAHANUWARA MPCS LTD (119 Peradeniya Rd, Kandy)
+
+* [100222] K.P.P.MUNASINGHE (A26, Nattarampota)
+
+* [100034] H.W.WILLIAM SILVA  ENTERPRISES (Kandy Road Gampola)
+
+* [100078] LAUGFS PETROLEUM (PVT) LTD (Kandy)
+
+* [104986] R W H M U S B RAJAGURU (Madawala Road, Digana)
+
+* [104615] SEETHA HOLDINGS ( PVT) LTD (Pilimathalawa)
+
+* [100445] N.M.A.RAZAAK & SONS (692 Matale Rd, Akurana)
 
 * [103610] R.W.M.SUDHARSHANI WIJERATNE (Thannahena Rd, Ankumbura)
 
@@ -813,8 +829,6 @@ Analyzed 1344 sheds.
 * [100948] HARISPATTU NORTH MPCS LTD (Alawatugoda)
 
 * [100625] KUNDASALE MPCS LTD (Madawala - Rajawella Rd, Menikhinna)
-
-* [100100] MAHANUWARA MPCS LTD (119 Peradeniya Rd, Kandy)
 
 * [106350] P L C ALWIS ENTERPRISES (Anagarika Dharmapala Mawatha, Kandy 20000)
 
@@ -876,10 +890,6 @@ Analyzed 1344 sheds.
 
 * [100455] S.P.PERAMUNAGAMA (108-17 Kandy Rd, Nawalapitiya)
 
-* [104615] SEETHA HOLDINGS ( PVT) LTD (Pilimathalawa)
-
-* [100445] N.M.A.RAZAAK & SONS (692 Matale Rd, Akurana)
-
 * [100017] U.B.ABEYSUNDERA (Colombo - Kandy Road, Kadugannawa)
 
 * [106279] A M SUNIL GUNARATHNA (Kandy-mahiyangane-padiyatalawa Hwy, Udathenna)
@@ -892,47 +902,39 @@ Analyzed 1344 sheds.
 
 * [100836] TALATUOYA - MARASSANA MPCS LTD (Marassana Rd, Thalathuoya)
 
-* [104986] R W H M U S B RAJAGURU (Madawala Road, Digana)
-
 * [105045] S A SAMANTHA (Ambathanna, Katugastota)
 
 * [104628] HARSHA GARDIHEWA (Nuwara Eliya, Kandy - Nawalapitya, Weligalla)
-
-* [100034] H.W.WILLIAM SILVA  ENTERPRISES (Kandy Road Gampola)
-
-* [100187] ELLAPOLA ENTERPRISES (Yatinuwara St, Kandy)
 
 * [103562] ENZ LAB (PRIVATE) LTD (265-275 Katugastota Rd, Kandy)
 
 * [100355] YATINUWARA GANGAPALATHA MPCS LTD (Peradeniya, Gannoruwa Rd)
 
-* [100078] LAUGFS PETROLEUM (PVT) LTD (Kandy)
-
-* [100222] K.P.P.MUNASINGHE (A26, Nattarampota)
-
 * [100212] GAMPOLA MPCS LTD (A5, Pussellawa)
 
-* [102373] N M M Faiz (Aladeniya, Werellagama)
+* [102354] HUNNASGIRIYA AGENCIES (Hunnasgiriya)
 
-* [102357] A W DAVITH APPUHAMY & SONS (E L Senanayake Veediya, Kandy)
-
-* [102367] HADJI SHL ABDUL CADER & SONS (Akurana)
-
-* [102363] YATINUWARA MEDA PALATA MPCS LTD (Pilimathalawwa)
+* [102351] GAMPOLA MPCS LTD (Peradeniya - Badulla - Chenkaladi Hwy, Gampola)
 
 * [102374] R P LUXMAN WIJESIRI & SONS PVT LTD (Kandy)
 
 * [100671] RIKILLAGASKADA MPCS LTD (Rikillagaskada)
 
-* [102375] H D CHARLIS APPUHAMY & SONS (Rikillagaskada)
+* [102356] W A PERERA & SON (Katugastota Rd, Kandy)
+
+* [102357] A W DAVITH APPUHAMY & SONS (E L Senanayake Veediya, Kandy)
 
 * [102358] P G W SAMARASEKARA (Kandy)
 
-* [102351] GAMPOLA MPCS LTD (Peradeniya - Badulla - Chenkaladi Hwy, Gampola)
+* [102363] YATINUWARA MEDA PALATA MPCS LTD (Pilimathalawwa)
 
-* [102354] HUNNASGIRIYA AGENCIES (Hunnasgiriya)
+* [102367] HADJI SHL ABDUL CADER & SONS (Akurana)
 
-* [102356] W A PERERA & SON (Katugastota Rd, Kandy)
+* [102373] N M M Faiz (Aladeniya, Werellagama)
+
+* [102375] H D CHARLIS APPUHAMY & SONS (Rikillagaskada)
+
+* [100158] WIJAYA LANKA TRADING (PVT) LTD (Ambepussa - Kurunegala - Trincomalee Highway, Galewela)
 
 * [105533] S S N DE SILVA (279, Dambulla Road, Kirigalpotta, Matale)
 
@@ -970,15 +972,11 @@ Analyzed 1344 sheds.
 
 * [100651] GALEWELA MPCS LTD (Neelagama)
 
-* [100158] WIJAYA LANKA TRADING (PVT) LTD (Ambepussa - Kurunegala - Trincomalee Highway, Galewela)
+* [102446] GALEWELA MPCS LTD (Galewela)
 
 * [102445] RANGIRI DAMBULLA MPCS LTD (Dambulla)
 
-* [102446] GALEWELA MPCS LTD (Galewela)
-
 * [102376] PALLEPOLA MPCS LTD (Palapathwela - Galewela Rd, Pallepola)
-
-* [102371] MATALE MPCS LTD (Kandy - Jaffna Hwy, Matale)
 
 * [104510] ISURI MOTORS (PVT) LTD (Ambepussa - Kurunegala - Trincomalee Hwy, Dambulla)
 
@@ -986,11 +984,13 @@ Analyzed 1344 sheds.
 
 * [104893] E G P A RUPASINGHE (DAMBULLA.)
 
+* [102371] MATALE MPCS LTD (Kandy - Jaffna Hwy, Matale)
+
 * [102366] SCAN LANKA (Kandy - Jaffna Highway, Matale)
 
-* [102360] S S BANDARA (Trincomalee Street, Matale)
-
 * [102372] ASIGIRI MPCS LTD (Yelakkara Junction,yatawatta,matale)
+
+* [102360] S S BANDARA (Trincomalee Street, Matale)
 
 * [103834] R M S K RATHNAYAKE (Keertibandarapura)
 
@@ -1038,6 +1038,16 @@ Analyzed 1344 sheds.
 
 * [102369] S M D M SAMARAKOON & SONS (Liyanwela-brook Side Road, Padiyapelella)
 
+* [105055] A ARUNA SURANGA (Kahawa - Batapola Rd, Batapola)
+
+* [102899] LOKUGE DANASIRI (Lanka Filling Station, Kahawa - Batapola Rd, Meetiyagoda)
+
+* [100577] GALLE MPCS LTD (Galle - Queen Street)
+
+* [105152] U.S.G. TRADING (PVT) LTD (ELPITIYA)
+
+* [100008] W.D.C.GROUP (PVT) LTD (Galle)
+
 * [100569] NIYAGAMA PITIGALA MPCS LTD (B158, Pitigala)
 
 * [105068] N T K WIJESEKARA & SON (WANDURAMBA)
@@ -1051,8 +1061,6 @@ Analyzed 1344 sheds.
 * [100075] C.H.W.SENEVIRATNE (B128, Poddala)
 
 * [100623] HABARADUWA MPCS LTD (43, Ahangama)
-
-* [105055] A ARUNA SURANGA (Kahawa - Batapola Rd, Batapola)
 
 * [105105] R K BANDUJITH (Hikkaduwa-baddegama Rd, Gonapinuwala)
 
@@ -1110,8 +1118,6 @@ Analyzed 1344 sheds.
 
 * [100994] MS.  RATGAMA MPCS LTD (Rathgama)
 
-* [105152] U.S.G. TRADING (PVT) LTD (ELPITIYA)
-
 * [100711] MRS.  L.PADUMASHEELA NANDANEE DE SI (Ambalangoda)
 
 * [100764] SHAKTHI LANKA ENTERPRISES (Urala)
@@ -1124,19 +1130,15 @@ Analyzed 1344 sheds.
 
 * [103349] RUWAN SISIL DISSANAYAKE (Nelluwa Filling Station, B411, Neluwa)
 
-* [100120] TELIKADA MAJUWANA MPCS LTD (B128, Baddegama)
-
 * [103845] H J KITHSIRI (Uduwila-Batapola)
 
-* [105009] PRIYANKARA CONSTRUCTION (AMBALANGODA)
+* [100120] TELIKADA MAJUWANA MPCS LTD (B128, Baddegama)
 
-* [100577] GALLE MPCS LTD (Galle - Queen Street)
+* [105009] PRIYANKARA CONSTRUCTION (AMBALANGODA)
 
 * [103716] WICRAMASINGHE W D (Seenigama - Aluthwala Rd, Warallana , Hikkaduwa)
 
 * [100578] AMBALANGODA MPCS LTD (B143, Batapola)
-
-* [102899] LOKUGE DANASIRI (Lanka Filling Station, Kahawa - Batapola Rd, Meetiyagoda)
 
 * [106560] C JAYASINGHE ARACHCHI (Galle-udugama Rd, Thalgampala)
 
@@ -1150,8 +1152,6 @@ Analyzed 1344 sheds.
 
 * [104563] CEYLON FISHERY HARBOUR CORPORATION (Suduwella)
 
-* [100008] W.D.C.GROUP (PVT) LTD (Galle)
-
 * [100376] KARANDENIYA MPCS LTD (B14, Kurundugahahetekma)
 
 * [100663] WITHNAGE ENTERPRISES (Galle - Udugama Rd, Nakiyadeniya)
@@ -1162,9 +1162,9 @@ Analyzed 1344 sheds.
 
 * [100962] MS.  IHALA LELWALA MPCS LTD (Baddegama Road, Wanduramba, Galle)
 
-* [102425] AMBALANGODA MPCS LTD (Ambalangoda)
-
 * [102428] Wipula Dharmadasa (Kaluwella)
+
+* [102425] AMBALANGODA MPCS LTD (Ambalangoda)
 
 * [102429] PARANAGAMA DUDLEY (Devata Junction)
 
@@ -1266,6 +1266,14 @@ Analyzed 1344 sheds.
 
 * [102431] MRS WIMALA SIRISENA (Matara)
 
+* [104268] AYOMA KALHARA FILLING STATION (PVT) (Walasmulla Rd ,Weeraketiya)
+
+* [100348] S SAHA S PETROLEUM TRADERS (Tissamaharama - Yodakandiya)
+
+* [103696] FISHERY HARBOURS CORPORATION (Nilwella)
+
+* [106541] D A CHULARATHNA (Suduwelipelessa Kirinda)
+
 * [100793] MS.  CEYLON FISHERY HARBOURS CORPOR (Harbour Rd, Tangalle)
 
 * [106611] W A SENAKA (Aluthwewa, Angunukolapelessa)
@@ -1310,23 +1318,15 @@ Analyzed 1344 sheds.
 
 * [105868] P P SAMARASINGHE (Murungasyaya Junction)
 
-* [103696] FISHERY HARBOURS CORPORATION (Nilwella)
-
 * [100851] P.K.LIYANAGE (Middeniya)
 
 * [104703] A R THILAK KUMARA (Weerahela - Tissamaharama)
 
 * [106379] RUHUNUPUTHA FILLING STATION (Beragama Road, Ambalantota)
 
-* [106541] D A CHULARATHNA (Suduwelipelessa Kirinda)
-
-* [104268] AYOMA KALHARA FILLING STATION (PVT) (Walasmulla Rd ,Weeraketiya)
-
 * [106372] RANMUTHU ENTERPRISES (Ranna)
 
 * [100583] BEN HEWA ASSOCIATES (PVT) LTD (School Rd, Sooriyawewa)
-
-* [100348] S SAHA S PETROLEUM TRADERS (Tissamaharama - Yodakandiya)
 
 * [100021] PRESIDENT SERVICE INSTITUTE FUND (Andalla - Tissa, Weerawila)
 
@@ -1355,6 +1355,8 @@ Analyzed 1344 sheds.
 * [102426] MRS K A A H DE SILVA (Hakmana - Beliatte - Tangalle Rd, Beliatta)
 
 * [100093] N.D.K.ENTERPRISE (Tissamaharama)
+
+* [103416] KAMALADEVI KATHIRASAMPILLAI (Chunnakam)
 
 * [100043] LAVEDDY MALLAKAM MPCS LTD (Mallakam)
 
@@ -1456,8 +1458,6 @@ Analyzed 1344 sheds.
 
 * [100320] C P MOHAMED & SONS (Trincomalee Rd, Anuradhapura)
 
-* [103416] KAMALADEVI KATHIRASAMPILLAI (Chunnakam)
-
 * [100624] VELANAI MPCS LTD (Valukkairaru - Punkudutivu - Kurikadduwan Rd, Velanai)
 
 * [100530] CHUNNAKAM MPCS LTD (Chunnakam, Uduvil)
@@ -1466,13 +1466,11 @@ Analyzed 1344 sheds.
 
 * [100883] N.S.NAGALINGAM & SONS (Tellippalai)
 
+* [100813] CHANKANAI MPCS LTD (Chankanai)
+
 * [104831] SRI LANKA RED CROSS SOCIETY (JAFFNA.)
 
 * [100521] SELLIAH UTHAYAKUMAR (Seerani Junction, Sandilipay)
-
-* [100813] CHANKANAI MPCS LTD (Chankanai)
-
-* [100790] MRS.  R.RAJALEDCHUMY (Jaffna-Point Pedro Rd Puttur)
 
 * [103935] KARAINAGAR MPCS LTD (Valanthalai Junction,Karainagar)
 
@@ -1483,6 +1481,8 @@ Analyzed 1344 sheds.
 * [100721] MS.  DELFT MPCS LTD (Punkudutivu)
 
 * [100842] ALAVEDDY MALLAKAM MPCS LTD (Alaveddy Centre)
+
+* [100790] MRS.  R.RAJALEDCHUMY (Jaffna-Point Pedro Rd Puttur)
 
 * [100287] MANTAI  SOUTH MPCS LTD (Uyilankulam, Adampan)
 
@@ -1550,6 +1550,10 @@ Analyzed 1344 sheds.
 
 * [102453] P S PIYATHILAKE & SONS PVT LTD (Vavuniya)
 
+* [100980] VISVAMADHU FARMER'SMPCSLTD (Parantan- Mullaitivu Hwy, Visuvamadu)
+
+* [103962] K MAHENDREN (Mulliyawalai)
+
 * [100942] MUTHUIANKADDU MPCS LTD (Oddusuddan)
 
 * [100622] VAVUNIYA NORTH MPCS LTD (A9, Mankulam)
@@ -1558,11 +1562,7 @@ Analyzed 1344 sheds.
 
 * [103386] MARITIMEPATTU MPCS LTD (Lanka Filling Station, Mulattivu)
 
-* [100980] VISVAMADHU FARMER'SMPCSLTD (Parantan- Mullaitivu Hwy, Visuvamadu)
-
 * [102881] A.ALISABRI (Mallavi)
-
-* [103962] K MAHENDREN (Mulliyawalai)
 
 * [100675] MULLAITIVU FISHERMENS' CS LTD (Mulaitivu-kokkilai Rd, Nayaru)
 
@@ -1592,6 +1592,16 @@ Analyzed 1344 sheds.
 
 * [100476] KARACHCHI SOUTH MPCS LTD (Kilinochchi)
 
+* [100048] S.K.GANESHANATHAN & SON (Oddamavadi)
+
+* [100919] MS.  ECHANTIVU KANNANKUDAH MPCS LTD (Karaveddy, Manmunai West)
+
+* [104682] S GOBIKRISHNA (Chenkalady)
+
+* [100357] P.T.ARASAN & SON (Batticaloa)
+
+* [105818] SRITHARAN CONSTRUCTION (Kokkaddichcholai)
+
 * [103776] A L M HANIFA (Thiavaddavan,Oddamavadi)
 
 * [100167] B.A.M.RIZVI (Rideethenna)
@@ -1610,8 +1620,6 @@ Analyzed 1344 sheds.
 
 * [106412] P RAJANIKANTH (Ampilanturai-veeramunai Rd, Mandur)
 
-* [104682] S GOBIKRISHNA (Chenkalady)
-
 * [105729] L P LANKA FILLNGS STATION (PVT) LTD (Kalawanchikudy)
 
 * [104709] LOGESPARAN PRIYAPARAN (Colombo - Batticaloa Hwy, Thalankudah)
@@ -1619,8 +1627,6 @@ Analyzed 1344 sheds.
 * [105634] V PARAMESHWARY (Mandur)
 
 * [100335] S.MANICKARAJAH (Kattankudi)
-
-* [105818] SRITHARAN CONSTRUCTION (Kokkaddichcholai)
 
 * [100316] ERAVUR NORTH AND WEST MPCS LTD (Trincomalee Hwy, Chenkaladi)
 
@@ -1640,13 +1646,7 @@ Analyzed 1344 sheds.
 
 * [100045] M.K.M.AHAMED MOHIDEEN (PVT) LTD (Batticaloa - Thirukkondiadimadu - Trincomalee Highway, Oddamavadi)
 
-* [100357] P.T.ARASAN & SON (Batticaloa)
-
-* [100919] MS.  ECHANTIVU KANNANKUDAH MPCS LTD (Karaveddy, Manmunai West)
-
 * [100966] KORALAI NORTH MPCS LTD (Trincomalee Hwy,Vakarai)
-
-* [100048] S.K.GANESHANATHAN & SON (Oddamavadi)
 
 * [100672] RAFFEEK STORES (Trincomalee Hwy, Eravur)
 
@@ -1675,6 +1675,18 @@ Analyzed 1344 sheds.
 * [102458] A B A  JABBAR (Betticalow)
 
 * [102449] TILAKA FILLING STATION (Batticaloa Rd, Kalmunai)
+
+* [100670] A.A.KAFOOR (Samanthurai)
+
+* [100456] H.M.W.BANDARA (Uhana)
+
+* [100343] SAMANTHURAI PATTU MPCS LTD (Samanthurai)
+
+* [105539] P H R DE SILVA (Panama Rd, Pottuvil)
+
+* [100616] AMPARA MPCS LTD (D. S. Senanayke Rd, Ampara)
+
+* [100550] S.A.SAREENA & S.A.SAMEENA  MRS. (Addalachchanai)
 
 * [100821] A.M.I.HASSAN (Central Camp - Ampara)
 
@@ -1708,19 +1720,13 @@ Analyzed 1344 sheds.
 
 * [100150]  AKKARAIPATTU SOUTH MPCS LTD (Main Road, Thambiluvil)
 
-* [105539] P H R DE SILVA (Panama Rd, Pottuvil)
-
 * [100291] S.A.SAMANTHA (Lanka Filling Station, Ampara - Uhana - Maha Oya Hwy)
 
 * [100543] BROWN & CO LTD (Browns Show Room, D.S. Senanayake Street, Ampara)
 
 * [100052] M.A.ABDUL RAZEEN (Akkaraipattu - Deeghavapi - Ambalam Aru Rd, Akkaraipattu)
 
-* [100456] H.M.W.BANDARA (Uhana)
-
 * [104783] C B HALITH (Kalmunai-chavalakadai Rd, Kalmunai)
-
-* [100670] A.A.KAFOOR (Samanthurai)
 
 * [100478] BINTENNAPATTU MPCS LTD (Maha Oya)
 
@@ -1750,19 +1756,13 @@ Analyzed 1344 sheds.
 
 * [100523] A.L.M.MUSTAPHA (Colombo - Ratnapura - Wellawaya - Batticaloa Rd, Kalmunai, Sainthamaruthu)
 
-* [100550] S.A.SAREENA & S.A.SAMEENA  MRS. (Addalachchanai)
-
 * [103874] M M WIMALARATHNA (Inginiyagala Road Wavinna,Ampara)
 
 * [102673] S.A.NUSRATH ALI (B374, Panama Road, Pottuvil)
 
-* [100616] AMPARA MPCS LTD (D. S. Senanayke Rd, Ampara)
-
 * [100307] N. D. SILVA & SONS (Higurana Fuel Station, Siyambalanduwa - Damana - Ampara Hwy, Hingurana)
 
 * [100192] SAMAN ENTERPRISES (Ampara)
-
-* [100343] SAMANTHURAI PATTU MPCS LTD (Samanthurai)
 
 * [106000] K A SARATH GUNASEKARA (Andal Oya Junction, Weranketagoda)
 
@@ -1778,17 +1778,27 @@ Analyzed 1344 sheds.
 
 * [102681] H.M. AMEER ALI (Karaitivu)
 
-* [104318] MANGO TREE LANKA IOC FILLING (Pottuvil)
+* [104458] LAUGFS PETROLEUM (PVT) LTD (Oluvil)
 
 * [105225] MR.S. PRIYA AMARASINGHE (AMPARA)
 
-* [104458] LAUGFS PETROLEUM (PVT) LTD (Oluvil)
-
-* [102796] OSAKA LANKA IOC FILLING STATION (Addapallam, Nintavour)
+* [104318] MANGO TREE LANKA IOC FILLING (Pottuvil)
 
 * [102460] A Z M HASSIM (237, Colombo - Batticaloa Hwy, Akkaraipattu)
 
 * [100080] ELIYATHAMBI  ANSAR (Colombo - Batticaloa Hwy, Nintavur)
+
+* [102796] OSAKA LANKA IOC FILLING STATION (Addapallam, Nintavour)
+
+* [100973] MS.  GOMARANKADAWELA MORAWEWA MPCS (Gomarankadawala)
+
+* [100998] PADAVI SIRIPURA SEVA JANAPADA MPCS (Pulmoddai)
+
+* [100568] N.P.G.WIJAYARATNE (Ambepussa - Trincomalee Hwy, Kantale)
+
+* [100463] H.W.PAGNADASA (Petrol Pump, Kandy Rd, Trincomalee)
+
+* [100517] PADAVI SIRIPURA SEVA JANAPADA MPCS (Padavi Sripura, Welioya)
 
 * [100053] TRINCOMALEE MPCS LTD (Petrol Pump, Trincomalee)
 
@@ -1798,13 +1808,9 @@ Analyzed 1344 sheds.
 
 * [100553] SERUWILA MPCS LTD (Allai-kantalai Rd, Serunuwara)
 
-* [100973] MS.  GOMARANKADAWELA MORAWEWA MPCS (Gomarankadawala)
-
 * [104145] FISHERIES DEPARTMENT (Kinniya)
 
 * [105003] L G SUSANTHA (MORAWEWA)
-
-* [100517] PADAVI SIRIPURA SEVA JANAPADA MPCS (Padavi Sripura, Welioya)
 
 * [106324] K S KALUPAHANA (Trincomalee)
 
@@ -1824,29 +1830,35 @@ Analyzed 1344 sheds.
 
 * [100099] KANDIAH RAJAGOPAL (Main St, Trincomalee)
 
-* [100998] PADAVI SIRIPURA SEVA JANAPADA MPCS (Pulmoddai)
-
-* [100463] H.W.PAGNADASA (Petrol Pump, Kandy Rd, Trincomalee)
-
-* [100568] N.P.G.WIJAYARATNE (Ambepussa - Trincomalee Hwy, Kantale)
-
 * [103838] FISHERY DEPARTMENT (Muttur)
 
 * [100279] TRINCOMALEE MPCS LTD (Kandy Road, Trincomalee )
-
-* [102454] THARANGA FILLING STATION (Kantale)
-
-* [102455] KEERTHI FUEL MART (469, Kandy Road Sardhapura A6, Sardhapura)
-
-* [102459] M.L.M. FILLING STATION (Trincomalee)
-
-* [102451] MUTTUR A G A DIVISION MPCS LTD (Petrol Pump, Kandy Rd, Trincomalee)
 
 * [104240] ISLAMIC SERVICE SOCIETY (Kinniya)
 
 * [104325] MUTHUR AGA DIVISION MPCS LTD, (Trincomalee Hwy, Mutur)
 
+* [102459] M.L.M. FILLING STATION (Trincomalee)
+
+* [102455] KEERTHI FUEL MART (469, Kandy Road Sardhapura A6, Sardhapura)
+
+* [102454] THARANGA FILLING STATION (Kantale)
+
+* [102451] MUTTUR A G A DIVISION MPCS LTD (Petrol Pump, Kandy Rd, Trincomalee)
+
 * [102444] SELVARAJA (Trinco Rd, Batticaloa)
+
+* [106405] H M M N HERATH (Munamaldeniya-katupotha Rd)
+
+* [103468] R.M.S.UPATISSA (Kadawalagedara - Witikuliya Road Kobeigane)
+
+* [100571] B S S .DAYARATHNA (Nikadalupotha, Hiripitiya)
+
+* [103548] A.I.C.FERNANDO (Mudukatuwa)
+
+* [100162] K.M.JAINUL ABDEEN (Minuwangate)
+
+* [100149] NAWA PANDUWASNUWARA INDHANA PIRAVUM (New Lanka Filling Station, Hiripokuna)
 
 * [106605] S S FILLING STATIONS (PVT) LTD (Circular Road, West)
 
@@ -2002,13 +2014,9 @@ Analyzed 1344 sheds.
 
 * [103397] M.U.M.SUHOODI (Ceypetco Filling Station, Battulu Oya)
 
-* [103468] R.M.S.UPATISSA (Kadawalagedara - Witikuliya Road Kobeigane)
-
 * [100063] CHANDANA FILLING STATION (No 237 60100, Kurunegala -Narammala - Madampe Rd, Narammala)
 
 * [100718]  P A.INDRASENA (Lanka Filling Station - Meegalewa, Meegalewa)
-
-* [100149] NAWA PANDUWASNUWARA INDHANA PIRAVUM (New Lanka Filling Station, Hiripokuna)
 
 * [100416] N K B.ANIL JAYASINGHE (Katugastota - Kurunegala - Puttalam Hwy, Padeniya)
 
@@ -2030,8 +2038,6 @@ Analyzed 1344 sheds.
 
 * [103554] W.G.M.P.WIJEWARDENE (Mamunuwa Fuel Station, Katugastota - Kurunegala - Puttalam Hwy Road Wariyapola)
 
-* [103548] A.I.C.FERNANDO (Mudukatuwa)
-
 * [102675] M.R.TENNAKOON (Tennakoon Filling Station, Katugastota-kurunegala-puttalam Hwy,Nikaweratiya)
 
 * [106174] A H J LABDEEN (Nettipolagedara)
@@ -2049,12 +2055,6 @@ Analyzed 1344 sheds.
 * [100823] C L M ENTERPRISES (Kobeigane Road, Welpothuwewa)
 
 * [103857] SLIPTO AGENCIES (Saliya Ashokapura)
-
-* [100162] K.M.JAINUL ABDEEN (Minuwangate)
-
-* [106405] H M M N HERATH (Munamaldeniya-katupotha Rd)
-
-* [100571] B S S .DAYARATHNA (Nikadalupotha, Hiripitiya)
 
 * [102343] POLGAHAWELA MPCS LTD (Polgahawela)
 
@@ -2083,6 +2083,30 @@ Analyzed 1344 sheds.
 * [100500] YASASIRI LANKA FILLING STATION (Kurunegala)
 
 * [106248] SLIPTO AGENCIES - SH (Vihara Mawatha, Rajanganaya)
+
+* [100641] ADA FRANCIS APPUHAMY LANKA PIRAVUMH (Chilaw - Colombo Main Rd, Marawila)
+
+* [100692] W A R S.FERNANDO (Karukupone Rd, Bangadeniya)
+
+* [100301] CHILAW MPCS LTD (41 Chilaw - Colombo Main Rd, Chilaw)
+
+* [100785] MR.  K.P. A.WAHID (Puttalam)
+
+* [104559] P ANOMA  NILAMANI (Toppuwa - Madampe Rd, Nattandiya)
+
+* [100769] ALHAJ S A C.ABDUL NAZAR (Puttalam)
+
+* [103753] HEMA RANJANEE PATHIRANA (Saliyawewa)
+
+* [100586] SALAM &  SONS (64 Kalpitiya Rd, Norochcholai)
+
+* [100347] S H M.JAFRIS (Puttalam - Colombo Rd, Puttalam)
+
+* [103217] S H M JAFRIS (Lanka Filling Station, Puttalam - Colombo Road, Madurankuliya)
+
+* [104721] W AJITH FERNANDO (WENNAPPUWA)
+
+* [100512] W B J P.FERNANDO (Thopputota, Waikkal)
 
 * [103839] W.M.UPALI SENAVIRATNA (Nattandiya - Koswatta)
 
@@ -2117,8 +2141,6 @@ Analyzed 1344 sheds.
 * [104737] W A G FERNANDO (Puttalam - Colombo Rd, Mundelama)
 
 * [103620] HARSHA DUMINDA WEERAKOON (Chilaw - Colombo Main Rd, Mahawewa)
-
-* [100692] W A R S.FERNANDO (Karukupone Rd, Bangadeniya)
 
 * [100386] S.D.A.K.S.DASANAYAKA (Dankotuwa)
 
@@ -2190,29 +2212,7 @@ Analyzed 1344 sheds.
 
 * [100660] PUTTALAM MPCS LTD (Abhinawaramaya Temple - Wanathavilluwa, Wanathavilluwa)
 
-* [100769] ALHAJ S A C.ABDUL NAZAR (Puttalam)
-
-* [103753] HEMA RANJANEE PATHIRANA (Saliyawewa)
-
-* [104721] W AJITH FERNANDO (WENNAPPUWA)
-
-* [104559] P ANOMA  NILAMANI (Toppuwa - Madampe Rd, Nattandiya)
-
-* [100301] CHILAW MPCS LTD (41 Chilaw - Colombo Main Rd, Chilaw)
-
 * [101011] PUTTALAM MPCS LTD (Puttalam)
-
-* [100512] W B J P.FERNANDO (Thopputota, Waikkal)
-
-* [100641] ADA FRANCIS APPUHAMY LANKA PIRAVUMH (Chilaw - Colombo Main Rd, Marawila)
-
-* [103217] S H M JAFRIS (Lanka Filling Station, Puttalam - Colombo Road, Madurankuliya)
-
-* [100347] S H M.JAFRIS (Puttalam - Colombo Rd, Puttalam)
-
-* [100586] SALAM &  SONS (64 Kalpitiya Rd, Norochcholai)
-
-* [100785] MR.  K.P. A.WAHID (Puttalam)
 
 * [104930] W J FERNANDO (Wella, Chilaw)
 
@@ -2220,25 +2220,27 @@ Analyzed 1344 sheds.
 
 * [101013] MR.  W W A K J.FERNANDO (Puttalam Road, Katuneriya)
 
-* [100889] C P D.FERNANDO (No 50, Waikkal)
-
-* [106615] CEYLON FISHERY HARBOURS CORP. (Wellamankara)
-
-* [102409] K H JAYASINGHE (Marawila-udubaddawa Rd, Nattandiya)
-
-* [100978] K K.SENANAYAKE (Wennappuwa)
+* [103148] ARALIYA FILLING STATION (Chilaw Road, Marawila)
 
 * [100323] MAHAROOF HAJIYAR  M I (Kandakudah)
 
-* [102402] SINHA AUTO SERVICE (PVT) LTD. (Chilaw)
-
-* [102406] HARSHA D WEERAKOON (Chilaw - Colombo Main Rd, Madampe)
-
-* [102413] A J S JAYAKODY (Dankotuwa)
+* [100889] C P D.FERNANDO (No 50, Waikkal)
 
 * [102420] H D WEERAKOON (Kurunegala - Narammala - Madampe Rd, Madampe)
 
-* [103148] ARALIYA FILLING STATION (Chilaw Road, Marawila)
+* [100978] K K.SENANAYAKE (Wennappuwa)
+
+* [102409] K H JAYASINGHE (Marawila-udubaddawa Rd, Nattandiya)
+
+* [102413] A J S JAYAKODY (Dankotuwa)
+
+* [102406] HARSHA D WEERAKOON (Chilaw - Colombo Main Rd, Madampe)
+
+* [102402] SINHA AUTO SERVICE (PVT) LTD. (Chilaw)
+
+* [106615] CEYLON FISHERY HARBOURS CORP. (Wellamankara)
+
+* [100605] MEDAWACHCHIYA MPCS LTD (A9, Medawachchiya)
 
 * [100676] B SAMARAWEERA  & SON (Maha Vilachchiya)
 
@@ -2292,8 +2294,6 @@ Analyzed 1344 sheds.
 
 * [103457] P S PIYATHILAKE & SONS PVT LTD (Anuradhapura)
 
-* [100605] MEDAWACHCHIYA MPCS LTD (A9, Medawachchiya)
-
 * [100226] KEBITIGOLLAWA MPCS LTD (Kebitigollewa)
 
 * [105228] R S B FERNANDO LANKA SERVICE ST (251 Maithripala Senanayake Mawatha, Anuradhapura)
@@ -2342,6 +2342,12 @@ Analyzed 1344 sheds.
 
 * [102448] KAHATAGASDIGILIYA MPCS LTD (Trincomalee Road, Kahatagasdigiliya)
 
+* [105326] S A KULAWARDANA (Jayanthipura, Polonnaruwa)
+
+* [105051] K S C S FUEL MART (PVT) LTD (Colombo Batticlor Hwy, Sewanapitiya)
+
+* [100186] VIJITHA MPCS LTD (Bop 400, Somawathiya Rd, Pulastigama)
+
 * [100610] HINGURAKGODA MPCS LTD (D S Senanayake Mawatha, Hingurakgoda)
 
 * [100077] P G.SIRISENA (Aralaganwila)
@@ -2380,25 +2386,25 @@ Analyzed 1344 sheds.
 
 * [100614] ELAHERA SCHEME MPCS LTD (Elahera)
 
-* [100186] VIJITHA MPCS LTD (Bop 400, Somawathiya Rd, Pulastigama)
-
-* [105326] S A KULAWARDANA (Jayanthipura, Polonnaruwa)
-
 * [100922] MS.  KAUDULLA MPCS LTD (Minneriya-Hingurakgoda Rd)
 
 * [103369] UNITED BOLTS &ACCESSORIES(PVT)LTD (Polonnaruwa)
-
-* [105051] K S C S FUEL MART (PVT) LTD (Colombo Batticlor Hwy, Sewanapitiya)
 
 * [100972] DIMBULAGALA MPCS LTD (Manampitiya)
 
 * [100864] DIMBULAGALA MPCS LTD (Welikanda)
 
-* [102456] ALHAJ STS AHAMED & SONS PVT LTD. (626, Thirukkondaiadimadu Hwy, Polonnaruwa)
-
 * [102457] R G C WIJESIRI (Thirukkondaiadimadu Hwy, Girithale)
 
 * [104957] AGNSK ALKEGAMA, (MEDIRIGIRIYA)
+
+* [102456] ALHAJ STS AHAMED & SONS PVT LTD. (626, Thirukkondaiadimadu Hwy, Polonnaruwa)
+
+* [104667] D N  T SISIRA KUMARA (Badulla)
+
+* [100055] BADULLA MPCS LTD (King's Street, Badulla)
+
+* [105131] D M R U KUMARA (Padiyanthalawa Road, Mahiyanganaya)
 
 * [100606] BANDARAWELA MPCS LTD (Esplanade Rd, Bandarawela)
 
@@ -2454,13 +2460,7 @@ Analyzed 1344 sheds.
 
 * [100952] R.M.INDRANI (Passara - Madulsima - Metigahatenna Rd, Madulsima)
 
-* [104667] D N  T SISIRA KUMARA (Badulla)
-
 * [100368] PREMARATNE  H M (No, 243, Main Street, Haldummulla Haldummulla)
-
-* [105131] D M R U KUMARA (Padiyanthalawa Road, Mahiyanganaya)
-
-* [100055] BADULLA MPCS LTD (King's Street, Badulla)
 
 * [105170] ORIENT PETROLEUM  (PVT) LTD. (BANDARAWELA)
 
@@ -2477,6 +2477,18 @@ Analyzed 1344 sheds.
 * [102350] DON DIAS DAMINDA JAYAMAL (Peradeniya - Badulla - Chenkaladi Hwy, Badulla)
 
 * [100418] MONERAGALA KANDUKARA MPCS LTD (Colombo - Ratnapura - Wellawaya - Batticaloa Rd, Monaragala)
+
+* [106028] D M A I DISSANAYAKE (Colombo - Ratnapura - Wellawaya - Batticaloa Rd)
+
+* [104843] D M A I DISSANAYAKE (Ampara Rd, Monaragala)
+
+* [100395] B.S.I.JAYASENA (Siyambalanduwa)
+
+* [103872] B S I JAYASENA (272 Mile Post, Warnagiriya, Dombagahawela)
+
+* [100314] B.S.I.JAYASENA (Ceypetco, A4, Monaragala)
+
+* [100492] HAPUTALE MPCS LTD (Colombo - Batticaloa Hwy, Koslanda)
 
 * [100292] M.NILANTHA AMRALAL FERNANDO (Sewanagala)
 
@@ -2498,39 +2510,27 @@ Analyzed 1344 sheds.
 
 * [106435] W M RANBANDA (Unawatuna Junction - Buttala)
 
-* [100492] HAPUTALE MPCS LTD (Colombo - Batticaloa Hwy, Koslanda)
-
 * [100359] H.M.TILLAKASIRI (Badalkumbura)
 
 * [104874] J A HEMANTHA (Arambekema-hambegamuwa)
 
 * [100594] M.S.DIAS (Bibile)
 
-* [106028] D M A I DISSANAYAKE (Colombo - Ratnapura - Wellawaya - Batticaloa Rd)
-
 * [107178] P J MUTUKUMARANA (Buttala)
 
 * [100190] KUDAOYA AGENCIES (Thanamalwila)
-
-* [104843] D M A I DISSANAYAKE (Ampara Rd, Monaragala)
-
-* [100395] B.S.I.JAYASENA (Siyambalanduwa)
-
-* [103872] B S I JAYASENA (272 Mile Post, Warnagiriya, Dombagahawela)
-
-* [100314] B.S.I.JAYASENA (Ceypetco, A4, Monaragala)
 
 * [100296] BIBILE KOTAGAMA MPCS LTD (Peradeniya - Badulla - Chenkaladi Hwy, Bibile)
 
 * [106011] P D PRASAD JAYAWARDENA (Main St, Buttala)
 
-* [103487] YOMAL FILLING STATION (PVT) LTD (Badulla Road, Bibile)
-
-* [104830] DR.S.KETHESWARAM PILLAI (WELLAWAYA)
+* [102423] A H WIMALATUNGA & SON (PVT) LTD. (Wellawaya)
 
 * [103413] ERANGA ENTERPRISES (PVT) LTD (Udaganawa Junction,Buttala)
 
-* [102423] A H WIMALATUNGA & SON (PVT) LTD. (Wellawaya)
+* [103487] YOMAL FILLING STATION (PVT) LTD (Badulla Road, Bibile)
+
+* [104830] DR.S.KETHESWARAM PILLAI (WELLAWAYA)
 
 * [102667] P.KARUNARATNE (Udawalawa)
 
@@ -2628,6 +2628,8 @@ Analyzed 1344 sheds.
 
 * [102379] BALANGODA MPCS LTD (Colombo - Batticaloa Hwy, Balangoda)
 
+* [100763] A M A ABOOBUCKER LEBBE & SONS (Mawanella)
+
 * [100037] NAFT (Kurunegoda)
 
 * [103628] H.P.D.R.K.WEERASINGHE (Thulhiriya)
@@ -2679,8 +2681,6 @@ Analyzed 1344 sheds.
 * [103368] HIRUN ENTERPRIES (Kithulgala)
 
 * [106635] N W A K JAYATHILAKE (Amithirigala)
-
-* [100763] A M A ABOOBUCKER LEBBE & SONS (Mawanella)
 
 * [100327] WARAKAPOLA MPCS LTD (Nelundeniya - Alawwa Rd, Nelundeniya)
 
