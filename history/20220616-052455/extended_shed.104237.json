@@ -1,0 +1,82 @@
+{
+  "shed_id": 965,
+  "shed_name": "B R M B B RATHNAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:23",
+  "time_last_updated_by_shed_ut": 1655347980,
+  "fuel_type": "p92",
+  "fuel_capacity": 64.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104237",
+  "address": "Ceypetco Filling Station, B353,Boralanda-Welimada",
+  "lat_lng": [
+    6.827612,
+    80.894371
+  ],
+  "time_last_updated_ut": 1655347980,
+  "time_last_updated": "2022-06-16 08:23",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655108040,
+      "time_dispatch": "2022-06-13 13:44",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655108400,
+      "time_last_updated": "2022-06-13 13:50",
+      "time_eta_ut": 1655133480,
+      "time_eta": "2022-06-13 20:48"
+    },
+    {
+      "time_dispatch_ut": 1655108040,
+      "time_dispatch": "2022-06-13 13:44",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655108400,
+      "time_last_updated": "2022-06-13 13:50",
+      "time_eta_ut": 1655133480,
+      "time_eta": "2022-06-13 20:48"
+    },
+    {
+      "time_dispatch_ut": 1654829760,
+      "time_dispatch": "2022-06-10 08:26",
+      "fuel_type": "p92",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654830300,
+      "time_last_updated": "2022-06-10 08:35",
+      "time_eta_ut": 1654832100,
+      "time_eta": "2022-06-10 09:05"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 355.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 214.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

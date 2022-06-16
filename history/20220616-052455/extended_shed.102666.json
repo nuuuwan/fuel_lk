@@ -1,0 +1,82 @@
+{
+  "shed_id": 816,
+  "shed_name": "H.G.SIRISENA ASSOCIATES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 10:14",
+  "time_last_updated_by_shed_ut": 1655268240,
+  "fuel_type": "p92",
+  "fuel_capacity": 78.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102666",
+  "address": "Akuressa",
+  "lat_lng": [
+    6.087482,
+    80.479927
+  ],
+  "time_last_updated_ut": 1655268240,
+  "time_last_updated": "2022-06-15 10:14",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655274000,
+      "time_dispatch": "2022-06-15 11:50",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655274600,
+      "time_last_updated": "2022-06-15 12:00",
+      "time_eta_ut": 1655278380,
+      "time_eta": "2022-06-15 13:03"
+    },
+    {
+      "time_dispatch_ut": 1655274000,
+      "time_dispatch": "2022-06-15 11:50",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655274600,
+      "time_last_updated": "2022-06-15 12:00",
+      "time_eta_ut": 1655278380,
+      "time_eta": "2022-06-15 13:03"
+    },
+    {
+      "time_dispatch_ut": 1654871580,
+      "time_dispatch": "2022-06-10 20:03",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654872000,
+      "time_last_updated": "2022-06-10 20:10",
+      "time_eta_ut": 1654890120,
+      "time_eta": "2022-06-11 01:12"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 78.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 18.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

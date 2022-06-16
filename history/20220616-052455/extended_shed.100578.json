@@ -1,0 +1,71 @@
+{
+  "shed_id": 478,
+  "shed_name": "AMBALANGODA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 07:39",
+  "time_last_updated_by_shed_ut": 1655258940,
+  "fuel_type": "p92",
+  "fuel_capacity": 117.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100578",
+  "address": "B143, Batapola",
+  "lat_lng": [
+    6.224244,
+    80.117737
+  ],
+  "time_last_updated_ut": 1655258940,
+  "time_last_updated": "2022-06-15 07:39",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655108640,
+      "time_dispatch": "2022-06-13 13:54",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655109000,
+      "time_last_updated": "2022-06-13 14:00",
+      "time_eta_ut": 1655120220,
+      "time_eta": "2022-06-13 17:07"
+    },
+    {
+      "time_dispatch_ut": 1655092980,
+      "time_dispatch": "2022-06-13 09:33",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655093400,
+      "time_last_updated": "2022-06-13 09:40",
+      "time_eta_ut": 1655104560,
+      "time_eta": "2022-06-13 12:46"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 847.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

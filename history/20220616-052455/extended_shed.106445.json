@@ -1,0 +1,93 @@
+{
+  "shed_id": 1302,
+  "shed_name": "LANKA FILLING STATION KALUBOWILA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:56",
+  "time_last_updated_by_shed_ut": 1655349960,
+  "fuel_type": "p92",
+  "fuel_capacity": 310.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106445",
+  "address": "64, S. De S. Jayasinghe Mawatha",
+  "lat_lng": [
+    6.866482,
+    79.881287
+  ],
+  "time_last_updated_ut": 1655349960,
+  "time_last_updated": "2022-06-16 08:56",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655280300,
+      "time_dispatch": "2022-06-15 13:35",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655280900,
+      "time_last_updated": "2022-06-15 13:45",
+      "time_eta_ut": 1655282340,
+      "time_eta": "2022-06-15 14:09"
+    },
+    {
+      "time_dispatch_ut": 1655110140,
+      "time_dispatch": "2022-06-13 14:19",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655110500,
+      "time_last_updated": "2022-06-13 14:25",
+      "time_eta_ut": 1655112180,
+      "time_eta": "2022-06-13 14:53"
+    },
+    {
+      "time_dispatch_ut": 1655025720,
+      "time_dispatch": "2022-06-12 14:52",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655026200,
+      "time_last_updated": "2022-06-12 15:00",
+      "time_eta_ut": 1655027760,
+      "time_eta": "2022-06-12 15:26"
+    },
+    {
+      "time_dispatch_ut": 1654860780,
+      "time_dispatch": "2022-06-10 17:03",
+      "fuel_type": "sd",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654861200,
+      "time_last_updated": "2022-06-10 17:10",
+      "time_eta_ut": 1654862820,
+      "time_eta": "2022-06-10 17:37"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 310.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 328.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 412.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 320.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

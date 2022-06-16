@@ -1,0 +1,71 @@
+{
+  "shed_id": 914,
+  "shed_name": "ARUMUGAM RASAMANI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:16",
+  "time_last_updated_by_shed_ut": 1655347560,
+  "fuel_type": "p92",
+  "fuel_capacity": 60.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103786",
+  "address": "A.rasamany Fuel Station, Sinnapananakadu - Akkaraipattu",
+  "lat_lng": [
+    7.188133,
+    81.844032
+  ],
+  "time_last_updated_ut": 1655347560,
+  "time_last_updated": "2022-06-16 08:16",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655184480,
+      "time_dispatch": "2022-06-14 10:58",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655184900,
+      "time_last_updated": "2022-06-14 11:05",
+      "time_eta_ut": 1655224080,
+      "time_eta": "2022-06-14 21:58"
+    },
+    {
+      "time_dispatch_ut": 1654939920,
+      "time_dispatch": "2022-06-11 15:02",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654940700,
+      "time_last_updated": "2022-06-11 15:15",
+      "time_eta_ut": 1654947900,
+      "time_eta": "2022-06-11 17:15"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 60.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 60.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 60.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
