@@ -1,0 +1,83 @@
+{
+  "shed_id": 1315,
+  "shed_name": "T H DAYARATHNE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:35",
+  "time_last_updated_by_shed_ut": 1655262300,
+  "fuel_type": "p92",
+  "fuel_capacity": 1503.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "106552",
+  "address": "Meddawatta, Matara",
+  "lat_lng": [
+    5.941465,
+    80.573257
+  ],
+  "time_last_updated_ut": 1655262300,
+  "time_last_updated": "2022-06-15 08:35",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655121000,
+      "time_dispatch": "2022-06-13 17:20",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655121600,
+      "time_last_updated": "2022-06-13 17:30",
+      "time_eta_ut": 1655140800,
+      "time_eta": "2022-06-13 22:50"
+    },
+    {
+      "time_dispatch_ut": 1654946460,
+      "time_dispatch": "2022-06-11 16:51",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654947000,
+      "time_last_updated": "2022-06-11 17:00",
+      "time_eta_ut": 1654948260,
+      "time_eta": "2022-06-11 17:21"
+    },
+    {
+      "time_dispatch_ut": 1654839480,
+      "time_dispatch": "2022-06-10 11:08",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654839900,
+      "time_last_updated": "2022-06-10 11:15",
+      "time_eta_ut": 1654841280,
+      "time_eta": "2022-06-10 11:38"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1503.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 501.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 439.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 213.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "Meddawatta, WHRF+F5X, Matara, Sri Lanka"
+}
