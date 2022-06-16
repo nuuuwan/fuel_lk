@@ -1,0 +1,61 @@
+{
+  "shed_id": 728,
+  "shed_name": "A V HINNIAPPUHAMI & CO",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102364",
+  "address": "Avissawella - Hatton - Nuwara Eliya Hwy, Talawakelle",
+  "lat_lng": [
+    6.936018,
+    80.661247
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654660380,
+      "time_dispatch": "2022-06-08 09:23",
+      "fuel_type": "p92",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654660800,
+      "time_last_updated": "2022-06-08 09:30",
+      "time_eta_ut": 1654662720,
+      "time_eta": "2022-06-08 10:02"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "TALAWAKELLE CENTRAL BUS STAND, Avissawella - Hatton - Nuwara Eliya Hwy, Talawakelle 22100, Sri Lanka"
+}
