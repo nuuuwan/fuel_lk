@@ -1,0 +1,82 @@
+{
+  "shed_id": 943,
+  "shed_name": "C & A FILLING STATION (PVT)  LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:08",
+  "time_last_updated_by_shed_ut": 1655264280,
+  "fuel_type": "p92",
+  "fuel_capacity": 734.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "103953",
+  "address": "Mattegoda",
+  "lat_lng": [
+    6.814967,
+    79.966988
+  ],
+  "time_last_updated_ut": 1655264280,
+  "time_last_updated": "2022-06-15 09:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655120940,
+      "time_dispatch": "2022-06-13 17:19",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655121600,
+      "time_last_updated": "2022-06-13 17:30",
+      "time_eta_ut": 1655124540,
+      "time_eta": "2022-06-13 18:19"
+    },
+    {
+      "time_dispatch_ut": 1655097240,
+      "time_dispatch": "2022-06-13 10:44",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097900,
+      "time_last_updated": "2022-06-13 10:55",
+      "time_eta_ut": 1655101620,
+      "time_eta": "2022-06-13 11:57"
+    },
+    {
+      "time_dispatch_ut": 1655004720,
+      "time_dispatch": "2022-06-12 09:02",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655005200,
+      "time_last_updated": "2022-06-12 09:10",
+      "time_eta_ut": 1655008320,
+      "time_eta": "2022-06-12 10:02"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 734.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 776.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 23.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

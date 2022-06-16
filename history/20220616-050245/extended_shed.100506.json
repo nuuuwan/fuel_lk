@@ -1,0 +1,71 @@
+{
+  "shed_id": 418,
+  "shed_name": " KURUWITA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:21",
+  "time_last_updated_by_shed_ut": 1655261460,
+  "fuel_type": "p92",
+  "fuel_capacity": 1600.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100506",
+  "address": "Colombo - Batticoloa Hwy, Kuruwita",
+  "lat_lng": [
+    6.779315,
+    80.363373
+  ],
+  "time_last_updated_ut": 1655261460,
+  "time_last_updated": "2022-06-15 08:21",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655349180,
+      "time_dispatch": "2022-06-16 08:43",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655349600,
+      "time_last_updated": "2022-06-16 08:50",
+      "time_eta_ut": 1655358180,
+      "time_eta": "2022-06-16 11:13"
+    },
+    {
+      "time_dispatch_ut": 1654936320,
+      "time_dispatch": "2022-06-11 14:02",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654936800,
+      "time_last_updated": "2022-06-11 14:10",
+      "time_eta_ut": 1654946100,
+      "time_eta": "2022-06-11 16:45"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1600.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1800.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 740.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 605.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

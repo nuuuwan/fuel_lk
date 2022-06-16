@@ -1,0 +1,71 @@
+{
+  "shed_id": 412,
+  "shed_name": "JAYASURIYA  AUTO SERVICE ( PVT ) LT",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:23",
+  "time_last_updated_by_shed_ut": 1655261580,
+  "fuel_type": "p92",
+  "fuel_capacity": 290.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100499",
+  "address": "Puttalam - Colombo Rd, Arachchikattuwa",
+  "lat_lng": [
+    7.667194,
+    79.835564
+  ],
+  "time_last_updated_ut": 1655348100,
+  "time_last_updated": "2022-06-16 08:25",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655107440,
+      "time_dispatch": "2022-06-13 13:34",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655108100,
+      "time_last_updated": "2022-06-13 13:45",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654608480,
+      "time_dispatch": "2022-06-07 18:58",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654608900,
+      "time_last_updated": "2022-06-07 19:05",
+      "time_eta_ut": 1654618260,
+      "time_eta": "2022-06-07 21:41"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 290.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 850.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 455.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 455.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

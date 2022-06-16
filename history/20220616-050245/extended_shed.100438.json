@@ -1,0 +1,82 @@
+{
+  "shed_id": 357,
+  "shed_name": "POONAKARY MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:04",
+  "time_last_updated_by_shed_ut": 1655264040,
+  "fuel_type": "p92",
+  "fuel_capacity": 763.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100438",
+  "address": "Vadiyadi",
+  "lat_lng": [
+    9.506127,
+    80.209801
+  ],
+  "time_last_updated_ut": 1655264040,
+  "time_last_updated": "2022-06-15 09:04",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655106180,
+      "time_dispatch": "2022-06-13 13:13",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655106600,
+      "time_last_updated": "2022-06-13 13:20",
+      "time_eta_ut": 1655124720,
+      "time_eta": "2022-06-13 18:22"
+    },
+    {
+      "time_dispatch_ut": 1654832820,
+      "time_dispatch": "2022-06-10 09:17",
+      "fuel_type": "k",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654833300,
+      "time_last_updated": "2022-06-10 09:25",
+      "time_eta_ut": 1654851360,
+      "time_eta": "2022-06-10 14:26"
+    },
+    {
+      "time_dispatch_ut": 1654753620,
+      "time_dispatch": "2022-06-09 11:17",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654772160,
+      "time_eta": "2022-06-09 16:26"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 763.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2490.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 645.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

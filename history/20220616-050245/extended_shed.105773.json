@@ -1,0 +1,71 @@
+{
+  "shed_id": 1407,
+  "shed_name": "C N KAPURUGE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:09",
+  "time_last_updated_by_shed_ut": 1655264340,
+  "fuel_type": "p92",
+  "fuel_capacity": 671.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "105773",
+  "address": "PINGHANE-KOTTAWA",
+  "lat_lng": [
+    6.826237,
+    79.967651
+  ],
+  "time_last_updated_ut": 1655264340,
+  "time_last_updated": "2022-06-15 09:09",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655130360,
+      "time_dispatch": "2022-06-13 19:56",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655130900,
+      "time_last_updated": "2022-06-13 20:05",
+      "time_eta_ut": 1655132940,
+      "time_eta": "2022-06-13 20:39"
+    },
+    {
+      "time_dispatch_ut": 1655104020,
+      "time_dispatch": "2022-06-13 12:37",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655110500,
+      "time_last_updated": "2022-06-13 14:25",
+      "time_eta_ut": 1655106600,
+      "time_eta": "2022-06-13 13:20"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 671.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 912.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1240.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 23.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

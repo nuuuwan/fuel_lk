@@ -1,0 +1,82 @@
+{
+  "shed_id": 1072,
+  "shed_name": "K D M M SIRIWARDHANA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 12:08",
+  "time_last_updated_by_shed_ut": 1655275080,
+  "fuel_type": "p92",
+  "fuel_capacity": 2653.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104837",
+  "address": "ABATALE",
+  "lat_lng": [
+    6.937389,
+    79.946953
+  ],
+  "time_last_updated_ut": 1655275080,
+  "time_last_updated": "2022-06-15 12:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655271300,
+      "time_dispatch": "2022-06-15 11:05",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655271900,
+      "time_last_updated": "2022-06-15 11:15",
+      "time_eta_ut": 1655273100,
+      "time_eta": "2022-06-15 11:35"
+    },
+    {
+      "time_dispatch_ut": 1655101620,
+      "time_dispatch": "2022-06-13 11:57",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655102100,
+      "time_last_updated": "2022-06-13 12:05",
+      "time_eta_ut": 1655103420,
+      "time_eta": "2022-06-13 12:27"
+    },
+    {
+      "time_dispatch_ut": 1654942320,
+      "time_dispatch": "2022-06-11 15:42",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654942800,
+      "time_last_updated": "2022-06-11 15:50",
+      "time_eta_ut": 1654944120,
+      "time_eta": "2022-06-11 16:12"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 2653.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1640.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 439.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 441.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

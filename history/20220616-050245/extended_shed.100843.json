@@ -1,0 +1,48 @@
+{
+  "shed_id": 618,
+  "shed_name": "M.G.M.IMTIYAZ",
+  "shed_type": 0,
+  "time_last_updated_by_shed": "2022-06-15 07:51",
+  "time_last_updated_by_shed_ut": 1655259660,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100843",
+  "address": "Beruwala",
+  "lat_lng": [
+    6.459777,
+    79.976547
+  ],
+  "time_last_updated_ut": 1655259660,
+  "time_last_updated": "2022-06-15 07:51",
+  "browser_dispatch": false,
+  "dispatch_schedule_list": [],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 20.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

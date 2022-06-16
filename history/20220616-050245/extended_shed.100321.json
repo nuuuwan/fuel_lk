@@ -1,0 +1,82 @@
+{
+  "shed_id": 264,
+  "shed_name": "A DE S JAYAWARDENA & SON",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 10:23",
+  "time_last_updated_by_shed_ut": 1655268780,
+  "fuel_type": "p92",
+  "fuel_capacity": 174.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100321",
+  "address": "Lanka Filling Station - A.De S.Jayawardana, Dharmapala Mawatha, Anuradhapura",
+  "lat_lng": [
+    8.33965,
+    80.415199
+  ],
+  "time_last_updated_ut": 1655268780,
+  "time_last_updated": "2022-06-15 10:23",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655278020,
+      "time_dispatch": "2022-06-15 12:57",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655278500,
+      "time_last_updated": "2022-06-15 13:05",
+      "time_eta_ut": 1655278800,
+      "time_eta": "2022-06-15 13:10"
+    },
+    {
+      "time_dispatch_ut": 1655260740,
+      "time_dispatch": "2022-06-15 08:09",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655261100,
+      "time_last_updated": "2022-06-15 08:15",
+      "time_eta_ut": 1655261520,
+      "time_eta": "2022-06-15 08:22"
+    },
+    {
+      "time_dispatch_ut": 1654834260,
+      "time_dispatch": "2022-06-10 09:41",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654834800,
+      "time_last_updated": "2022-06-10 09:50",
+      "time_eta_ut": 1654856640,
+      "time_eta": "2022-06-10 15:54"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 174.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1887.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 4320.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

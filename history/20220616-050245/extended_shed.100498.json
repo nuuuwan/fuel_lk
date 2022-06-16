@@ -1,0 +1,71 @@
+{
+  "shed_id": 411,
+  "shed_name": "ELPITIYA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:43",
+  "time_last_updated_by_shed_ut": 1655266380,
+  "fuel_type": "p92",
+  "fuel_capacity": 336.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100498",
+  "address": "Elpitiya",
+  "lat_lng": [
+    6.289606,
+    80.161621
+  ],
+  "time_last_updated_ut": 1655266380,
+  "time_last_updated": "2022-06-15 09:43",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655108640,
+      "time_dispatch": "2022-06-13 13:54",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655109000,
+      "time_last_updated": "2022-06-13 14:00",
+      "time_eta_ut": 1655120220,
+      "time_eta": "2022-06-13 17:07"
+    },
+    {
+      "time_dispatch_ut": 1654943940,
+      "time_dispatch": "2022-06-11 16:09",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654944300,
+      "time_last_updated": "2022-06-11 16:15",
+      "time_eta_ut": 1654955520,
+      "time_eta": "2022-06-11 19:22"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 336.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1462.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 432.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

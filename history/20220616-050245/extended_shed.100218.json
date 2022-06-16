@@ -1,0 +1,71 @@
+{
+  "shed_id": 180,
+  "shed_name": "NATTANDIYA NAWA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:12",
+  "time_last_updated_by_shed_ut": 1655343720,
+  "fuel_type": "p92",
+  "fuel_capacity": 5339.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100218",
+  "address": "Chilaw - Colombo Main Rd, Marawila",
+  "lat_lng": [
+    7.415304,
+    79.831741
+  ],
+  "time_last_updated_ut": 1655343720,
+  "time_last_updated": "2022-06-16 07:12",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655283540,
+      "time_dispatch": "2022-06-15 14:29",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655284200,
+      "time_last_updated": "2022-06-15 14:40",
+      "time_eta_ut": 1655289720,
+      "time_eta": "2022-06-15 16:12"
+    },
+    {
+      "time_dispatch_ut": 1655004600,
+      "time_dispatch": "2022-06-12 09:00",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655005200,
+      "time_last_updated": "2022-06-12 09:10",
+      "time_eta_ut": 1655012040,
+      "time_eta": "2022-06-12 11:04"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 5339.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 22.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2142.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 30.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

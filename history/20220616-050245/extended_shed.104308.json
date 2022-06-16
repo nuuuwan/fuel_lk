@@ -1,0 +1,82 @@
+{
+  "shed_id": 978,
+  "shed_name": "LAUGFS PETROLEUM (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:16",
+  "time_last_updated_by_shed_ut": 1655343960,
+  "fuel_type": "p92",
+  "fuel_capacity": 559.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104308",
+  "address": "Yakkala",
+  "lat_lng": [
+    7.07715,
+    80.020531
+  ],
+  "time_last_updated_ut": 1655343960,
+  "time_last_updated": "2022-06-16 07:16",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655104260,
+      "time_dispatch": "2022-06-13 12:41",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655104800,
+      "time_last_updated": "2022-06-13 12:50",
+      "time_eta_ut": 1655107860,
+      "time_eta": "2022-06-13 13:41"
+    },
+    {
+      "time_dispatch_ut": 1654952760,
+      "time_dispatch": "2022-06-11 18:36",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654953300,
+      "time_last_updated": "2022-06-11 18:45",
+      "time_eta_ut": 1654956600,
+      "time_eta": "2022-06-11 19:40"
+    },
+    {
+      "time_dispatch_ut": 1654925580,
+      "time_dispatch": "2022-06-11 11:03",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654926000,
+      "time_last_updated": "2022-06-11 11:10",
+      "time_eta_ut": 1654929420,
+      "time_eta": "2022-06-11 12:07"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 559.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 554.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1494.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 555.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

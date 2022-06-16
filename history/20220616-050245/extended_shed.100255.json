@@ -1,0 +1,82 @@
+{
+  "shed_id": 209,
+  "shed_name": "WG FRANCIS APPUHAMY SAMUHA VIYAPARA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:57",
+  "time_last_updated_by_shed_ut": 1655263620,
+  "fuel_type": "p92",
+  "fuel_capacity": 290.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100255",
+  "address": "Lanka Filling Station, Mihintale",
+  "lat_lng": [
+    8.358002,
+    80.510635
+  ],
+  "time_last_updated_ut": 1655263620,
+  "time_last_updated": "2022-06-15 08:57",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655259300,
+      "time_dispatch": "2022-06-15 07:45",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655259900,
+      "time_last_updated": "2022-06-15 07:55",
+      "time_eta_ut": 1655261340,
+      "time_eta": "2022-06-15 08:19"
+    },
+    {
+      "time_dispatch_ut": 1655259300,
+      "time_dispatch": "2022-06-15 07:45",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655259900,
+      "time_last_updated": "2022-06-15 07:55",
+      "time_eta_ut": 1655261340,
+      "time_eta": "2022-06-15 08:19"
+    },
+    {
+      "time_dispatch_ut": 1655119020,
+      "time_dispatch": "2022-06-13 16:47",
+      "fuel_type": "k",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655119500,
+      "time_last_updated": "2022-06-13 16:55",
+      "time_eta_ut": 1655121060,
+      "time_eta": "2022-06-13 17:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 290.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 210.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 230.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "shed_id": 449,
+  "shed_name": "BROWN & CO LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 09:53",
+  "time_last_updated_by_shed_ut": 1655266980,
+  "fuel_type": "p92",
+  "fuel_capacity": 792.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100543",
+  "address": "Browns Show Room, D.S. Senanayake Street, Ampara",
+  "lat_lng": [
+    7.293001,
+    81.685852
+  ],
+  "time_last_updated_ut": 1655266980,
+  "time_last_updated": "2022-06-15 09:53",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655123400,
+      "time_dispatch": "2022-06-13 18:00",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655124000,
+      "time_last_updated": "2022-06-13 18:10",
+      "time_eta_ut": 1655131380,
+      "time_eta": "2022-06-13 20:13"
+    },
+    {
+      "time_dispatch_ut": 1654935240,
+      "time_dispatch": "2022-06-11 13:44",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654936800,
+      "time_last_updated": "2022-06-11 14:10",
+      "time_eta_ut": 1654943220,
+      "time_eta": "2022-06-11 15:57"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 792.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 942.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 813.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

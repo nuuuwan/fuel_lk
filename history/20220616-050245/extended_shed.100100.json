@@ -1,0 +1,71 @@
+{
+  "shed_id": 82,
+  "shed_name": "MAHANUWARA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 12:32",
+  "time_last_updated_by_shed_ut": 1655276520,
+  "fuel_type": "p92",
+  "fuel_capacity": 2500.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-16 08:45, 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100100",
+  "address": "119 Peradeniya Rd, Kandy",
+  "lat_lng": [
+    7.290764,
+    80.631004
+  ],
+  "time_last_updated_ut": 1655276520,
+  "time_last_updated": "2022-06-15 12:32",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655347500,
+      "time_dispatch": "2022-06-16 08:15",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655348100,
+      "time_last_updated": "2022-06-16 08:25",
+      "time_eta_ut": 1655349300,
+      "time_eta": "2022-06-16 08:45"
+    },
+    {
+      "time_dispatch_ut": 1655279100,
+      "time_dispatch": "2022-06-15 13:15",
+      "fuel_type": "d",
+      "plant_name": "Sarasaviuyana",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655279700,
+      "time_last_updated": "2022-06-15 13:25",
+      "time_eta_ut": 1655280900,
+      "time_eta": "2022-06-15 13:45"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 2500.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1000.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

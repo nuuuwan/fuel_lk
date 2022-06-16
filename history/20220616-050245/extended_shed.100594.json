@@ -1,0 +1,71 @@
+{
+  "shed_id": 491,
+  "shed_name": "M.S.DIAS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:29",
+  "time_last_updated_by_shed_ut": 1655261940,
+  "fuel_type": "p92",
+  "fuel_capacity": 592.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100594",
+  "address": "Bibile",
+  "lat_lng": [
+    7.160187,
+    81.225281
+  ],
+  "time_last_updated_ut": 1655261940,
+  "time_last_updated": "2022-06-15 08:29",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655183880,
+      "time_dispatch": "2022-06-14 10:48",
+      "fuel_type": "d",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655184300,
+      "time_last_updated": "2022-06-14 10:55",
+      "time_eta_ut": 1655191860,
+      "time_eta": "2022-06-14 13:01"
+    },
+    {
+      "time_dispatch_ut": 1654847220,
+      "time_dispatch": "2022-06-10 13:17",
+      "fuel_type": "p92",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654847700,
+      "time_last_updated": "2022-06-10 13:25",
+      "time_eta_ut": 1654855200,
+      "time_eta": "2022-06-10 15:30"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 592.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1309.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 318.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
