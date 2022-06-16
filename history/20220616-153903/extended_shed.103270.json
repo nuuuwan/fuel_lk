@@ -1,0 +1,83 @@
+{
+  "shed_id": 845,
+  "shed_name": "K.L.G.UDAYANANDA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:45",
+  "time_last_updated_by_shed_ut": 1655342100,
+  "fuel_type": "p92",
+  "fuel_capacity": 115.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103270",
+  "address": "Thalahena Gas Station, B240,Thalahena",
+  "lat_lng": [
+    6.907305,
+    79.934723
+  ],
+  "time_last_updated_ut": 1655342100,
+  "time_last_updated": "2022-06-16 06:45",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654935240,
+      "time_dispatch": "2022-06-11 13:44",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654935600,
+      "time_last_updated": "2022-06-11 13:50",
+      "time_eta_ut": 1654937280,
+      "time_eta": "2022-06-11 14:18"
+    },
+    {
+      "time_dispatch_ut": 1654920960,
+      "time_dispatch": "2022-06-11 09:46",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654921500,
+      "time_last_updated": "2022-06-11 09:55",
+      "time_eta_ut": 1654923000,
+      "time_eta": "2022-06-11 10:20"
+    },
+    {
+      "time_dispatch_ut": 1654602240,
+      "time_dispatch": "2022-06-07 17:14",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654602600,
+      "time_last_updated": "2022-06-07 17:20",
+      "time_eta_ut": 1654604280,
+      "time_eta": "2022-06-07 17:48"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 115.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 112.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 109.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 105.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "WW5P+32C, Battaramulla, Sri Lanka"
+}
