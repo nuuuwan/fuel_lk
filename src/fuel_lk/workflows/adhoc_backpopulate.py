@@ -18,12 +18,9 @@ if __name__ == '__main__':
     extended_shed_list = JSONFile(legacy_json_file).read()
 
     for extended_shed in extended_shed_list:
-
-        shed_data_3p = common_workflows.get_shed_data_3p(extended_shed, gmaps)
-        extended_shed = extended_shed | shed_data_3p
-
         common_workflows.write_extended_shed(extended_shed)
-    common_workflows.write_extened_status_list()
+
+    common_workflows.write_extended_shed_list()
 
     git.add_and_commit('[cheat_packpopulate] Added files')
     git.push()
