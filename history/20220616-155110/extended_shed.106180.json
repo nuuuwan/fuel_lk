@@ -1,0 +1,60 @@
+{
+  "shed_id": 1247,
+  "shed_name": "J SRISHANKAR",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 13:37",
+  "time_last_updated_by_shed_ut": 1655366820,
+  "fuel_type": "p92",
+  "fuel_capacity": 500.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106180",
+  "address": "Beach Road, Point Pedro",
+  "lat_lng": [
+    9.827583,
+    80.236702
+  ],
+  "time_last_updated_ut": 1655366820,
+  "time_last_updated": "2022-06-16 13:37",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655097540,
+      "time_dispatch": "2022-06-13 10:49",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655098200,
+      "time_last_updated": "2022-06-13 11:00",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

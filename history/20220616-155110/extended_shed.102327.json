@@ -1,0 +1,72 @@
+{
+  "shed_id": 692,
+  "shed_name": "DHANUSHKA ENGG. PVT LTD",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102327",
+  "address": "Gothatuwa",
+  "lat_lng": [
+    6.925481,
+    79.912842
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655286540,
+      "time_dispatch": "2022-06-15 15:19",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655287200,
+      "time_last_updated": "2022-06-15 15:30",
+      "time_eta_ut": 1655288340,
+      "time_eta": "2022-06-15 15:49"
+    },
+    {
+      "time_dispatch_ut": 1655201460,
+      "time_dispatch": "2022-06-14 15:41",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655202000,
+      "time_last_updated": "2022-06-14 15:50",
+      "time_eta_ut": 1655203260,
+      "time_eta": "2022-06-14 16:11"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "25 \u0d9a\u0ddc\u0dc5\u0ddc\u0db1\u0dca\u0db1\u0dcf\u0dc0 - \u0d85\u0d82\u0d9c\u0ddc\u0da9 \u0db4\u0dcf\u0dbb, Kotikawatta 10600, Sri Lanka"
+}
