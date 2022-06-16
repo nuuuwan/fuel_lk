@@ -1,0 +1,82 @@
+{
+  "shed_id": 515,
+  "shed_name": "P.A.ARIYADASA & SON",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:41",
+  "time_last_updated_by_shed_ut": 1655341860,
+  "fuel_type": "p92",
+  "fuel_capacity": 504.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100620",
+  "address": "Kotte - Bope Rd, Battaramulla",
+  "lat_lng": [
+    6.902175,
+    79.917213
+  ],
+  "time_last_updated_ut": 1655341860,
+  "time_last_updated": "2022-06-16 06:41",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655273520,
+      "time_dispatch": "2022-06-15 11:42",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655274000,
+      "time_last_updated": "2022-06-15 11:50",
+      "time_eta_ut": 1655275320,
+      "time_eta": "2022-06-15 12:12"
+    },
+    {
+      "time_dispatch_ut": 1655267940,
+      "time_dispatch": "2022-06-15 10:09",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655268300,
+      "time_last_updated": "2022-06-15 10:15",
+      "time_eta_ut": 1655269740,
+      "time_eta": "2022-06-15 10:39"
+    },
+    {
+      "time_dispatch_ut": 1654934280,
+      "time_dispatch": "2022-06-11 13:28",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654935600,
+      "time_last_updated": "2022-06-11 13:50",
+      "time_eta_ut": 1654937880,
+      "time_eta": "2022-06-11 14:28"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 504.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 677.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 77.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

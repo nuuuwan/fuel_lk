@@ -1,0 +1,71 @@
+{
+  "shed_id": 175,
+  "shed_name": "GAMPOLA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-14 09:01",
+  "time_last_updated_by_shed_ut": 1655177460,
+  "fuel_type": "p92",
+  "fuel_capacity": 41.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100212",
+  "address": "A5, Pussellawa",
+  "lat_lng": [
+    7.107299,
+    80.636124
+  ],
+  "time_last_updated_ut": 1655177460,
+  "time_last_updated": "2022-06-14 09:01",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654936620,
+      "time_dispatch": "2022-06-11 14:07",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654937100,
+      "time_last_updated": "2022-06-11 14:15",
+      "time_eta_ut": 1654941000,
+      "time_eta": "2022-06-11 15:20"
+    },
+    {
+      "time_dispatch_ut": 1654854360,
+      "time_dispatch": "2022-06-10 15:16",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654855500,
+      "time_last_updated": "2022-06-10 15:35",
+      "time_eta_ut": 1654858740,
+      "time_eta": "2022-06-10 16:29"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 311.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 340.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
