@@ -1,0 +1,83 @@
+{
+  "shed_id": 365,
+  "shed_name": "WENNAPPUWA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:46",
+  "time_last_updated_by_shed_ut": 1655349360,
+  "fuel_type": "p92",
+  "fuel_capacity": 452.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100448",
+  "address": "Puttalam Road, Nainamadama",
+  "lat_lng": [
+    7.32744,
+    79.845261
+  ],
+  "time_last_updated_ut": 1655349360,
+  "time_last_updated": "2022-06-16 08:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655191860,
+      "time_dispatch": "2022-06-14 13:01",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655192400,
+      "time_last_updated": "2022-06-14 13:10",
+      "time_eta_ut": 1655198040,
+      "time_eta": "2022-06-14 14:44"
+    },
+    {
+      "time_dispatch_ut": 1654920060,
+      "time_dispatch": "2022-06-11 09:31",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654920600,
+      "time_last_updated": "2022-06-11 09:40",
+      "time_eta_ut": 1654925700,
+      "time_eta": "2022-06-11 11:05"
+    },
+    {
+      "time_dispatch_ut": 1654916760,
+      "time_dispatch": "2022-06-11 08:36",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654917300,
+      "time_last_updated": "2022-06-11 08:45",
+      "time_eta_ut": 1654922940,
+      "time_eta": "2022-06-11 10:19"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 452.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 288.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 86.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "8RGW+X4C, Puttalam Road, Nainamadama, Sri Lanka"
+}
