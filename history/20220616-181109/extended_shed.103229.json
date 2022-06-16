@@ -1,0 +1,72 @@
+{
+  "shed_id": 842,
+  "shed_name": "K. D. ANIL PRIYANTHA FERNANDO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:39",
+  "time_last_updated_by_shed_ut": 1655345340,
+  "fuel_type": "p92",
+  "fuel_capacity": 100.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103229",
+  "address": "Thibirigaskatuwa",
+  "lat_lng": [
+    7.223317,
+    79.879578
+  ],
+  "time_last_updated_ut": 1655345340,
+  "time_last_updated": "2022-06-16 07:39",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655096640,
+      "time_dispatch": "2022-06-13 10:34",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097300,
+      "time_last_updated": "2022-06-13 10:45",
+      "time_eta_ut": 1655101020,
+      "time_eta": "2022-06-13 11:47"
+    },
+    {
+      "time_dispatch_ut": 1654923060,
+      "time_dispatch": "2022-06-11 10:21",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654923600,
+      "time_last_updated": "2022-06-11 10:30",
+      "time_eta_ut": 1654928460,
+      "time_eta": "2022-06-11 11:51"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 400.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "6VFH+6RV, Negombo, Sri Lanka"
+}
