@@ -1,0 +1,72 @@
+{
+  "shed_id": 455,
+  "shed_name": "S.A.SAREENA & S.A.SAMEENA  MRS.",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:30",
+  "time_last_updated_by_shed_ut": 1655344800,
+  "fuel_type": "p92",
+  "fuel_capacity": 496.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100550",
+  "address": "Addalachchanai",
+  "lat_lng": [
+    7.253791,
+    81.854256
+  ],
+  "time_last_updated_ut": 1655344800,
+  "time_last_updated": "2022-06-16 07:30",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654866420,
+      "time_dispatch": "2022-06-10 18:37",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654866900,
+      "time_last_updated": "2022-06-10 18:45",
+      "time_eta_ut": 1654873860,
+      "time_eta": "2022-06-10 20:41"
+    },
+    {
+      "time_dispatch_ut": 1654608660,
+      "time_dispatch": "2022-06-07 19:01",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654611000,
+      "time_last_updated": "2022-06-07 19:40",
+      "time_eta_ut": 1654616100,
+      "time_eta": "2022-06-07 21:05"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 496.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 493.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "7V33+GMM, Addalaichenai, Sri Lanka"
+}

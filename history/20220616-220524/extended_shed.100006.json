@@ -1,0 +1,83 @@
+{
+  "shed_id": 6,
+  "shed_name": "HAMBANTOTA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 12:58",
+  "time_last_updated_by_shed_ut": 1655278080,
+  "fuel_type": "p92",
+  "fuel_capacity": 500.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100006",
+  "address": "Kachcheri Rd, Hambantota",
+  "lat_lng": [
+    6.124711,
+    81.126137
+  ],
+  "time_last_updated_ut": 1655278080,
+  "time_last_updated": "2022-06-15 12:58",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655183700,
+      "time_dispatch": "2022-06-14 10:45",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655184300,
+      "time_last_updated": "2022-06-14 10:55",
+      "time_eta_ut": 1655194500,
+      "time_eta": "2022-06-14 13:45"
+    },
+    {
+      "time_dispatch_ut": 1655125740,
+      "time_dispatch": "2022-06-13 18:39",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655126100,
+      "time_last_updated": "2022-06-13 18:45",
+      "time_eta_ut": 1655136540,
+      "time_eta": "2022-06-13 21:39"
+    },
+    {
+      "time_dispatch_ut": 1655035740,
+      "time_dispatch": "2022-06-12 17:39",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655036400,
+      "time_last_updated": "2022-06-12 17:50",
+      "time_eta_ut": 1655059920,
+      "time_eta": "2022-06-13 00:22"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 4735.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 240.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "Hambantota Bus Stand, Hambantota, Sri Lanka"
+}
