@@ -1,4 +1,4 @@
-name: Upload Data - Cron
+name: Incr. Update - Cron
 
 on:
  schedule:

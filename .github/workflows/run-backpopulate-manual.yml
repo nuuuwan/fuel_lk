@@ -1,4 +1,4 @@
-name: Upload Data - Cron
+name: Backpopulate - Manual
 
 on: workflow_dispatch
 
