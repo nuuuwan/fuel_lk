@@ -1,6 +1,6 @@
 import os
 
-from utils import JSONFile
+from utils import GoogleMaps, JSONFile
 
 from fuel_lk.base import Git
 from fuel_lk.common import DIR_DATA, GIT_REPO_URL
@@ -12,10 +12,16 @@ if __name__ == '__main__':
     git.clone(DIR_DATA, force=True)
     git.checkout('data')
 
+    gmaps = GoogleMaps()
+
     legacy_json_file = os.path.join(DIR_LATEST, 'shed_status_list.all.json')
     extended_shed_list = JSONFile(legacy_json_file).read()
 
     for extended_shed in extended_shed_list:
+
+        shed_data_3p = common_workflows.get_shed_data_3p(extended_shed, gmaps)
+        extended_shed = extended_shed | shed_data_3p
+
         common_workflows.write_extended_shed(extended_shed)
     common_workflows.write_extened_status_list()
 
