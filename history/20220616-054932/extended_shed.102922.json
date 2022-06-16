@@ -1,0 +1,71 @@
+{
+  "shed_id": 837,
+  "shed_name": "D.P.KUMARAGE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 11:26",
+  "time_last_updated_by_shed_ut": 1655272560,
+  "fuel_type": "p92",
+  "fuel_capacity": 282.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102922",
+  "address": "Ceypetco Fuel Station, William Gopallawa Mawatha, Kandy",
+  "lat_lng": [
+    7.283401,
+    80.625626
+  ],
+  "time_last_updated_ut": 1655272560,
+  "time_last_updated": "2022-06-15 11:26",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655294580,
+      "time_dispatch": "2022-06-15 17:33",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655295000,
+      "time_last_updated": "2022-06-15 17:40",
+      "time_eta_ut": 1655308980,
+      "time_eta": "2022-06-15 21:33"
+    },
+    {
+      "time_dispatch_ut": 1655186160,
+      "time_dispatch": "2022-06-14 11:26",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655186700,
+      "time_last_updated": "2022-06-14 11:35",
+      "time_eta_ut": 1655187960,
+      "time_eta": "2022-06-14 11:56"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 282.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 111.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 608.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 141.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 118.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

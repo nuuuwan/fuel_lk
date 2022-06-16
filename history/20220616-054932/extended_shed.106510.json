@@ -1,0 +1,71 @@
+{
+  "shed_id": 1307,
+  "shed_name": "VICTORIA FUEL MERCHANT (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:58",
+  "time_last_updated_by_shed_ut": 1655350080,
+  "fuel_type": "p92",
+  "fuel_capacity": 3035.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106510",
+  "address": "Colombo-batticaloa Hwy, Passara",
+  "lat_lng": [
+    6.936038,
+    81.161972
+  ],
+  "time_last_updated_ut": 1655350080,
+  "time_last_updated": "2022-06-16 08:58",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655349780,
+      "time_dispatch": "2022-06-16 08:53",
+      "fuel_type": "d",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655350200,
+      "time_last_updated": "2022-06-16 09:00",
+      "time_eta_ut": 1655353380,
+      "time_eta": "2022-06-16 09:53"
+    },
+    {
+      "time_dispatch_ut": 1654834260,
+      "time_dispatch": "2022-06-10 09:41",
+      "fuel_type": "p92",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654834800,
+      "time_last_updated": "2022-06-10 09:50",
+      "time_eta_ut": 1654837860,
+      "time_eta": "2022-06-10 10:41"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 3035.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 456.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 776.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 456.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

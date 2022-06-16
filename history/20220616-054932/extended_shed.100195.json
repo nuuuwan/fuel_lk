@@ -1,0 +1,71 @@
+{
+  "shed_id": 162,
+  "shed_name": "S.S.P.FENANDO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:54",
+  "time_last_updated_by_shed_ut": 1655353440,
+  "fuel_type": "p92",
+  "fuel_capacity": 350.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100195",
+  "address": "Mallehewa, Pasyala - Giriulla Rd",
+  "lat_lng": [
+    7.183002,
+    80.115479
+  ],
+  "time_last_updated_ut": 1655353440,
+  "time_last_updated": "2022-06-16 09:54",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655264520,
+      "time_dispatch": "2022-06-15 09:12",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655265000,
+      "time_last_updated": "2022-06-15 09:20",
+      "time_eta_ut": 1655270160,
+      "time_eta": "2022-06-15 10:46"
+    },
+    {
+      "time_dispatch_ut": 1654941780,
+      "time_dispatch": "2022-06-11 15:33",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654942800,
+      "time_last_updated": "2022-06-11 15:50",
+      "time_eta_ut": 1654947720,
+      "time_eta": "2022-06-11 17:12"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 190.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 490.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

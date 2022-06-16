@@ -1,0 +1,71 @@
+{
+  "shed_id": 601,
+  "shed_name": "S.ABESOORIYA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 14:34",
+  "time_last_updated_by_shed_ut": 1655283840,
+  "fuel_type": "p92",
+  "fuel_capacity": 95.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100795",
+  "address": "Gandara",
+  "lat_lng": [
+    5.936147,
+    80.611328
+  ],
+  "time_last_updated_ut": 1655283840,
+  "time_last_updated": "2022-06-15 14:34",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655121000,
+      "time_dispatch": "2022-06-13 17:20",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655121600,
+      "time_last_updated": "2022-06-13 17:30",
+      "time_eta_ut": 1655123040,
+      "time_eta": "2022-06-13 17:54"
+    },
+    {
+      "time_dispatch_ut": 1654946460,
+      "time_dispatch": "2022-06-11 16:51",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654947000,
+      "time_last_updated": "2022-06-11 17:00",
+      "time_eta_ut": 1654948500,
+      "time_eta": "2022-06-11 17:25"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 95.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 561.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

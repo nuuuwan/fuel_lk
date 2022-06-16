@@ -1,0 +1,82 @@
+{
+  "shed_id": 835,
+  "shed_name": "LAUGFS PETRTOLEUM (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:04",
+  "time_last_updated_by_shed_ut": 1655339640,
+  "fuel_type": "p92",
+  "fuel_capacity": 300.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "102886",
+  "address": "Laugfs Filling Station, Puttalam - Colombo Rd, Negombo",
+  "lat_lng": [
+    7.204389,
+    79.852165
+  ],
+  "time_last_updated_ut": 1655339640,
+  "time_last_updated": "2022-06-16 06:04",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655018940,
+      "time_dispatch": "2022-06-12 12:59",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655019600,
+      "time_last_updated": "2022-06-12 13:10",
+      "time_eta_ut": 1655023320,
+      "time_eta": "2022-06-12 14:12"
+    },
+    {
+      "time_dispatch_ut": 1654837740,
+      "time_dispatch": "2022-06-10 10:39",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654838400,
+      "time_last_updated": "2022-06-10 10:50",
+      "time_eta_ut": 1654841580,
+      "time_eta": "2022-06-10 11:43"
+    },
+    {
+      "time_dispatch_ut": 1654832760,
+      "time_dispatch": "2022-06-10 09:16",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654833300,
+      "time_last_updated": "2022-06-10 09:25",
+      "time_eta_ut": 1654837140,
+      "time_eta": "2022-06-10 10:29"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 566.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 332.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

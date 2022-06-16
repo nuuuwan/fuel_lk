@@ -1,0 +1,82 @@
+{
+  "shed_id": 526,
+  "shed_name": "H.K.D.R.S.PERERA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:47",
+  "time_last_updated_by_shed_ut": 1655353020,
+  "fuel_type": "p92",
+  "fuel_capacity": 536.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100631",
+  "address": "Lanka Filling Station, B84, Piliyandala",
+  "lat_lng": [
+    6.796451,
+    79.939346
+  ],
+  "time_last_updated_ut": 1655353020,
+  "time_last_updated": "2022-06-16 09:47",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655265780,
+      "time_dispatch": "2022-06-15 09:33",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655266200,
+      "time_last_updated": "2022-06-15 09:40",
+      "time_eta_ut": 1655269380,
+      "time_eta": "2022-06-15 10:33"
+    },
+    {
+      "time_dispatch_ut": 1655105700,
+      "time_dispatch": "2022-06-13 13:05",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655106300,
+      "time_last_updated": "2022-06-13 13:15",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655012460,
+      "time_dispatch": "2022-06-12 11:11",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655013000,
+      "time_last_updated": "2022-06-12 11:20",
+      "time_eta_ut": 1655016060,
+      "time_eta": "2022-06-12 12:11"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 536.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1781.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 141.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

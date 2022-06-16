@@ -1,0 +1,82 @@
+{
+  "shed_id": 187,
+  "shed_name": "PEARL HOLDINGS ( PVT ) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:21",
+  "time_last_updated_by_shed_ut": 1655261460,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100227",
+  "address": "Kovilakanda",
+  "lat_lng": [
+    7.209046,
+    80.598747
+  ],
+  "time_last_updated_ut": 1655261460,
+  "time_last_updated": "2022-06-15 08:21",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655099760,
+      "time_dispatch": "2022-06-13 11:26",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655100300,
+      "time_last_updated": "2022-06-13 11:35",
+      "time_eta_ut": 1655101560,
+      "time_eta": "2022-06-13 11:56"
+    },
+    {
+      "time_dispatch_ut": 1654916400,
+      "time_dispatch": "2022-06-11 08:30",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654917000,
+      "time_last_updated": "2022-06-11 08:40",
+      "time_eta_ut": 1654918200,
+      "time_eta": "2022-06-11 09:00"
+    },
+    {
+      "time_dispatch_ut": 1654853880,
+      "time_dispatch": "2022-06-10 15:08",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654854300,
+      "time_last_updated": "2022-06-10 15:15",
+      "time_eta_ut": 1654868280,
+      "time_eta": "2022-06-10 19:08"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
