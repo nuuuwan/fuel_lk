@@ -1,0 +1,83 @@
+{
+  "shed_id": 1102,
+  "shed_name": "KAVINDA DISSANAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:44",
+  "time_last_updated_by_shed_ut": 1655342040,
+  "fuel_type": "p92",
+  "fuel_capacity": 1358.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104992",
+  "address": "Tambuttegama",
+  "lat_lng": [
+    8.154899,
+    80.296326
+  ],
+  "time_last_updated_ut": 1655342040,
+  "time_last_updated": "2022-06-16 06:44",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655185620,
+      "time_dispatch": "2022-06-14 11:17",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655186100,
+      "time_last_updated": "2022-06-14 11:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655102460,
+      "time_dispatch": "2022-06-13 12:11",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655103000,
+      "time_last_updated": "2022-06-13 12:20",
+      "time_eta_ut": 1655121000,
+      "time_eta": "2022-06-13 17:20"
+    },
+    {
+      "time_dispatch_ut": 1655097720,
+      "time_dispatch": "2022-06-13 10:52",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655098200,
+      "time_last_updated": "2022-06-13 11:00",
+      "time_eta_ut": 1655117760,
+      "time_eta": "2022-06-13 16:26"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1358.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 5991.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 272.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "573W+WFV, Tambuttegama, Sri Lanka"
+}
