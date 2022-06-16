@@ -1,0 +1,61 @@
+{
+  "shed_id": 756,
+  "shed_name": "COLONNE SARATH",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102395",
+  "address": "Rathmalana",
+  "lat_lng": [
+    6.822844,
+    79.870926
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655279400,
+      "time_dispatch": "2022-06-15 13:20",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655280000,
+      "time_last_updated": "2022-06-15 13:30",
+      "time_eta_ut": 1655281980,
+      "time_eta": "2022-06-15 14:03"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "252 A2, Dehiwala-Mount Lavinia, Sri Lanka"
+}

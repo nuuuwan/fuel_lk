@@ -1,0 +1,72 @@
+{
+  "shed_id": 996,
+  "shed_name": "K S PONNAMBALAM & SON",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-14 08:55",
+  "time_last_updated_by_shed_ut": 1655177100,
+  "fuel_type": "p92",
+  "fuel_capacity": 1499.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104365",
+  "address": "Kaithady",
+  "lat_lng": [
+    9.671471,
+    80.098763
+  ],
+  "time_last_updated_ut": 1655177100,
+  "time_last_updated": "2022-06-14 08:55",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654921740,
+      "time_dispatch": "2022-06-11 09:59",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654922100,
+      "time_last_updated": "2022-06-11 10:05",
+      "time_eta_ut": 1654925340,
+      "time_eta": "2022-06-11 10:59"
+    },
+    {
+      "time_dispatch_ut": 1654839720,
+      "time_dispatch": "2022-06-10 11:12",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654840200,
+      "time_last_updated": "2022-06-10 11:20",
+      "time_eta_ut": 1654843320,
+      "time_eta": "2022-06-10 12:12"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1499.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 375.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 838.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "M3CX+HFJ, Chavakachcheri, Sri Lanka"
+}
