@@ -27,6 +27,7 @@ jobs:
     - name: Run - run_backpopulate.py
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
+        export GOOGLE_API_KEY=secrets.GOOGLE_API_KEY
         python src/fuel_lk/workflows/run_backpopulate.py
 
     - name: Checkout repo branch data
