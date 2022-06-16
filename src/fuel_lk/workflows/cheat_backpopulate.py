@@ -19,5 +19,5 @@ if __name__ == '__main__':
         common_workflows.write_extended_shed(extended_shed)
     common_workflows.write_extened_status_list()
 
-    git.add_all_and_commit('[cheat_packpopulate] Added files')
+    git.add_and_commit('[cheat_packpopulate] Added files')
     git.push()
