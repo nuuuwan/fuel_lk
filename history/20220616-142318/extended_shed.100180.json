@@ -1,0 +1,72 @@
+{
+  "shed_id": 148,
+  "shed_name": "SRI JAYEWARDENEPURA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 07:29",
+  "time_last_updated_by_shed_ut": 1655258340,
+  "fuel_type": "p92",
+  "fuel_capacity": 385.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100180",
+  "address": "Lanka Filling Station, Sri Jayawardenepura Kotte",
+  "lat_lng": [
+    6.904332,
+    79.905396
+  ],
+  "time_last_updated_ut": 1655258340,
+  "time_last_updated": "2022-06-15 07:29",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655124120,
+      "time_dispatch": "2022-06-13 18:12",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655124600,
+      "time_last_updated": "2022-06-13 18:20",
+      "time_eta_ut": 1655125920,
+      "time_eta": "2022-06-13 18:42"
+    },
+    {
+      "time_dispatch_ut": 1654863660,
+      "time_dispatch": "2022-06-10 17:51",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654864200,
+      "time_last_updated": "2022-06-10 18:00",
+      "time_eta_ut": 1654865460,
+      "time_eta": "2022-06-10 18:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 385.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2500.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "WW34+P43, Sri Jayawardenepura Kotte, Sri Lanka"
+}

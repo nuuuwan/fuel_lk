@@ -1,0 +1,72 @@
+{
+  "shed_id": 216,
+  "shed_name": "T.C.S.PERERA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:43",
+  "time_last_updated_by_shed_ut": 1655352780,
+  "fuel_type": "p92",
+  "fuel_capacity": 89.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100264",
+  "address": "Ekala - Kotadeniyawa Rd, Ballapana",
+  "lat_lng": [
+    7.202686,
+    79.996979
+  ],
+  "time_last_updated_ut": 1655352780,
+  "time_last_updated": "2022-06-16 09:43",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655087280,
+      "time_dispatch": "2022-06-13 07:58",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655088000,
+      "time_last_updated": "2022-06-13 08:10",
+      "time_eta_ut": 1655091420,
+      "time_eta": "2022-06-13 09:07"
+    },
+    {
+      "time_dispatch_ut": 1655041200,
+      "time_dispatch": "2022-06-12 19:10",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655041800,
+      "time_last_updated": "2022-06-12 19:20",
+      "time_eta_ut": 1655046600,
+      "time_eta": "2022-06-12 20:40"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 91.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 153.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 91.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 455.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "6X3W+4P8, Ballapana, Sri Lanka"
+}
