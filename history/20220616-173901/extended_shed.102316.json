@@ -1,0 +1,72 @@
+{
+  "shed_id": 681,
+  "shed_name": "SLIPTO AGENCIES PVT LTD",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102316",
+  "address": "Maligawatte, Colombo -10",
+  "lat_lng": [
+    6.93483,
+    79.86747
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655282460,
+      "time_dispatch": "2022-06-15 14:11",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655283000,
+      "time_last_updated": "2022-06-15 14:20",
+      "time_eta_ut": 1655284260,
+      "time_eta": "2022-06-15 14:41"
+    },
+    {
+      "time_dispatch_ut": 1655282460,
+      "time_dispatch": "2022-06-15 14:11",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655283000,
+      "time_last_updated": "2022-06-15 14:20",
+      "time_eta_ut": 1655284260,
+      "time_eta": "2022-06-15 14:41"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "Bus Stop, Colombo 01000, Sri Lanka"
+}
