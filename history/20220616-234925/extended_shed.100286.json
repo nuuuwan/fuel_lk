@@ -1,0 +1,72 @@
+{
+  "shed_id": 234,
+  "shed_name": "NORTHERN  REGN  LORRY  OWNERS CO-OP",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 12:34",
+  "time_last_updated_by_shed_ut": 1655276640,
+  "fuel_type": "p92",
+  "fuel_capacity": 623.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100286",
+  "address": "Ariviyal Nagar",
+  "lat_lng": [
+    9.300303,
+    80.409332
+  ],
+  "time_last_updated_ut": 1655276640,
+  "time_last_updated": "2022-06-15 12:34",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655123340,
+      "time_dispatch": "2022-06-13 17:59",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655123700,
+      "time_last_updated": "2022-06-13 18:05",
+      "time_eta_ut": 1655137740,
+      "time_eta": "2022-06-13 21:59"
+    },
+    {
+      "time_dispatch_ut": 1654839840,
+      "time_dispatch": "2022-06-10 11:14",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654840200,
+      "time_last_updated": "2022-06-10 11:20",
+      "time_eta_ut": 1654854240,
+      "time_eta": "2022-06-10 15:14"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 623.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1208.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 120.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "8C25+4P Ariviyal Nagar, Sri Lanka"
+}
