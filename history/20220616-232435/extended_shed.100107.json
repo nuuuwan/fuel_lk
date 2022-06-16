@@ -1,0 +1,83 @@
+{
+  "shed_id": 88,
+  "shed_name": "D.W.A .HAPUARACHCHI & COMPANY",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:28",
+  "time_last_updated_by_shed_ut": 1655341080,
+  "fuel_type": "p92",
+  "fuel_capacity": 902.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100107",
+  "address": "Bandaragama",
+  "lat_lng": [
+    6.713989,
+    79.988823
+  ],
+  "time_last_updated_ut": 1655341080,
+  "time_last_updated": "2022-06-16 06:28",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655295600,
+      "time_dispatch": "2022-06-15 17:50",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655296200,
+      "time_last_updated": "2022-06-15 18:00",
+      "time_eta_ut": 1655299980,
+      "time_eta": "2022-06-15 19:03"
+    },
+    {
+      "time_dispatch_ut": 1654933140,
+      "time_dispatch": "2022-06-11 13:09",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654933500,
+      "time_last_updated": "2022-06-11 13:15",
+      "time_eta_ut": 1654937520,
+      "time_eta": "2022-06-11 14:22"
+    },
+    {
+      "time_dispatch_ut": 1654929300,
+      "time_dispatch": "2022-06-11 12:05",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654929900,
+      "time_last_updated": "2022-06-11 12:15",
+      "time_eta_ut": 1654933680,
+      "time_eta": "2022-06-11 13:18"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 902.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 540.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 859.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 410.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "PX7Q+JG7, A8, Bandaragama, Sri Lanka"
+}

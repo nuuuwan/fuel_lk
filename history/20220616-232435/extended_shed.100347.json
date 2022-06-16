@@ -1,0 +1,94 @@
+{
+  "shed_id": 282,
+  "shed_name": "S H M.JAFRIS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:41",
+  "time_last_updated_by_shed_ut": 1655345460,
+  "fuel_type": "p92",
+  "fuel_capacity": 793.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100347",
+  "address": "Puttalam - Colombo Rd, Puttalam",
+  "lat_lng": [
+    8.006274,
+    79.83847
+  ],
+  "time_last_updated_ut": 1655345460,
+  "time_last_updated": "2022-06-16 07:41",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655043120,
+      "time_dispatch": "2022-06-12 19:42",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655043900,
+      "time_last_updated": "2022-06-12 19:55",
+      "time_eta_ut": 1655058300,
+      "time_eta": "2022-06-12 23:55"
+    },
+    {
+      "time_dispatch_ut": 1655008020,
+      "time_dispatch": "2022-06-12 09:57",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655008500,
+      "time_last_updated": "2022-06-12 10:05",
+      "time_eta_ut": 1655023200,
+      "time_eta": "2022-06-12 14:10"
+    },
+    {
+      "time_dispatch_ut": 1654864500,
+      "time_dispatch": "2022-06-10 18:05",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654865100,
+      "time_last_updated": "2022-06-10 18:15",
+      "time_eta_ut": 1654879680,
+      "time_eta": "2022-06-10 22:18"
+    },
+    {
+      "time_dispatch_ut": 1654847700,
+      "time_dispatch": "2022-06-10 13:25",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654848300,
+      "time_last_updated": "2022-06-10 13:35",
+      "time_eta_ut": 1654862340,
+      "time_eta": "2022-06-10 17:29"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 793.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 743.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 161.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "2R4Q+G7H, Puttalam, Sri Lanka"
+}

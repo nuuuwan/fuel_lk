@@ -1,0 +1,72 @@
+{
+  "shed_id": 870,
+  "shed_name": "KAMALADEVI KATHIRASAMPILLAI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 07:31",
+  "time_last_updated_by_shed_ut": 1655344860,
+  "fuel_type": "p92",
+  "fuel_capacity": 89.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103416",
+  "address": "Chunnakam",
+  "lat_lng": [
+    9.741431,
+    80.026001
+  ],
+  "time_last_updated_ut": 1655344860,
+  "time_last_updated": "2022-06-16 07:31",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655103720,
+      "time_dispatch": "2022-06-13 12:32",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655104200,
+      "time_last_updated": "2022-06-13 12:40",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654841940,
+      "time_dispatch": "2022-06-10 11:49",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654842300,
+      "time_last_updated": "2022-06-10 11:55",
+      "time_eta_ut": 1654843980,
+      "time_eta": "2022-06-10 12:23"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 132.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 63.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "P2RG+G9Q, Chunnakam, Sri Lanka"
+}
