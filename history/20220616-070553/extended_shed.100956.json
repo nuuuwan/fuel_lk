@@ -1,0 +1,61 @@
+{
+  "shed_id": 657,
+  "shed_name": "AKKARAIPATTU CENTRAL MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 15:44",
+  "time_last_updated_by_shed_ut": 1655288040,
+  "fuel_type": "p92",
+  "fuel_capacity": 100.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100956",
+  "address": "Colombo - Batticaloa Hwy, Akkaraipattu",
+  "lat_lng": [
+    7.221063,
+    81.849503
+  ],
+  "time_last_updated_ut": 1655288040,
+  "time_last_updated": "2022-06-15 15:44",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654857360,
+      "time_dispatch": "2022-06-10 16:06",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654859700,
+      "time_last_updated": "2022-06-10 16:45",
+      "time_eta_ut": 1654865100,
+      "time_eta": "2022-06-10 18:15"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "6RCX+CQF, Akkaraipattu, Sri Lanka"
+}
