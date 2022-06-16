@@ -29,6 +29,11 @@ class Git:
         assert(self.branch_name is not None)
         return f'git checkout {self.branch_name}'
 
+    @property
+    def cmd_git_push(self):
+        assert(self.branch_name is not None)
+        return f'git push origin {self.branch_name}'
+
     @staticmethod
     def run(*cmd_list):
         cmd = ' && '.join(cmd_list)
@@ -57,6 +62,17 @@ class Git:
         Git.run(
             self.cmd_cd,
             self.cmd_checkout,
+        )
+
+    def add_all_and_commit(self, message):
+        Git.run(
+            'git add .',
+            f'git commit -m "{message}"'
+        )
+
+    def push(self):
+        Git.run(
+            self.cmd_git_push
         )
 
 
