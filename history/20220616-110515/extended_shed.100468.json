@@ -1,0 +1,83 @@
+{
+  "shed_id": 384,
+  "shed_name": "TISSAMAHARAMA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:21",
+  "time_last_updated_by_shed_ut": 1655351460,
+  "fuel_type": "p92",
+  "fuel_capacity": 326.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100468",
+  "address": "Fuel Station, Yala Rd, Kataragama",
+  "lat_lng": [
+    6.413463,
+    81.331635
+  ],
+  "time_last_updated_ut": 1655351460,
+  "time_last_updated": "2022-06-16 09:21",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655184060,
+      "time_dispatch": "2022-06-14 10:51",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655184600,
+      "time_last_updated": "2022-06-14 11:00",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654842300,
+      "time_dispatch": "2022-06-10 11:55",
+      "fuel_type": "p92",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654851300,
+      "time_last_updated": "2022-06-10 14:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654766520,
+      "time_dispatch": "2022-06-09 14:52",
+      "fuel_type": "k",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654781460,
+      "time_eta": "2022-06-09 19:01"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 326.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 2487.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1011.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 212.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "C87J+CP6, Kandula Pl, Kataragama, Sri Lanka"
+}

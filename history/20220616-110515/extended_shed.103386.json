@@ -1,0 +1,83 @@
+{
+  "shed_id": 861,
+  "shed_name": "MARITIMEPATTU MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 02:51",
+  "time_last_updated_by_shed_ut": 1655328060,
+  "fuel_type": "p92",
+  "fuel_capacity": 2950.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103386",
+  "address": "Lanka Filling Station, Mulattivu",
+  "lat_lng": [
+    9.263233,
+    80.810989
+  ],
+  "time_last_updated_ut": 1655328060,
+  "time_last_updated": "2022-06-16 02:51",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655273280,
+      "time_dispatch": "2022-06-15 11:38",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655273700,
+      "time_last_updated": "2022-06-15 11:45",
+      "time_eta_ut": 1655288220,
+      "time_eta": "2022-06-15 15:47"
+    },
+    {
+      "time_dispatch_ut": 1655270040,
+      "time_dispatch": "2022-06-15 10:44",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655270400,
+      "time_last_updated": "2022-06-15 10:50",
+      "time_eta_ut": 1655284980,
+      "time_eta": "2022-06-15 14:53"
+    },
+    {
+      "time_dispatch_ut": 1654593180,
+      "time_dispatch": "2022-06-07 14:43",
+      "fuel_type": "k",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654593600,
+      "time_last_updated": "2022-06-07 14:50",
+      "time_eta_ut": 1654608120,
+      "time_eta": "2022-06-07 18:52"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 2950.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 5400.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 30.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "Court Complex Mulathivu, Mullaitivu, Sri Lanka"
+}
