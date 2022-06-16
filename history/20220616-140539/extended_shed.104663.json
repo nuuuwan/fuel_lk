@@ -1,0 +1,72 @@
+{
+  "shed_id": 1037,
+  "shed_name": "D A W THILAKARATHNA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:56",
+  "time_last_updated_by_shed_ut": 1655342760,
+  "fuel_type": "p92",
+  "fuel_capacity": 125.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104663",
+  "address": "TOPPUWA JUNCTION",
+  "lat_lng": [
+    7.272743,
+    79.863708
+  ],
+  "time_last_updated_ut": 1655342760,
+  "time_last_updated": "2022-06-16 06:56",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655089800,
+      "time_dispatch": "2022-06-13 08:40",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655090400,
+      "time_last_updated": "2022-06-13 08:50",
+      "time_eta_ut": 1655094180,
+      "time_eta": "2022-06-13 09:53"
+    },
+    {
+      "time_dispatch_ut": 1654743000,
+      "time_dispatch": "2022-06-09 08:20",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654748640,
+      "time_eta": "2022-06-09 09:54"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 125.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 215.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "7VC7+X8G, Gampaha, Sri Lanka"
+}
