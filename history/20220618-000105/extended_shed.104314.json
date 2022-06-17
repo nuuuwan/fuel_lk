@@ -1,0 +1,73 @@
+{
+  "shed_id": 981,
+  "shed_name": "S N KANDANAARACHCHI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:55",
+  "time_last_updated_by_shed_ut": 1655436300,
+  "fuel_type": "p92",
+  "fuel_capacity": 1120.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "104314",
+  "address": "Weweldeniya",
+  "lat_lng": [
+    7.192987,
+    80.151901
+  ],
+  "time_last_updated_ut": 1655436300,
+  "time_last_updated": "2022-06-17 08:55",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655446080,
+      "time_dispatch": "2022-06-17 11:38",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655446500,
+      "time_last_updated": "2022-06-17 11:45",
+      "time_eta_ut": 1655452260,
+      "time_eta": "2022-06-17 13:21"
+    },
+    {
+      "time_dispatch_ut": 1655362860,
+      "time_dispatch": "2022-06-16 12:31",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655363400,
+      "time_last_updated": "2022-06-16 12:40",
+      "time_eta_ut": 1655368800,
+      "time_eta": "2022-06-16 14:10"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1120.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 750.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1820.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 413.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 503.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

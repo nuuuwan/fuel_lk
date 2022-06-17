@@ -1,0 +1,95 @@
+{
+  "shed_id": 44,
+  "shed_name": "BADULLA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:29",
+  "time_last_updated_by_shed_ut": 1655431140,
+  "fuel_type": "p92",
+  "fuel_capacity": 1348.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100055",
+  "address": "King's Street, Badulla",
+  "lat_lng": [
+    6.986652,
+    81.057526
+  ],
+  "time_last_updated_ut": 1655431140,
+  "time_last_updated": "2022-06-17 07:29",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655448960,
+      "time_dispatch": "2022-06-17 12:26",
+      "fuel_type": "d",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655449500,
+      "time_last_updated": "2022-06-17 12:35",
+      "time_eta_ut": 1655449740,
+      "time_eta": "2022-06-17 12:39"
+    },
+    {
+      "time_dispatch_ut": 1655361180,
+      "time_dispatch": "2022-06-16 12:03",
+      "fuel_type": "p92",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655361600,
+      "time_last_updated": "2022-06-16 12:10",
+      "time_eta_ut": 1655361960,
+      "time_eta": "2022-06-16 12:16"
+    },
+    {
+      "time_dispatch_ut": 1655265600,
+      "time_dispatch": "2022-06-15 09:30",
+      "fuel_type": "k",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655266200,
+      "time_last_updated": "2022-06-15 09:40",
+      "time_eta_ut": 1655266380,
+      "time_eta": "2022-06-15 09:43"
+    },
+    {
+      "time_dispatch_ut": 1654592580,
+      "time_dispatch": "2022-06-07 14:33",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654593000,
+      "time_last_updated": "2022-06-07 14:40",
+      "time_eta_ut": 1654618320,
+      "time_eta": "2022-06-07 21:42"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1348.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1575.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 580.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 251.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 251.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "shed_id": 25,
+  "shed_name": "L.W.CABRAAL",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:26",
+  "time_last_updated_by_shed_ut": 1655438160,
+  "fuel_type": "p92",
+  "fuel_capacity": 540.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100032",
+  "address": "105, 1 Kandy Rd, Kiribathgoda",
+  "lat_lng": [
+    6.97958,
+    79.928375
+  ],
+  "time_last_updated_ut": 1655438160,
+  "time_last_updated": "2022-06-17 09:26",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655377020,
+      "time_dispatch": "2022-06-16 16:27",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655377500,
+      "time_last_updated": "2022-06-16 16:35",
+      "time_eta_ut": 1655379060,
+      "time_eta": "2022-06-16 17:01"
+    },
+    {
+      "time_dispatch_ut": 1655115300,
+      "time_dispatch": "2022-06-13 15:45",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655115900,
+      "time_last_updated": "2022-06-13 15:55",
+      "time_eta_ut": 1655117340,
+      "time_eta": "2022-06-13 16:19"
+    },
+    {
+      "time_dispatch_ut": 1655092560,
+      "time_dispatch": "2022-06-13 09:26",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655093100,
+      "time_last_updated": "2022-06-13 09:35",
+      "time_eta_ut": 1655094600,
+      "time_eta": "2022-06-13 10:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 540.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 166.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 693.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

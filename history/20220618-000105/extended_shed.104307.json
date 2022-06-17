@@ -1,0 +1,84 @@
+{
+  "shed_id": 977,
+  "shed_name": "MAYADUNNE FILLING CENTER",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:00",
+  "time_last_updated_by_shed_ut": 1655433000,
+  "fuel_type": "p92",
+  "fuel_capacity": 162.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 10:08",
+  "eta_ut": 1655440680,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104307",
+  "address": "Fuel Station, A12, Anuradhapura",
+  "lat_lng": [
+    8.353874,
+    80.432739
+  ],
+  "time_last_updated_ut": 1655433000,
+  "time_last_updated": "2022-06-17 08:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655470920,
+      "time_dispatch": "2022-06-17 18:32",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655471400,
+      "time_last_updated": "2022-06-17 18:40",
+      "time_eta_ut": 1655494320,
+      "time_eta": "2022-06-18 01:02"
+    },
+    {
+      "time_dispatch_ut": 1655439900,
+      "time_dispatch": "2022-06-17 09:55",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655440500,
+      "time_last_updated": "2022-06-17 10:05",
+      "time_eta_ut": 1655440680,
+      "time_eta": "2022-06-17 10:08"
+    },
+    {
+      "time_dispatch_ut": 1655103660,
+      "time_dispatch": "2022-06-13 12:31",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655104200,
+      "time_last_updated": "2022-06-13 12:40",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 162.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 441.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
