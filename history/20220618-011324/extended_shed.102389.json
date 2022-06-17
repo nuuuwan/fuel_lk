@@ -1,0 +1,73 @@
+{
+  "shed_id": 750,
+  "shed_name": "SAMPATH ENTERPRISES",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 14:59",
+  "eta_ut": 1655458140,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102389",
+  "address": "Dehiwala - Mount Lavinia",
+  "lat_lng": [
+    6.842413,
+    79.866882
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655458680,
+      "time_dispatch": "2022-06-17 15:08",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655459100,
+      "time_last_updated": "2022-06-17 15:15",
+      "time_eta_ut": 1655461020,
+      "time_eta": "2022-06-17 15:47"
+    },
+    {
+      "time_dispatch_ut": 1655455800,
+      "time_dispatch": "2022-06-17 14:20",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655456400,
+      "time_last_updated": "2022-06-17 14:30",
+      "time_eta_ut": 1655458140,
+      "time_eta": "2022-06-17 14:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

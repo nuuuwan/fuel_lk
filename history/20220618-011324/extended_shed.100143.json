@@ -1,0 +1,95 @@
+{
+  "shed_id": 115,
+  "shed_name": "HIGHWAY ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:19",
+  "time_last_updated_by_shed_ut": 1655434140,
+  "fuel_type": "p92",
+  "fuel_capacity": 326.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100143",
+  "address": "Fuel Station, Dehiwela - Maharagama Road, Maharagama",
+  "lat_lng": [
+    6.843367,
+    79.923164
+  ],
+  "time_last_updated_ut": 1655434140,
+  "time_last_updated": "2022-06-17 08:19",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655460420,
+      "time_dispatch": "2022-06-17 15:37",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655460900,
+      "time_last_updated": "2022-06-17 15:45",
+      "time_eta_ut": 1655462760,
+      "time_eta": "2022-06-17 16:16"
+    },
+    {
+      "time_dispatch_ut": 1655441520,
+      "time_dispatch": "2022-06-17 10:22",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655442000,
+      "time_last_updated": "2022-06-17 10:30",
+      "time_eta_ut": 1655443860,
+      "time_eta": "2022-06-17 11:01"
+    },
+    {
+      "time_dispatch_ut": 1655089080,
+      "time_dispatch": "2022-06-13 08:28",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655089800,
+      "time_last_updated": "2022-06-13 08:40",
+      "time_eta_ut": 1655091420,
+      "time_eta": "2022-06-13 09:07"
+    },
+    {
+      "time_dispatch_ut": 1655024460,
+      "time_dispatch": "2022-06-12 14:31",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655025000,
+      "time_last_updated": "2022-06-12 14:40",
+      "time_eta_ut": 1655026800,
+      "time_eta": "2022-06-12 15:10"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 326.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 247.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 326.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 326.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
