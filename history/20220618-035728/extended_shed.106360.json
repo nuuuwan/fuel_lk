@@ -1,0 +1,73 @@
+{
+  "shed_id": 1279,
+  "shed_name": "J A YOGANATHAN",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:32",
+  "time_last_updated_by_shed_ut": 1655442120,
+  "fuel_type": "p92",
+  "fuel_capacity": 50.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "106360",
+  "address": "37, Station Cross Rd, Batticaloa",
+  "lat_lng": [
+    7.724185,
+    81.701073
+  ],
+  "time_last_updated_ut": 1655442120,
+  "time_last_updated": "2022-06-17 10:32",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655436360,
+      "time_dispatch": "2022-06-17 08:56",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655437500,
+      "time_last_updated": "2022-06-17 09:15",
+      "time_eta_ut": 1655437140,
+      "time_eta": "2022-06-17 09:09"
+    },
+    {
+      "time_dispatch_ut": 1655089800,
+      "time_dispatch": "2022-06-13 08:40",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655091000,
+      "time_last_updated": "2022-06-13 09:00",
+      "time_eta_ut": 1655090580,
+      "time_eta": "2022-06-13 08:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 50.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 50.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

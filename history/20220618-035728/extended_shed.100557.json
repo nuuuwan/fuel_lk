@@ -1,0 +1,73 @@
+{
+  "shed_id": 462,
+  "shed_name": "B.V.JAYAWARDANA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 16:14",
+  "time_last_updated_by_shed_ut": 1655462640,
+  "fuel_type": "p92",
+  "fuel_capacity": 212.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100557",
+  "address": "Colombo - Batticaloa Hwy, Pelmadulla",
+  "lat_lng": [
+    6.624773,
+    80.539978
+  ],
+  "time_last_updated_ut": 1655462640,
+  "time_last_updated": "2022-06-17 16:14",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655459340,
+      "time_dispatch": "2022-06-17 15:19",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655460000,
+      "time_last_updated": "2022-06-17 15:30",
+      "time_eta_ut": 1655472720,
+      "time_eta": "2022-06-17 19:02"
+    },
+    {
+      "time_dispatch_ut": 1655111820,
+      "time_dispatch": "2022-06-13 14:47",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655112300,
+      "time_last_updated": "2022-06-13 14:55",
+      "time_eta_ut": 1655124420,
+      "time_eta": "2022-06-13 18:17"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 212.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 212.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 600.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 337.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 212.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
