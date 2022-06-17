@@ -129,6 +129,8 @@ def write_extended_shed_list():
     json_file = os.path.join(DIR_LATEST, 'extended_shed_list.json')
     JSONFile(json_file).write(sorted_extended_shed_list)
     log.info(f'Wrote {n_extended_shed_list} extended sheds to {json_file}')
+    
+    return sorted_extended_shed_list
 
 
 def copy_latest_to_history():
@@ -145,7 +147,7 @@ def get_readme_file():
 
 
 def write_readme(
-        extended_shed_list,
+        sorted_extended_shed_list,
         filtered_shed_list,
         time_id,
         do_backpopulate,
@@ -169,13 +171,13 @@ def write_readme(
         modes.append(' backpopulate')
     modes_str = ' +'.join(modes)
 
-    n_extended_shed_list = len(extended_shed_list)
+    n_sorted_extended_shed_list = len(sorted_extended_shed_list)
     n_filtered_shed_list = len(filtered_shed_list)
     new_lines = [
         '# Fuel.LK',
-        f'*Last updated at {time_id} *',
+        f'*Last updated at {time_id}*',
         f'* [{time_id}{modes_str}]' +
-        f' Updated {n_filtered_shed_list}/{n_extended_shed_list} sheds.',
+        f' Updated {n_filtered_shed_list}/{n_sorted_extended_shed_list} sheds.',
     ]
     lines = new_lines + lines[2:]
 
@@ -229,11 +231,11 @@ def run_pipeline(
         log.info('[do_write_LEGACY_shed_status_list]')
         write_LEGACY_shed_status_list(extended_shed_list)
 
-    write_extended_shed_list()
+    sorted_extended_shed_list = write_extended_shed_list()
 
     time_id = copy_latest_to_history()
     write_readme(
-        extended_shed_list,
+        sorted_extended_shed_list,
         filtered_shed_list,
         time_id,
         do_backpopulate,
