@@ -1,0 +1,73 @@
+{
+  "shed_id": 947,
+  "shed_name": "K MAHENDREN",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:04",
+  "time_last_updated_by_shed_ut": 1655433240,
+  "fuel_type": "p92",
+  "fuel_capacity": 900.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 22:07",
+  "eta_ut": 1655483820,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103962",
+  "address": "Mulliyawalai",
+  "lat_lng": [
+    9.227772,
+    80.798775
+  ],
+  "time_last_updated_ut": 1655433240,
+  "time_last_updated": "2022-06-17 08:04",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655469180,
+      "time_dispatch": "2022-06-17 18:03",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655469600,
+      "time_last_updated": "2022-06-17 18:10",
+      "time_eta_ut": 1655483820,
+      "time_eta": "2022-06-17 22:07"
+    },
+    {
+      "time_dispatch_ut": 1655115240,
+      "time_dispatch": "2022-06-13 15:44",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655115600,
+      "time_last_updated": "2022-06-13 15:50",
+      "time_eta_ut": 1655129880,
+      "time_eta": "2022-06-13 19:48"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 900.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 340.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

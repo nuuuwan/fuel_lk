@@ -1,0 +1,82 @@
+{
+  "shed_id": 1327,
+  "shed_name": "B S COORAY",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 10:27",
+  "time_last_updated_by_shed_ut": 1655355420,
+  "fuel_type": "p92",
+  "fuel_capacity": 231.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "106618",
+  "address": "Ambathale",
+  "lat_lng": [
+    6.935319,
+    79.947235
+  ],
+  "time_last_updated_ut": 1655355420,
+  "time_last_updated": "2022-06-16 10:27",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655275500,
+      "time_dispatch": "2022-06-15 12:15",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655276100,
+      "time_last_updated": "2022-06-15 12:25",
+      "time_eta_ut": 1655277540,
+      "time_eta": "2022-06-15 12:49"
+    },
+    {
+      "time_dispatch_ut": 1655208540,
+      "time_dispatch": "2022-06-14 17:39",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655209200,
+      "time_last_updated": "2022-06-14 17:50",
+      "time_eta_ut": 1655210580,
+      "time_eta": "2022-06-14 18:13"
+    },
+    {
+      "time_dispatch_ut": 1654927200,
+      "time_dispatch": "2022-06-11 11:30",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654927800,
+      "time_last_updated": "2022-06-11 11:40",
+      "time_eta_ut": 1654929240,
+      "time_eta": "2022-06-11 12:04"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 231.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 232.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1164.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
