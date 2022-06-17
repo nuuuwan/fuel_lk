@@ -1,0 +1,72 @@
+{
+  "shed_id": 194,
+  "shed_name": "NAWALAPITIYA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 10:24",
+  "time_last_updated_by_shed_ut": 1655268840,
+  "fuel_type": "p92",
+  "fuel_capacity": 854.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100236",
+  "address": "Nawalapitiya",
+  "lat_lng": [
+    7.057021,
+    80.535347
+  ],
+  "time_last_updated_ut": 1655268840,
+  "time_last_updated": "2022-06-15 10:24",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655296800,
+      "time_dispatch": "2022-06-15 18:10",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655297400,
+      "time_last_updated": "2022-06-15 18:20",
+      "time_eta_ut": 1655301180,
+      "time_eta": "2022-06-15 19:23"
+    },
+    {
+      "time_dispatch_ut": 1655096160,
+      "time_dispatch": "2022-06-13 10:26",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097000,
+      "time_last_updated": "2022-06-13 10:40",
+      "time_eta_ut": 1655100540,
+      "time_eta": "2022-06-13 11:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 854.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1300.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 154.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "3G4P+R4W, Nawalapitiya, Sri Lanka"
+}
