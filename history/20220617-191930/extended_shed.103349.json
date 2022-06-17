@@ -1,0 +1,84 @@
+{
+  "shed_id": 853,
+  "shed_name": "RUWAN SISIL DISSANAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:28",
+  "time_last_updated_by_shed_ut": 1655438280,
+  "fuel_type": "p92",
+  "fuel_capacity": 394.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "103349",
+  "address": "Nelluwa Filling Station, B411, Neluwa",
+  "lat_lng": [
+    6.377562,
+    80.36132
+  ],
+  "time_last_updated_ut": 1655438280,
+  "time_last_updated": "2022-06-17 09:28",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655201700,
+      "time_dispatch": "2022-06-14 15:45",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655202300,
+      "time_last_updated": "2022-06-14 15:55",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654955520,
+      "time_dispatch": "2022-06-11 19:22",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654956180,
+      "time_last_updated": "2022-06-11 19:33",
+      "time_eta_ut": 1654970160,
+      "time_eta": "2022-06-11 23:26"
+    },
+    {
+      "time_dispatch_ut": 1654765800,
+      "time_dispatch": "2022-06-09 14:40",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654774800,
+      "time_eta": "2022-06-09 17:10"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 394.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 325.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 498.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 325.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 451.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
