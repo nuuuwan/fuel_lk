@@ -1,0 +1,84 @@
+{
+  "shed_id": 841,
+  "shed_name": " L.A.K.GEETHIKA KUMARI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:41",
+  "time_last_updated_by_shed_ut": 1655435460,
+  "fuel_type": "p92",
+  "fuel_capacity": 70.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 17:53",
+  "eta_ut": 1655468580,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "103228",
+  "address": "Lanka Filling Station, R4, Thelulla Janapadhaya Ethiliwewa Wellawaya,Thelulla",
+  "lat_lng": [
+    6.595214,
+    81.142189
+  ],
+  "time_last_updated_ut": 1655435460,
+  "time_last_updated": "2022-06-17 08:41",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655459580,
+      "time_dispatch": "2022-06-17 15:23",
+      "fuel_type": "p92",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655460000,
+      "time_last_updated": "2022-06-17 15:30",
+      "time_eta_ut": 1655468580,
+      "time_eta": "2022-06-17 17:53"
+    },
+    {
+      "time_dispatch_ut": 1655203380,
+      "time_dispatch": "2022-06-14 16:13",
+      "fuel_type": "d",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655203800,
+      "time_last_updated": "2022-06-14 16:20",
+      "time_eta_ut": 1655212380,
+      "time_eta": "2022-06-14 18:43"
+    },
+    {
+      "time_dispatch_ut": 1655034540,
+      "time_dispatch": "2022-06-12 17:19",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655035200,
+      "time_last_updated": "2022-06-12 17:30",
+      "time_eta_ut": 1655058720,
+      "time_eta": "2022-06-13 00:02"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 70.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 56.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 15.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

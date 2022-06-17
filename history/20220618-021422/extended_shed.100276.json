@@ -1,0 +1,84 @@
+{
+  "shed_id": 227,
+  "shed_name": "KEGALLE MPCS LTD.",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 11:45",
+  "time_last_updated_by_shed_ut": 1655446500,
+  "fuel_type": "p92",
+  "fuel_capacity": 439.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 15:46",
+  "eta_ut": 1655460960,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100276",
+  "address": "Ceypetco Filling Station, Colombo - Kandy Rd, Kegalle",
+  "lat_lng": [
+    7.251178,
+    80.333275
+  ],
+  "time_last_updated_ut": 1655446500,
+  "time_last_updated": "2022-06-17 11:45",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655451960,
+      "time_dispatch": "2022-06-17 13:16",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655452500,
+      "time_last_updated": "2022-06-17 13:25",
+      "time_eta_ut": 1655460960,
+      "time_eta": "2022-06-17 15:46"
+    },
+    {
+      "time_dispatch_ut": 1655384040,
+      "time_dispatch": "2022-06-16 18:24",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655384700,
+      "time_last_updated": "2022-06-16 18:35",
+      "time_eta_ut": 1655393280,
+      "time_eta": "2022-06-16 20:58"
+    },
+    {
+      "time_dispatch_ut": 1655218200,
+      "time_dispatch": "2022-06-14 20:20",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655218800,
+      "time_last_updated": "2022-06-14 20:30",
+      "time_eta_ut": 1655227440,
+      "time_eta": "2022-06-14 22:54"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 439.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 839.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 3573.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
