@@ -1,0 +1,71 @@
+{
+  "shed_id": 139,
+  "shed_name": "IMPERIAL AUTO CARE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 13:49",
+  "time_last_updated_by_shed_ut": 1655367540,
+  "fuel_type": "p92",
+  "fuel_capacity": 497.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100170",
+  "address": "A2, Dehiwala-mount Lavinia",
+  "lat_lng": [
+    6.861071,
+    79.863884
+  ],
+  "time_last_updated_ut": 1655367540,
+  "time_last_updated": "2022-06-16 13:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655197620,
+      "time_dispatch": "2022-06-14 14:37",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655198100,
+      "time_last_updated": "2022-06-14 14:45",
+      "time_eta_ut": 1655199660,
+      "time_eta": "2022-06-14 15:11"
+    },
+    {
+      "time_dispatch_ut": 1655109120,
+      "time_dispatch": "2022-06-13 14:02",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655109600,
+      "time_last_updated": "2022-06-13 14:10",
+      "time_eta_ut": 1655111160,
+      "time_eta": "2022-06-13 14:36"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 497.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 325.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
