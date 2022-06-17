@@ -1,0 +1,72 @@
+{
+  "shed_id": 141,
+  "shed_name": "DICKWELLA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:11",
+  "time_last_updated_by_shed_ut": 1655350860,
+  "fuel_type": "p92",
+  "fuel_capacity": 727.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100172",
+  "address": "Colombo - Galle - Hambantota - Wellawaya Highway, Dondra",
+  "lat_lng": [
+    5.929872,
+    80.592674
+  ],
+  "time_last_updated_ut": 1655350860,
+  "time_last_updated": "2022-06-16 09:11",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655101860,
+      "time_dispatch": "2022-06-13 12:01",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655102400,
+      "time_last_updated": "2022-06-13 12:10",
+      "time_eta_ut": 1655103660,
+      "time_eta": "2022-06-13 12:31"
+    },
+    {
+      "time_dispatch_ut": 1654839480,
+      "time_dispatch": "2022-06-10 11:08",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654839900,
+      "time_last_updated": "2022-06-10 11:15",
+      "time_eta_ut": 1654841280,
+      "time_eta": "2022-06-10 11:38"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 727.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 545.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1227.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "Kuruduwatta Junction Bus Stop, A2, Dondra, Sri Lanka"
+}
