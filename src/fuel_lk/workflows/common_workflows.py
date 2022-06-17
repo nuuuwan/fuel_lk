@@ -132,7 +132,7 @@ def write_extended_shed_list():
 
 
 def copy_latest_to_history():
-    time_id = timex.get_time_id()
+    time_id = timex.get_time_id(timezone=timex.TIMEZONE_OFFSET_LK)
     dir_history_item = os.path.join(DIR_HISTORY, time_id)
     os.system(f'mkdir {dir_history_item}')
     os.system(f'cp -r {DIR_LATEST}/* {dir_history_item}/')
@@ -159,7 +159,7 @@ def write_readme(
     if not lines:
         lines = [
             '# Fuel.LK',
-            f'*Last updated at {time_id}*',
+            '',
         ]
 
     modes = []
@@ -171,11 +171,13 @@ def write_readme(
 
     n_extended_shed_list = len(extended_shed_list)
     n_filtered_shed_list = len(filtered_shed_list)
-    new_line = (
+    new_lines = [
+        '# Fuel.LK',
+        f'*Last updated at {time_id} *',
         f'* [{time_id}{modes_str}]' +
-        f' Updated {n_filtered_shed_list}/{n_extended_shed_list} sheds.'
-    )
-    lines = lines[:2] + [new_line] + lines[2:]
+        f' Updated {n_filtered_shed_list}/{n_extended_shed_list} sheds.',
+    ]
+    lines = new_lines + lines[2:]
 
     f.write('\n\n'.join(lines))
     log.info(f'Wrote {readme_file}')
