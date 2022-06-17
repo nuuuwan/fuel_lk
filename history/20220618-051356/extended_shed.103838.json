@@ -1,0 +1,62 @@
+{
+  "shed_id": 920,
+  "shed_name": "FISHERY DEPARTMENT",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:18",
+  "time_last_updated_by_shed_ut": 1655434080,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "103838",
+  "address": "Muttur",
+  "lat_lng": [
+    8.463533,
+    81.267403
+  ],
+  "time_last_updated_ut": 1655434080,
+  "time_last_updated": "2022-06-17 08:18",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655300340,
+      "time_dispatch": "2022-06-15 19:09",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655300700,
+      "time_last_updated": "2022-06-15 19:15",
+      "time_eta_ut": 1655331720,
+      "time_eta": "2022-06-16 03:52"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 10.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

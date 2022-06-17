@@ -1,0 +1,84 @@
+{
+  "shed_id": 306,
+  "shed_name": "ALAWWA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:05",
+  "time_last_updated_by_shed_ut": 1655436900,
+  "fuel_type": "p92",
+  "fuel_capacity": 200.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100373",
+  "address": "Co-op Filling Station, B9, Alawwa ",
+  "lat_lng": [
+    7.294089,
+    80.240273
+  ],
+  "time_last_updated_ut": 1655436900,
+  "time_last_updated": "2022-06-17 09:05",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655286000,
+      "time_dispatch": "2022-06-15 15:10",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655286600,
+      "time_last_updated": "2022-06-15 15:20",
+      "time_eta_ut": 1655293740,
+      "time_eta": "2022-06-15 17:19"
+    },
+    {
+      "time_dispatch_ut": 1655015160,
+      "time_dispatch": "2022-06-12 11:56",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655015700,
+      "time_last_updated": "2022-06-12 12:05",
+      "time_eta_ut": 1655023140,
+      "time_eta": "2022-06-12 14:09"
+    },
+    {
+      "time_dispatch_ut": 1654582320,
+      "time_dispatch": "2022-06-07 11:42",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654582800,
+      "time_last_updated": "2022-06-07 11:50",
+      "time_eta_ut": 1654590300,
+      "time_eta": "2022-06-07 13:55"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 157.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 273.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "shed_id": 116,
+  "shed_name": "AUTO CARE FILLING STATION (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 18:39",
+  "time_last_updated_by_shed_ut": 1655471340,
+  "fuel_type": "p92",
+  "fuel_capacity": 815.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100144",
+  "address": "Auto Care Filling Station, A1, Kegalle",
+  "lat_lng": [
+    7.253952,
+    80.3507
+  ],
+  "time_last_updated_ut": 1655471340,
+  "time_last_updated": "2022-06-17 18:39",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655450520,
+      "time_dispatch": "2022-06-17 12:52",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655451000,
+      "time_last_updated": "2022-06-17 13:00",
+      "time_eta_ut": 1655459760,
+      "time_eta": "2022-06-17 15:26"
+    },
+    {
+      "time_dispatch_ut": 1655394600,
+      "time_dispatch": "2022-06-16 21:20",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655395200,
+      "time_last_updated": "2022-06-16 21:30",
+      "time_eta_ut": 1655404140,
+      "time_eta": "2022-06-16 23:59"
+    },
+    {
+      "time_dispatch_ut": 1654617120,
+      "time_dispatch": "2022-06-07 21:22",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654617600,
+      "time_last_updated": "2022-06-07 21:30",
+      "time_eta_ut": 1654626660,
+      "time_eta": "2022-06-08 00:01"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 815.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1580.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1755.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "shed_id": 389,
+  "shed_name": "M.I.M.SHERIFF & SONS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:25",
+  "time_last_updated_by_shed_ut": 1655438100,
+  "fuel_type": "p92",
+  "fuel_capacity": 487.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100473",
+  "address": "Ceypetco Fuel Station, Colombo - Kandy Rd, Peliyagoda",
+  "lat_lng": [
+    6.956428,
+    79.888992
+  ],
+  "time_last_updated_ut": 1655438100,
+  "time_last_updated": "2022-06-17 09:25",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655469720,
+      "time_dispatch": "2022-06-17 18:12",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655470200,
+      "time_last_updated": "2022-06-17 18:20",
+      "time_eta_ut": 1655471520,
+      "time_eta": "2022-06-17 18:42"
+    },
+    {
+      "time_dispatch_ut": 1655457900,
+      "time_dispatch": "2022-06-17 14:55",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655458500,
+      "time_last_updated": "2022-06-17 15:05",
+      "time_eta_ut": 1655459700,
+      "time_eta": "2022-06-17 15:25"
+    },
+    {
+      "time_dispatch_ut": 1655101560,
+      "time_dispatch": "2022-06-13 11:56",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655102100,
+      "time_last_updated": "2022-06-13 12:05",
+      "time_eta_ut": 1655103600,
+      "time_eta": "2022-06-13 12:30"
+    },
+    {
+      "time_dispatch_ut": 1655009580,
+      "time_dispatch": "2022-06-12 10:23",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655010300,
+      "time_last_updated": "2022-06-12 10:35",
+      "time_eta_ut": 1655011380,
+      "time_eta": "2022-06-12 10:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 487.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 977.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 297.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 337.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
