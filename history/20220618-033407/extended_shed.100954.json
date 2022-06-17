@@ -1,0 +1,73 @@
+{
+  "shed_id": 656,
+  "shed_name": "CEYLON FISHERIES HARBOUR CORPORATIO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:22",
+  "time_last_updated_by_shed_ut": 1655437920,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100954",
+  "address": "Kachcheri Rd, Hambantota",
+  "lat_lng": [
+    6.123332,
+    81.128937
+  ],
+  "time_last_updated_ut": 1655437920,
+  "time_last_updated": "2022-06-17 09:22",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655463120,
+      "time_dispatch": "2022-06-17 16:22",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655463600,
+      "time_last_updated": "2022-06-17 16:30",
+      "time_eta_ut": 1655473920,
+      "time_eta": "2022-06-17 19:22"
+    },
+    {
+      "time_dispatch_ut": 1655131920,
+      "time_dispatch": "2022-06-13 20:22",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655132400,
+      "time_last_updated": "2022-06-13 20:30",
+      "time_eta_ut": 1655157120,
+      "time_eta": "2022-06-14 03:22"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 7217.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 176.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

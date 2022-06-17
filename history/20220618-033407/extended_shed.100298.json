@@ -1,0 +1,84 @@
+{
+  "shed_id": 245,
+  "shed_name": "BUTTALA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 06:56",
+  "time_last_updated_by_shed_ut": 1655429160,
+  "fuel_type": "p92",
+  "fuel_capacity": 1863.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100298",
+  "address": "Main St, Buttala",
+  "lat_lng": [
+    6.760777,
+    81.248421
+  ],
+  "time_last_updated_ut": 1655429160,
+  "time_last_updated": "2022-06-17 06:56",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655372340,
+      "time_dispatch": "2022-06-16 15:09",
+      "fuel_type": "d",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655372700,
+      "time_last_updated": "2022-06-16 15:15",
+      "time_eta_ut": 1655381340,
+      "time_eta": "2022-06-16 17:39"
+    },
+    {
+      "time_dispatch_ut": 1655276040,
+      "time_dispatch": "2022-06-15 12:24",
+      "fuel_type": "p92",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655276400,
+      "time_last_updated": "2022-06-15 12:30",
+      "time_eta_ut": 1655285040,
+      "time_eta": "2022-06-15 14:54"
+    },
+    {
+      "time_dispatch_ut": 1654936020,
+      "time_dispatch": "2022-06-11 13:57",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654936500,
+      "time_last_updated": "2022-06-11 14:05",
+      "time_eta_ut": 1654961460,
+      "time_eta": "2022-06-11 21:01"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1863.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 3162.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 409.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "shed_id": 874,
+  "shed_name": "P S PIYATHILAKE & SONS PVT LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:08",
+  "time_last_updated_by_shed_ut": 1655437080,
+  "fuel_type": "p92",
+  "fuel_capacity": 535.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "103457",
+  "address": "Anuradhapura",
+  "lat_lng": [
+    8.329483,
+    80.407867
+  ],
+  "time_last_updated_ut": 1655437080,
+  "time_last_updated": "2022-06-17 09:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655446800,
+      "time_dispatch": "2022-06-17 11:50",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655447400,
+      "time_last_updated": "2022-06-17 12:00",
+      "time_eta_ut": 1655448600,
+      "time_eta": "2022-06-17 12:20"
+    },
+    {
+      "time_dispatch_ut": 1655119020,
+      "time_dispatch": "2022-06-13 16:47",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655119500,
+      "time_last_updated": "2022-06-13 16:55",
+      "time_eta_ut": 1655120820,
+      "time_eta": "2022-06-13 17:17"
+    },
+    {
+      "time_dispatch_ut": 1654834260,
+      "time_dispatch": "2022-06-10 09:41",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654834800,
+      "time_last_updated": "2022-06-10 09:50",
+      "time_eta_ut": 1654856640,
+      "time_eta": "2022-06-10 15:54"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 535.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 277.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2658.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 248.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

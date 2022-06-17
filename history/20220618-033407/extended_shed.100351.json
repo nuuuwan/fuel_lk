@@ -1,0 +1,84 @@
+{
+  "shed_id": 286,
+  "shed_name": "M.A.ABDUL MAJEED",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:10",
+  "time_last_updated_by_shed_ut": 1655347200,
+  "fuel_type": "p92",
+  "fuel_capacity": 487.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100351",
+  "address": "Lanka Fuel Station, Akkaraipattu - Warapathanchenai",
+  "lat_lng": [
+    7.224365,
+    81.828758
+  ],
+  "time_last_updated_ut": 1655347200,
+  "time_last_updated": "2022-06-16 08:10",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655352660,
+      "time_dispatch": "2022-06-16 09:41",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655354100,
+      "time_last_updated": "2022-06-16 10:05",
+      "time_eta_ut": 1655360640,
+      "time_eta": "2022-06-16 11:54"
+    },
+    {
+      "time_dispatch_ut": 1655127420,
+      "time_dispatch": "2022-06-13 19:07",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655127900,
+      "time_last_updated": "2022-06-13 19:15",
+      "time_eta_ut": 1655165220,
+      "time_eta": "2022-06-14 05:37"
+    },
+    {
+      "time_dispatch_ut": 1654859880,
+      "time_dispatch": "2022-06-10 16:48",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654861200,
+      "time_last_updated": "2022-06-10 17:10",
+      "time_eta_ut": 1654867860,
+      "time_eta": "2022-06-10 19:01"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 487.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 623.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 150.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

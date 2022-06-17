@@ -1,0 +1,73 @@
+{
+  "shed_id": 1220,
+  "shed_name": "M U C SILVA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:50",
+  "time_last_updated_by_shed_ut": 1655436000,
+  "fuel_type": "p92",
+  "fuel_capacity": 520.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "105999",
+  "address": "Katunayake",
+  "lat_lng": [
+    7.123071,
+    79.917885
+  ],
+  "time_last_updated_ut": 1655436000,
+  "time_last_updated": "2022-06-17 08:50",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655434020,
+      "time_dispatch": "2022-06-17 08:17",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655434500,
+      "time_last_updated": "2022-06-17 08:25",
+      "time_eta_ut": 1655436600,
+      "time_eta": "2022-06-17 09:00"
+    },
+    {
+      "time_dispatch_ut": 1655270340,
+      "time_dispatch": "2022-06-15 10:49",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655270700,
+      "time_last_updated": "2022-06-15 10:55",
+      "time_eta_ut": 1655274180,
+      "time_eta": "2022-06-15 11:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 520.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 230.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 460.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 460.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

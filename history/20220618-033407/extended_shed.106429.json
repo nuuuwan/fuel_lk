@@ -1,0 +1,95 @@
+{
+  "shed_id": 1297,
+  "shed_name": "D D KASTHURIARACHCHI & SONS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:36",
+  "time_last_updated_by_shed_ut": 1655442360,
+  "fuel_type": "p92",
+  "fuel_capacity": 1791.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "106429",
+  "address": "Pbc Hwy, Nuwara Eliya 22200",
+  "lat_lng": [
+    6.967128,
+    80.767349
+  ],
+  "time_last_updated_ut": 1655442360,
+  "time_last_updated": "2022-06-17 10:36",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655451720,
+      "time_dispatch": "2022-06-17 13:12",
+      "fuel_type": "p92",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655452200,
+      "time_last_updated": "2022-06-17 13:20",
+      "time_eta_ut": 1655457120,
+      "time_eta": "2022-06-17 14:42"
+    },
+    {
+      "time_dispatch_ut": 1655355840,
+      "time_dispatch": "2022-06-16 10:34",
+      "fuel_type": "d",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655356200,
+      "time_last_updated": "2022-06-16 10:40",
+      "time_eta_ut": 1655361240,
+      "time_eta": "2022-06-16 12:04"
+    },
+    {
+      "time_dispatch_ut": 1655102940,
+      "time_dispatch": "2022-06-13 12:19",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655103600,
+      "time_last_updated": "2022-06-13 12:30",
+      "time_eta_ut": 1655122740,
+      "time_eta": "2022-06-13 17:49"
+    },
+    {
+      "time_dispatch_ut": 1654929780,
+      "time_dispatch": "2022-06-11 12:13",
+      "fuel_type": "k",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654930200,
+      "time_last_updated": "2022-06-11 12:20",
+      "time_eta_ut": 1654935180,
+      "time_eta": "2022-06-11 13:43"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1791.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 643.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2087.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 367.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 248.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
