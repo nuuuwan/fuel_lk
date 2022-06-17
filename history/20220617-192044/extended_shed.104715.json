@@ -1,0 +1,84 @@
+{
+  "shed_id": 1047,
+  "shed_name": "JAYANI ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:44",
+  "time_last_updated_by_shed_ut": 1655439240,
+  "fuel_type": "p92",
+  "fuel_capacity": 650.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "104715",
+  "address": "Colombo - Batticaloa Hwy, Avissawella",
+  "lat_lng": [
+    6.939612,
+    80.162415
+  ],
+  "time_last_updated_ut": 1655439240,
+  "time_last_updated": "2022-06-17 09:44",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655393760,
+      "time_dispatch": "2022-06-16 21:06",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655394300,
+      "time_last_updated": "2022-06-16 21:15",
+      "time_eta_ut": 1655398140,
+      "time_eta": "2022-06-16 22:19"
+    },
+    {
+      "time_dispatch_ut": 1655388000,
+      "time_dispatch": "2022-06-16 19:30",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655388600,
+      "time_last_updated": "2022-06-16 19:40",
+      "time_eta_ut": 1655392380,
+      "time_eta": "2022-06-16 20:43"
+    },
+    {
+      "time_dispatch_ut": 1655110740,
+      "time_dispatch": "2022-06-13 14:29",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655111400,
+      "time_last_updated": "2022-06-13 14:40",
+      "time_eta_ut": 1655116680,
+      "time_eta": "2022-06-13 16:08"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 650.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 628.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1300.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 532.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

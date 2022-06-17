@@ -1,0 +1,73 @@
+{
+  "shed_id": 226,
+  "shed_name": "K.R.SRIYANI JAYASURIYA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:23",
+  "time_last_updated_by_shed_ut": 1655434380,
+  "fuel_type": "p92",
+  "fuel_capacity": 434.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100275",
+  "address": "Ambepussa - Kurunegala - Trincomalee Hwy, Ipalawa",
+  "lat_lng": [
+    7.571224,
+    80.465538
+  ],
+  "time_last_updated_ut": 1655434380,
+  "time_last_updated": "2022-06-17 08:23",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655373600,
+      "time_dispatch": "2022-06-16 15:30",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655374200,
+      "time_last_updated": "2022-06-16 15:40",
+      "time_eta_ut": 1655375940,
+      "time_eta": "2022-06-16 16:09"
+    },
+    {
+      "time_dispatch_ut": 1655175000,
+      "time_dispatch": "2022-06-14 08:20",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655175600,
+      "time_last_updated": "2022-06-14 08:30",
+      "time_eta_ut": 1655177340,
+      "time_eta": "2022-06-14 08:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 434.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1340.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 308.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
