@@ -1,0 +1,73 @@
+{
+  "shed_id": 1139,
+  "shed_name": "S D P HOLDINGS (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:45",
+  "time_last_updated_by_shed_ut": 1655439300,
+  "fuel_type": "p92",
+  "fuel_capacity": 140.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 16:56",
+  "eta_ut": 1655465160,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105216",
+  "address": "35w, Negombo-kurunegala Rd, Bopitiya",
+  "lat_lng": [
+    7.325283,
+    80.067986
+  ],
+  "time_last_updated_ut": 1655439300,
+  "time_last_updated": "2022-06-17 09:45",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655458980,
+      "time_dispatch": "2022-06-17 15:13",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655459700,
+      "time_last_updated": "2022-06-17 15:25",
+      "time_eta_ut": 1655465160,
+      "time_eta": "2022-06-17 16:56"
+    },
+    {
+      "time_dispatch_ut": 1655131680,
+      "time_dispatch": "2022-06-13 20:18",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655132100,
+      "time_last_updated": "2022-06-13 20:25",
+      "time_eta_ut": 1655139120,
+      "time_eta": "2022-06-13 22:22"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 140.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 140.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 140.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 140.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 140.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

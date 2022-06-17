@@ -1,0 +1,73 @@
+{
+  "shed_id": 753,
+  "shed_name": "PELMADULLA MPCS LTD",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-18 05:40",
+  "eta_ut": 1655511000,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102392",
+  "address": "Pelmadulla",
+  "lat_lng": [
+    6.624192,
+    80.542381
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655476020,
+      "time_dispatch": "2022-06-17 19:57",
+      "fuel_type": "p92",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655476500,
+      "time_last_updated": "2022-06-17 20:05",
+      "time_eta_ut": 1655511000,
+      "time_eta": "2022-06-18 05:40"
+    },
+    {
+      "time_dispatch_ut": 1655125740,
+      "time_dispatch": "2022-06-13 18:39",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655126400,
+      "time_last_updated": "2022-06-13 18:50",
+      "time_eta_ut": 1655138340,
+      "time_eta": "2022-06-13 22:09"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
