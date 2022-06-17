@@ -164,15 +164,16 @@ def write_readme(
     if do_test:
         modes.append(' test')
     if do_backpopulate:
-        modes.append(' backpopulate')        
+        modes.append(' backpopulate')
     modes_str = ' +'.join(modes)
 
     n_extended_shed_list = len(extended_shed_list)
     n_filtered_shed_list = len(filtered_shed_list)
-    lines.append(
+    new_line = (
         f'* [{time_id}{modes_str}]' +
-        f' Analayzed {n_extended_shed_list} sheds.' +
-        f' Updated {n_filtered_shed_list} sheds.')
+        f' Updated {n_filtered_shed_list}/{n_extended_shed_list} sheds.'
+    )
+    lines = lines[:2] + [new_line] + lines[2:]
 
     f.write('\n\n'.join(lines))
     log.info(f'Wrote {readme_file}')
@@ -190,6 +191,8 @@ def run_pipeline(
     do_write_LEGACY_shed_status_list=True,
     do_backpopulate=True,
     do_test=True,
+
+
 ):
     log.info(f'run_pipeline: {do_test=}, {do_backpopulate=},'
              + f' {do_write_LEGACY_shed_status_list=}')
