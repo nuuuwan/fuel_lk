@@ -1,0 +1,71 @@
+{
+  "shed_id": 151,
+  "shed_name": "P THAMBIPILLAI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:08",
+  "time_last_updated_by_shed_ut": 1655433480,
+  "fuel_type": "p92",
+  "fuel_capacity": 469.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100183",
+  "address": "KILINOCHCHI-CANCEL",
+  "lat_lng": [
+    9.426185,
+    80.40789
+  ],
+  "time_last_updated_ut": 1655433480,
+  "time_last_updated": "2022-06-17 08:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655376240,
+      "time_dispatch": "2022-06-16 16:14",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655376600,
+      "time_last_updated": "2022-06-16 16:20",
+      "time_eta_ut": 1655392440,
+      "time_eta": "2022-06-16 20:44"
+    },
+    {
+      "time_dispatch_ut": 1655106180,
+      "time_dispatch": "2022-06-13 13:13",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655106600,
+      "time_last_updated": "2022-06-13 13:20",
+      "time_eta_ut": 1655122380,
+      "time_eta": "2022-06-13 17:43"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 469.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 3501.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 503.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 400.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 214.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
