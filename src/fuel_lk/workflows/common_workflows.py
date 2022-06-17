@@ -6,7 +6,7 @@ from fuel_lk.base import Git
 from fuel_lk.common import DIR_DATA, GIT_REPO_URL, log
 from fuel_lk.scraper import shed_scraper, shed_status_scraper
 
-MAX_UPDATE_DELAY_H = 1
+MAX_UPDATE_DELAY_H = 3
 DIR_HISTORY = os.path.join(DIR_DATA, 'history')
 DIR_LATEST = os.path.join(DIR_DATA, 'latest')
 
