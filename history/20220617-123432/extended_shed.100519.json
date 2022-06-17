@@ -1,0 +1,73 @@
+{
+  "shed_id": 430,
+  "shed_name": " R.M.D.S.HEMANTHI PERERA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:25",
+  "time_last_updated_by_shed_ut": 1655430900,
+  "fuel_type": "p92",
+  "fuel_capacity": 41.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100519",
+  "address": "Kirindiwela - Urapola Road, Hanwella",
+  "lat_lng": [
+    6.945888,
+    80.091904
+  ],
+  "time_last_updated_ut": 1655430900,
+  "time_last_updated": "2022-06-17 07:25",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655271300,
+      "time_dispatch": "2022-06-15 11:05",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655271900,
+      "time_last_updated": "2022-06-15 11:15",
+      "time_eta_ut": 1655275140,
+      "time_eta": "2022-06-15 12:09"
+    },
+    {
+      "time_dispatch_ut": 1655271300,
+      "time_dispatch": "2022-06-15 11:05",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655271900,
+      "time_last_updated": "2022-06-15 11:15",
+      "time_eta_ut": 1655275140,
+      "time_eta": "2022-06-15 12:09"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 54.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
