@@ -1,0 +1,73 @@
+{
+  "shed_id": 120,
+  "shed_name": " AKKARAIPATTU SOUTH MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:14",
+  "time_last_updated_by_shed_ut": 1655433840,
+  "fuel_type": "p92",
+  "fuel_capacity": 260.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100150",
+  "address": "Main Road, Thambiluvil",
+  "lat_lng": [
+    7.1202,
+    81.852074
+  ],
+  "time_last_updated_ut": 1655433840,
+  "time_last_updated": "2022-06-17 08:14",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655352660,
+      "time_dispatch": "2022-06-16 09:41",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655354100,
+      "time_last_updated": "2022-06-16 10:05",
+      "time_eta_ut": 1655361900,
+      "time_eta": "2022-06-16 12:15"
+    },
+    {
+      "time_dispatch_ut": 1654933740,
+      "time_dispatch": "2022-06-11 13:19",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654935600,
+      "time_last_updated": "2022-06-11 13:50",
+      "time_eta_ut": 1654942980,
+      "time_eta": "2022-06-11 15:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 260.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1300.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

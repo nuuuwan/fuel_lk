@@ -1,0 +1,73 @@
+{
+  "shed_id": 866,
+  "shed_name": "MALALATHUNGA CONSTRUCTION (PVT)LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:45",
+  "time_last_updated_by_shed_ut": 1655439300,
+  "fuel_type": "p92",
+  "fuel_capacity": 830.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "103398",
+  "address": "Aluthgama Road, Neboda",
+  "lat_lng": [
+    6.596445,
+    80.091072
+  ],
+  "time_last_updated_ut": 1655439300,
+  "time_last_updated": "2022-06-17 09:45",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655113320,
+      "time_dispatch": "2022-06-13 15:12",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655113800,
+      "time_last_updated": "2022-06-13 15:20",
+      "time_eta_ut": 1655121300,
+      "time_eta": "2022-06-13 17:25"
+    },
+    {
+      "time_dispatch_ut": 1655098020,
+      "time_dispatch": "2022-06-13 10:57",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655098500,
+      "time_last_updated": "2022-06-13 11:05",
+      "time_eta_ut": 1655106000,
+      "time_eta": "2022-06-13 13:10"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 830.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 750.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 660.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

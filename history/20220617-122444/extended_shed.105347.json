@@ -1,0 +1,73 @@
+{
+  "shed_id": 1150,
+  "shed_name": "Tabo Trasport",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:30",
+  "time_last_updated_by_shed_ut": 1655434800,
+  "fuel_type": "p92",
+  "fuel_capacity": 368.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105347",
+  "address": "Elahara",
+  "lat_lng": [
+    7.788692,
+    80.809189
+  ],
+  "time_last_updated_ut": 1655434800,
+  "time_last_updated": "2022-06-17 08:30",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654926000,
+      "time_dispatch": "2022-06-11 11:10",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654926600,
+      "time_last_updated": "2022-06-11 11:20",
+      "time_eta_ut": 1654935540,
+      "time_eta": "2022-06-11 13:49"
+    },
+    {
+      "time_dispatch_ut": 1654746600,
+      "time_dispatch": "2022-06-09 09:20",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654756140,
+      "time_eta": "2022-06-09 11:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 368.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 170.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 499.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
