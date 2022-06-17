@@ -1,0 +1,73 @@
+{
+  "shed_id": 1076,
+  "shed_name": "J M T B JAYASINGHA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:47",
+  "time_last_updated_by_shed_ut": 1655435820,
+  "fuel_type": "p92",
+  "fuel_capacity": 177.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 18:44",
+  "eta_ut": 1655471640,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104862",
+  "address": "Thirukkondaiadimadu Hwy, Welikanda",
+  "lat_lng": [
+    7.945363,
+    81.244843
+  ],
+  "time_last_updated_ut": 1655435820,
+  "time_last_updated": "2022-06-17 08:47",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655453400,
+      "time_dispatch": "2022-06-17 13:40",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655454000,
+      "time_last_updated": "2022-06-17 13:50",
+      "time_eta_ut": 1655471640,
+      "time_eta": "2022-06-17 18:44"
+    },
+    {
+      "time_dispatch_ut": 1654949580,
+      "time_dispatch": "2022-06-11 17:43",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654950000,
+      "time_last_updated": "2022-06-11 17:50",
+      "time_eta_ut": 1654967820,
+      "time_eta": "2022-06-11 22:47"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 177.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 535.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
