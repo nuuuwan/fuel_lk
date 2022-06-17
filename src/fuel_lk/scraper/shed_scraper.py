@@ -13,15 +13,15 @@ def clean_shed_data(d):
         time_last_updated_by_shed,
     ] = time_utils.get_times(d['lastupdatebyshed'])
 
-
-    if d['eta']:
-        eta_raw, eta_amount = d['eta'].split(',')
-        [
-            eta_ut,
-            eta,
-        ] = time_utils.get_times(eta_raw)
-    else:
-        eta = eta_ut = eta_amount = None    
+    eta = eta_ut = eta_amount = None
+    if d['eta'] and isinstance(d['eta'], str):
+        tokens = d['eta'].split(',')
+        if len(tokens) == 2:
+            eta_raw, eta_amount = tokens
+            [
+                eta_ut,
+                eta,
+            ] = time_utils.get_times(eta_raw)
 
     return dict(
         shed_id=d['shedId'],
