@@ -1,0 +1,84 @@
+{
+  "shed_id": 543,
+  "shed_name": "PUTTALAM MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:20",
+  "time_last_updated_by_shed_ut": 1655441400,
+  "fuel_type": "p92",
+  "fuel_capacity": 136.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100660",
+  "address": "Abhinawaramaya Temple - Wanathavilluwa, Wanathavilluwa",
+  "lat_lng": [
+    8.184828,
+    79.860397
+  ],
+  "time_last_updated_ut": 1655441400,
+  "time_last_updated": "2022-06-17 10:20",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655290380,
+      "time_dispatch": "2022-06-15 16:23",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655291100,
+      "time_last_updated": "2022-06-15 16:35",
+      "time_eta_ut": 1655307120,
+      "time_eta": "2022-06-15 21:02"
+    },
+    {
+      "time_dispatch_ut": 1655022600,
+      "time_dispatch": "2022-06-12 14:00",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655023200,
+      "time_last_updated": "2022-06-12 14:10",
+      "time_eta_ut": 1655040600,
+      "time_eta": "2022-06-12 19:00"
+    },
+    {
+      "time_dispatch_ut": 1654834980,
+      "time_dispatch": "2022-06-10 09:53",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654851300,
+      "time_last_updated": "2022-06-10 14:25",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 136.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 272.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

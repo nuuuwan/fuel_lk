@@ -1,0 +1,95 @@
+{
+  "shed_id": 1296,
+  "shed_name": "IRESHA FILLING STATION (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:44",
+  "time_last_updated_by_shed_ut": 1655442840,
+  "fuel_type": "p92",
+  "fuel_capacity": 2000.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "106428",
+  "address": "Main St, Tissamaharama",
+  "lat_lng": [
+    6.278004,
+    81.285805
+  ],
+  "time_last_updated_ut": 1655442840,
+  "time_last_updated": "2022-06-17 10:44",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655356140,
+      "time_dispatch": "2022-06-16 10:39",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655356800,
+      "time_last_updated": "2022-06-16 10:50",
+      "time_eta_ut": 1655368980,
+      "time_eta": "2022-06-16 14:13"
+    },
+    {
+      "time_dispatch_ut": 1655180880,
+      "time_dispatch": "2022-06-14 09:58",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 19800.0,
+      "time_last_updated_ut": 1655181300,
+      "time_last_updated": "2022-06-14 10:05",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655035740,
+      "time_dispatch": "2022-06-12 17:39",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655036400,
+      "time_last_updated": "2022-06-12 17:50",
+      "time_eta_ut": 1655060940,
+      "time_eta": "2022-06-13 00:39"
+    },
+    {
+      "time_dispatch_ut": 1654866120,
+      "time_dispatch": "2022-06-10 18:32",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654866600,
+      "time_last_updated": "2022-06-10 18:40",
+      "time_eta_ut": 1654891320,
+      "time_eta": "2022-06-11 01:32"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 2000.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 1055.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 5738.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1100.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

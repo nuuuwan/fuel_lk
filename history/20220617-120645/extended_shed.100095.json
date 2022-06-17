@@ -1,0 +1,73 @@
+{
+  "shed_id": 78,
+  "shed_name": "SOMA EDIRISINGHE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:04",
+  "time_last_updated_by_shed_ut": 1655350440,
+  "fuel_type": "p92",
+  "fuel_capacity": 96.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 09:25",
+  "eta_ut": 1655438100,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100095",
+  "address": "629 Dr Danister De Silva Mawatha, Colombo",
+  "lat_lng": [
+    6.939829,
+    79.877853
+  ],
+  "time_last_updated_ut": 1655350440,
+  "time_last_updated": "2022-06-16 09:04",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655437320,
+      "time_dispatch": "2022-06-17 09:12",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655437800,
+      "time_last_updated": "2022-06-17 09:20",
+      "time_eta_ut": 1655438100,
+      "time_eta": "2022-06-17 09:25"
+    },
+    {
+      "time_dispatch_ut": 1655375160,
+      "time_dispatch": "2022-06-16 15:56",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655375700,
+      "time_last_updated": "2022-06-16 16:05",
+      "time_eta_ut": 1655375940,
+      "time_eta": "2022-06-16 16:09"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 96.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 607.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

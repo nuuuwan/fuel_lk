@@ -1,0 +1,73 @@
+{
+  "shed_id": 983,
+  "shed_name": "RUHUNU LANKA IOC FILLING STATION",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 11:07",
+  "eta_ut": 1655444220,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104319",
+  "address": "07, Tissa Road, Ambalanthota",
+  "lat_lng": [
+    6.122764,
+    81.028381
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655436240,
+      "time_dispatch": "2022-06-17 08:54",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655436900,
+      "time_last_updated": "2022-06-17 09:05",
+      "time_eta_ut": 1655444220,
+      "time_eta": "2022-06-17 11:07"
+    },
+    {
+      "time_dispatch_ut": 1655436240,
+      "time_dispatch": "2022-06-17 08:54",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655436900,
+      "time_last_updated": "2022-06-17 09:05",
+      "time_eta_ut": 1655444220,
+      "time_eta": "2022-06-17 11:07"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
