@@ -1,0 +1,73 @@
+{
+  "shed_id": 464,
+  "shed_name": "HARISPATTU SOUTH MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:06",
+  "time_last_updated_by_shed_ut": 1655440560,
+  "fuel_type": "p92",
+  "fuel_capacity": 685.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100559",
+  "address": "Katugastota-kurunegala - Puttalam Highway, Hedeniya",
+  "lat_lng": [
+    7.339813,
+    80.555855
+  ],
+  "time_last_updated_ut": 1655440560,
+  "time_last_updated": "2022-06-17 10:06",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655296800,
+      "time_dispatch": "2022-06-15 18:10",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655297400,
+      "time_last_updated": "2022-06-15 18:20",
+      "time_eta_ut": 1655300400,
+      "time_eta": "2022-06-15 19:10"
+    },
+    {
+      "time_dispatch_ut": 1655180940,
+      "time_dispatch": "2022-06-14 09:59",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655181300,
+      "time_last_updated": "2022-06-14 10:05",
+      "time_eta_ut": 1655184540,
+      "time_eta": "2022-06-14 10:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 685.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 881.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
