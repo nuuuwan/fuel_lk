@@ -1,0 +1,73 @@
+{
+  "shed_id": 822,
+  "shed_name": "KURUNEGALA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:09",
+  "time_last_updated_by_shed_ut": 1655437140,
+  "fuel_type": "p92",
+  "fuel_capacity": 369.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102672",
+  "address": "Co-oparative Filling Station, Pothuhera",
+  "lat_lng": [
+    7.420687,
+    80.328491
+  ],
+  "time_last_updated_ut": 1655437140,
+  "time_last_updated": "2022-06-17 09:09",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655461200,
+      "time_dispatch": "2022-06-17 15:50",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655461800,
+      "time_last_updated": "2022-06-17 16:00",
+      "time_eta_ut": 1655470740,
+      "time_eta": "2022-06-17 18:29"
+    },
+    {
+      "time_dispatch_ut": 1655195820,
+      "time_dispatch": "2022-06-14 14:07",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655196300,
+      "time_last_updated": "2022-06-14 14:15",
+      "time_eta_ut": 1655205600,
+      "time_eta": "2022-06-14 16:50"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 369.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 630.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 390.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "shed_id": 470,
+  "shed_name": "NIYAGAMA PITIGALA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 06:41",
+  "time_last_updated_by_shed_ut": 1655428260,
+  "fuel_type": "p92",
+  "fuel_capacity": 413.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100569",
+  "address": "B158, Pitigala",
+  "lat_lng": [
+    6.346286,
+    80.225449
+  ],
+  "time_last_updated_ut": 1655428260,
+  "time_last_updated": "2022-06-17 06:41",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655191380,
+      "time_dispatch": "2022-06-14 12:53",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655191800,
+      "time_last_updated": "2022-06-14 13:00",
+      "time_eta_ut": 1655204220,
+      "time_eta": "2022-06-14 16:27"
+    },
+    {
+      "time_dispatch_ut": 1654952520,
+      "time_dispatch": "2022-06-11 18:32",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654953000,
+      "time_last_updated": "2022-06-11 18:40",
+      "time_eta_ut": 1654965360,
+      "time_eta": "2022-06-11 22:06"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 413.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 225.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

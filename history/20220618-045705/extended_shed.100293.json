@@ -1,0 +1,84 @@
+{
+  "shed_id": 240,
+  "shed_name": "J.A.ANSAR",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:46",
+  "time_last_updated_by_shed_ut": 1655439360,
+  "fuel_type": "p92",
+  "fuel_capacity": 146.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100293",
+  "address": "Nilaveli - Irrakkandy",
+  "lat_lng": [
+    8.720203,
+    81.174522
+  ],
+  "time_last_updated_ut": 1655439360,
+  "time_last_updated": "2022-06-17 09:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655480880,
+      "time_dispatch": "2022-06-17 21:18",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655481300,
+      "time_last_updated": "2022-06-17 21:25",
+      "time_eta_ut": 1655512020,
+      "time_eta": "2022-06-18 05:57"
+    },
+    {
+      "time_dispatch_ut": 1655446620,
+      "time_dispatch": "2022-06-17 11:47",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655447100,
+      "time_last_updated": "2022-06-17 11:55",
+      "time_eta_ut": 1655468220,
+      "time_eta": "2022-06-17 17:47"
+    },
+    {
+      "time_dispatch_ut": 1654842420,
+      "time_dispatch": "2022-06-10 11:57",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654842900,
+      "time_last_updated": "2022-06-10 12:05",
+      "time_eta_ut": 1654864020,
+      "time_eta": "2022-06-10 17:57"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 146.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 456.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 456.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

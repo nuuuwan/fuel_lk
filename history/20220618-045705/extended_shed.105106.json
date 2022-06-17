@@ -1,0 +1,73 @@
+{
+  "shed_id": 1125,
+  "shed_name": "OKMART HOLDING (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 12:25",
+  "time_last_updated_by_shed_ut": 1655448900,
+  "fuel_type": "p92",
+  "fuel_capacity": 1000.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "105106",
+  "address": "Hatton - Maskeliya - Dalhousie Rd, Hatton",
+  "lat_lng": [
+    6.887876,
+    80.599182
+  ],
+  "time_last_updated_ut": 1655448900,
+  "time_last_updated": "2022-06-17 12:25",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655435880,
+      "time_dispatch": "2022-06-17 08:48",
+      "fuel_type": "p92",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655436300,
+      "time_last_updated": "2022-06-17 08:55",
+      "time_eta_ut": 1655437920,
+      "time_eta": "2022-06-17 09:22"
+    },
+    {
+      "time_dispatch_ut": 1655282460,
+      "time_dispatch": "2022-06-15 14:11",
+      "fuel_type": "d",
+      "plant_name": "Kotagala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655283300,
+      "time_last_updated": "2022-06-15 14:25",
+      "time_eta_ut": 1655284500,
+      "time_eta": "2022-06-15 14:45"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1000.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

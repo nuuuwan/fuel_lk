@@ -1,0 +1,84 @@
+{
+  "shed_id": 448,
+  "shed_name": "MALLIKA SILVA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:58",
+  "time_last_updated_by_shed_ut": 1655436480,
+  "fuel_type": "p92",
+  "fuel_capacity": 178.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100542",
+  "address": "Dickson Moters Rd, Kurunegala",
+  "lat_lng": [
+    7.470927,
+    80.349251
+  ],
+  "time_last_updated_ut": 1655436480,
+  "time_last_updated": "2022-06-17 08:58",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655463900,
+      "time_dispatch": "2022-06-17 16:35",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655464500,
+      "time_last_updated": "2022-06-17 16:45",
+      "time_eta_ut": 1655474940,
+      "time_eta": "2022-06-17 19:39"
+    },
+    {
+      "time_dispatch_ut": 1655358360,
+      "time_dispatch": "2022-06-16 11:16",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655358900,
+      "time_last_updated": "2022-06-16 11:25",
+      "time_eta_ut": 1655359140,
+      "time_eta": "2022-06-16 11:29"
+    },
+    {
+      "time_dispatch_ut": 1655095260,
+      "time_dispatch": "2022-06-13 10:11",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655095800,
+      "time_last_updated": "2022-06-13 10:20",
+      "time_eta_ut": 1655096040,
+      "time_eta": "2022-06-13 10:24"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 178.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 335.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 178.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

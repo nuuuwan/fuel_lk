@@ -1,0 +1,73 @@
+{
+  "shed_id": 867,
+  "shed_name": "INDIKA FILLING STATION",
+  "shed_type": 0,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "103411",
+  "address": "Airport Road, Anuradhapura",
+  "lat_lng": [
+    8.314588,
+    80.421074
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655476020,
+      "time_dispatch": "2022-06-17 19:57",
+      "fuel_type": "d",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655476500,
+      "time_last_updated": "2022-06-17 20:05",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654853040,
+      "time_dispatch": "2022-06-10 14:54",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654853400,
+      "time_last_updated": "2022-06-10 15:00",
+      "time_eta_ut": 1654854840,
+      "time_eta": "2022-06-10 15:24"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
