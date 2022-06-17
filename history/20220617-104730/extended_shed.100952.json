@@ -1,0 +1,62 @@
+{
+  "shed_id": 655,
+  "shed_name": "R.M.INDRANI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:38",
+  "time_last_updated_by_shed_ut": 1655435280,
+  "fuel_type": "p92",
+  "fuel_capacity": 280.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100952",
+  "address": "Passara - Madulsima - Metigahatenna Rd, Madulsima",
+  "lat_lng": [
+    7.040193,
+    81.166328
+  ],
+  "time_last_updated_ut": 1655435280,
+  "time_last_updated": "2022-06-17 08:38",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654834260,
+      "time_dispatch": "2022-06-10 09:41",
+      "fuel_type": "d",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654834800,
+      "time_last_updated": "2022-06-10 09:50",
+      "time_eta_ut": 1654839900,
+      "time_eta": "2022-06-10 11:15"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 280.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

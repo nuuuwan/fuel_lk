@@ -1,0 +1,71 @@
+{
+  "shed_id": 1012,
+  "shed_name": "D.A. Dammika",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104511",
+  "address": "Dambulla.",
+  "lat_lng": [
+    7.903336,
+    80.670105
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655361660,
+      "time_dispatch": "2022-06-16 12:11",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655362200,
+      "time_last_updated": "2022-06-16 12:20",
+      "time_eta_ut": 1655369400,
+      "time_eta": "2022-06-16 14:20"
+    },
+    {
+      "time_dispatch_ut": 1655179200,
+      "time_dispatch": "2022-06-14 09:30",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655179800,
+      "time_last_updated": "2022-06-14 09:40",
+      "time_eta_ut": 1655186940,
+      "time_eta": "2022-06-14 11:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

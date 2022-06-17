@@ -1,0 +1,71 @@
+{
+  "shed_id": 916,
+  "shed_name": "K THURAINAYAGUM",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:01",
+  "time_last_updated_by_shed_ut": 1655346660,
+  "fuel_type": "p92",
+  "fuel_capacity": 156.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "103803",
+  "address": "Periyaporathvu",
+  "lat_lng": [
+    7.524833,
+    81.765808
+  ],
+  "time_last_updated_ut": 1655346660,
+  "time_last_updated": "2022-06-16 08:01",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655096400,
+      "time_dispatch": "2022-06-13 10:30",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655098200,
+      "time_last_updated": "2022-06-13 11:00",
+      "time_eta_ut": 1655100540,
+      "time_eta": "2022-06-13 11:39"
+    },
+    {
+      "time_dispatch_ut": 1654831020,
+      "time_dispatch": "2022-06-10 08:47",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654832700,
+      "time_last_updated": "2022-06-10 09:15",
+      "time_eta_ut": 1654835160,
+      "time_eta": "2022-06-10 09:56"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 156.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 156.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 156.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
