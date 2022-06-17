@@ -1,0 +1,84 @@
+{
+  "shed_id": 694,
+  "shed_name": "MADAWALA ENTERPRISES",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 21:32",
+  "eta_ut": 1655481720,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102330",
+  "address": "370 Avissawella Rd, Pannipitiya",
+  "lat_lng": [
+    6.844866,
+    79.940407
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655465280,
+      "time_dispatch": "2022-06-17 16:58",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655465700,
+      "time_last_updated": "2022-06-17 17:05",
+      "time_eta_ut": 1655467620,
+      "time_eta": "2022-06-17 17:37"
+    },
+    {
+      "time_dispatch_ut": 1655449080,
+      "time_dispatch": "2022-06-17 12:28",
+      "fuel_type": "p92",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655449500,
+      "time_last_updated": "2022-06-17 12:35",
+      "time_eta_ut": 1655481720,
+      "time_eta": "2022-06-17 21:32"
+    },
+    {
+      "time_dispatch_ut": 1655449080,
+      "time_dispatch": "2022-06-17 12:28",
+      "fuel_type": "d",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655449500,
+      "time_last_updated": "2022-06-17 12:35",
+      "time_eta_ut": 1655481720,
+      "time_eta": "2022-06-17 21:32"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
