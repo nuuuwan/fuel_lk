@@ -1,0 +1,84 @@
+{
+  "shed_id": 1219,
+  "shed_name": "TASMA INTERNATIONAL MANPOWER SPLS (",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:45",
+  "time_last_updated_by_shed_ut": 1655435700,
+  "fuel_type": "p92",
+  "fuel_capacity": 611.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 12:09",
+  "eta_ut": 1655447940,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105980",
+  "address": "Siyambalape",
+  "lat_lng": [
+    6.960536,
+    79.996208
+  ],
+  "time_last_updated_ut": 1655435700,
+  "time_last_updated": "2022-06-17 08:45",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655445360,
+      "time_dispatch": "2022-06-17 11:26",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655445900,
+      "time_last_updated": "2022-06-17 11:35",
+      "time_eta_ut": 1655447940,
+      "time_eta": "2022-06-17 12:09"
+    },
+    {
+      "time_dispatch_ut": 1655368440,
+      "time_dispatch": "2022-06-16 14:04",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655369100,
+      "time_last_updated": "2022-06-16 14:15",
+      "time_eta_ut": 1655370780,
+      "time_eta": "2022-06-16 14:43"
+    },
+    {
+      "time_dispatch_ut": 1654945680,
+      "time_dispatch": "2022-06-11 16:38",
+      "fuel_type": "sd",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654946100,
+      "time_last_updated": "2022-06-11 16:45",
+      "time_eta_ut": 1654948020,
+      "time_eta": "2022-06-11 17:17"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 611.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 743.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 344.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 630.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

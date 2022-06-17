@@ -1,0 +1,84 @@
+{
+  "shed_id": 970,
+  "shed_name": "C S MUNASINGHE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:37",
+  "time_last_updated_by_shed_ut": 1655435220,
+  "fuel_type": "p92",
+  "fuel_capacity": 413.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 09:11",
+  "eta_ut": 1655437260,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "104267",
+  "address": "Access Road Nugaduwa,Galle",
+  "lat_lng": [
+    6.033853,
+    80.245407
+  ],
+  "time_last_updated_ut": 1655435220,
+  "time_last_updated": "2022-06-17 08:37",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655461020,
+      "time_dispatch": "2022-06-17 15:47",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655461500,
+      "time_last_updated": "2022-06-17 15:55",
+      "time_eta_ut": 1655475960,
+      "time_eta": "2022-06-17 19:56"
+    },
+    {
+      "time_dispatch_ut": 1655436480,
+      "time_dispatch": "2022-06-17 08:58",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655436900,
+      "time_last_updated": "2022-06-17 09:05",
+      "time_eta_ut": 1655437260,
+      "time_eta": "2022-06-17 09:11"
+    },
+    {
+      "time_dispatch_ut": 1655436480,
+      "time_dispatch": "2022-06-17 08:58",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655436900,
+      "time_last_updated": "2022-06-17 09:05",
+      "time_eta_ut": 1655437260,
+      "time_eta": "2022-06-17 09:11"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 413.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 413.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 413.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 413.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
