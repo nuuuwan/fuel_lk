@@ -2,7 +2,7 @@ name: Backpopulate - Cron
 
 on:
  schedule:
-   - cron:  "15 20 * * *"
+   - cron:  "15 * * * *"
 
 jobs:
   upload-data:
