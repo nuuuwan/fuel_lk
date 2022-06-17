@@ -1,0 +1,62 @@
+{
+  "shed_id": 600,
+  "shed_name": "MS.  CEYLON FISHERY HARBOURS CORPOR",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 06:29",
+  "time_last_updated_by_shed_ut": 1655427540,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100793",
+  "address": "Harbour Rd, Tangalle",
+  "lat_lng": [
+    6.024114,
+    80.798409
+  ],
+  "time_last_updated_ut": 1655427540,
+  "time_last_updated": "2022-06-17 06:29",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655440020,
+      "time_dispatch": "2022-06-17 09:57",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655440500,
+      "time_last_updated": "2022-06-17 10:05",
+      "time_eta_ut": 1655445420,
+      "time_eta": "2022-06-17 11:27"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 571.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

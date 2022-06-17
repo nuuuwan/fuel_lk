@@ -1,0 +1,73 @@
+{
+  "shed_id": 475,
+  "shed_name": "ATTANAGALLA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:56",
+  "time_last_updated_by_shed_ut": 1655432760,
+  "fuel_type": "p92",
+  "fuel_capacity": 450.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 16:21",
+  "eta_ut": 1655463060,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100574",
+  "address": "Hiripitiya South, Veyangoda",
+  "lat_lng": [
+    7.154122,
+    80.058998
+  ],
+  "time_last_updated_ut": 1655432760,
+  "time_last_updated": "2022-06-17 07:56",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655458680,
+      "time_dispatch": "2022-06-17 15:08",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655459400,
+      "time_last_updated": "2022-06-17 15:20",
+      "time_eta_ut": 1655463060,
+      "time_eta": "2022-06-17 16:21"
+    },
+    {
+      "time_dispatch_ut": 1654933800,
+      "time_dispatch": "2022-06-11 13:20",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654934400,
+      "time_last_updated": "2022-06-11 13:30",
+      "time_eta_ut": 1654939200,
+      "time_eta": "2022-06-11 14:50"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 450.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 550.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

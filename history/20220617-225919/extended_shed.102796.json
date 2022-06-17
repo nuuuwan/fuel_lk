@@ -1,0 +1,73 @@
+{
+  "shed_id": 833,
+  "shed_name": "OSAKA LANKA IOC FILLING STATION",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 11:19",
+  "eta_ut": 1655444940,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102796",
+  "address": "Addapallam, Nintavour",
+  "lat_lng": [
+    7.336176,
+    81.846924
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655479920,
+      "time_dispatch": "2022-06-17 21:02",
+      "fuel_type": "d",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1655480400,
+      "time_last_updated": "2022-06-17 21:10",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655438760,
+      "time_dispatch": "2022-06-17 09:36",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655439900,
+      "time_last_updated": "2022-06-17 09:55",
+      "time_eta_ut": 1655444940,
+      "time_eta": "2022-06-17 11:19"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
