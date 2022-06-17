@@ -1,0 +1,71 @@
+{
+  "shed_id": 257,
+  "shed_name": "LAKRUKA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:29",
+  "time_last_updated_by_shed_ut": 1655348340,
+  "fuel_type": "p92",
+  "fuel_capacity": 178.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100313",
+  "address": "Lakruka Filling Station, Naula",
+  "lat_lng": [
+    7.700062,
+    80.653015
+  ],
+  "time_last_updated_ut": 1655348340,
+  "time_last_updated": "2022-06-16 08:29",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655270820,
+      "time_dispatch": "2022-06-15 10:57",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655271300,
+      "time_last_updated": "2022-06-15 11:05",
+      "time_eta_ut": 1655278800,
+      "time_eta": "2022-06-15 13:10"
+    },
+    {
+      "time_dispatch_ut": 1654938420,
+      "time_dispatch": "2022-06-11 14:37",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654938900,
+      "time_last_updated": "2022-06-11 14:45",
+      "time_eta_ut": 1654946400,
+      "time_eta": "2022-06-11 16:50"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 178.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 178.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "shed_id": 280,
+  "shed_name": "D L GAMINI .THILAKARATNE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:34",
+  "time_last_updated_by_shed_ut": 1655435040,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100345",
+  "address": "Maradankadawala - Habarana - Thirukkondaiadimadu Hwy, Polonnaruwa",
+  "lat_lng": [
+    7.941803,
+    81.014854
+  ],
+  "time_last_updated_ut": 1655435040,
+  "time_last_updated": "2022-06-17 08:34",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655359380,
+      "time_dispatch": "2022-06-16 11:33",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655359800,
+      "time_last_updated": "2022-06-16 11:40",
+      "time_eta_ut": 1655374320,
+      "time_eta": "2022-06-16 15:42"
+    },
+    {
+      "time_dispatch_ut": 1655299440,
+      "time_dispatch": "2022-06-15 18:54",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655299800,
+      "time_last_updated": "2022-06-15 19:00",
+      "time_eta_ut": 1655314380,
+      "time_eta": "2022-06-15 23:03"
+    },
+    {
+      "time_dispatch_ut": 1655292180,
+      "time_dispatch": "2022-06-15 16:53",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655292600,
+      "time_last_updated": "2022-06-15 17:00",
+      "time_eta_ut": 1655317380,
+      "time_eta": "2022-06-15 23:53"
+    },
+    {
+      "time_dispatch_ut": 1655094540,
+      "time_dispatch": "2022-06-13 09:59",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655095200,
+      "time_last_updated": "2022-06-13 10:10",
+      "time_eta_ut": 1655119740,
+      "time_eta": "2022-06-13 16:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 5500.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
