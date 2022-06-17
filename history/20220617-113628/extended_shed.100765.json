@@ -1,0 +1,73 @@
+{
+  "shed_id": 588,
+  "shed_name": "KAYTS MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:52",
+  "time_last_updated_by_shed_ut": 1655439720,
+  "fuel_type": "p92",
+  "fuel_capacity": 360.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100765",
+  "address": "Kayts",
+  "lat_lng": [
+    9.694294,
+    79.868935
+  ],
+  "time_last_updated_ut": 1655439720,
+  "time_last_updated": "2022-06-17 09:52",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654948020,
+      "time_dispatch": "2022-06-11 17:17",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654948500,
+      "time_last_updated": "2022-06-11 17:25",
+      "time_eta_ut": 1654953420,
+      "time_eta": "2022-06-11 18:47"
+    },
+    {
+      "time_dispatch_ut": 1654948020,
+      "time_dispatch": "2022-06-11 17:17",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654948500,
+      "time_last_updated": "2022-06-11 17:25",
+      "time_eta_ut": 1654953420,
+      "time_eta": "2022-06-11 18:47"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 360.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 520.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 190.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
