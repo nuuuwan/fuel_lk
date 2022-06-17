@@ -1,0 +1,73 @@
+{
+  "shed_id": 960,
+  "shed_name": "Southern Petroleum (Pvt) Ltd -1",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "104187",
+  "address": "293, Magalle,Galle",
+  "lat_lng": [
+    6.034069,
+    80.236191
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655436420,
+      "time_dispatch": "2022-06-17 08:57",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655436900,
+      "time_last_updated": "2022-06-17 09:05",
+      "time_eta_ut": 1655437200,
+      "time_eta": "2022-06-17 09:10"
+    },
+    {
+      "time_dispatch_ut": 1655116860,
+      "time_dispatch": "2022-06-13 16:11",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655117400,
+      "time_last_updated": "2022-06-13 16:20",
+      "time_eta_ut": 1655117640,
+      "time_eta": "2022-06-13 16:24"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "shed_id": 964,
+  "shed_name": "H C J PERERA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:57",
+  "time_last_updated_by_shed_ut": 1655432820,
+  "fuel_type": "p92",
+  "fuel_capacity": 370.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "104232",
+  "address": "Walgama Junction-Athrugiriya",
+  "lat_lng": [
+    6.864644,
+    79.995895
+  ],
+  "time_last_updated_ut": 1655432820,
+  "time_last_updated": "2022-06-17 07:57",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655361300,
+      "time_dispatch": "2022-06-16 12:05",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655361900,
+      "time_last_updated": "2022-06-16 12:15",
+      "time_eta_ut": 1655363880,
+      "time_eta": "2022-06-16 12:48"
+    },
+    {
+      "time_dispatch_ut": 1655287320,
+      "time_dispatch": "2022-06-15 15:32",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655287800,
+      "time_last_updated": "2022-06-15 15:40",
+      "time_eta_ut": 1655289900,
+      "time_eta": "2022-06-15 16:15"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 370.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 370.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 805.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 349.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 623.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
