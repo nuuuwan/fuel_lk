@@ -1,0 +1,84 @@
+{
+  "shed_id": 330,
+  "shed_name": "D B .DISSANAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:46",
+  "time_last_updated_by_shed_ut": 1655435760,
+  "fuel_type": "p92",
+  "fuel_capacity": 440.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100404",
+  "address": "137 Talawa Rd, Eppawala",
+  "lat_lng": [
+    8.147655,
+    80.409721
+  ],
+  "time_last_updated_ut": 1655435760,
+  "time_last_updated": "2022-06-17 08:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655470920,
+      "time_dispatch": "2022-06-17 18:32",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655471400,
+      "time_last_updated": "2022-06-17 18:40",
+      "time_eta_ut": 1655493300,
+      "time_eta": "2022-06-18 00:45"
+    },
+    {
+      "time_dispatch_ut": 1655179740,
+      "time_dispatch": "2022-06-14 09:39",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655180100,
+      "time_last_updated": "2022-06-14 09:45",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654847340,
+      "time_dispatch": "2022-06-10 13:19",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654848000,
+      "time_last_updated": "2022-06-10 13:30",
+      "time_eta_ut": 1654868940,
+      "time_eta": "2022-06-10 19:19"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 440.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 720.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 403.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 303.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 498.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

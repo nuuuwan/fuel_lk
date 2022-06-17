@@ -1,0 +1,73 @@
+{
+  "shed_id": 892,
+  "shed_name": "K K KONES FILLING STATION",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "103558",
+  "address": "396, 4th Mile Stone, Mannar Road,Nelukkulan, Vavuniya",
+  "lat_lng": [
+    8.762029,
+    80.455338
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655469120,
+      "time_dispatch": "2022-06-17 18:02",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655469600,
+      "time_last_updated": "2022-06-17 18:10",
+      "time_eta_ut": 1655476560,
+      "time_eta": "2022-06-17 20:06"
+    },
+    {
+      "time_dispatch_ut": 1654853040,
+      "time_dispatch": "2022-06-10 14:54",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654853400,
+      "time_last_updated": "2022-06-10 15:00",
+      "time_eta_ut": 1654860480,
+      "time_eta": "2022-06-10 16:58"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

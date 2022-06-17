@@ -1,0 +1,73 @@
+{
+  "shed_id": 186,
+  "shed_name": "KEBITIGOLLAWA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:20",
+  "time_last_updated_by_shed_ut": 1655437800,
+  "fuel_type": "p92",
+  "fuel_capacity": 870.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 20:02",
+  "eta_ut": 1655476320,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100226",
+  "address": "Kebitigollewa",
+  "lat_lng": [
+    8.641194,
+    80.669983
+  ],
+  "time_last_updated_ut": 1655437800,
+  "time_last_updated": "2022-06-17 09:20",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655469120,
+      "time_dispatch": "2022-06-17 18:02",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655469600,
+      "time_last_updated": "2022-06-17 18:10",
+      "time_eta_ut": 1655476320,
+      "time_eta": "2022-06-17 20:02"
+    },
+    {
+      "time_dispatch_ut": 1655469120,
+      "time_dispatch": "2022-06-17 18:02",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655469600,
+      "time_last_updated": "2022-06-17 18:10",
+      "time_eta_ut": 1655476320,
+      "time_eta": "2022-06-17 20:02"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 870.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 345.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 220.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

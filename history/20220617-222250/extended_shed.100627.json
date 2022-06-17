@@ -1,0 +1,84 @@
+{
+  "shed_id": 522,
+  "shed_name": "E.GUNASINGHE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:11",
+  "time_last_updated_by_shed_ut": 1655440860,
+  "fuel_type": "p92",
+  "fuel_capacity": 262.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 11:01",
+  "eta_ut": 1655443860,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100627",
+  "address": "27/8b Lake Rd, Boralesgamuwa",
+  "lat_lng": [
+    6.84346,
+    79.91346
+  ],
+  "time_last_updated_ut": 1655440860,
+  "time_last_updated": "2022-06-17 10:11",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655460420,
+      "time_dispatch": "2022-06-17 15:37",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655460900,
+      "time_last_updated": "2022-06-17 15:45",
+      "time_eta_ut": 1655462760,
+      "time_eta": "2022-06-17 16:16"
+    },
+    {
+      "time_dispatch_ut": 1655441520,
+      "time_dispatch": "2022-06-17 10:22",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655442000,
+      "time_last_updated": "2022-06-17 10:30",
+      "time_eta_ut": 1655443860,
+      "time_eta": "2022-06-17 11:01"
+    },
+    {
+      "time_dispatch_ut": 1655275200,
+      "time_dispatch": "2022-06-15 12:10",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655275800,
+      "time_last_updated": "2022-06-15 12:20",
+      "time_eta_ut": 1655277540,
+      "time_eta": "2022-06-15 12:49"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 262.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 157.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 198.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
