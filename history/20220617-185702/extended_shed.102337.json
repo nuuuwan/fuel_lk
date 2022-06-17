@@ -1,0 +1,71 @@
+{
+  "shed_id": 701,
+  "shed_name": "KEGALLE MPCS LTD",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102337",
+  "address": "Kegalle",
+  "lat_lng": [
+    7.252677,
+    80.34079
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655363820,
+      "time_dispatch": "2022-06-16 12:47",
+      "fuel_type": "p92",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655364300,
+      "time_last_updated": "2022-06-16 12:55",
+      "time_eta_ut": 1655387460,
+      "time_eta": "2022-06-16 19:21"
+    },
+    {
+      "time_dispatch_ut": 1655121840,
+      "time_dispatch": "2022-06-13 17:34",
+      "fuel_type": "d",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655122200,
+      "time_last_updated": "2022-06-13 17:40",
+      "time_eta_ut": 1655145480,
+      "time_eta": "2022-06-14 00:08"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

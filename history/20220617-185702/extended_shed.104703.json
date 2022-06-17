@@ -1,0 +1,71 @@
+{
+  "shed_id": 1045,
+  "shed_name": "A R THILAK KUMARA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 18:24",
+  "time_last_updated_by_shed_ut": 1655384040,
+  "fuel_type": "p92",
+  "fuel_capacity": 1222.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104703",
+  "address": "Weerahela - Tissamaharama",
+  "lat_lng": [
+    6.326458,
+    81.307259
+  ],
+  "time_last_updated_ut": 1655384040,
+  "time_last_updated": "2022-06-16 18:24",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654967520,
+      "time_dispatch": "2022-06-11 22:42",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654968000,
+      "time_last_updated": "2022-06-11 22:50",
+      "time_eta_ut": 1654980900,
+      "time_eta": "2022-06-12 02:25"
+    },
+    {
+      "time_dispatch_ut": 1654858740,
+      "time_dispatch": "2022-06-10 16:29",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654859100,
+      "time_last_updated": "2022-06-10 16:35",
+      "time_eta_ut": 1654872120,
+      "time_eta": "2022-06-10 20:12"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1222.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 213.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1082.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "shed_id": 1280,
+  "shed_name": "K S B P FERNANDO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:47",
+  "time_last_updated_by_shed_ut": 1655435820,
+  "fuel_type": "p92",
+  "fuel_capacity": 252.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "106365",
+  "address": "Puttalam Road, Waikkal",
+  "lat_lng": [
+    7.292034,
+    79.852318
+  ],
+  "time_last_updated_ut": 1655435820,
+  "time_last_updated": "2022-06-17 08:47",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655436660,
+      "time_dispatch": "2022-06-17 09:01",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655437200,
+      "time_last_updated": "2022-06-17 09:10",
+      "time_eta_ut": 1655442600,
+      "time_eta": "2022-06-17 10:40"
+    },
+    {
+      "time_dispatch_ut": 1655299980,
+      "time_dispatch": "2022-06-15 19:03",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655300400,
+      "time_last_updated": "2022-06-15 19:10",
+      "time_eta_ut": 1655305920,
+      "time_eta": "2022-06-15 20:42"
+    },
+    {
+      "time_dispatch_ut": 1655283540,
+      "time_dispatch": "2022-06-15 14:29",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655284200,
+      "time_last_updated": "2022-06-15 14:40",
+      "time_eta_ut": 1655288940,
+      "time_eta": "2022-06-15 15:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 252.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 316.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 154.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 210.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

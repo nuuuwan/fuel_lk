@@ -1,0 +1,82 @@
+{
+  "shed_id": 1225,
+  "shed_name": "I U SOMARATNE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:26",
+  "time_last_updated_by_shed_ut": 1655348160,
+  "fuel_type": "p92",
+  "fuel_capacity": 720.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "106012",
+  "address": "B47, Sri Jayawardenepura Kotte",
+  "lat_lng": [
+    6.873572,
+    79.937477
+  ],
+  "time_last_updated_ut": 1655348160,
+  "time_last_updated": "2022-06-16 08:26",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655359320,
+      "time_dispatch": "2022-06-16 11:32",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655359800,
+      "time_last_updated": "2022-06-16 11:40",
+      "time_eta_ut": 1655361660,
+      "time_eta": "2022-06-16 12:11"
+    },
+    {
+      "time_dispatch_ut": 1655281620,
+      "time_dispatch": "2022-06-15 13:57",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655282100,
+      "time_last_updated": "2022-06-15 14:05",
+      "time_eta_ut": 1655283960,
+      "time_eta": "2022-06-15 14:36"
+    },
+    {
+      "time_dispatch_ut": 1654934280,
+      "time_dispatch": "2022-06-11 13:28",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654935600,
+      "time_last_updated": "2022-06-11 13:50",
+      "time_eta_ut": 1654938120,
+      "time_eta": "2022-06-11 14:32"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 720.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 698.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 645.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 790.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
