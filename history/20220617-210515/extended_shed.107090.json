@@ -1,0 +1,71 @@
+{
+  "shed_id": 1342,
+  "shed_name": "W A I N P A WIJAYASINGHE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 04:03",
+  "time_last_updated_by_shed_ut": 1655332380,
+  "fuel_type": "p92",
+  "fuel_capacity": 26400.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "107090",
+  "address": "Divulapitiya",
+  "lat_lng": [
+    0.0,
+    0.0
+  ],
+  "time_last_updated_ut": 1655332380,
+  "time_last_updated": "2022-06-16 04:03",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655361120,
+      "time_dispatch": "2022-06-16 12:02",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655361600,
+      "time_last_updated": "2022-06-16 12:10",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655280000,
+      "time_dispatch": "2022-06-15 13:30",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655280600,
+      "time_last_updated": "2022-06-15 13:40",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 26400.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 13200.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

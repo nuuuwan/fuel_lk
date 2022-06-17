@@ -1,0 +1,84 @@
+{
+  "shed_id": 945,
+  "shed_name": "EVER PRAY ENTERPRISES (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 11:54",
+  "time_last_updated_by_shed_ut": 1655447040,
+  "fuel_type": "p92",
+  "fuel_capacity": 803.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 23:12",
+  "eta_ut": 1655487720,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "103960",
+  "address": "Pachchilapalli,Pallai",
+  "lat_lng": [
+    9.607298,
+    80.332497
+  ],
+  "time_last_updated_ut": 1655447040,
+  "time_last_updated": "2022-06-17 11:54",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655469180,
+      "time_dispatch": "2022-06-17 18:03",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655469600,
+      "time_last_updated": "2022-06-17 18:10",
+      "time_eta_ut": 1655487720,
+      "time_eta": "2022-06-17 23:12"
+    },
+    {
+      "time_dispatch_ut": 1655361180,
+      "time_dispatch": "2022-06-16 12:03",
+      "fuel_type": "k",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655361600,
+      "time_last_updated": "2022-06-16 12:10",
+      "time_eta_ut": 1655379720,
+      "time_eta": "2022-06-16 17:12"
+    },
+    {
+      "time_dispatch_ut": 1655135580,
+      "time_dispatch": "2022-06-13 21:23",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655136000,
+      "time_last_updated": "2022-06-13 21:30",
+      "time_eta_ut": 1655154120,
+      "time_eta": "2022-06-14 02:32"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 803.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 912.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 6881.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "shed_id": 485,
+  "shed_name": "SALAM &  SONS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 05:32",
+  "time_last_updated_by_shed_ut": 1655424120,
+  "fuel_type": "p92",
+  "fuel_capacity": 200.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100586",
+  "address": "64 Kalpitiya Rd, Norochcholai",
+  "lat_lng": [
+    8.048264,
+    79.737457
+  ],
+  "time_last_updated_ut": 1655424120,
+  "time_last_updated": "2022-06-17 05:32",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654945380,
+      "time_dispatch": "2022-06-11 16:33",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654945800,
+      "time_last_updated": "2022-06-11 16:40",
+      "time_eta_ut": 1654962120,
+      "time_eta": "2022-06-11 21:12"
+    },
+    {
+      "time_dispatch_ut": 1654775760,
+      "time_dispatch": "2022-06-09 17:26",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654791960,
+      "time_eta": "2022-06-09 21:56"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 240.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 40.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 120.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

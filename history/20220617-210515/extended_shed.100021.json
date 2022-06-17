@@ -1,0 +1,73 @@
+{
+  "shed_id": 17,
+  "shed_name": "PRESIDENT SERVICE INSTITUTE FUND",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:09",
+  "time_last_updated_by_shed_ut": 1655429940,
+  "fuel_type": "p92",
+  "fuel_capacity": 1105.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 19:52",
+  "eta_ut": 1655475720,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100021",
+  "address": "Andalla - Tissa, Weerawila",
+  "lat_lng": [
+    6.255541,
+    81.22728
+  ],
+  "time_last_updated_ut": 1655429940,
+  "time_last_updated": "2022-06-17 07:09",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655463120,
+      "time_dispatch": "2022-06-17 16:22",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655463600,
+      "time_last_updated": "2022-06-17 16:30",
+      "time_eta_ut": 1655475720,
+      "time_eta": "2022-06-17 19:52"
+    },
+    {
+      "time_dispatch_ut": 1655183700,
+      "time_dispatch": "2022-06-14 10:45",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655184300,
+      "time_last_updated": "2022-06-14 10:55",
+      "time_eta_ut": 1655196300,
+      "time_eta": "2022-06-14 14:15"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1105.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1037.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 142.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

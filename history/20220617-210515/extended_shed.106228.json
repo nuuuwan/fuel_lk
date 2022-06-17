@@ -1,0 +1,82 @@
+{
+  "shed_id": 1253,
+  "shed_name": "R M ARIYADASA FILLING STATION",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:24",
+  "time_last_updated_by_shed_ut": 1655351640,
+  "fuel_type": "p92",
+  "fuel_capacity": 648.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "106228",
+  "address": "Bandarawela",
+  "lat_lng": [
+    6.832757,
+    80.985527
+  ],
+  "time_last_updated_ut": 1655351640,
+  "time_last_updated": "2022-06-16 09:24",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655350560,
+      "time_dispatch": "2022-06-16 09:06",
+      "fuel_type": "p92",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655351100,
+      "time_last_updated": "2022-06-16 09:15",
+      "time_eta_ut": 1655352900,
+      "time_eta": "2022-06-16 09:45"
+    },
+    {
+      "time_dispatch_ut": 1655350560,
+      "time_dispatch": "2022-06-16 09:06",
+      "fuel_type": "d",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655351100,
+      "time_last_updated": "2022-06-16 09:15",
+      "time_eta_ut": 1655352900,
+      "time_eta": "2022-06-16 09:45"
+    },
+    {
+      "time_dispatch_ut": 1655119860,
+      "time_dispatch": "2022-06-13 17:01",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655120400,
+      "time_last_updated": "2022-06-13 17:10",
+      "time_eta_ut": 1655143500,
+      "time_eta": "2022-06-13 23:35"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 648.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 526.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 498.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 413.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

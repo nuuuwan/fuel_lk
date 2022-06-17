@@ -1,0 +1,71 @@
+{
+  "shed_id": 1238,
+  "shed_name": "P M WIMALASIRI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 12:40",
+  "time_last_updated_by_shed_ut": 1655363400,
+  "fuel_type": "p92",
+  "fuel_capacity": 110.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "106112",
+  "address": "Payagala",
+  "lat_lng": [
+    6.541396,
+    79.970985
+  ],
+  "time_last_updated_ut": 1655363400,
+  "time_last_updated": "2022-06-16 12:40",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655392020,
+      "time_dispatch": "2022-06-16 20:37",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655392500,
+      "time_last_updated": "2022-06-16 20:45",
+      "time_eta_ut": 1655398200,
+      "time_eta": "2022-06-16 22:20"
+    },
+    {
+      "time_dispatch_ut": 1655097360,
+      "time_dispatch": "2022-06-13 10:46",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097900,
+      "time_last_updated": "2022-06-13 10:55",
+      "time_eta_ut": 1655103540,
+      "time_eta": "2022-06-13 12:29"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 110.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 110.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 120.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
