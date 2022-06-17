@@ -1,0 +1,71 @@
+{
+  "shed_id": 1134,
+  "shed_name": "K K N KARUNASIRI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 16:22",
+  "time_last_updated_by_shed_ut": 1655376720,
+  "fuel_type": "p92",
+  "fuel_capacity": 2516.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "105178",
+  "address": "RUWANWELLA",
+  "lat_lng": [
+    7.068483,
+    80.264954
+  ],
+  "time_last_updated_ut": 1655376720,
+  "time_last_updated": "2022-06-16 16:22",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654952580,
+      "time_dispatch": "2022-06-11 18:33",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654953000,
+      "time_last_updated": "2022-06-11 18:40",
+      "time_eta_ut": 1654960320,
+      "time_eta": "2022-06-11 20:42"
+    },
+    {
+      "time_dispatch_ut": 1654934100,
+      "time_dispatch": "2022-06-11 13:25",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654935600,
+      "time_last_updated": "2022-06-11 13:50",
+      "time_eta_ut": 1654943340,
+      "time_eta": "2022-06-11 15:59"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 2516.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 501.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1665.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 596.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

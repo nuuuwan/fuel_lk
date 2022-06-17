@@ -1,0 +1,71 @@
+{
+  "shed_id": 1077,
+  "shed_name": "D K W TRADERS (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:52",
+  "time_last_updated_by_shed_ut": 1655349720,
+  "fuel_type": "p92",
+  "fuel_capacity": 249.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104863",
+  "address": "Tiruwanaketiya-agalawatte Rd, Kalawana",
+  "lat_lng": [
+    6.530879,
+    80.395805
+  ],
+  "time_last_updated_ut": 1655349720,
+  "time_last_updated": "2022-06-16 08:52",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655289780,
+      "time_dispatch": "2022-06-15 16:13",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655290200,
+      "time_last_updated": "2022-06-15 16:20",
+      "time_eta_ut": 1655302920,
+      "time_eta": "2022-06-15 19:52"
+    },
+    {
+      "time_dispatch_ut": 1654860060,
+      "time_dispatch": "2022-06-10 16:51",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654860600,
+      "time_last_updated": "2022-06-10 17:00",
+      "time_eta_ut": 1654873200,
+      "time_eta": "2022-06-10 20:30"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 632.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
