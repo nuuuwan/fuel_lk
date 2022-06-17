@@ -1,0 +1,73 @@
+{
+  "shed_id": 437,
+  "shed_name": "S.T.P.R.DHARMALATHA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:11",
+  "time_last_updated_by_shed_ut": 1655430060,
+  "fuel_type": "p92",
+  "fuel_capacity": 116.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 19:58",
+  "eta_ut": 1655476080,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100527",
+  "address": "B55, Uragasmanhandiya",
+  "lat_lng": [
+    6.343173,
+    80.082344
+  ],
+  "time_last_updated_ut": 1655430060,
+  "time_last_updated": "2022-06-17 07:11",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655466300,
+      "time_dispatch": "2022-06-17 17:15",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655466900,
+      "time_last_updated": "2022-06-17 17:25",
+      "time_eta_ut": 1655476080,
+      "time_eta": "2022-06-17 19:58"
+    },
+    {
+      "time_dispatch_ut": 1654877580,
+      "time_dispatch": "2022-06-10 21:43",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654878000,
+      "time_last_updated": "2022-06-10 21:50",
+      "time_eta_ut": 1654887360,
+      "time_eta": "2022-06-11 00:26"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 301.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 318.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

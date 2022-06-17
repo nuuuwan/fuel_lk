@@ -1,0 +1,73 @@
+{
+  "shed_id": 136,
+  "shed_name": "B.A.M.RIZVI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:42",
+  "time_last_updated_by_shed_ut": 1655431920,
+  "fuel_type": "p92",
+  "fuel_capacity": 70.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100167",
+  "address": "Rideethenna",
+  "lat_lng": [
+    7.964255,
+    81.337364
+  ],
+  "time_last_updated_ut": 1655431920,
+  "time_last_updated": "2022-06-17 07:42",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655440200,
+      "time_dispatch": "2022-06-17 10:00",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655441400,
+      "time_last_updated": "2022-06-17 10:20",
+      "time_eta_ut": 1655447640,
+      "time_eta": "2022-06-17 12:04"
+    },
+    {
+      "time_dispatch_ut": 1654744140,
+      "time_dispatch": "2022-06-09 08:39",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654751580,
+      "time_eta": "2022-06-09 10:43"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 70.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 265.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

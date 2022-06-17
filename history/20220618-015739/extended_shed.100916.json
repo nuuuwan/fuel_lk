@@ -1,0 +1,73 @@
+{
+  "shed_id": 643,
+  "shed_name": "MS.  NEGOMBO SOUTH FISHERMENS CS LT",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:37",
+  "time_last_updated_by_shed_ut": 1655435220,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100916",
+  "address": "Negombo",
+  "lat_lng": [
+    7.204158,
+    79.827736
+  ],
+  "time_last_updated_ut": 1655435220,
+  "time_last_updated": "2022-06-17 08:37",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655479140,
+      "time_dispatch": "2022-06-17 20:49",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655479500,
+      "time_last_updated": "2022-06-17 20:55",
+      "time_eta_ut": 1655484540,
+      "time_eta": "2022-06-17 22:19"
+    },
+    {
+      "time_dispatch_ut": 1655470320,
+      "time_dispatch": "2022-06-17 18:22",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655470800,
+      "time_last_updated": "2022-06-17 18:30",
+      "time_eta_ut": 1655475720,
+      "time_eta": "2022-06-17 19:52"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 720.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 280.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
