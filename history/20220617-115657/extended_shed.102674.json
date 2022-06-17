@@ -1,0 +1,95 @@
+{
+  "shed_id": 824,
+  "shed_name": "M.H.M.FAZLUL HAQ",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:11",
+  "time_last_updated_by_shed_ut": 1655437260,
+  "fuel_type": "p92",
+  "fuel_capacity": 416.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "102674",
+  "address": "112 Kandy - Jaffna Hwy, Matale",
+  "lat_lng": [
+    7.436321,
+    80.623199
+  ],
+  "time_last_updated_ut": 1655437260,
+  "time_last_updated": "2022-06-17 09:11",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655118060,
+      "time_dispatch": "2022-06-13 16:31",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655118600,
+      "time_last_updated": "2022-06-13 16:40",
+      "time_eta_ut": 1655134800,
+      "time_eta": "2022-06-13 21:10"
+    },
+    {
+      "time_dispatch_ut": 1655110020,
+      "time_dispatch": "2022-06-13 14:17",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655110500,
+      "time_last_updated": "2022-06-13 14:25",
+      "time_eta_ut": 1655124960,
+      "time_eta": "2022-06-13 18:26"
+    },
+    {
+      "time_dispatch_ut": 1655021160,
+      "time_dispatch": "2022-06-12 13:36",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655021700,
+      "time_last_updated": "2022-06-12 13:45",
+      "time_eta_ut": 1655037900,
+      "time_eta": "2022-06-12 18:15"
+    },
+    {
+      "time_dispatch_ut": 1655018160,
+      "time_dispatch": "2022-06-12 12:46",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655018700,
+      "time_last_updated": "2022-06-12 12:55",
+      "time_eta_ut": 1655034900,
+      "time_eta": "2022-06-12 17:25"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 416.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 179.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 529.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
