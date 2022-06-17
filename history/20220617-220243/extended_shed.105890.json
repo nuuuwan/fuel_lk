@@ -1,0 +1,73 @@
+{
+  "shed_id": 1213,
+  "shed_name": "C K K SENAVIRATNA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:46",
+  "time_last_updated_by_shed_ut": 1655432160,
+  "fuel_type": "p92",
+  "fuel_capacity": 196.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105890",
+  "address": "Galenbindunuwewa",
+  "lat_lng": [
+    8.280921,
+    80.715919
+  ],
+  "time_last_updated_ut": 1655432160,
+  "time_last_updated": "2022-06-17 07:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655470920,
+      "time_dispatch": "2022-06-17 18:32",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655471400,
+      "time_last_updated": "2022-06-17 18:40",
+      "time_eta_ut": 1655495100,
+      "time_eta": "2022-06-18 01:15"
+    },
+    {
+      "time_dispatch_ut": 1655199180,
+      "time_dispatch": "2022-06-14 15:03",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655199600,
+      "time_last_updated": "2022-06-14 15:10",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 196.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 240.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 620.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 180.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

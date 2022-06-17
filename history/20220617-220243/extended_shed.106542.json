@@ -1,0 +1,73 @@
+{
+  "shed_id": 1313,
+  "shed_name": "D I G D P GUNASEKARA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 17:29",
+  "time_last_updated_by_shed_ut": 1655467140,
+  "fuel_type": "p92",
+  "fuel_capacity": 730.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "106542",
+  "address": "Gonapola",
+  "lat_lng": [
+    6.747908,
+    80.023323
+  ],
+  "time_last_updated_ut": 1655467140,
+  "time_last_updated": "2022-06-17 17:29",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655191980,
+      "time_dispatch": "2022-06-14 13:03",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655192400,
+      "time_last_updated": "2022-06-14 13:10",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654939320,
+      "time_dispatch": "2022-06-11 14:52",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654939800,
+      "time_last_updated": "2022-06-11 15:00",
+      "time_eta_ut": 1654943700,
+      "time_eta": "2022-06-11 16:05"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 730.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 255.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 560.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 230.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

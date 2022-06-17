@@ -1,0 +1,84 @@
+{
+  "shed_id": 901,
+  "shed_name": "SAMSE AUTO MART (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:04",
+  "time_last_updated_by_shed_ut": 1655436840,
+  "fuel_type": "p92",
+  "fuel_capacity": 1249.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "103629",
+  "address": "Lanka Filling Station, Pannala-kuliyapitiya Rd, Pannala",
+  "lat_lng": [
+    7.330406,
+    80.026428
+  ],
+  "time_last_updated_ut": 1655436840,
+  "time_last_updated": "2022-06-17 09:04",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655205600,
+      "time_dispatch": "2022-06-14 16:50",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655206200,
+      "time_last_updated": "2022-06-14 17:00",
+      "time_eta_ut": 1655213340,
+      "time_eta": "2022-06-14 18:59"
+    },
+    {
+      "time_dispatch_ut": 1655200980,
+      "time_dispatch": "2022-06-14 15:33",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655201400,
+      "time_last_updated": "2022-06-14 15:40",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655089080,
+      "time_dispatch": "2022-06-13 08:28",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655089800,
+      "time_last_updated": "2022-06-13 08:40",
+      "time_eta_ut": 1655096280,
+      "time_eta": "2022-06-13 10:28"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1249.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 596.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 785.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 307.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
