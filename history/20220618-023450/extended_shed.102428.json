@@ -1,0 +1,73 @@
+{
+  "shed_id": 785,
+  "shed_name": "Wipula Dharmadasa",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102428",
+  "address": "Kaluwella",
+  "lat_lng": [
+    6.037499,
+    80.207451
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655302080,
+      "time_dispatch": "2022-06-15 19:38",
+      "fuel_type": "d",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655302500,
+      "time_last_updated": "2022-06-15 19:45",
+      "time_eta_ut": 1655345520,
+      "time_eta": "2022-06-16 07:42"
+    },
+    {
+      "time_dispatch_ut": 1654776300,
+      "time_dispatch": "2022-06-09 17:35",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654777080,
+      "time_eta": "2022-06-09 17:48"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

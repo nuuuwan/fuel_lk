@@ -1,0 +1,84 @@
+{
+  "shed_id": 229,
+  "shed_name": "TRINCOMALEE MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:46",
+  "time_last_updated_by_shed_ut": 1655439360,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100279",
+  "address": "Kandy Road, Trincomalee ",
+  "lat_lng": [
+    8.580838,
+    81.222733
+  ],
+  "time_last_updated_ut": 1655439360,
+  "time_last_updated": "2022-06-17 09:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655298060,
+      "time_dispatch": "2022-06-15 18:31",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298600,
+      "time_last_updated": "2022-06-15 18:40",
+      "time_eta_ut": 1655328660,
+      "time_eta": "2022-06-16 03:01"
+    },
+    {
+      "time_dispatch_ut": 1655295120,
+      "time_dispatch": "2022-06-15 17:42",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655295600,
+      "time_last_updated": "2022-06-15 17:50",
+      "time_eta_ut": 1655314920,
+      "time_eta": "2022-06-15 23:12"
+    },
+    {
+      "time_dispatch_ut": 1654939020,
+      "time_dispatch": "2022-06-11 14:47",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654939500,
+      "time_last_updated": "2022-06-11 14:55",
+      "time_eta_ut": 1654958820,
+      "time_eta": "2022-06-11 20:17"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 3500.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

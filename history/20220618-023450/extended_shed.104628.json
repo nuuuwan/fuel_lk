@@ -1,0 +1,84 @@
+{
+  "shed_id": 1030,
+  "shed_name": "HARSHA GARDIHEWA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:38",
+  "time_last_updated_by_shed_ut": 1655435280,
+  "fuel_type": "p92",
+  "fuel_capacity": 966.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "104628",
+  "address": "Nuwara Eliya, Kandy - Nawalapitya, Weligalla",
+  "lat_lng": [
+    7.189213,
+    80.591957
+  ],
+  "time_last_updated_ut": 1655435280,
+  "time_last_updated": "2022-06-17 08:38",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655296800,
+      "time_dispatch": "2022-06-15 18:10",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655297400,
+      "time_last_updated": "2022-06-15 18:20",
+      "time_eta_ut": 1655298840,
+      "time_eta": "2022-06-15 18:44"
+    },
+    {
+      "time_dispatch_ut": 1655268000,
+      "time_dispatch": "2022-06-15 10:10",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655268600,
+      "time_last_updated": "2022-06-15 10:20",
+      "time_eta_ut": 1655270040,
+      "time_eta": "2022-06-15 10:44"
+    },
+    {
+      "time_dispatch_ut": 1654853880,
+      "time_dispatch": "2022-06-10 15:08",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654854300,
+      "time_last_updated": "2022-06-10 15:15",
+      "time_eta_ut": 1654868280,
+      "time_eta": "2022-06-10 19:08"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 966.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 800.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 615.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 696.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

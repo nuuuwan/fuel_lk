@@ -1,0 +1,84 @@
+{
+  "shed_id": 1323,
+  "shed_name": "S S FILLING STATIONS (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:08",
+  "time_last_updated_by_shed_ut": 1655429880,
+  "fuel_type": "p92",
+  "fuel_capacity": 777.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "106605",
+  "address": "Circular Road, West",
+  "lat_lng": [
+    7.488988,
+    80.350136
+  ],
+  "time_last_updated_ut": 1655429880,
+  "time_last_updated": "2022-06-17 07:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655365800,
+      "time_dispatch": "2022-06-16 13:20",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655366400,
+      "time_last_updated": "2022-06-16 13:30",
+      "time_eta_ut": 1655366580,
+      "time_eta": "2022-06-16 13:33"
+    },
+    {
+      "time_dispatch_ut": 1655299800,
+      "time_dispatch": "2022-06-15 19:00",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655300400,
+      "time_last_updated": "2022-06-15 19:10",
+      "time_eta_ut": 1655311140,
+      "time_eta": "2022-06-15 22:09"
+    },
+    {
+      "time_dispatch_ut": 1654921140,
+      "time_dispatch": "2022-06-11 09:49",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654921500,
+      "time_last_updated": "2022-06-11 09:55",
+      "time_eta_ut": 1654921920,
+      "time_eta": "2022-06-11 10:02"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 777.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 753.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 555.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 574.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "shed_id": 281,
+  "shed_name": "KIRINDIWELA - KERAGALA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:36",
+  "time_last_updated_by_shed_ut": 1655438760,
+  "fuel_type": "p92",
+  "fuel_capacity": 543.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 14:20",
+  "eta_ut": 1655455800,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100346",
+  "address": "Kirindiwela",
+  "lat_lng": [
+    7.04376,
+    80.13166
+  ],
+  "time_last_updated_ut": 1655438760,
+  "time_last_updated": "2022-06-17 09:36",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655451420,
+      "time_dispatch": "2022-06-17 13:07",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655451900,
+      "time_last_updated": "2022-06-17 13:15",
+      "time_eta_ut": 1655455800,
+      "time_eta": "2022-06-17 14:20"
+    },
+    {
+      "time_dispatch_ut": 1655305560,
+      "time_dispatch": "2022-06-15 20:36",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655306100,
+      "time_last_updated": "2022-06-15 20:45",
+      "time_eta_ut": 1655310960,
+      "time_eta": "2022-06-15 22:06"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 543.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 900.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 112.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

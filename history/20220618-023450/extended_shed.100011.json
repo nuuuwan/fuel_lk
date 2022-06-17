@@ -1,0 +1,84 @@
+{
+  "shed_id": 10,
+  "shed_name": "HEWAGAMKORALE WEST MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 06:38",
+  "time_last_updated_by_shed_ut": 1655428080,
+  "fuel_type": "p92",
+  "fuel_capacity": 116.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 16:28",
+  "eta_ut": 1655463480,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100011",
+  "address": "Kaduwela",
+  "lat_lng": [
+    6.935968,
+    79.984192
+  ],
+  "time_last_updated_ut": 1655428080,
+  "time_last_updated": "2022-06-17 06:38",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655460840,
+      "time_dispatch": "2022-06-17 15:44",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655461500,
+      "time_last_updated": "2022-06-17 15:55",
+      "time_eta_ut": 1655463180,
+      "time_eta": "2022-06-17 16:23"
+    },
+    {
+      "time_dispatch_ut": 1655461140,
+      "time_dispatch": "2022-06-17 15:49",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655461500,
+      "time_last_updated": "2022-06-17 15:55",
+      "time_eta_ut": 1655463480,
+      "time_eta": "2022-06-17 16:28"
+    },
+    {
+      "time_dispatch_ut": 1655009280,
+      "time_dispatch": "2022-06-12 10:18",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655009700,
+      "time_last_updated": "2022-06-12 10:25",
+      "time_eta_ut": 1655011620,
+      "time_eta": "2022-06-12 10:57"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 146.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
