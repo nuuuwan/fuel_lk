@@ -138,15 +138,43 @@ def copy_latest_to_history():
     return time_id
 
 
-def write_readme(shed_list, time_id):
-    n_shed_list = len(shed_list)
-    lines = [
-        '# Fuel.LK',
-        f'*Last updated at {time_id}*',
-        f'Analyzed {n_shed_list} sheds.',
-    ]
-    readme_file = os.path.join(DIR_DATA, 'README.md')
-    File(readme_file).write('\n\n'.join(lines))
+def get_readme_file():
+    return os.path.join(DIR_DATA, 'README.md')
+
+
+def write_readme(
+        extended_shed_list,
+        filtered_shed_list,
+        time_id,
+        do_backpopulate,
+        do_test):
+    readme_file = get_readme_file()
+    f = File(readme_file)
+
+    lines = []
+    if os.path.exists(readme_file):
+        lines = f.read().split('\n\n')
+    if not lines:
+        lines = [
+            '# Fuel.LK',
+            f'*Last updated at {time_id}*',
+        ]
+
+    modes = []
+    if do_test:
+        modes.append(' test')
+    if do_backpopulate:
+        modes.append(' backpopulate')        
+    modes_str = ' +'.join(modes)
+
+    n_extended_shed_list = len(extended_shed_list)
+    n_filtered_shed_list = len(filtered_shed_list)
+    lines.append(
+        f'* [{time_id}{modes_str}]' +
+        f' Analayzed {n_extended_shed_list} sheds.' +
+        f' Updated {n_filtered_shed_list} sheds.')
+
+    f.write('\n\n'.join(lines))
     log.info(f'Wrote {readme_file}')
 
 
@@ -197,4 +225,9 @@ def run_pipeline(
     write_extended_shed_list()
 
     time_id = copy_latest_to_history()
-    write_readme(shed_list, time_id)
+    write_readme(
+        extended_shed_list,
+        filtered_shed_list,
+        time_id,
+        do_backpopulate,
+        do_test)
