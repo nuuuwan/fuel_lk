@@ -1,0 +1,84 @@
+{
+  "shed_id": 290,
+  "shed_name": "P.T.ARASAN & SON",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:55",
+  "time_last_updated_by_shed_ut": 1655432700,
+  "fuel_type": "p92",
+  "fuel_capacity": 272.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100357",
+  "address": "Batticaloa",
+  "lat_lng": [
+    7.718399,
+    81.699615
+  ],
+  "time_last_updated_ut": 1655432700,
+  "time_last_updated": "2022-06-17 07:55",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655286720,
+      "time_dispatch": "2022-06-15 15:22",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655287200,
+      "time_last_updated": "2022-06-15 15:30",
+      "time_eta_ut": 1655322720,
+      "time_eta": "2022-06-16 01:22"
+    },
+    {
+      "time_dispatch_ut": 1655270160,
+      "time_dispatch": "2022-06-15 10:46",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655271900,
+      "time_last_updated": "2022-06-15 11:15",
+      "time_eta_ut": 1655270940,
+      "time_eta": "2022-06-15 10:59"
+    },
+    {
+      "time_dispatch_ut": 1655089800,
+      "time_dispatch": "2022-06-13 08:40",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655091000,
+      "time_last_updated": "2022-06-13 09:00",
+      "time_eta_ut": 1655090580,
+      "time_eta": "2022-06-13 08:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 272.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 272.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 272.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

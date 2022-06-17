@@ -1,0 +1,73 @@
+{
+  "shed_id": 176,
+  "shed_name": "J.M.GUNATHILAKA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:24",
+  "time_last_updated_by_shed_ut": 1655438040,
+  "fuel_type": "p92",
+  "fuel_capacity": 950.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100213",
+  "address": "Kuswala Fuel Station, Katunayake",
+  "lat_lng": [
+    7.145774,
+    79.89444
+  ],
+  "time_last_updated_ut": 1655438040,
+  "time_last_updated": "2022-06-17 09:24",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655347500,
+      "time_dispatch": "2022-06-16 08:15",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655348100,
+      "time_last_updated": "2022-06-16 08:25",
+      "time_eta_ut": 1655350080,
+      "time_eta": "2022-06-16 08:58"
+    },
+    {
+      "time_dispatch_ut": 1654930500,
+      "time_dispatch": "2022-06-11 12:25",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654931100,
+      "time_last_updated": "2022-06-11 12:35",
+      "time_eta_ut": 1654934640,
+      "time_eta": "2022-06-11 13:34"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 950.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 820.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 300.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
