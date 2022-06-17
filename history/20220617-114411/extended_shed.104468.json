@@ -1,0 +1,73 @@
+{
+  "shed_id": 1008,
+  "shed_name": "G S N N GUNATHILAKA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:24",
+  "time_last_updated_by_shed_ut": 1655430840,
+  "fuel_type": "p92",
+  "fuel_capacity": 910.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "104468",
+  "address": "Marawila-udubaddawa Rd, Ilippugamuwa",
+  "lat_lng": [
+    7.431528,
+    79.927383
+  ],
+  "time_last_updated_ut": 1655430840,
+  "time_last_updated": "2022-06-17 07:24",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655122380,
+      "time_dispatch": "2022-06-13 17:43",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655123100,
+      "time_last_updated": "2022-06-13 17:55",
+      "time_eta_ut": 1655131380,
+      "time_eta": "2022-06-13 20:13"
+    },
+    {
+      "time_dispatch_ut": 1654941000,
+      "time_dispatch": "2022-06-11 15:20",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654942800,
+      "time_last_updated": "2022-06-11 15:50",
+      "time_eta_ut": 1654948740,
+      "time_eta": "2022-06-11 17:29"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 910.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 990.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
