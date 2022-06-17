@@ -1,0 +1,84 @@
+{
+  "shed_id": 86,
+  "shed_name": "R.N.D.A.SENAVIRATHNA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 11:18",
+  "time_last_updated_by_shed_ut": 1655444880,
+  "fuel_type": "p92",
+  "fuel_capacity": 1003.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100104",
+  "address": "267 Colombo - Galle Main Rd, Colombo 4",
+  "lat_lng": [
+    6.887242,
+    79.857887
+  ],
+  "time_last_updated_ut": 1655444880,
+  "time_last_updated": "2022-06-17 11:18",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655275380,
+      "time_dispatch": "2022-06-15 12:13",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655275800,
+      "time_last_updated": "2022-06-15 12:20",
+      "time_eta_ut": 1655277420,
+      "time_eta": "2022-06-15 12:47"
+    },
+    {
+      "time_dispatch_ut": 1655120040,
+      "time_dispatch": "2022-06-13 17:04",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655120400,
+      "time_last_updated": "2022-06-13 17:10",
+      "time_eta_ut": 1655122080,
+      "time_eta": "2022-06-13 17:38"
+    },
+    {
+      "time_dispatch_ut": 1655007780,
+      "time_dispatch": "2022-06-12 09:53",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655008200,
+      "time_last_updated": "2022-06-12 10:00",
+      "time_eta_ut": 1655009820,
+      "time_eta": "2022-06-12 10:27"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1003.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 737.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 802.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

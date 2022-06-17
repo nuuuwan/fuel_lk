@@ -1,0 +1,84 @@
+{
+  "shed_id": 1027,
+  "shed_name": "SITHY LAILA AND  SONS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:05",
+  "time_last_updated_by_shed_ut": 1655433300,
+  "fuel_type": "p92",
+  "fuel_capacity": 249.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 18:00",
+  "eta_ut": 1655469000,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104612",
+  "address": "Kuchchaveli",
+  "lat_lng": [
+    8.819292,
+    81.099174
+  ],
+  "time_last_updated_ut": 1655433300,
+  "time_last_updated": "2022-06-17 08:05",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655480880,
+      "time_dispatch": "2022-06-17 21:18",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655481300,
+      "time_last_updated": "2022-06-17 21:25",
+      "time_eta_ut": 1655513820,
+      "time_eta": "2022-06-18 06:27"
+    },
+    {
+      "time_dispatch_ut": 1655446620,
+      "time_dispatch": "2022-06-17 11:47",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655447100,
+      "time_last_updated": "2022-06-17 11:55",
+      "time_eta_ut": 1655469000,
+      "time_eta": "2022-06-17 18:00"
+    },
+    {
+      "time_dispatch_ut": 1655117640,
+      "time_dispatch": "2022-06-13 16:24",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655118000,
+      "time_last_updated": "2022-06-13 16:30",
+      "time_eta_ut": 1655140020,
+      "time_eta": "2022-06-13 22:37"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 335.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

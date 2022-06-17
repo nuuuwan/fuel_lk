@@ -1,0 +1,73 @@
+{
+  "shed_id": 1053,
+  "shed_name": "KURUNEGALA MPCS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:08",
+  "time_last_updated_by_shed_ut": 1655437080,
+  "fuel_type": "p92",
+  "fuel_capacity": 590.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "104744",
+  "address": "Tittawella-gonagama Rd, Kurunegala",
+  "lat_lng": [
+    7.632357,
+    80.304886
+  ],
+  "time_last_updated_ut": 1655437080,
+  "time_last_updated": "2022-06-17 09:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654945020,
+      "time_dispatch": "2022-06-11 16:27",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654945500,
+      "time_last_updated": "2022-06-11 16:35",
+      "time_eta_ut": 1654957860,
+      "time_eta": "2022-06-11 20:01"
+    },
+    {
+      "time_dispatch_ut": 1654787880,
+      "time_dispatch": "2022-06-09 20:48",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654801020,
+      "time_eta": "2022-06-10 00:27"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 590.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 240.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 250.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

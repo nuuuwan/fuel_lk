@@ -1,0 +1,95 @@
+{
+  "shed_id": 827,
+  "shed_name": "SRI LANKA RED CROSS SOCIETY",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 15:51",
+  "time_last_updated_by_shed_ut": 1655461260,
+  "fuel_type": "p92",
+  "fuel_capacity": 64.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102677",
+  "address": "Hambantota",
+  "lat_lng": [
+    6.153313,
+    81.143402
+  ],
+  "time_last_updated_ut": 1655461260,
+  "time_last_updated": "2022-06-17 15:51",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655467440,
+      "time_dispatch": "2022-06-17 17:34",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655467800,
+      "time_last_updated": "2022-06-17 17:40",
+      "time_eta_ut": 1655478240,
+      "time_eta": "2022-06-17 20:34"
+    },
+    {
+      "time_dispatch_ut": 1655455920,
+      "time_dispatch": "2022-06-17 14:22",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655456400,
+      "time_last_updated": "2022-06-17 14:30",
+      "time_eta_ut": 1655480100,
+      "time_eta": "2022-06-17 21:05"
+    },
+    {
+      "time_dispatch_ut": 1654773420,
+      "time_dispatch": "2022-06-09 16:47",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654797600,
+      "time_eta": "2022-06-09 23:30"
+    },
+    {
+      "time_dispatch_ut": 1654777020,
+      "time_dispatch": "2022-06-09 17:47",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654787820,
+      "time_eta": "2022-06-09 20:47"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 158.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 545.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 1129.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 153.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
