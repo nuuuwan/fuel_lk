@@ -1,0 +1,84 @@
+{
+  "shed_id": 1241,
+  "shed_name": "W RUPASINGHE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:35",
+  "time_last_updated_by_shed_ut": 1655348700,
+  "fuel_type": "p92",
+  "fuel_capacity": 332.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 08:43",
+  "eta_ut": 1655435580,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "106121",
+  "address": "Rathkarawwa Bus Stop, Katugastota-kurunegala-puttalam Hwy",
+  "lat_lng": [
+    7.534398,
+    80.319633
+  ],
+  "time_last_updated_ut": 1655348700,
+  "time_last_updated": "2022-06-16 08:35",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655433540,
+      "time_dispatch": "2022-06-17 08:09",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655433900,
+      "time_last_updated": "2022-06-17 08:15",
+      "time_eta_ut": 1655435580,
+      "time_eta": "2022-06-17 08:43"
+    },
+    {
+      "time_dispatch_ut": 1655433540,
+      "time_dispatch": "2022-06-17 08:09",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655433900,
+      "time_last_updated": "2022-06-17 08:15",
+      "time_eta_ut": 1655435580,
+      "time_eta": "2022-06-17 08:43"
+    },
+    {
+      "time_dispatch_ut": 1654947540,
+      "time_dispatch": "2022-06-11 17:09",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654947900,
+      "time_last_updated": "2022-06-11 17:15",
+      "time_eta_ut": 1654959120,
+      "time_eta": "2022-06-11 20:22"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 332.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 672.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

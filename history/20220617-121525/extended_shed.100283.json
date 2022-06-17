@@ -1,0 +1,84 @@
+{
+  "shed_id": 232,
+  "shed_name": "DEVTURU ENTERPRISES (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:36",
+  "time_last_updated_by_shed_ut": 1655438760,
+  "fuel_type": "p92",
+  "fuel_capacity": 299.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100283",
+  "address": "468 Colombo - Kandy Rd, Kadawatha",
+  "lat_lng": [
+    7.006486,
+    79.95858
+  ],
+  "time_last_updated_ut": 1655438760,
+  "time_last_updated": "2022-06-17 09:36",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655348340,
+      "time_dispatch": "2022-06-16 08:29",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655349000,
+      "time_last_updated": "2022-06-16 08:40",
+      "time_eta_ut": 1655350680,
+      "time_eta": "2022-06-16 09:08"
+    },
+    {
+      "time_dispatch_ut": 1655095620,
+      "time_dispatch": "2022-06-13 10:17",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655096100,
+      "time_last_updated": "2022-06-13 10:25",
+      "time_eta_ut": 1655097960,
+      "time_eta": "2022-06-13 10:56"
+    },
+    {
+      "time_dispatch_ut": 1654578120,
+      "time_dispatch": "2022-06-07 10:32",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654578600,
+      "time_last_updated": "2022-06-07 10:40",
+      "time_eta_ut": 1654580460,
+      "time_eta": "2022-06-07 11:11"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 299.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 375.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 430.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 340.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

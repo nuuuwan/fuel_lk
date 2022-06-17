@@ -1,0 +1,73 @@
+{
+  "shed_id": 1257,
+  "shed_name": "S M WASANTHA PUSHPA KUMARA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:52",
+  "time_last_updated_by_shed_ut": 1655439720,
+  "fuel_type": "p92",
+  "fuel_capacity": 229.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "106238",
+  "address": "Alawwa",
+  "lat_lng": [
+    7.298327,
+    80.224556
+  ],
+  "time_last_updated_ut": 1655439720,
+  "time_last_updated": "2022-06-17 09:52",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654877340,
+      "time_dispatch": "2022-06-10 21:39",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654878000,
+      "time_last_updated": "2022-06-10 21:50",
+      "time_eta_ut": 1654885320,
+      "time_eta": "2022-06-10 23:52"
+    },
+    {
+      "time_dispatch_ut": 1654852980,
+      "time_dispatch": "2022-06-10 14:53",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654853700,
+      "time_last_updated": "2022-06-10 15:05",
+      "time_eta_ut": 1654860720,
+      "time_eta": "2022-06-10 17:02"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 229.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 348.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 120.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
