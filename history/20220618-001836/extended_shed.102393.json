@@ -1,0 +1,73 @@
+{
+  "shed_id": 754,
+  "shed_name": "P D H P KARUNARATNE",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-18 06:06",
+  "eta_ut": 1655512560,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102393",
+  "address": "Piliyandala",
+  "lat_lng": [
+    6.796814,
+    79.931145
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655479920,
+      "time_dispatch": "2022-06-17 21:02",
+      "fuel_type": "p92",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655480400,
+      "time_last_updated": "2022-06-17 21:10",
+      "time_eta_ut": 1655512560,
+      "time_eta": "2022-06-18 06:06"
+    },
+    {
+      "time_dispatch_ut": 1655368380,
+      "time_dispatch": "2022-06-16 14:03",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655368800,
+      "time_last_updated": "2022-06-16 14:10",
+      "time_eta_ut": 1655370960,
+      "time_eta": "2022-06-16 14:46"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "shed_id": 937,
+  "shed_name": "FISHERY DEPARTMENT",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 12:13",
+  "time_last_updated_by_shed_ut": 1655448180,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "103925",
+  "address": "Palameenmadhu",
+  "lat_lng": [
+    7.753583,
+    81.685669
+  ],
+  "time_last_updated_ut": 1655448180,
+  "time_last_updated": "2022-06-17 12:13",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655388960,
+      "time_dispatch": "2022-06-16 19:46",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655389500,
+      "time_last_updated": "2022-06-16 19:55",
+      "time_eta_ut": 1655424960,
+      "time_eta": "2022-06-17 05:46"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 6610.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

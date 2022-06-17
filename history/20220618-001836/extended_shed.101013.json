@@ -1,0 +1,95 @@
+{
+  "shed_id": 674,
+  "shed_name": "MR.  W W A K J.FERNANDO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 06:08",
+  "time_last_updated_by_shed_ut": 1655426280,
+  "fuel_type": "p92",
+  "fuel_capacity": 164.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 17:08",
+  "eta_ut": 1655465880,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "101013",
+  "address": "Puttalam Road, Katuneriya",
+  "lat_lng": [
+    7.358455,
+    79.835167
+  ],
+  "time_last_updated_ut": 1655426280,
+  "time_last_updated": "2022-06-17 06:08",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655459940,
+      "time_dispatch": "2022-06-17 15:29",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655460600,
+      "time_last_updated": "2022-06-17 15:40",
+      "time_eta_ut": 1655465880,
+      "time_eta": "2022-06-17 17:08"
+    },
+    {
+      "time_dispatch_ut": 1655380500,
+      "time_dispatch": "2022-06-16 17:25",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655381100,
+      "time_last_updated": "2022-06-16 17:35",
+      "time_eta_ut": 1655387700,
+      "time_eta": "2022-06-16 19:25"
+    },
+    {
+      "time_dispatch_ut": 1655265240,
+      "time_dispatch": "2022-06-15 09:24",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655265900,
+      "time_last_updated": "2022-06-15 09:35",
+      "time_eta_ut": 1655272440,
+      "time_eta": "2022-06-15 11:24"
+    },
+    {
+      "time_dispatch_ut": 1654782480,
+      "time_dispatch": "2022-06-09 19:18",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654789680,
+      "time_eta": "2022-06-09 21:18"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 164.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 449.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 970.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 255.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 158.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
