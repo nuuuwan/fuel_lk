@@ -1,0 +1,71 @@
+{
+  "shed_id": 33,
+  "shed_name": "A.A.D.PERERA VIYAPARAYA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:50",
+  "time_last_updated_by_shed_ut": 1655353200,
+  "fuel_type": "p92",
+  "fuel_capacity": 565.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100044",
+  "address": "A18, Kahawatta",
+  "lat_lng": [
+    6.580135,
+    80.573753
+  ],
+  "time_last_updated_ut": 1655353200,
+  "time_last_updated": "2022-06-16 09:50",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654852800,
+      "time_dispatch": "2022-06-10 14:50",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654853400,
+      "time_last_updated": "2022-06-10 15:00",
+      "time_eta_ut": 1654865940,
+      "time_eta": "2022-06-10 18:29"
+    },
+    {
+      "time_dispatch_ut": 1654609320,
+      "time_dispatch": "2022-06-07 19:12",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654609800,
+      "time_last_updated": "2022-06-07 19:20",
+      "time_eta_ut": 1654622460,
+      "time_eta": "2022-06-07 22:51"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 565.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 337.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

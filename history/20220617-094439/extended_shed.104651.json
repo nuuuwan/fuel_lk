@@ -1,0 +1,82 @@
+{
+  "shed_id": 1034,
+  "shed_name": "BELIATTA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 11:18",
+  "time_last_updated_by_shed_ut": 1655358480,
+  "fuel_type": "p92",
+  "fuel_capacity": 200.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104651",
+  "address": "Mahawela, Nakulugama",
+  "lat_lng": [
+    5.990976,
+    80.725754
+  ],
+  "time_last_updated_ut": 1655358480,
+  "time_last_updated": "2022-06-16 11:18",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655104380,
+      "time_dispatch": "2022-06-13 12:43",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655104800,
+      "time_last_updated": "2022-06-13 12:50",
+      "time_eta_ut": 1655108220,
+      "time_eta": "2022-06-13 13:47"
+    },
+    {
+      "time_dispatch_ut": 1655014200,
+      "time_dispatch": "2022-06-12 11:40",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655014800,
+      "time_last_updated": "2022-06-12 11:50",
+      "time_eta_ut": 1655036340,
+      "time_eta": "2022-06-12 17:49"
+    },
+    {
+      "time_dispatch_ut": 1654596060,
+      "time_dispatch": "2022-06-07 15:31",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654596600,
+      "time_last_updated": "2022-06-07 15:40",
+      "time_eta_ut": 1654599900,
+      "time_eta": "2022-06-07 16:35"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 900.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 900.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

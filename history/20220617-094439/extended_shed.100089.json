@@ -1,0 +1,82 @@
+{
+  "shed_id": 73,
+  "shed_name": "ESCAYCEE TRAVELS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:32",
+  "time_last_updated_by_shed_ut": 1655431320,
+  "fuel_type": "p92",
+  "fuel_capacity": 35.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100089",
+  "address": "Colombo",
+  "lat_lng": [
+    6.934939,
+    79.865868
+  ],
+  "time_last_updated_ut": 1655431320,
+  "time_last_updated": "2022-06-17 07:32",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655375160,
+      "time_dispatch": "2022-06-16 15:56",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655375700,
+      "time_last_updated": "2022-06-16 16:05",
+      "time_eta_ut": 1655376960,
+      "time_eta": "2022-06-16 16:26"
+    },
+    {
+      "time_dispatch_ut": 1655358720,
+      "time_dispatch": "2022-06-16 11:22",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655359200,
+      "time_last_updated": "2022-06-16 11:30",
+      "time_eta_ut": 1655360520,
+      "time_eta": "2022-06-16 11:52"
+    },
+    {
+      "time_dispatch_ut": 1655282100,
+      "time_dispatch": "2022-06-15 14:05",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655282700,
+      "time_last_updated": "2022-06-15 14:15",
+      "time_eta_ut": 1655283900,
+      "time_eta": "2022-06-15 14:35"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 35.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 37.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 630.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

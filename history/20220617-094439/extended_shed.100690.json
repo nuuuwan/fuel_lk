@@ -1,0 +1,60 @@
+{
+  "shed_id": 560,
+  "shed_name": "KORALAI MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:00",
+  "time_last_updated_by_shed_ut": 1655433000,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100690",
+  "address": "Valachchenai",
+  "lat_lng": [
+    7.916364,
+    81.532104
+  ],
+  "time_last_updated_ut": 1655433000,
+  "time_last_updated": "2022-06-17 08:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655101080,
+      "time_dispatch": "2022-06-13 11:48",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655102400,
+      "time_last_updated": "2022-06-13 12:10",
+      "time_eta_ut": 1655105460,
+      "time_eta": "2022-06-13 13:01"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 415.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 210.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

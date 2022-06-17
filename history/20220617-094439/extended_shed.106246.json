@@ -1,0 +1,82 @@
+{
+  "shed_id": 1259,
+  "shed_name": "C K RAJAKARUNA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 06:49",
+  "time_last_updated_by_shed_ut": 1655428740,
+  "fuel_type": "p92",
+  "fuel_capacity": 383.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "106246",
+  "address": "Mailawalana",
+  "lat_lng": [
+    7.068706,
+    80.124023
+  ],
+  "time_last_updated_ut": 1655428740,
+  "time_last_updated": "2022-06-17 06:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655433420,
+      "time_dispatch": "2022-06-17 08:07",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655433900,
+      "time_last_updated": "2022-06-17 08:15",
+      "time_eta_ut": 1655439060,
+      "time_eta": "2022-06-17 09:41"
+    },
+    {
+      "time_dispatch_ut": 1655193960,
+      "time_dispatch": "2022-06-14 13:36",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655194500,
+      "time_last_updated": "2022-06-14 13:45",
+      "time_eta_ut": 1655199600,
+      "time_eta": "2022-06-14 15:10"
+    },
+    {
+      "time_dispatch_ut": 1655096880,
+      "time_dispatch": "2022-06-13 10:38",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655097600,
+      "time_last_updated": "2022-06-13 10:50",
+      "time_eta_ut": 1655102280,
+      "time_eta": "2022-06-13 12:08"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 383.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 352.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 281.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 27.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

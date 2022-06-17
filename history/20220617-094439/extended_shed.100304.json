@@ -1,0 +1,71 @@
+{
+  "shed_id": 250,
+  "shed_name": "M.MOHAMED YEKEEM",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 20:10",
+  "time_last_updated_by_shed_ut": 1655390400,
+  "fuel_type": "p92",
+  "fuel_capacity": 90.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100304",
+  "address": "Dikwella - Beliatte Rd, Walasgala",
+  "lat_lng": [
+    5.984955,
+    80.69857
+  ],
+  "time_last_updated_ut": 1655390400,
+  "time_last_updated": "2022-06-16 20:10",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655101020,
+      "time_dispatch": "2022-06-13 11:47",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655101500,
+      "time_last_updated": "2022-06-13 11:55",
+      "time_eta_ut": 1655122860,
+      "time_eta": "2022-06-13 17:51"
+    },
+    {
+      "time_dispatch_ut": 1654751520,
+      "time_dispatch": "2022-06-09 10:42",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654755120,
+      "time_eta": "2022-06-09 11:42"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 90.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1700.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 2300.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

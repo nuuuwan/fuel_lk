@@ -1,0 +1,71 @@
+{
+  "shed_id": 1062,
+  "shed_name": "W D W D SAMARASINGHE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:04",
+  "time_last_updated_by_shed_ut": 1655350440,
+  "fuel_type": "p92",
+  "fuel_capacity": 200.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104796",
+  "address": "Dodangaslanda",
+  "lat_lng": [
+    7.572288,
+    80.521049
+  ],
+  "time_last_updated_ut": 1655350440,
+  "time_last_updated": "2022-06-16 09:04",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654916040,
+      "time_dispatch": "2022-06-11 08:24",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654916400,
+      "time_last_updated": "2022-06-11 08:30",
+      "time_eta_ut": 1654919640,
+      "time_eta": "2022-06-11 09:24"
+    },
+    {
+      "time_dispatch_ut": 1654828740,
+      "time_dispatch": "2022-06-10 08:09",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654829100,
+      "time_last_updated": "2022-06-10 08:15",
+      "time_eta_ut": 1654832340,
+      "time_eta": "2022-06-10 09:09"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 200.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 470.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 285.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

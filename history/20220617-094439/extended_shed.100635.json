@@ -1,0 +1,71 @@
+{
+  "shed_id": 530,
+  "shed_name": "KATUGAMPOLA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:01",
+  "time_last_updated_by_shed_ut": 1655350260,
+  "fuel_type": "p92",
+  "fuel_capacity": 3250.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100635",
+  "address": "Kandanagedera",
+  "lat_lng": [
+    7.399544,
+    79.979111
+  ],
+  "time_last_updated_ut": 1655350260,
+  "time_last_updated": "2022-06-16 09:01",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655390580,
+      "time_dispatch": "2022-06-16 20:13",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655391000,
+      "time_last_updated": "2022-06-16 20:20",
+      "time_eta_ut": 1655400120,
+      "time_eta": "2022-06-16 22:52"
+    },
+    {
+      "time_dispatch_ut": 1655293140,
+      "time_dispatch": "2022-06-15 17:09",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655293500,
+      "time_last_updated": "2022-06-15 17:15",
+      "time_eta_ut": 1655302140,
+      "time_eta": "2022-06-15 19:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 3250.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 320.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 230.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

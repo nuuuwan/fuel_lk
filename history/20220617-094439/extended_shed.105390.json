@@ -1,0 +1,60 @@
+{
+  "shed_id": 1179,
+  "shed_name": "MANIKKARAJA FUEL FILLING STATION",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:15",
+  "time_last_updated_by_shed_ut": 1655351100,
+  "fuel_type": "p92",
+  "fuel_capacity": 64.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "105390",
+  "address": "Periyakallar",
+  "lat_lng": [
+    7.475049,
+    81.808945
+  ],
+  "time_last_updated_ut": 1655351100,
+  "time_last_updated": "2022-06-16 09:15",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654599240,
+      "time_dispatch": "2022-06-07 16:24",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654600500,
+      "time_last_updated": "2022-06-07 16:45",
+      "time_eta_ut": 1654603620,
+      "time_eta": "2022-06-07 17:37"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

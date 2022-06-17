@@ -1,0 +1,82 @@
+{
+  "shed_id": 450,
+  "shed_name": "I.L.M.FAZEEL",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:40",
+  "time_last_updated_by_shed_ut": 1655431800,
+  "fuel_type": "p92",
+  "fuel_capacity": 2023.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100544",
+  "address": "Collombo Batticaloa Main Road, Oluvil",
+  "lat_lng": [
+    7.289995,
+    81.848839
+  ],
+  "time_last_updated_ut": 1655431800,
+  "time_last_updated": "2022-06-17 07:40",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655119380,
+      "time_dispatch": "2022-06-13 16:53",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655119800,
+      "time_last_updated": "2022-06-13 17:00",
+      "time_eta_ut": 1655126580,
+      "time_eta": "2022-06-13 18:53"
+    },
+    {
+      "time_dispatch_ut": 1654865820,
+      "time_dispatch": "2022-06-10 18:27",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654866600,
+      "time_last_updated": "2022-06-10 18:40",
+      "time_eta_ut": 1654873020,
+      "time_eta": "2022-06-10 20:27"
+    },
+    {
+      "time_dispatch_ut": 1654782420,
+      "time_dispatch": "2022-06-09 19:17",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654822260,
+      "time_eta": "2022-06-10 06:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 2023.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 271.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 83.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

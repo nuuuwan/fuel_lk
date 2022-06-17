@@ -1,0 +1,71 @@
+{
+  "shed_id": 395,
+  "shed_name": "M.I.BADURDEEN",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 06:49",
+  "time_last_updated_by_shed_ut": 1655428740,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100480",
+  "address": "Mbi Building, Colombo - Batticaloa Hwy, Akkaraipattu",
+  "lat_lng": [
+    7.22196,
+    81.849869
+  ],
+  "time_last_updated_ut": 1655428740,
+  "time_last_updated": "2022-06-17 06:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654779900,
+      "time_dispatch": "2022-06-09 18:35",
+      "fuel_type": "d",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654787640,
+      "time_eta": "2022-06-09 20:44"
+    },
+    {
+      "time_dispatch_ut": 1654608660,
+      "time_dispatch": "2022-06-07 19:01",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654611000,
+      "time_last_updated": "2022-06-07 19:40",
+      "time_eta_ut": 1654616400,
+      "time_eta": "2022-06-07 21:10"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 261.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

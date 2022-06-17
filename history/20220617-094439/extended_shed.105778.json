@@ -1,0 +1,71 @@
+{
+  "shed_id": 1203,
+  "shed_name": "C S R ARACHCHI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:02",
+  "time_last_updated_by_shed_ut": 1655433120,
+  "fuel_type": "p92",
+  "fuel_capacity": 392.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105778",
+  "address": "B486, Embilipitiya",
+  "lat_lng": [
+    6.311592,
+    80.836235
+  ],
+  "time_last_updated_ut": 1655433120,
+  "time_last_updated": "2022-06-17 08:02",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655289720,
+      "time_dispatch": "2022-06-15 16:12",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655290200,
+      "time_last_updated": "2022-06-15 16:20",
+      "time_eta_ut": 1655310060,
+      "time_eta": "2022-06-15 21:51"
+    },
+    {
+      "time_dispatch_ut": 1654876800,
+      "time_dispatch": "2022-06-10 21:30",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654877400,
+      "time_last_updated": "2022-06-10 21:40",
+      "time_eta_ut": 1654895580,
+      "time_eta": "2022-06-11 02:43"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 392.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 213.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 288.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

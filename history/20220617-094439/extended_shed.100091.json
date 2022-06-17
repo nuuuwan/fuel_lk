@@ -1,0 +1,82 @@
+{
+  "shed_id": 75,
+  "shed_name": "A.P.GUNAWARDENA  & COMPANY(PVT)LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 06:46",
+  "time_last_updated_by_shed_ut": 1655428560,
+  "fuel_type": "p92",
+  "fuel_capacity": 350.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100091",
+  "address": "Puttalam - Colombo Rd, Dandugama",
+  "lat_lng": [
+    7.099572,
+    79.885155
+  ],
+  "time_last_updated_ut": 1655428560,
+  "time_last_updated": "2022-06-17 06:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655286420,
+      "time_dispatch": "2022-06-15 15:17",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655286900,
+      "time_last_updated": "2022-06-15 15:25",
+      "time_eta_ut": 1655290020,
+      "time_eta": "2022-06-15 16:17"
+    },
+    {
+      "time_dispatch_ut": 1655101020,
+      "time_dispatch": "2022-06-13 11:47",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655101500,
+      "time_last_updated": "2022-06-13 11:55",
+      "time_eta_ut": 1655103360,
+      "time_eta": "2022-06-13 12:26"
+    },
+    {
+      "time_dispatch_ut": 1655022120,
+      "time_dispatch": "2022-06-12 13:52",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655022600,
+      "time_last_updated": "2022-06-12 14:00",
+      "time_eta_ut": 1655025720,
+      "time_eta": "2022-06-12 14:52"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 450.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1350.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 700.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 350.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

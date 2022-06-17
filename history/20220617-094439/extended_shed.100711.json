@@ -1,0 +1,60 @@
+{
+  "shed_id": 566,
+  "shed_name": "MRS.  L.PADUMASHEELA NANDANEE DE SI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:40",
+  "time_last_updated_by_shed_ut": 1655431800,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100711",
+  "address": "Ambalangoda",
+  "lat_lng": [
+    6.233965,
+    80.055428
+  ],
+  "time_last_updated_ut": 1655431800,
+  "time_last_updated": "2022-06-17 07:40",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655038860,
+      "time_dispatch": "2022-06-12 18:31",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655039400,
+      "time_last_updated": "2022-06-12 18:40",
+      "time_eta_ut": 1655049900,
+      "time_eta": "2022-06-12 21:35"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 303.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

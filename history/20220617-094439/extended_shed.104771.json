@@ -1,0 +1,60 @@
+{
+  "shed_id": 1059,
+  "shed_name": "SEALINE HOLDINGS LANKA FILLING STAT",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 06:49",
+  "time_last_updated_by_shed_ut": 1655342340,
+  "fuel_type": "p92",
+  "fuel_capacity": 41.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "104771",
+  "address": "Ahangama",
+  "lat_lng": [
+    5.969331,
+    80.369621
+  ],
+  "time_last_updated_ut": 1655342340,
+  "time_last_updated": "2022-06-16 06:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654850820,
+      "time_dispatch": "2022-06-10 14:17",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654851300,
+      "time_last_updated": "2022-06-10 14:25",
+      "time_eta_ut": 1654853400,
+      "time_eta": "2022-06-10 15:00"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 41.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 89.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 56.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 76.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
