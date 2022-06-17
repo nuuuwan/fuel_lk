@@ -13,6 +13,16 @@ def clean_shed_data(d):
         time_last_updated_by_shed,
     ] = time_utils.get_times(d['lastupdatebyshed'])
 
+
+    if d['eta']:
+        eta_raw, eta_amount = d['eta'].split(',')
+        [
+            eta_ut,
+            eta,
+        ] = time_utils.get_times(eta_raw)
+    else:
+        eta = eta_ut = eta_amount = None    
+
     return dict(
         shed_id=d['shedId'],
         shed_name=d['shedName'],
@@ -22,7 +32,9 @@ def clean_shed_data(d):
         fuel_type=d['fuelType'],
         fuel_capacity=d['fuelCapacity'],
         bowser_distatch=d['bowserDispatch'],
-        eta=d['eta'],
+        eta=eta,
+        eta_ut=eta_ut,
+        eta_amount=eta_amount,
         did_shed_owner_update_today=d['shedownerupdatetoday'],
     )
 
@@ -61,4 +73,5 @@ def scrape_sheds():
 
 
 if __name__ == '__main__':
-    scrape_sheds_for_single_district('LK-11', 1, 1)
+    shed_list = scrape_sheds_for_single_district('LK-11', 1, 1)
+    print(shed_list[0])
