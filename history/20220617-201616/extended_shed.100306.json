@@ -1,0 +1,71 @@
+{
+  "shed_id": 251,
+  "shed_name": "W.P.S.K.CHANDRASIRI",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 22:17",
+  "time_last_updated_by_shed_ut": 1655398020,
+  "fuel_type": "p92",
+  "fuel_capacity": 756.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100306",
+  "address": "Bandarawatta Fuel Station, Puttalam - Colombo Rd, Seeduwa",
+  "lat_lng": [
+    7.122159,
+    79.87899
+  ],
+  "time_last_updated_ut": 1655398020,
+  "time_last_updated": "2022-06-16 22:17",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655289960,
+      "time_dispatch": "2022-06-15 16:16",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655290500,
+      "time_last_updated": "2022-06-15 16:25",
+      "time_eta_ut": 1655293800,
+      "time_eta": "2022-06-15 17:20"
+    },
+    {
+      "time_dispatch_ut": 1655262660,
+      "time_dispatch": "2022-06-15 08:41",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655263200,
+      "time_last_updated": "2022-06-15 08:50",
+      "time_eta_ut": 1655265240,
+      "time_eta": "2022-06-15 09:24"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 756.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 509.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 791.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 202.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

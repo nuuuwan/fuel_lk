@@ -1,0 +1,82 @@
+{
+  "shed_id": 1,
+  "shed_name": "R.M. M. J.NAWINNA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 11:06",
+  "time_last_updated_by_shed_ut": 1655357760,
+  "fuel_type": "p92",
+  "fuel_capacity": 1030.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100000",
+  "address": "Dickson Moters Rd, Kurunegala",
+  "lat_lng": [
+    7.481644,
+    80.360611
+  ],
+  "time_last_updated_ut": 1655357760,
+  "time_last_updated": "2022-06-16 11:06",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655264400,
+      "time_dispatch": "2022-06-15 09:10",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655265000,
+      "time_last_updated": "2022-06-15 09:20",
+      "time_eta_ut": 1655265180,
+      "time_eta": "2022-06-15 09:23"
+    },
+    {
+      "time_dispatch_ut": 1655136180,
+      "time_dispatch": "2022-06-13 21:33",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655136600,
+      "time_last_updated": "2022-06-13 21:40",
+      "time_eta_ut": 1655136960,
+      "time_eta": "2022-06-13 21:46"
+    },
+    {
+      "time_dispatch_ut": 1655032020,
+      "time_dispatch": "2022-06-12 16:37",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655032500,
+      "time_last_updated": "2022-06-12 16:45",
+      "time_eta_ut": 1655043060,
+      "time_eta": "2022-06-12 19:41"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1030.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 572.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 498.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 565.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "shed_id": 54,
+  "shed_name": "LUMBINI ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 05:31",
+  "time_last_updated_by_shed_ut": 1655337660,
+  "fuel_type": "p92",
+  "fuel_capacity": 340.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 16:20",
+  "eta_ut": 1655463000,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100065",
+  "address": "Ceypetco Fuel Station, B240, Malabe",
+  "lat_lng": [
+    6.904793,
+    79.951736
+  ],
+  "time_last_updated_ut": 1655337660,
+  "time_last_updated": "2022-06-16 05:31",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655459400,
+      "time_dispatch": "2022-06-17 15:20",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655460000,
+      "time_last_updated": "2022-06-17 15:30",
+      "time_eta_ut": 1655463000,
+      "time_eta": "2022-06-17 16:20"
+    },
+    {
+      "time_dispatch_ut": 1655094300,
+      "time_dispatch": "2022-06-13 09:55",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655094900,
+      "time_last_updated": "2022-06-13 10:05",
+      "time_eta_ut": 1655096340,
+      "time_eta": "2022-06-13 10:29"
+    },
+    {
+      "time_dispatch_ut": 1654593540,
+      "time_dispatch": "2022-06-07 14:49",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654594200,
+      "time_last_updated": "2022-06-07 15:00",
+      "time_eta_ut": 1654595580,
+      "time_eta": "2022-06-07 15:23"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 340.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 340.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 345.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 345.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

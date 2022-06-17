@@ -1,0 +1,71 @@
+{
+  "shed_id": 394,
+  "shed_name": "HIRIYALA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 08:54",
+  "time_last_updated_by_shed_ut": 1655349840,
+  "fuel_type": "p92",
+  "fuel_capacity": 280.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100479",
+  "address": "Ambepussa - Kurunegala - Trincomalee Hwy, Ipalawa",
+  "lat_lng": [
+    7.573021,
+    80.465981
+  ],
+  "time_last_updated_ut": 1655349840,
+  "time_last_updated": "2022-06-16 08:54",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655355900,
+      "time_dispatch": "2022-06-16 10:35",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655356500,
+      "time_last_updated": "2022-06-16 10:45",
+      "time_eta_ut": 1655358480,
+      "time_eta": "2022-06-16 11:18"
+    },
+    {
+      "time_dispatch_ut": 1654839000,
+      "time_dispatch": "2022-06-10 11:00",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654839600,
+      "time_last_updated": "2022-06-10 11:10",
+      "time_eta_ut": 1654841580,
+      "time_eta": "2022-06-10 11:43"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 280.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 262.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 296.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
