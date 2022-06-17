@@ -1,0 +1,62 @@
+{
+  "shed_id": 71,
+  "shed_name": "S.M.D.C.D.SENARATNE AND COMPANY",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:31",
+  "time_last_updated_by_shed_ut": 1655434860,
+  "fuel_type": "p92",
+  "fuel_capacity": 1000.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 09:25",
+  "eta_ut": 1655438100,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100087",
+  "address": "717 P De S Kularatne Mawatha, Colombo 10",
+  "lat_lng": [
+    6.923269,
+    79.86911
+  ],
+  "time_last_updated_ut": 1655434860,
+  "time_last_updated": "2022-06-17 08:31",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655437320,
+      "time_dispatch": "2022-06-17 09:12",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655437800,
+      "time_last_updated": "2022-06-17 09:20",
+      "time_eta_ut": 1655438100,
+      "time_eta": "2022-06-17 09:25"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1000.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

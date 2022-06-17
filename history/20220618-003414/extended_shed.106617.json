@@ -1,0 +1,73 @@
+{
+  "shed_id": 1326,
+  "shed_name": "A G G RAWIN GANITHA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 11:44",
+  "time_last_updated_by_shed_ut": 1655446440,
+  "fuel_type": "p92",
+  "fuel_capacity": 119.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 19:01",
+  "eta_ut": 1655472660,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "106617",
+  "address": "51, Meegahajandura Rd, Sooriyawewa",
+  "lat_lng": [
+    6.326911,
+    81.000542
+  ],
+  "time_last_updated_ut": 1655446440,
+  "time_last_updated": "2022-06-17 11:44",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655461860,
+      "time_dispatch": "2022-06-17 16:01",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655462400,
+      "time_last_updated": "2022-06-17 16:10",
+      "time_eta_ut": 1655472660,
+      "time_eta": "2022-06-17 19:01"
+    },
+    {
+      "time_dispatch_ut": 1655380980,
+      "time_dispatch": "2022-06-16 17:33",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655381400,
+      "time_last_updated": "2022-06-16 17:40",
+      "time_eta_ut": 1655391780,
+      "time_eta": "2022-06-16 20:33"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 119.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1995.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 255.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

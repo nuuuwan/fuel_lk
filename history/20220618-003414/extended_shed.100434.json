@@ -1,0 +1,73 @@
+{
+  "shed_id": 353,
+  "shed_name": "NATTANDIYA COCONUT PRODUCERS CS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:49",
+  "time_last_updated_by_shed_ut": 1655435940,
+  "fuel_type": "p92",
+  "fuel_capacity": 498.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100434",
+  "address": "Toppuwa - Madampe Rd",
+  "lat_lng": [
+    7.363903,
+    79.880524
+  ],
+  "time_last_updated_ut": 1655435940,
+  "time_last_updated": "2022-06-17 08:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655094960,
+      "time_dispatch": "2022-06-13 10:06",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655095500,
+      "time_last_updated": "2022-06-13 10:15",
+      "time_eta_ut": 1655100900,
+      "time_eta": "2022-06-13 11:45"
+    },
+    {
+      "time_dispatch_ut": 1655016180,
+      "time_dispatch": "2022-06-12 12:13",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655016600,
+      "time_last_updated": "2022-06-12 12:20",
+      "time_eta_ut": 1655023380,
+      "time_eta": "2022-06-12 14:13"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 498.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 450.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 450.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 432.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
