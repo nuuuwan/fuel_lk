@@ -129,7 +129,7 @@ def write_extended_shed_list():
     json_file = os.path.join(DIR_LATEST, 'extended_shed_list.json')
     JSONFile(json_file).write(sorted_extended_shed_list)
     log.info(f'Wrote {n_extended_shed_list} extended sheds to {json_file}')
-    
+
     return sorted_extended_shed_list
 
 
@@ -188,8 +188,13 @@ def write_readme(
 def filter_by_time(shed):
     time_last_updated_by_shed_ut = shed['time_last_updated_by_shed_ut']
     if not time_last_updated_by_shed_ut:
-        return False
-    delta_t = timex.get_unixtime() - time_last_updated_by_shed_ut
+        time_last_updated_by_shed_ut = 0
+    eta_ut = shed['eta_ut']
+    if not eta_ut:
+        eta_ut = 0
+
+    max_t = max(time_last_updated_by_shed_ut, eta_ut)
+    delta_t = timex.get_unixtime() - max_t
     return delta_t < MAX_UPDATE_DELAY_H * timex.SECONDS_IN.HOUR
 
 
