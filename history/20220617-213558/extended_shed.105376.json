@@ -1,0 +1,73 @@
+{
+  "shed_id": 1178,
+  "shed_name": "N U DISSANAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:06",
+  "time_last_updated_by_shed_ut": 1655433360,
+  "fuel_type": "p92",
+  "fuel_capacity": 251.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 11:49",
+  "eta_ut": 1655446740,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "105376",
+  "address": "Korasagalla",
+  "lat_lng": [
+    8.016741,
+    80.605537
+  ],
+  "time_last_updated_ut": 1655433360,
+  "time_last_updated": "2022-06-17 08:06",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655437500,
+      "time_dispatch": "2022-06-17 09:15",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655438100,
+      "time_last_updated": "2022-06-17 09:25",
+      "time_eta_ut": 1655446740,
+      "time_eta": "2022-06-17 11:49"
+    },
+    {
+      "time_dispatch_ut": 1655437500,
+      "time_dispatch": "2022-06-17 09:15",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655438100,
+      "time_last_updated": "2022-06-17 09:25",
+      "time_eta_ut": 1655446740,
+      "time_eta": "2022-06-17 11:49"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 251.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 388.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

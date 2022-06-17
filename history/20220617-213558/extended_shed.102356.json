@@ -1,0 +1,73 @@
+{
+  "shed_id": 720,
+  "shed_name": "W A PERERA & SON",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-18 01:56",
+  "eta_ut": 1655497560,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "102356",
+  "address": "Katugastota Rd, Kandy",
+  "lat_lng": [
+    7.319378,
+    80.629829
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655475960,
+      "time_dispatch": "2022-06-17 19:56",
+      "fuel_type": "p92",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655476500,
+      "time_last_updated": "2022-06-17 20:05",
+      "time_eta_ut": 1655497560,
+      "time_eta": "2022-06-18 01:56"
+    },
+    {
+      "time_dispatch_ut": 1655434740,
+      "time_dispatch": "2022-06-17 08:29",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655435400,
+      "time_last_updated": "2022-06-17 08:40",
+      "time_eta_ut": 1655437080,
+      "time_eta": "2022-06-17 09:08"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

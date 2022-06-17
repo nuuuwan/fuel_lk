@@ -1,0 +1,84 @@
+{
+  "shed_id": 6,
+  "shed_name": "HAMBANTOTA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 11:19",
+  "time_last_updated_by_shed_ut": 1655444940,
+  "fuel_type": "p92",
+  "fuel_capacity": 285.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100006",
+  "address": "Kachcheri Rd, Hambantota",
+  "lat_lng": [
+    6.124711,
+    81.126137
+  ],
+  "time_last_updated_ut": 1655444940,
+  "time_last_updated": "2022-06-17 11:19",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655463120,
+      "time_dispatch": "2022-06-17 16:22",
+      "fuel_type": "k",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655463600,
+      "time_last_updated": "2022-06-17 16:30",
+      "time_eta_ut": 1655473920,
+      "time_eta": "2022-06-17 19:22"
+    },
+    {
+      "time_dispatch_ut": 1655370780,
+      "time_dispatch": "2022-06-16 14:43",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655371200,
+      "time_last_updated": "2022-06-16 14:50",
+      "time_eta_ut": 1655381580,
+      "time_eta": "2022-06-16 17:43"
+    },
+    {
+      "time_dispatch_ut": 1655125740,
+      "time_dispatch": "2022-06-13 18:39",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655126100,
+      "time_last_updated": "2022-06-13 18:45",
+      "time_eta_ut": 1655136540,
+      "time_eta": "2022-06-13 21:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 285.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1462.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 227.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "shed_id": 1135,
+  "shed_name": "R H M S K RAJAKARUNA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 11:11",
+  "time_last_updated_by_shed_ut": 1655444460,
+  "fuel_type": "p92",
+  "fuel_capacity": 7191.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105180",
+  "address": "ANAMADUWA",
+  "lat_lng": [
+    7.876831,
+    80.012161
+  ],
+  "time_last_updated_ut": 1655444460,
+  "time_last_updated": "2022-06-17 11:11",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655472000,
+      "time_dispatch": "2022-06-17 18:50",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655472600,
+      "time_last_updated": "2022-06-17 19:00",
+      "time_eta_ut": 1655486940,
+      "time_eta": "2022-06-17 22:59"
+    },
+    {
+      "time_dispatch_ut": 1655381400,
+      "time_dispatch": "2022-06-16 17:40",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655382000,
+      "time_last_updated": "2022-06-16 17:50",
+      "time_eta_ut": 1655395800,
+      "time_eta": "2022-06-16 21:40"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 7191.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 591.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 387.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 439.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

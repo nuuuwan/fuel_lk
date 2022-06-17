@@ -1,0 +1,95 @@
+{
+  "shed_id": 109,
+  "shed_name": "HETTIGODA ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:30",
+  "time_last_updated_by_shed_ut": 1655434800,
+  "fuel_type": "p92",
+  "fuel_capacity": 606.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100131",
+  "address": "Balagolla",
+  "lat_lng": [
+    7.282965,
+    80.721565
+  ],
+  "time_last_updated_ut": 1655434800,
+  "time_last_updated": "2022-06-17 08:30",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655476800,
+      "time_dispatch": "2022-06-17 20:10",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655477400,
+      "time_last_updated": "2022-06-17 20:20",
+      "time_eta_ut": 1655493000,
+      "time_eta": "2022-06-18 00:40"
+    },
+    {
+      "time_dispatch_ut": 1655358060,
+      "time_dispatch": "2022-06-16 11:11",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655358600,
+      "time_last_updated": "2022-06-16 11:20",
+      "time_eta_ut": 1655361660,
+      "time_eta": "2022-06-16 12:11"
+    },
+    {
+      "time_dispatch_ut": 1655349780,
+      "time_dispatch": "2022-06-16 08:53",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655350200,
+      "time_last_updated": "2022-06-16 09:00",
+      "time_eta_ut": 1655353380,
+      "time_eta": "2022-06-16 09:53"
+    },
+    {
+      "time_dispatch_ut": 1654943760,
+      "time_dispatch": "2022-06-11 16:06",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654944300,
+      "time_last_updated": "2022-06-11 16:15",
+      "time_eta_ut": 1654959960,
+      "time_eta": "2022-06-11 20:36"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 606.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 596.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 18414.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 422.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 422.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
