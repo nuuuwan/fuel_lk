@@ -1,0 +1,84 @@
+{
+  "shed_id": 413,
+  "shed_name": "A M.NIJAM",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:12",
+  "time_last_updated_by_shed_ut": 1655437320,
+  "fuel_type": "p92",
+  "fuel_capacity": 530.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100501",
+  "address": "Najath Filling Station, Katugastota - Kurunegala - Puttalam Hwy, Puttalam",
+  "lat_lng": [
+    8.027389,
+    79.83651
+  ],
+  "time_last_updated_ut": 1655437320,
+  "time_last_updated": "2022-06-17 09:12",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655390880,
+      "time_dispatch": "2022-06-16 20:18",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655391300,
+      "time_last_updated": "2022-06-16 20:25",
+      "time_eta_ut": 1655406060,
+      "time_eta": "2022-06-17 00:31"
+    },
+    {
+      "time_dispatch_ut": 1655370780,
+      "time_dispatch": "2022-06-16 14:43",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655371200,
+      "time_last_updated": "2022-06-16 14:50",
+      "time_eta_ut": 1655385420,
+      "time_eta": "2022-06-16 18:47"
+    },
+    {
+      "time_dispatch_ut": 1654876560,
+      "time_dispatch": "2022-06-10 21:26",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654877100,
+      "time_last_updated": "2022-06-10 21:35",
+      "time_eta_ut": 1654891740,
+      "time_eta": "2022-06-11 01:39"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 530.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 720.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 730.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 239.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 180.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "shed_id": 79,
+  "shed_name": "NIKEWERATIYA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:20",
+  "time_last_updated_by_shed_ut": 1655441400,
+  "fuel_type": "p92",
+  "fuel_capacity": 1400.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100096",
+  "address": "Nikaweratiya",
+  "lat_lng": [
+    7.74818,
+    80.11718
+  ],
+  "time_last_updated_ut": 1655441400,
+  "time_last_updated": "2022-06-17 10:20",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655287140,
+      "time_dispatch": "2022-06-15 15:29",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655287800,
+      "time_last_updated": "2022-06-15 15:40",
+      "time_eta_ut": 1655300520,
+      "time_eta": "2022-06-15 19:12"
+    },
+    {
+      "time_dispatch_ut": 1655199120,
+      "time_dispatch": "2022-06-14 15:02",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655199600,
+      "time_last_updated": "2022-06-14 15:10",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1400.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 497.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1194.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
