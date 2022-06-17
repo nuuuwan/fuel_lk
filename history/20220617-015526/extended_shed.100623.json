@@ -1,0 +1,72 @@
+{
+  "shed_id": 518,
+  "shed_name": "HABARADUWA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 22:41",
+  "time_last_updated_by_shed_ut": 1655313060,
+  "fuel_type": "p92",
+  "fuel_capacity": 253.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100623",
+  "address": "43, Ahangama",
+  "lat_lng": [
+    5.971583,
+    80.365631
+  ],
+  "time_last_updated_ut": 1655313060,
+  "time_last_updated": "2022-06-15 22:41",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655105040,
+      "time_dispatch": "2022-06-13 12:54",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655105400,
+      "time_last_updated": "2022-06-13 13:00",
+      "time_eta_ut": 1655107620,
+      "time_eta": "2022-06-13 13:37"
+    },
+    {
+      "time_dispatch_ut": 1654776480,
+      "time_dispatch": "2022-06-09 17:38",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654779060,
+      "time_eta": "2022-06-09 18:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 253.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 268.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 193.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  },
+  "gmaps_address": "X9C8+M63, Ahangama, Sri Lanka"
+}
