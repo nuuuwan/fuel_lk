@@ -1,0 +1,73 @@
+{
+  "shed_id": 125,
+  "shed_name": "DILKI ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:49",
+  "time_last_updated_by_shed_ut": 1655432340,
+  "fuel_type": "p92",
+  "fuel_capacity": 550.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100156",
+  "address": "A1, Kadawatha",
+  "lat_lng": [
+    7.001117,
+    79.950302
+  ],
+  "time_last_updated_ut": 1655432340,
+  "time_last_updated": "2022-06-17 07:49",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655371200,
+      "time_dispatch": "2022-06-16 14:50",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655371800,
+      "time_last_updated": "2022-06-16 15:00",
+      "time_eta_ut": 1655373240,
+      "time_eta": "2022-06-16 15:24"
+    },
+    {
+      "time_dispatch_ut": 1655115300,
+      "time_dispatch": "2022-06-13 15:45",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655115900,
+      "time_last_updated": "2022-06-13 15:55",
+      "time_eta_ut": 1655117640,
+      "time_eta": "2022-06-13 16:24"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 550.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 550.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

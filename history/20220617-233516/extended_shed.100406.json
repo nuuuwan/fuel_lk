@@ -1,0 +1,73 @@
+{
+  "shed_id": 332,
+  "shed_name": "DOMPE PUGODA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:30",
+  "time_last_updated_by_shed_ut": 1655434800,
+  "fuel_type": "p92",
+  "fuel_capacity": 4203.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 14:06",
+  "eta_ut": 1655454960,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100406",
+  "address": "Pugoda",
+  "lat_lng": [
+    6.97543,
+    80.119057
+  ],
+  "time_last_updated_ut": 1655434800,
+  "time_last_updated": "2022-06-17 08:30",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655449560,
+      "time_dispatch": "2022-06-17 12:36",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655450100,
+      "time_last_updated": "2022-06-17 12:45",
+      "time_eta_ut": 1655454960,
+      "time_eta": "2022-06-17 14:06"
+    },
+    {
+      "time_dispatch_ut": 1655095860,
+      "time_dispatch": "2022-06-13 10:21",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655096400,
+      "time_last_updated": "2022-06-13 10:30",
+      "time_eta_ut": 1655100000,
+      "time_eta": "2022-06-13 11:30"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 4203.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1602.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 84.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "shed_id": 507,
+  "shed_name": "RAMBUKKANA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:52",
+  "time_last_updated_by_shed_ut": 1655439720,
+  "fuel_type": "p92",
+  "fuel_capacity": 857.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 15:52",
+  "eta_ut": 1655461320,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100612",
+  "address": "Kegalle Junction, Rambukkana - Katupitiya Rd, Rambukkana",
+  "lat_lng": [
+    7.323245,
+    80.39576
+  ],
+  "time_last_updated_ut": 1655439720,
+  "time_last_updated": "2022-06-17 09:52",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655450520,
+      "time_dispatch": "2022-06-17 12:52",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655451000,
+      "time_last_updated": "2022-06-17 13:00",
+      "time_eta_ut": 1655461320,
+      "time_eta": "2022-06-17 15:52"
+    },
+    {
+      "time_dispatch_ut": 1654851120,
+      "time_dispatch": "2022-06-10 14:22",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1654851600,
+      "time_last_updated": "2022-06-10 14:30",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 857.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1194.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 249.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
