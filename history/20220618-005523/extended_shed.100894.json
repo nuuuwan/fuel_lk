@@ -1,0 +1,73 @@
+{
+  "shed_id": 638,
+  "shed_name": "UDUPIDDY MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:19",
+  "time_last_updated_by_shed_ut": 1655430540,
+  "fuel_type": "p92",
+  "fuel_capacity": 611.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 14:46",
+  "eta_ut": 1655457360,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100894",
+  "address": "Nelliady",
+  "lat_lng": [
+    9.796439,
+    80.168976
+  ],
+  "time_last_updated_ut": 1655430540,
+  "time_last_updated": "2022-06-17 07:19",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655454780,
+      "time_dispatch": "2022-06-17 14:03",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655455200,
+      "time_last_updated": "2022-06-17 14:10",
+      "time_eta_ut": 1655457360,
+      "time_eta": "2022-06-17 14:46"
+    },
+    {
+      "time_dispatch_ut": 1654867320,
+      "time_dispatch": "2022-06-10 18:52",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654867800,
+      "time_last_updated": "2022-06-10 19:00",
+      "time_eta_ut": 1654869900,
+      "time_eta": "2022-06-10 19:35"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 611.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 852.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 1129.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 220.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

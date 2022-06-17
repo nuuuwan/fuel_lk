@@ -1,0 +1,73 @@
+{
+  "shed_id": 1270,
+  "shed_name": "K S KALUPAHANA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 12:28",
+  "time_last_updated_by_shed_ut": 1655449080,
+  "fuel_type": "p92",
+  "fuel_capacity": 120.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "106324",
+  "address": "Trincomalee",
+  "lat_lng": [
+    8.567891,
+    81.169724
+  ],
+  "time_last_updated_ut": 1655449080,
+  "time_last_updated": "2022-06-17 12:28",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655355300,
+      "time_dispatch": "2022-06-16 10:25",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655355900,
+      "time_last_updated": "2022-06-16 10:35",
+      "time_eta_ut": 1655373540,
+      "time_eta": "2022-06-16 15:29"
+    },
+    {
+      "time_dispatch_ut": 1654845000,
+      "time_dispatch": "2022-06-10 12:40",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654845600,
+      "time_last_updated": "2022-06-10 12:50",
+      "time_eta_ut": 1654863240,
+      "time_eta": "2022-06-10 17:44"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 120.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 143.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 64.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

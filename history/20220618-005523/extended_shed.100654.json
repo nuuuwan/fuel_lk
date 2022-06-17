@@ -1,0 +1,50 @@
+{
+  "shed_id": 540,
+  "shed_name": "R.SHIVANARULSOTHY",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:07",
+  "time_last_updated_by_shed_ut": 1655440620,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100654",
+  "address": "Valvettithurai",
+  "lat_lng": [
+    9.823831,
+    80.170715
+  ],
+  "time_last_updated_ut": 1655440620,
+  "time_last_updated": "2022-06-17 10:07",
+  "browser_dispatch": false,
+  "dispatch_schedule_list": [],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 80.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

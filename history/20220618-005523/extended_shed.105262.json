@@ -1,0 +1,73 @@
+{
+  "shed_id": 1149,
+  "shed_name": "PATHMANATHAN MRS. A",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:10",
+  "time_last_updated_by_shed_ut": 1655433600,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "105262",
+  "address": "Valvettithurai",
+  "lat_lng": [
+    9.824343,
+    80.175156
+  ],
+  "time_last_updated_ut": 1655433600,
+  "time_last_updated": "2022-06-17 08:10",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655097600,
+      "time_dispatch": "2022-06-13 10:50",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655098200,
+      "time_last_updated": "2022-06-13 11:00",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654768260,
+      "time_dispatch": "2022-06-09 15:21",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654770840,
+      "time_eta": "2022-06-09 16:04"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 40.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
