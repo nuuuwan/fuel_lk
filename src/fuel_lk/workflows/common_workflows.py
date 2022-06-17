@@ -155,7 +155,7 @@ def write_readme(
 
     lines = []
     if os.path.exists(readme_file):
-        lines = f.read().split('\n\n')
+        lines = f.read().split('\n')
     if not lines:
         lines = [
             '# Fuel.LK',
@@ -179,7 +179,7 @@ def write_readme(
     ]
     lines = new_lines + lines[2:]
 
-    f.write('\n\n'.join(lines))
+    f.write('\n'.join(lines))
     log.info(f'Wrote {readme_file}')
 
 
