@@ -1,0 +1,73 @@
+{
+  "shed_id": 611,
+  "shed_name": "G.WIJETUNGE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 13:52",
+  "time_last_updated_by_shed_ut": 1655454120,
+  "fuel_type": "p92",
+  "fuel_capacity": 92.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100828",
+  "address": "Mirissa",
+  "lat_lng": [
+    5.943798,
+    80.461563
+  ],
+  "time_last_updated_ut": 1655454120,
+  "time_last_updated": "2022-06-17 13:52",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655367240,
+      "time_dispatch": "2022-06-16 13:44",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655367600,
+      "time_last_updated": "2022-06-16 13:50",
+      "time_eta_ut": 1655371380,
+      "time_eta": "2022-06-16 14:53"
+    },
+    {
+      "time_dispatch_ut": 1654765800,
+      "time_dispatch": "2022-06-09 14:40",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654769940,
+      "time_eta": "2022-06-09 15:49"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 92.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 87.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 37.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

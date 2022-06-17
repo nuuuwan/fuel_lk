@@ -1,0 +1,73 @@
+{
+  "shed_id": 283,
+  "shed_name": "S SAHA S PETROLEUM TRADERS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:00",
+  "time_last_updated_by_shed_ut": 1655440200,
+  "fuel_type": "p92",
+  "fuel_capacity": 496.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100348",
+  "address": "Tissamaharama - Yodakandiya",
+  "lat_lng": [
+    6.267715,
+    81.300575
+  ],
+  "time_last_updated_ut": 1655440200,
+  "time_last_updated": "2022-06-17 10:00",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655119500,
+      "time_dispatch": "2022-06-13 16:55",
+      "fuel_type": "d",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655120100,
+      "time_last_updated": "2022-06-13 17:05",
+      "time_eta_ut": 1655132640,
+      "time_eta": "2022-06-13 20:34"
+    },
+    {
+      "time_dispatch_ut": 1654850640,
+      "time_dispatch": "2022-06-10 14:14",
+      "fuel_type": "p92",
+      "plant_name": "Matara",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654851000,
+      "time_last_updated": "2022-06-10 14:20",
+      "time_eta_ut": 1654863780,
+      "time_eta": "2022-06-10 17:53"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 496.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 534.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 450.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 50.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 345.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

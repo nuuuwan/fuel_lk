@@ -1,0 +1,73 @@
+{
+  "shed_id": 277,
+  "shed_name": "THENMARATCHY EAST MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 14:24",
+  "time_last_updated_by_shed_ut": 1655456040,
+  "fuel_type": "p92",
+  "fuel_capacity": 288.0,
+  "bowser_distatch": true,
+  "eta": "2022-06-17 10:28",
+  "eta_ut": 1655441880,
+  "eta_amount": " 6600L",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100341",
+  "address": "Kodikamam, Kandy - Jaffna Hwy",
+  "lat_lng": [
+    9.681672,
+    80.219627
+  ],
+  "time_last_updated_ut": 1655456040,
+  "time_last_updated": "2022-06-17 14:24",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655437500,
+      "time_dispatch": "2022-06-17 09:15",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655438100,
+      "time_last_updated": "2022-06-17 09:25",
+      "time_eta_ut": 1655441880,
+      "time_eta": "2022-06-17 10:28"
+    },
+    {
+      "time_dispatch_ut": 1655266140,
+      "time_dispatch": "2022-06-15 09:39",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1655266500,
+      "time_last_updated": "2022-06-15 09:45",
+      "time_eta_ut": 1655270520,
+      "time_eta": "2022-06-15 10:52"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 288.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1350.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 294.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
