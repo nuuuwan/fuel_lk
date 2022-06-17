@@ -1,0 +1,82 @@
+{
+  "shed_id": 509,
+  "shed_name": "ELAHERA SCHEME MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:54",
+  "time_last_updated_by_shed_ut": 1655432640,
+  "fuel_type": "p92",
+  "fuel_capacity": 259.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": true,
+  "shed_code": "100614",
+  "address": "Elahera",
+  "lat_lng": [
+    7.732584,
+    80.791473
+  ],
+  "time_last_updated_ut": 1655432640,
+  "time_last_updated": "2022-06-17 07:54",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655017680,
+      "time_dispatch": "2022-06-12 12:38",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655018100,
+      "time_last_updated": "2022-06-12 12:45",
+      "time_eta_ut": 1655040060,
+      "time_eta": "2022-06-12 18:51"
+    },
+    {
+      "time_dispatch_ut": 1654950300,
+      "time_dispatch": "2022-06-11 17:55",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654950900,
+      "time_last_updated": "2022-06-11 18:05",
+      "time_eta_ut": 1654961340,
+      "time_eta": "2022-06-11 20:59"
+    },
+    {
+      "time_dispatch_ut": 1654769220,
+      "time_dispatch": "2022-06-09 15:37",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654780260,
+      "time_eta": "2022-06-09 18:41"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 259.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 599.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 204.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
