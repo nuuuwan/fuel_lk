@@ -1,0 +1,73 @@
+{
+  "shed_id": 483,
+  "shed_name": "BEN HEWA ASSOCIATES (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:38",
+  "time_last_updated_by_shed_ut": 1655431680,
+  "fuel_type": "p92",
+  "fuel_capacity": 1177.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100583",
+  "address": "School Rd, Sooriyawewa",
+  "lat_lng": [
+    6.308831,
+    81.00264
+  ],
+  "time_last_updated_ut": 1655431680,
+  "time_last_updated": "2022-06-17 07:38",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655303220,
+      "time_dispatch": "2022-06-15 19:57",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655303700,
+      "time_last_updated": "2022-06-15 20:05",
+      "time_eta_ut": 1655324820,
+      "time_eta": "2022-06-16 01:57"
+    },
+    {
+      "time_dispatch_ut": 1655103300,
+      "time_dispatch": "2022-06-13 12:25",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 19800.0,
+      "time_last_updated_ut": 1655103900,
+      "time_last_updated": "2022-06-13 12:35",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1177.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 142.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 3820.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 98.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

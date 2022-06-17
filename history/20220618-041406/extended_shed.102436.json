@@ -1,0 +1,84 @@
+{
+  "shed_id": 793,
+  "shed_name": "A H M HUSSAIN HADJIAR SONS",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102436",
+  "address": "Weligama",
+  "lat_lng": [
+    5.973629,
+    80.430634
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655455920,
+      "time_dispatch": "2022-06-17 14:22",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655456400,
+      "time_last_updated": "2022-06-17 14:30",
+      "time_eta_ut": 1655459760,
+      "time_eta": "2022-06-17 15:26"
+    },
+    {
+      "time_dispatch_ut": 1655389080,
+      "time_dispatch": "2022-06-16 19:48",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655389500,
+      "time_last_updated": "2022-06-16 19:55",
+      "time_eta_ut": 1655407080,
+      "time_eta": "2022-06-17 00:48"
+    },
+    {
+      "time_dispatch_ut": 1655122140,
+      "time_dispatch": "2022-06-13 17:39",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655122500,
+      "time_last_updated": "2022-06-13 17:45",
+      "time_eta_ut": 1655125980,
+      "time_eta": "2022-06-13 18:43"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

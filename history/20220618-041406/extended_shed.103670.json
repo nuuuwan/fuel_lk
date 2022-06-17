@@ -1,0 +1,84 @@
+{
+  "shed_id": 903,
+  "shed_name": "SHANTHA & COMPANY",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:35",
+  "time_last_updated_by_shed_ut": 1655431500,
+  "fuel_type": "p92",
+  "fuel_capacity": 242.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "103670",
+  "address": "Makola Rd, Peliyagoda",
+  "lat_lng": [
+    6.976444,
+    79.943909
+  ],
+  "time_last_updated_ut": 1655431500,
+  "time_last_updated": "2022-06-17 07:35",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655457900,
+      "time_dispatch": "2022-06-17 14:55",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655458500,
+      "time_last_updated": "2022-06-17 15:05",
+      "time_eta_ut": 1655460240,
+      "time_eta": "2022-06-17 15:34"
+    },
+    {
+      "time_dispatch_ut": 1655281140,
+      "time_dispatch": "2022-06-15 13:49",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655281800,
+      "time_last_updated": "2022-06-15 14:00",
+      "time_eta_ut": 1655283480,
+      "time_eta": "2022-06-15 14:28"
+    },
+    {
+      "time_dispatch_ut": 1655092560,
+      "time_dispatch": "2022-06-13 09:26",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655093100,
+      "time_last_updated": "2022-06-13 09:35",
+      "time_eta_ut": 1655094900,
+      "time_eta": "2022-06-13 10:05"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 242.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 23.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 283.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 63.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
