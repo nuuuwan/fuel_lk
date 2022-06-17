@@ -1,0 +1,82 @@
+{
+  "shed_id": 440,
+  "shed_name": "CHUNNAKAM MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-16 09:32",
+  "time_last_updated_by_shed_ut": 1655352120,
+  "fuel_type": "p92",
+  "fuel_capacity": 515.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "100530",
+  "address": "Chunnakam, Uduvil",
+  "lat_lng": [
+    9.740648,
+    80.02562
+  ],
+  "time_last_updated_ut": 1655352120,
+  "time_last_updated": "2022-06-16 09:32",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654850640,
+      "time_dispatch": "2022-06-10 14:14",
+      "fuel_type": "d",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654851000,
+      "time_last_updated": "2022-06-10 14:20",
+      "time_eta_ut": 1654852680,
+      "time_eta": "2022-06-10 14:48"
+    },
+    {
+      "time_dispatch_ut": 1654746900,
+      "time_dispatch": "2022-06-09 09:25",
+      "fuel_type": "k",
+      "plant_name": "KKS",
+      "amount": 3300.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654748940,
+      "time_eta": "2022-06-09 09:59"
+    },
+    {
+      "time_dispatch_ut": 1654760700,
+      "time_dispatch": "2022-06-09 13:15",
+      "fuel_type": "p92",
+      "plant_name": "KKS",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797120,
+      "time_last_updated": "2022-06-09 23:22",
+      "time_eta_ut": 1654762740,
+      "time_eta": "2022-06-09 13:49"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 515.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1386.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 1935.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

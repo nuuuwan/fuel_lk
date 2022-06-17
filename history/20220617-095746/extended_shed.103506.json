@@ -1,0 +1,71 @@
+{
+  "shed_id": 885,
+  "shed_name": "DISSANAYAKE ENTERPRICES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 10:11",
+  "time_last_updated_by_shed_ut": 1655268060,
+  "fuel_type": "p92",
+  "fuel_capacity": 69.0,
+  "bowser_distatch": false,
+  "eta": "",
+  "did_shed_owner_update_today": false,
+  "shed_code": "103506",
+  "address": "Wariyagoda Filling Station, Kurunegala Rd Alawwa",
+  "lat_lng": [
+    7.292009,
+    80.239433
+  ],
+  "time_last_updated_ut": 1655268060,
+  "time_last_updated": "2022-06-15 10:11",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654934040,
+      "time_dispatch": "2022-06-11 13:24",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1654956180,
+      "time_last_updated": "2022-06-11 19:33",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654951620,
+      "time_dispatch": "2022-06-11 18:17",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654952100,
+      "time_last_updated": "2022-06-11 18:25",
+      "time_eta_ut": 1654959600,
+      "time_eta": "2022-06-11 20:30"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 69.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 188.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 543.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 88.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
