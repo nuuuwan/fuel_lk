@@ -68,6 +68,8 @@ def scrape_and_write_shed_statuses(shed_list):
             i,
             n_shed_list,
         )
+        if not shed_status:
+            continue
         extended_shed = shed | shed_status
 
         write_extended_shed(extended_shed)

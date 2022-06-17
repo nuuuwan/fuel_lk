@@ -80,8 +80,14 @@ def scrape_shed_status(shed_data, i, n):
     url = os.path.join(
         URL_API_BASE, f'{shed_id}/{DEFAULT_FUEL_TYPE}'
     )
-    data_json = requests.get(url).text
-    data = json.loads(data_json)
+    try:
+        data_json = requests.get(url).text
+        data = json.loads(data_json)
+    except Exception as e:
+        log.error(f'Fetch from {url} failed')
+        log.error(str(e))
+        return None
+
     data = shed_data | clean_shed_status(data)
     i1 = i + 1
     log.debug(f'{i1}/{n}) Scraped shed status for {shed_id=}')
