@@ -1,0 +1,73 @@
+{
+  "shed_id": 97,
+  "shed_name": "MRS. A. L. G..GONAKUMBURA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:56",
+  "time_last_updated_by_shed_ut": 1655432760,
+  "fuel_type": "p92",
+  "fuel_capacity": 100.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100118",
+  "address": "Colombo - Batticaloa Hwy, Ratnapura",
+  "lat_lng": [
+    6.66992,
+    80.42482
+  ],
+  "time_last_updated_ut": 1655432760,
+  "time_last_updated": "2022-06-17 07:56",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655380440,
+      "time_dispatch": "2022-06-16 17:24",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655381100,
+      "time_last_updated": "2022-06-16 17:35",
+      "time_eta_ut": 1655391480,
+      "time_eta": "2022-06-16 20:28"
+    },
+    {
+      "time_dispatch_ut": 1654947480,
+      "time_dispatch": "2022-06-11 17:08",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654947900,
+      "time_last_updated": "2022-06-11 17:15",
+      "time_eta_ut": 1654959060,
+      "time_eta": "2022-06-11 20:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "shed_id": 69,
+  "shed_name": "GANTHERA INDHANA PIRAVUMHALA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 10:06",
+  "time_last_updated_by_shed_ut": 1655440560,
+  "fuel_type": "p92",
+  "fuel_capacity": 220.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100085",
+  "address": "W.D.l.Appuhamy Mawatha, Panadura",
+  "lat_lng": [
+    6.771974,
+    79.889473
+  ],
+  "time_last_updated_ut": 1655440560,
+  "time_last_updated": "2022-06-17 10:06",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655347800,
+      "time_dispatch": "2022-06-16 08:20",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655348400,
+      "time_last_updated": "2022-06-16 08:30",
+      "time_eta_ut": 1655351400,
+      "time_eta": "2022-06-16 09:20"
+    },
+    {
+      "time_dispatch_ut": 1655092260,
+      "time_dispatch": "2022-06-13 09:21",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655092800,
+      "time_last_updated": "2022-06-13 09:30",
+      "time_eta_ut": 1655095860,
+      "time_eta": "2022-06-13 10:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 220.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 220.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
