@@ -1,0 +1,73 @@
+{
+  "shed_id": 1075,
+  "shed_name": "D M A I DISSANAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:07",
+  "time_last_updated_by_shed_ut": 1655433420,
+  "fuel_type": "p92",
+  "fuel_capacity": 664.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "104843",
+  "address": "Ampara Rd, Monaragala",
+  "lat_lng": [
+    6.90226,
+    81.340034
+  ],
+  "time_last_updated_ut": 1655433420,
+  "time_last_updated": "2022-06-17 08:07",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655465100,
+      "time_dispatch": "2022-06-17 16:55",
+      "fuel_type": "d",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655465700,
+      "time_last_updated": "2022-06-17 17:05",
+      "time_eta_ut": 1655474100,
+      "time_eta": "2022-06-17 19:25"
+    },
+    {
+      "time_dispatch_ut": 1654858560,
+      "time_dispatch": "2022-06-10 16:26",
+      "fuel_type": "p92",
+      "plant_name": "Badulle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654859100,
+      "time_last_updated": "2022-06-10 16:35",
+      "time_eta_ut": 1654867560,
+      "time_eta": "2022-06-10 18:56"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 664.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 326.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1312.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 526.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

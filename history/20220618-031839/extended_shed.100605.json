@@ -1,0 +1,84 @@
+{
+  "shed_id": 500,
+  "shed_name": "MEDAWACHCHIYA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:50",
+  "time_last_updated_by_shed_ut": 1655436000,
+  "fuel_type": "p92",
+  "fuel_capacity": 811.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100605",
+  "address": "A9, Medawachchiya",
+  "lat_lng": [
+    8.554867,
+    80.486267
+  ],
+  "time_last_updated_ut": 1655436000,
+  "time_last_updated": "2022-06-17 08:50",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655368320,
+      "time_dispatch": "2022-06-16 14:02",
+      "fuel_type": "k",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655368800,
+      "time_last_updated": "2022-06-16 14:10",
+      "time_eta_ut": 1655372460,
+      "time_eta": "2022-06-16 15:11"
+    },
+    {
+      "time_dispatch_ut": 1655278140,
+      "time_dispatch": "2022-06-15 12:59",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655278500,
+      "time_last_updated": "2022-06-15 13:05",
+      "time_eta_ut": 1655282280,
+      "time_eta": "2022-06-15 14:08"
+    },
+    {
+      "time_dispatch_ut": 1655102340,
+      "time_dispatch": "2022-06-13 12:09",
+      "fuel_type": "p92",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655102700,
+      "time_last_updated": "2022-06-13 12:15",
+      "time_eta_ut": 1655106480,
+      "time_eta": "2022-06-13 13:18"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 811.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 823.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1012.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 715.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 6803.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
