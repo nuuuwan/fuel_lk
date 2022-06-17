@@ -1,0 +1,62 @@
+{
+  "shed_id": 72,
+  "shed_name": "C.PARAMANATHA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-15 08:29",
+  "time_last_updated_by_shed_ut": 1655261940,
+  "fuel_type": "p92",
+  "fuel_capacity": 448.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100088",
+  "address": "Station Rd, Vavuniya",
+  "lat_lng": [
+    8.753162,
+    80.49794
+  ],
+  "time_last_updated_ut": 1655261940,
+  "time_last_updated": "2022-06-15 08:29",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655128200,
+      "time_dispatch": "2022-06-13 19:20",
+      "fuel_type": "d",
+      "plant_name": "Anuradhapura",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655128800,
+      "time_last_updated": "2022-06-13 19:30",
+      "time_eta_ut": 1655135400,
+      "time_eta": "2022-06-13 21:20"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 448.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 694.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 604.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

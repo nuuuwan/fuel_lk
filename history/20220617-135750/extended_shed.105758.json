@@ -1,0 +1,84 @@
+{
+  "shed_id": 1202,
+  "shed_name": "M P SARATH KUMARA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:34",
+  "time_last_updated_by_shed_ut": 1655435040,
+  "fuel_type": "p92",
+  "fuel_capacity": 180.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "105758",
+  "address": "Army Camp-r, Sandunpura",
+  "lat_lng": [
+    7.629613,
+    81.04763
+  ],
+  "time_last_updated_ut": 1655435040,
+  "time_last_updated": "2022-06-17 08:34",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654870020,
+      "time_dispatch": "2022-06-10 19:37",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654870500,
+      "time_last_updated": "2022-06-10 19:45",
+      "time_eta_ut": 1654897560,
+      "time_eta": "2022-06-11 03:16"
+    },
+    {
+      "time_dispatch_ut": 1654860600,
+      "time_dispatch": "2022-06-10 17:00",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654861200,
+      "time_last_updated": "2022-06-10 17:10",
+      "time_eta_ut": 1654875780,
+      "time_eta": "2022-06-10 21:13"
+    },
+    {
+      "time_dispatch_ut": 1654771020,
+      "time_dispatch": "2022-06-09 16:07",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797180,
+      "time_last_updated": "2022-06-09 23:23",
+      "time_eta_ut": 1654786200,
+      "time_eta": "2022-06-09 20:20"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 180.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 180.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 362.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 242.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

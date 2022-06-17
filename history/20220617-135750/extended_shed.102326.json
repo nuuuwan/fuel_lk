@@ -1,0 +1,73 @@
+{
+  "shed_id": 691,
+  "shed_name": "NADEESHA TOURS & TRAVELS PVT LTD",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102326",
+  "address": "Sri Jayawardenepura Kotte",
+  "lat_lng": [
+    6.891494,
+    79.92868
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655295600,
+      "time_dispatch": "2022-06-15 17:50",
+      "fuel_type": "p92",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655296200,
+      "time_last_updated": "2022-06-15 18:00",
+      "time_eta_ut": 1655326980,
+      "time_eta": "2022-06-16 02:33"
+    },
+    {
+      "time_dispatch_ut": 1654789080,
+      "time_dispatch": "2022-06-09 21:08",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654797240,
+      "time_last_updated": "2022-06-09 23:24",
+      "time_eta_ut": 1654791120,
+      "time_eta": "2022-06-09 21:42"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

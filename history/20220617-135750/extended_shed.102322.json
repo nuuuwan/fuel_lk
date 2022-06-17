@@ -1,0 +1,73 @@
+{
+  "shed_id": 687,
+  "shed_name": "MAHARAGAMA MPCS LTD",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102322",
+  "address": "Avissawella Rd, Maharagama ",
+  "lat_lng": [
+    6.848293,
+    79.92495
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655295540,
+      "time_dispatch": "2022-06-15 17:49",
+      "fuel_type": "d",
+      "plant_name": "Tricomalee Chinabay Terminal",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655295900,
+      "time_last_updated": "2022-06-15 17:55",
+      "time_eta_ut": 1655328180,
+      "time_eta": "2022-06-16 02:53"
+    },
+    {
+      "time_dispatch_ut": 1655288340,
+      "time_dispatch": "2022-06-15 15:49",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655289000,
+      "time_last_updated": "2022-06-15 16:00",
+      "time_eta_ut": 1655290680,
+      "time_eta": "2022-06-15 16:28"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}
