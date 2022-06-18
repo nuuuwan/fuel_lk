@@ -1,0 +1,73 @@
+{
+  "shed_id": 373,
+  "shed_name": "R M.ABEYKOON BANDA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:26",
+  "time_last_updated_by_shed_ut": 1655434560,
+  "fuel_type": "p92",
+  "fuel_capacity": 551.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100457",
+  "address": "Ibbagamuwa - Kumbukgete - Madagalla Rd, Kumbukgete",
+  "lat_lng": [
+    7.678226,
+    80.424355
+  ],
+  "time_last_updated_ut": 1655434560,
+  "time_last_updated": "2022-06-17 08:26",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655373600,
+      "time_dispatch": "2022-06-16 15:30",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655374200,
+      "time_last_updated": "2022-06-16 15:40",
+      "time_eta_ut": 1655377740,
+      "time_eta": "2022-06-16 16:39"
+    },
+    {
+      "time_dispatch_ut": 1654943880,
+      "time_dispatch": "2022-06-11 16:08",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1654956180,
+      "time_last_updated": "2022-06-11 19:33",
+      "time_eta_ut": null,
+      "time_eta": null
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 551.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 313.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 70.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 176.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

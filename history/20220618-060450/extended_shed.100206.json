@@ -1,0 +1,95 @@
+{
+  "shed_id": 171,
+  "shed_name": "ROMICO GROUP ( PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 06:46",
+  "time_last_updated_by_shed_ut": 1655428560,
+  "fuel_type": "p92",
+  "fuel_capacity": 56.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100206",
+  "address": "12 Galle Rd, Ahungalla",
+  "lat_lng": [
+    6.317135,
+    80.033646
+  ],
+  "time_last_updated_ut": 1655428560,
+  "time_last_updated": "2022-06-17 06:46",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655388720,
+      "time_dispatch": "2022-06-16 19:42",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655389200,
+      "time_last_updated": "2022-06-16 19:50",
+      "time_eta_ut": 1655398260,
+      "time_eta": "2022-06-16 22:21"
+    },
+    {
+      "time_dispatch_ut": 1655302080,
+      "time_dispatch": "2022-06-15 19:38",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655302500,
+      "time_last_updated": "2022-06-15 19:45",
+      "time_eta_ut": 1655311620,
+      "time_eta": "2022-06-15 22:17"
+    },
+    {
+      "time_dispatch_ut": 1655297520,
+      "time_dispatch": "2022-06-15 18:22",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655298000,
+      "time_last_updated": "2022-06-15 18:30",
+      "time_eta_ut": 1655307060,
+      "time_eta": "2022-06-15 21:01"
+    },
+    {
+      "time_dispatch_ut": 1654829700,
+      "time_dispatch": "2022-06-10 08:25",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654830300,
+      "time_last_updated": "2022-06-10 08:35",
+      "time_eta_ut": 1654839240,
+      "time_eta": "2022-06-10 11:04"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 56.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 6678.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 27.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
