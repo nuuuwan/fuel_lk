@@ -1,8 +1,10 @@
 name: Backpopulate - Cron
 
-on:
- schedule:
-   - cron:  "15 */3 * * *"
+# on:
+#  schedule:
+#    - cron:  "15 */3 * * *"
+
+on: workflow_dispatch
 
 jobs:
   upload-data:
