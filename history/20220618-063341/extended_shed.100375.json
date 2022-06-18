@@ -1,0 +1,95 @@
+{
+  "shed_id": 308,
+  "shed_name": "ABDUL AZEEZ & SONS",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:52",
+  "time_last_updated_by_shed_ut": 1655439720,
+  "fuel_type": "p92",
+  "fuel_capacity": 10912.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100375",
+  "address": "Imam Ghassaly Rd, Maruthamunai",
+  "lat_lng": [
+    7.439318,
+    81.813004
+  ],
+  "time_last_updated_ut": 1655439720,
+  "time_last_updated": "2022-06-17 09:52",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655376240,
+      "time_dispatch": "2022-06-16 16:14",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655377800,
+      "time_last_updated": "2022-06-16 16:40",
+      "time_eta_ut": 1655381640,
+      "time_eta": "2022-06-16 17:44"
+    },
+    {
+      "time_dispatch_ut": 1655372880,
+      "time_dispatch": "2022-06-16 15:18",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655373300,
+      "time_last_updated": "2022-06-16 15:25",
+      "time_eta_ut": 1655412720,
+      "time_eta": "2022-06-17 02:22"
+    },
+    {
+      "time_dispatch_ut": 1655093280,
+      "time_dispatch": "2022-06-13 09:38",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 13200.0,
+      "time_last_updated_ut": 1655093700,
+      "time_last_updated": "2022-06-13 09:45",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1654922820,
+      "time_dispatch": "2022-06-11 10:17",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654923300,
+      "time_last_updated": "2022-06-11 10:25",
+      "time_eta_ut": 1654962660,
+      "time_eta": "2022-06-11 21:21"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 10912.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 3977.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 4826.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 143.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

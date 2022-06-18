@@ -1,0 +1,73 @@
+{
+  "shed_id": 899,
+  "shed_name": "HARSHA DUMINDA WEERAKOON",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:54",
+  "time_last_updated_by_shed_ut": 1655439840,
+  "fuel_type": "p92",
+  "fuel_capacity": 643.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "103620",
+  "address": "Chilaw - Colombo Main Rd, Mahawewa",
+  "lat_lng": [
+    7.458885,
+    79.826103
+  ],
+  "time_last_updated_ut": 1655439840,
+  "time_last_updated": "2022-06-17 09:54",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655470800,
+      "time_dispatch": "2022-06-17 18:30",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655471400,
+      "time_last_updated": "2022-06-17 18:40",
+      "time_eta_ut": 1655478240,
+      "time_eta": "2022-06-17 20:34"
+    },
+    {
+      "time_dispatch_ut": 1655006880,
+      "time_dispatch": "2022-06-12 09:38",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655007300,
+      "time_last_updated": "2022-06-12 09:45",
+      "time_eta_ut": 1655014860,
+      "time_eta": "2022-06-12 11:51"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 643.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 497.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 415.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

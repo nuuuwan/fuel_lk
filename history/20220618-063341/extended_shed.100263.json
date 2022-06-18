@@ -1,0 +1,84 @@
+{
+  "shed_id": 215,
+  "shed_name": "KANDY TYRE REBUILDING COMPANY LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:59",
+  "time_last_updated_by_shed_ut": 1655436540,
+  "fuel_type": "p92",
+  "fuel_capacity": 630.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100263",
+  "address": "Katukele, Kandy",
+  "lat_lng": [
+    7.286336,
+    80.626854
+  ],
+  "time_last_updated_ut": 1655436540,
+  "time_last_updated": "2022-06-17 08:59",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655440380,
+      "time_dispatch": "2022-06-17 10:03",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655444100,
+      "time_last_updated": "2022-06-17 11:05",
+      "time_eta_ut": 1655442180,
+      "time_eta": "2022-06-17 10:33"
+    },
+    {
+      "time_dispatch_ut": 1655347380,
+      "time_dispatch": "2022-06-16 08:13",
+      "fuel_type": "d",
+      "plant_name": "Sarasaviuyana",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655347800,
+      "time_last_updated": "2022-06-16 08:20",
+      "time_eta_ut": 1655349180,
+      "time_eta": "2022-06-16 08:43"
+    },
+    {
+      "time_dispatch_ut": 1654930680,
+      "time_dispatch": "2022-06-11 12:28",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654931100,
+      "time_last_updated": "2022-06-11 12:35",
+      "time_eta_ut": 1654945080,
+      "time_eta": "2022-06-11 16:28"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 630.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 700.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 540.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 670.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
