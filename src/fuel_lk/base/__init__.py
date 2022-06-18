@@ -1,1 +1,1 @@
-from fuel_lk.base.Git import Git
+from fuel_lk.base.Git import Git  # noqa: F401
