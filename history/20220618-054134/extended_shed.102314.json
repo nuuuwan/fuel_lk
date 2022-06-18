@@ -1,0 +1,84 @@
+{
+  "shed_id": 679,
+  "shed_name": "A W RANASINGHE",
+  "shed_type": 2,
+  "time_last_updated_by_shed": null,
+  "time_last_updated_by_shed_ut": null,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "102314",
+  "address": "Colombo - 05",
+  "lat_lng": [
+    6.894309,
+    79.861542
+  ],
+  "time_last_updated_ut": null,
+  "time_last_updated": null,
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655451960,
+      "time_dispatch": "2022-06-17 13:16",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655452500,
+      "time_last_updated": "2022-06-17 13:25",
+      "time_eta_ut": 1655453760,
+      "time_eta": "2022-06-17 13:46"
+    },
+    {
+      "time_dispatch_ut": 1655365980,
+      "time_dispatch": "2022-06-16 13:23",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655366400,
+      "time_last_updated": "2022-06-16 13:30",
+      "time_eta_ut": 1655367780,
+      "time_eta": "2022-06-16 13:53"
+    },
+    {
+      "time_dispatch_ut": 1655183040,
+      "time_dispatch": "2022-06-14 10:34",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655183700,
+      "time_last_updated": "2022-06-14 10:45",
+      "time_eta_ut": 1655184840,
+      "time_eta": "2022-06-14 11:04"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "sd": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": false,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": false,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "shed_id": 587,
+  "shed_name": "SHAKTHI LANKA ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 11:31",
+  "time_last_updated_by_shed_ut": 1655445660,
+  "fuel_type": "p92",
+  "fuel_capacity": 540.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100764",
+  "address": "Urala",
+  "lat_lng": [
+    6.150931,
+    80.273529
+  ],
+  "time_last_updated_ut": 1655445660,
+  "time_last_updated": "2022-06-17 11:31",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655378580,
+      "time_dispatch": "2022-06-16 16:53",
+      "fuel_type": "p92",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655379000,
+      "time_last_updated": "2022-06-16 17:00",
+      "time_eta_ut": 1655382180,
+      "time_eta": "2022-06-16 17:53"
+    },
+    {
+      "time_dispatch_ut": 1655355300,
+      "time_dispatch": "2022-06-16 10:25",
+      "fuel_type": "k",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655355900,
+      "time_last_updated": "2022-06-16 10:35",
+      "time_eta_ut": 1655358900,
+      "time_eta": "2022-06-16 11:25"
+    },
+    {
+      "time_dispatch_ut": 1654845180,
+      "time_dispatch": "2022-06-10 12:43",
+      "fuel_type": "d",
+      "plant_name": "Galle",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654845600,
+      "time_last_updated": "2022-06-10 12:50",
+      "time_eta_ut": 1654848780,
+      "time_eta": "2022-06-10 13:43"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 540.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 570.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 6810.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "shed_id": 98,
+  "shed_name": "HASALAKA MPCS LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 11:29",
+  "time_last_updated_by_shed_ut": 1655445540,
+  "fuel_type": "p92",
+  "fuel_capacity": 662.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100119",
+  "address": "Hasalaka New Town",
+  "lat_lng": [
+    7.351691,
+    80.951691
+  ],
+  "time_last_updated_ut": 1655445540,
+  "time_last_updated": "2022-06-17 11:29",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655460300,
+      "time_dispatch": "2022-06-17 15:35",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655460900,
+      "time_last_updated": "2022-06-17 15:45",
+      "time_eta_ut": 1655471100,
+      "time_eta": "2022-06-17 18:35"
+    },
+    {
+      "time_dispatch_ut": 1655200860,
+      "time_dispatch": "2022-06-14 15:31",
+      "fuel_type": "d",
+      "plant_name": "Sapugaskhanda",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655201400,
+      "time_last_updated": "2022-06-14 15:40",
+      "time_eta_ut": null,
+      "time_eta": null
+    },
+    {
+      "time_dispatch_ut": 1655027400,
+      "time_dispatch": "2022-06-12 15:20",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655028000,
+      "time_last_updated": "2022-06-12 15:30",
+      "time_eta_ut": 1655050800,
+      "time_eta": "2022-06-12 21:50"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 662.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 720.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 454.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
