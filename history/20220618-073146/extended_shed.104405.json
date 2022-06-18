@@ -1,0 +1,73 @@
+{
+  "shed_id": 1000,
+  "shed_name": "J G R P DE SILVA",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:38",
+  "time_last_updated_by_shed_ut": 1655435280,
+  "fuel_type": "p92",
+  "fuel_capacity": 460.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "104405",
+  "address": "Bandarawela-Badulla Rd, Kumbalwela",
+  "lat_lng": [
+    6.887034,
+    81.040764
+  ],
+  "time_last_updated_ut": 1655435280,
+  "time_last_updated": "2022-06-17 08:38",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655440860,
+      "time_dispatch": "2022-06-17 10:11",
+      "fuel_type": "p92",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655441400,
+      "time_last_updated": "2022-06-17 10:20",
+      "time_eta_ut": 1655444700,
+      "time_eta": "2022-06-17 11:15"
+    },
+    {
+      "time_dispatch_ut": 1655440860,
+      "time_dispatch": "2022-06-17 10:11",
+      "fuel_type": "d",
+      "plant_name": "Haputhale",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655441400,
+      "time_last_updated": "2022-06-17 10:20",
+      "time_eta_ut": 1655444700,
+      "time_eta": "2022-06-17 11:15"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 460.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 147.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 100.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 526.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

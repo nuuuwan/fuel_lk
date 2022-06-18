@@ -1,0 +1,84 @@
+{
+  "shed_id": 327,
+  "shed_name": "S.M.V.D.SAMARAKOON",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 20:34",
+  "time_last_updated_by_shed_ut": 1655478240,
+  "fuel_type": "p92",
+  "fuel_capacity": 1000.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100401",
+  "address": "Gampola",
+  "lat_lng": [
+    7.159823,
+    80.56514
+  ],
+  "time_last_updated_ut": 1655478240,
+  "time_last_updated": "2022-06-17 20:34",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655437440,
+      "time_dispatch": "2022-06-17 09:14",
+      "fuel_type": "p92",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655438400,
+      "time_last_updated": "2022-06-17 09:30",
+      "time_eta_ut": 1655440020,
+      "time_eta": "2022-06-17 09:57"
+    },
+    {
+      "time_dispatch_ut": 1655437440,
+      "time_dispatch": "2022-06-17 09:14",
+      "fuel_type": "d",
+      "plant_name": "Peradeniya",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655438400,
+      "time_last_updated": "2022-06-17 09:30",
+      "time_eta_ut": 1655440020,
+      "time_eta": "2022-06-17 09:57"
+    },
+    {
+      "time_dispatch_ut": 1654853880,
+      "time_dispatch": "2022-06-10 15:08",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654854300,
+      "time_last_updated": "2022-06-10 15:15",
+      "time_eta_ut": 1654868820,
+      "time_eta": "2022-06-10 19:17"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 1000.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 910.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 1100.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 719.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 742.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

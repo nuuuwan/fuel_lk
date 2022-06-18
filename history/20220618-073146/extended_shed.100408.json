@@ -1,0 +1,73 @@
+{
+  "shed_id": 334,
+  "shed_name": "J.F.A.PINTO",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-18 05:02",
+  "time_last_updated_by_shed_ut": 1655508720,
+  "fuel_type": "p92",
+  "fuel_capacity": 118.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": true,
+  "shed_code": "100408",
+  "address": "493 Puttalam Road, Wennappuwa",
+  "lat_lng": [
+    7.345244,
+    79.840256
+  ],
+  "time_last_updated_ut": 1655508720,
+  "time_last_updated": "2022-06-18 05:02",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1654870680,
+      "time_dispatch": "2022-06-10 19:48",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654871100,
+      "time_last_updated": "2022-06-10 19:55",
+      "time_eta_ut": 1654876860,
+      "time_eta": "2022-06-10 21:31"
+    },
+    {
+      "time_dispatch_ut": 1654826940,
+      "time_dispatch": "2022-06-10 07:39",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654827600,
+      "time_last_updated": "2022-06-10 07:50",
+      "time_eta_ut": 1654832580,
+      "time_eta": "2022-06-10 09:13"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 118.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 368.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

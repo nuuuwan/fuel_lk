@@ -1,0 +1,73 @@
+{
+  "shed_id": 1041,
+  "shed_name": "MAX HOLDINGS  KANDY (PVT) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:09",
+  "time_last_updated_by_shed_ut": 1655433540,
+  "fuel_type": "p92",
+  "fuel_capacity": 150.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "104681",
+  "address": "Pilessa",
+  "lat_lng": [
+    7.462449,
+    80.407135
+  ],
+  "time_last_updated_ut": 1655433540,
+  "time_last_updated": "2022-06-17 08:09",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655436060,
+      "time_dispatch": "2022-06-17 08:51",
+      "fuel_type": "p92",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655436600,
+      "time_last_updated": "2022-06-17 09:00",
+      "time_eta_ut": 1655437860,
+      "time_eta": "2022-06-17 09:21"
+    },
+    {
+      "time_dispatch_ut": 1655268840,
+      "time_dispatch": "2022-06-15 10:24",
+      "fuel_type": "d",
+      "plant_name": "Kurunegala",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655269200,
+      "time_last_updated": "2022-06-15 10:30",
+      "time_eta_ut": 1655270640,
+      "time_eta": "2022-06-15 10:54"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 150.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 23.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 700.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 117.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 214.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

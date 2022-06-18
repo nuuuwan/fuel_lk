@@ -1,0 +1,73 @@
+{
+  "shed_id": 335,
+  "shed_name": "DHAMMIKA ENTERPRISES",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:36",
+  "time_last_updated_by_shed_ut": 1655431560,
+  "fuel_type": "p92",
+  "fuel_capacity": 116.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100410",
+  "address": "New Kandy Rd, Weliweriya",
+  "lat_lng": [
+    6.987695,
+    80.013962
+  ],
+  "time_last_updated_ut": 1655431560,
+  "time_last_updated": "2022-06-17 07:36",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655433240,
+      "time_dispatch": "2022-06-17 08:04",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655433900,
+      "time_last_updated": "2022-06-17 08:15",
+      "time_eta_ut": 1655436840,
+      "time_eta": "2022-06-17 09:04"
+    },
+    {
+      "time_dispatch_ut": 1655102100,
+      "time_dispatch": "2022-06-13 12:05",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655102700,
+      "time_last_updated": "2022-06-13 12:15",
+      "time_eta_ut": 1655104680,
+      "time_eta": "2022-06-13 12:48"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 116.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 148.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 846.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

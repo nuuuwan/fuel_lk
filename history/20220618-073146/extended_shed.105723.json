@@ -1,0 +1,50 @@
+{
+  "shed_id": 1411,
+  "shed_name": "B M N BASNAYAKE",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 08:52",
+  "time_last_updated_by_shed_ut": 1655436120,
+  "fuel_type": "p92",
+  "fuel_capacity": 499.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "105723",
+  "address": "BINGIRIYA",
+  "lat_lng": [
+    7.596892,
+    79.952881
+  ],
+  "time_last_updated_ut": 1655436120,
+  "time_last_updated": "2022-06-17 08:52",
+  "browser_dispatch": false,
+  "dispatch_schedule_list": [],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 499.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 2646.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 179.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
