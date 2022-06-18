@@ -1,0 +1,84 @@
+{
+  "shed_id": 649,
+  "shed_name": " A H M M.THABIDUDEEN",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:04",
+  "time_last_updated_by_shed_ut": 1655436840,
+  "fuel_type": "p92",
+  "fuel_capacity": 120.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100932",
+  "address": "Main St, Kalpitiya",
+  "lat_lng": [
+    8.236131,
+    79.765259
+  ],
+  "time_last_updated_ut": 1655436840,
+  "time_last_updated": "2022-06-17 09:04",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655470800,
+      "time_dispatch": "2022-06-17 18:30",
+      "fuel_type": "p92",
+      "plant_name": "Muthurajawela",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655471400,
+      "time_last_updated": "2022-06-17 18:40",
+      "time_eta_ut": 1655489340,
+      "time_eta": "2022-06-17 23:39"
+    },
+    {
+      "time_dispatch_ut": 1655121780,
+      "time_dispatch": "2022-06-13 17:33",
+      "fuel_type": "k",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655122500,
+      "time_last_updated": "2022-06-13 17:45",
+      "time_eta_ut": 1655141580,
+      "time_eta": "2022-06-13 23:03"
+    },
+    {
+      "time_dispatch_ut": 1655121780,
+      "time_dispatch": "2022-06-13 17:33",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655122500,
+      "time_last_updated": "2022-06-13 17:45",
+      "time_eta_ut": 1655141580,
+      "time_eta": "2022-06-13 23:03"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 120.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 360.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 212.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "shed_id": 273,
+  "shed_name": "S.MANICKARAJAH",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 09:32",
+  "time_last_updated_by_shed_ut": 1655438520,
+  "fuel_type": "p92",
+  "fuel_capacity": 0.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100335",
+  "address": "Kattankudi",
+  "lat_lng": [
+    7.67497,
+    81.731956
+  ],
+  "time_last_updated_ut": 1655438520,
+  "time_last_updated": "2022-06-17 09:32",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655439360,
+      "time_dispatch": "2022-06-17 09:46",
+      "fuel_type": "p92",
+      "plant_name": "Batticaloa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655440800,
+      "time_last_updated": "2022-06-17 10:10",
+      "time_eta_ut": 1655441160,
+      "time_eta": "2022-06-17 10:16"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 500.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 0.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}

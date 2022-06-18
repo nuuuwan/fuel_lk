@@ -1,0 +1,84 @@
+{
+  "shed_id": 124,
+  "shed_name": "ISHAGI ENTERPRISES ( PRIVATE ) LTD",
+  "shed_type": 1,
+  "time_last_updated_by_shed": "2022-06-17 07:20",
+  "time_last_updated_by_shed_ut": 1655430600,
+  "fuel_type": "p92",
+  "fuel_capacity": 362.0,
+  "bowser_distatch": false,
+  "eta": null,
+  "eta_ut": null,
+  "eta_amount": null,
+  "did_shed_owner_update_today": false,
+  "shed_code": "100155",
+  "address": "No 331, Kosgama",
+  "lat_lng": [
+    6.933318,
+    80.121132
+  ],
+  "time_last_updated_ut": 1655430600,
+  "time_last_updated": "2022-06-17 07:20",
+  "browser_dispatch": true,
+  "dispatch_schedule_list": [
+    {
+      "time_dispatch_ut": 1655353680,
+      "time_dispatch": "2022-06-16 09:58",
+      "fuel_type": "d",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655354100,
+      "time_last_updated": "2022-06-16 10:05",
+      "time_eta_ut": 1655357820,
+      "time_eta": "2022-06-16 11:07"
+    },
+    {
+      "time_dispatch_ut": 1655351820,
+      "time_dispatch": "2022-06-16 09:27",
+      "fuel_type": "p95",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1655352300,
+      "time_last_updated": "2022-06-16 09:35",
+      "time_eta_ut": 1655355960,
+      "time_eta": "2022-06-16 10:36"
+    },
+    {
+      "time_dispatch_ut": 1654587300,
+      "time_dispatch": "2022-06-07 13:05",
+      "fuel_type": "p92",
+      "plant_name": "Kollonnawa",
+      "amount": 6600.0,
+      "time_last_updated_ut": 1654587900,
+      "time_last_updated": "2022-06-07 13:15",
+      "time_eta_ut": 1654591440,
+      "time_eta": "2022-06-07 14:14"
+    }
+  ],
+  "fuel_status_idx": {
+    "p92": {
+      "is_available": true,
+      "capacity": 362.0
+    },
+    "p95": {
+      "is_available": true,
+      "capacity": 287.0
+    },
+    "d": {
+      "is_available": true,
+      "capacity": 674.0
+    },
+    "sd": {
+      "is_available": true,
+      "capacity": 268.0
+    },
+    "k": {
+      "is_available": true,
+      "capacity": 433.0
+    },
+    "ik": {
+      "is_available": true,
+      "capacity": 0.0
+    }
+  }
+}
