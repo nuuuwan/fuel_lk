@@ -67,7 +67,8 @@ class Git:
     def add_and_commit(self, message):
         Git.run(
             self.cmd_cd,
-            f'git commit -am "{message}"'
+            'git add .',
+            f'git commit -m "{message}"'
         )
 
     def push(self):
