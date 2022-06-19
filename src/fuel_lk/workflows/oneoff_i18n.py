@@ -1,9 +1,9 @@
+import os
 
-from utils import File
+from utils import File, JSONFile
 
 from fuel_lk.base import Git
 from fuel_lk.common import DIR_DATA, GIT_REPO_URL, log
-from fuel_lk.workflows import common_workflows
 
 
 def clean_word(x):
@@ -15,19 +15,18 @@ if __name__ == '__main__':
     git.clone(DIR_DATA, force=False)
     git.checkout('data')
 
-    extended_shed_list = common_workflows.get_extended_shed_list()
+    base_shed_list_file = os.path.join(DIR_DATA, 'base_shed_list.json')
+    base_shed_list = JSONFile(base_shed_list_file).read()
+
     words = []
-    for extended_shed in extended_shed_list:
+    for base_shed in base_shed_list:
         words += [
-            extended_shed['shed_name'],
-            extended_shed['address'],
+            base_shed['shed_name'],
+            base_shed['address'],
         ]
 
-        if 'gmaps_address' in extended_shed:
-            words.append(extended_shed['gmaps_address'])
-
-        for dispatch_schedule in extended_shed['dispatch_schedule_list']:
-            words.append(dispatch_schedule['plant_name'])
+        if 'gmaps_address' in base_shed:
+            words.append(base_shed['gmaps_address'])
 
     words = list(map(
         clean_word,
