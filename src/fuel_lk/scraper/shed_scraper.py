@@ -54,8 +54,8 @@ def scrape_sheds_for_single_district(
             fuelType=DEFAULT_FUEL_TYPE,
         )).text
         shed_list = json.loads(data_json)
-    except:
-        shed_list = []    
+    except BaseException:
+        shed_list = []
     shed_list = list(map(clean_shed_data, shed_list))
     n_shed_list = len(shed_list)
     log.debug(f'Scraped {n_shed_list} sheds for {district_id}')
