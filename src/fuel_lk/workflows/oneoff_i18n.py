@@ -1,12 +1,14 @@
 
-from utils import GoogleMaps, JSONFile, File
+from utils import File
 
 from fuel_lk.base import Git
 from fuel_lk.common import DIR_DATA, GIT_REPO_URL, log
 from fuel_lk.workflows import common_workflows
 
+
 def clean_word(x):
     return x.strip()
+
 
 if __name__ == '__main__':
     git = Git(GIT_REPO_URL)
@@ -22,7 +24,7 @@ if __name__ == '__main__':
         ]
 
         if 'gmaps_address' in extended_shed:
-            words.append(gmaps_address['gmaps_address'])
+            words.append(extended_shed['gmaps_address'])
 
         for dispatch_schedule in extended_shed['dispatch_schedule_list']:
             words.append(dispatch_schedule['plant_name'])
