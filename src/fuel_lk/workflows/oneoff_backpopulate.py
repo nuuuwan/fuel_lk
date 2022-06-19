@@ -26,5 +26,5 @@ if __name__ == '__main__':
 
     common_workflows.write_extended_shed_list()
 
-    git.add_and_commit('[adhoc_packpopulate] Added files')
+    git.add_and_commit(f'[{__file__}] Added files')
     git.push()
