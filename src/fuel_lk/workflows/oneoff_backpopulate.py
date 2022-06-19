@@ -13,7 +13,6 @@ if __name__ == '__main__':
     gmaps = GoogleMaps()
 
     legacy_json_file = common_workflows.get_legacy_json_file()
-
     extended_shed_list = JSONFile(legacy_json_file).read()
     for extended_shed in extended_shed_list:
         common_workflows.write_extended_shed(extended_shed)
