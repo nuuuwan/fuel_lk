@@ -1,0 +1,122 @@
+[
+  {
+    "shed_id": 90,
+    "shed_code": "100109",
+    "shed_name": "BERUWALA MPCS LTD",
+    "shed_type": 1,
+    "address": "A2, Maggona",
+    "lat_lng": [
+      6.505664,
+      79.981026
+    ],
+    "gmaps_address": "GX4J+58W, Maggona, Sri Lanka"
+  },
+  {
+    "shed_id": 464,
+    "shed_code": "100559",
+    "shed_name": "HARISPATTU SOUTH MPCS LTD",
+    "shed_type": 1,
+    "address": "Katugastota-kurunegala - Puttalam Highway, Hedeniya",
+    "lat_lng": [
+      7.339813,
+      80.555855
+    ],
+    "gmaps_address": "8HQ4+WC3, Hedeniya, Sri Lanka"
+  },
+  {
+    "shed_id": 778,
+    "shed_code": "102421",
+    "shed_name": "KEHELELLA MPCS Ltd",
+    "shed_type": 2,
+    "address": "Negombo - Giriulla Rd, Badalgama",
+    "lat_lng": [
+      7.286148,
+      79.985138
+    ],
+    "gmaps_address": "7XPP+F24, Badalgama, Sri Lanka"
+  },
+  {
+    "shed_id": 1303,
+    "shed_code": "106462",
+    "shed_name": "D L C C GUNASEKARA",
+    "shed_type": 1,
+    "address": "106, Negombo Rd, Katuwellegama",
+    "lat_lng": [
+      7.211571,
+      79.943665
+    ],
+    "gmaps_address": "6W6V+FCR, Dagonna Rd, Aluthepola, Sri Lanka"
+  },
+  {
+    "shed_id": 843,
+    "shed_code": "103230",
+    "shed_name": "K P A C CHANDRASEELI",
+    "shed_type": 1,
+    "address": "Kandy Rd, Maradankadawala",
+    "lat_lng": [
+      8.130928,
+      80.561615
+    ],
+    "gmaps_address": "4HJ6+CPP, Maradankadawala, Sri Lanka"
+  },
+  {
+    "shed_id": 1187,
+    "shed_code": "105537",
+    "shed_name": "P ABEYSEKERA",
+    "shed_type": 1,
+    "address": "Yatiyana Fuel Station",
+    "lat_lng": [
+      6.023461,
+      80.600433
+    ],
+    "gmaps_address": "348 Yatiyana, Sri Lanka"
+  },
+  {
+    "shed_id": 573,
+    "shed_code": "100735",
+    "shed_name": "SRI LANKA FISHERY HARBOURS CORP.",
+    "shed_type": 1,
+    "address": "Trincomalee - Codbay",
+    "lat_lng": [
+      8.568755,
+      81.194183
+    ],
+    "gmaps_address": "H59V+GM Trincomalee, Sri Lanka"
+  },
+  {
+    "shed_id": 298,
+    "shed_code": "100365",
+    "shed_name": "MATHUGAMA MPCS LTD",
+    "shed_type": 1,
+    "address": "Mathugama",
+    "lat_lng": [
+      6.523005,
+      80.11264
+    ],
+    "gmaps_address": "G4F7+52P, Matugama, Sri Lanka"
+  },
+  {
+    "shed_id": 722,
+    "shed_code": "102358",
+    "shed_name": "P G W SAMARASEKARA",
+    "shed_type": 2,
+    "address": "Kandy",
+    "lat_lng": [
+      7.274158,
+      80.609924
+    ],
+    "gmaps_address": "7JF5+JXF, Kandy, Sri Lanka"
+  },
+  {
+    "shed_id": 1209,
+    "shed_code": "105864",
+    "shed_name": "UPUL MUDALIGE",
+    "shed_type": 1,
+    "address": "Waragoda Rd, Peliyagoda",
+    "lat_lng": [
+      6.954161,
+      79.918205
+    ],
+    "gmaps_address": "712 Waragoda Rd, Peliyagoda, Sri Lanka"
+  }
+]
